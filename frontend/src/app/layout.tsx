@@ -18,6 +18,12 @@ export const metadata: Metadata = {
     "Composite player rankings for NCAA Division III. Data from official conference sites. Compare players across 12 sports and 30+ conferences.",
 };
 
+export const viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+};
+
 export default function RootLayout({
   children,
 }: Readonly<{

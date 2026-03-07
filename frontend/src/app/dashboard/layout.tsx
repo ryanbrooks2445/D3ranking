@@ -14,41 +14,41 @@ export default async function DashboardLayout({
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100">
-      <header className="sticky top-0 z-10 border-b-2 border-blue-500/30 bg-slate-900/95 backdrop-blur-md">
-        <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:px-6">
+      <header className="sticky top-0 z-20 border-b-2 border-blue-500/30 bg-slate-900/95 backdrop-blur-md">
+        <div className="mx-auto flex h-14 min-h-[3.5rem] max-w-6xl flex-wrap items-center justify-between gap-2 px-4 py-2 sm:h-16 sm:px-6">
           <Link
             href="/dashboard"
-            className="flex items-center gap-2 text-xl font-bold tracking-tight text-white"
+            className="flex items-center gap-2 text-lg font-bold tracking-tight text-white sm:text-xl"
           >
-            <span className="flex h-9 w-9 items-center justify-center rounded-lg bg-blue-600 text-sm font-black text-white">
+            <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-lg bg-blue-600 text-xs font-black text-white sm:h-9 sm:w-9 sm:text-sm">
               D3
             </span>
             Rankings
           </Link>
-          <nav className="flex items-center gap-6 sm:gap-8">
+          <nav className="flex flex-wrap items-center gap-2 sm:gap-6">
             <Link
               href="/"
-              className="text-sm text-slate-400 transition hover:text-white"
+              className="min-h-[44px] rounded-lg px-3 py-2.5 text-sm text-slate-400 transition hover:bg-slate-800 hover:text-white"
             >
               Home
             </Link>
             <Link
               href="/dashboard"
-              className="text-sm font-semibold text-blue-400"
+              className="min-h-[44px] rounded-lg px-3 py-2.5 text-sm font-semibold text-blue-400"
             >
-              Player Rankings
+              Rankings
             </Link>
             {loggedIn ? (
               <>
-                <span className="hidden max-w-[160px] truncate text-sm text-slate-500 sm:inline" title="Signed in">
+                <span className="hidden max-w-[140px] truncate text-sm text-slate-500 sm:max-w-[160px] sm:inline" title="Signed in">
                   {session?.user?.email}
                 </span>
-                <SignOutButton className="text-sm text-slate-400 transition hover:text-white" />
+                <SignOutButton className="min-h-[44px] rounded-lg px-3 py-2.5 text-sm text-slate-400 transition hover:text-white" />
               </>
             ) : (
               <Link
                 href="/login"
-                className="text-sm text-slate-400 transition hover:text-white"
+                className="min-h-[44px] rounded-lg px-3 py-2.5 text-sm text-slate-400 transition hover:text-white"
               >
                 Sign in
               </Link>
@@ -58,7 +58,7 @@ export default async function DashboardLayout({
                 Pro
               </span>
             ) : (
-              <CheckoutButton className="rounded-lg bg-blue-600 px-4 py-2 text-sm font-semibold text-white transition hover:bg-blue-500">
+              <CheckoutButton className="min-h-[44px] rounded-lg bg-blue-600 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-blue-500">
                 Upgrade
               </CheckoutButton>
             )}
@@ -66,9 +66,25 @@ export default async function DashboardLayout({
         </div>
       </header>
 
-      <div className="mx-auto flex max-w-6xl gap-0 px-4 sm:px-6 py-8">
-        <aside className="w-60 shrink-0">
-          <nav className="sticky top-28 rounded-xl border border-slate-700 bg-slate-900/80 py-4 px-3">
+      {/* Mobile: horizontal sport strip. Desktop: sidebar + main */}
+      <div className="mx-auto flex max-w-6xl flex-col px-4 py-4 sm:px-6 md:flex-row md:gap-0 md:py-8">
+        {/* Mobile sport strip: scroll horizontally */}
+        <div className="md:hidden -mx-4 mb-4 overflow-x-auto overflow-y-hidden px-4 pb-1" style={{ WebkitOverflowScrolling: "touch" }}>
+          <div className="flex min-w-max gap-2">
+            {getAllSports().map((s) => (
+              <Link
+                key={s.code}
+                href={`/dashboard/sports/${s.code}`}
+                className="shrink-0 rounded-xl border-2 border-slate-700 bg-slate-900/80 px-4 py-3 text-sm font-medium text-slate-300 transition active:bg-slate-700 hover:border-slate-600 hover:bg-slate-800 hover:text-white"
+              >
+                {s.label}
+              </Link>
+            ))}
+          </div>
+        </div>
+
+        <aside className="hidden w-60 shrink-0 md:block">
+          <nav className="sticky top-24 rounded-xl border border-slate-700 bg-slate-900/80 px-3 py-4">
             <p className="mb-3 px-2 text-xs font-bold uppercase tracking-wider text-slate-500">
               Sports
             </p>
@@ -76,7 +92,7 @@ export default async function DashboardLayout({
               <Link
                 key={s.code}
                 href={`/dashboard/sports/${s.code}`}
-                className="mb-0.5 flex items-center gap-3 rounded-lg py-2.5 px-3 text-sm text-slate-300 transition hover:bg-slate-800 hover:text-white"
+                className="mb-0.5 flex items-center gap-3 rounded-lg px-3 py-2.5 text-sm text-slate-300 transition hover:bg-slate-800 hover:text-white"
               >
                 <span className="flex h-8 w-8 shrink-0 items-center justify-center rounded-md bg-slate-700/80 text-xs font-bold text-slate-300">
                   {s.code.toUpperCase().slice(0, 2)}
@@ -87,7 +103,7 @@ export default async function DashboardLayout({
           </nav>
         </aside>
 
-        <main className="min-w-0 flex-1 pl-8">{children}</main>
+        <main className="min-w-0 flex-1 md:pl-8">{children}</main>
       </div>
     </div>
   );

@@ -130,14 +130,14 @@ export function SportPlayerRankingsTable({
         <h2 className="text-lg font-semibold text-white">{title}</h2>
       )}
 
-      <div className="flex items-center justify-between gap-3">
-        <div className="flex items-center gap-3">
+      <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+        <div className="w-full sm:max-w-xs">
           <input
             type="search"
             placeholder="Search player or team..."
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            className="max-w-xs rounded-lg border border-slate-600 bg-slate-800/80 px-3 py-2.5 text-sm text-white placeholder-slate-500 focus:border-blue-500/50 focus:outline-none focus:ring-2 focus:ring-blue-500/20"
+            className="w-full rounded-lg border border-slate-600 bg-slate-800/80 px-3 py-3 text-base text-white placeholder-slate-500 focus:border-blue-500/50 focus:outline-none focus:ring-2 focus:ring-blue-500/20 sm:py-2.5 sm:text-sm"
           />
         </div>
         {!isPro && (
@@ -154,7 +154,7 @@ export function SportPlayerRankingsTable({
       </div>
 
       <div className="overflow-hidden rounded-2xl border-2 border-slate-700 bg-slate-900/60 shadow-xl shadow-black/20">
-        <div className="overflow-x-auto">
+        <div className="overflow-x-auto overflow-y-hidden">
           {visibleRows.length === 0 ? (
             <div className="px-8 py-16 text-center text-slate-400">
               {rows.length === 0

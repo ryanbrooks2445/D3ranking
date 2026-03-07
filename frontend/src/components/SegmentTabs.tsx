@@ -21,10 +21,10 @@ export function SegmentTabs({
   const base = baseHref ?? `/dashboard/sports/${sportCode}/global`;
 
   return (
-    <nav className="flex flex-wrap gap-2 border-b border-slate-700 pb-4" aria-label="View by segment">
+    <nav className="flex overflow-x-auto overflow-y-hidden gap-2 border-b border-slate-700 pb-4 flex-nowrap md:flex-wrap" style={{ WebkitOverflowScrolling: "touch" }} aria-label="View by segment">
       <Link
         href={base}
-        className={`rounded-lg px-4 py-2 text-sm font-medium transition ${
+        className={`shrink-0 rounded-lg px-4 py-2.5 text-sm font-medium transition min-h-[44px] flex items-center ${
           !currentSegmentId || currentSegmentId === "all"
             ? "bg-blue-600 text-white"
             : "bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white"
@@ -36,7 +36,7 @@ export function SegmentTabs({
         <Link
           key={seg.id}
           href={`${base}?segment=${encodeURIComponent(seg.id)}`}
-          className={`rounded-lg px-4 py-2 text-sm font-medium transition ${
+          className={`shrink-0 rounded-lg px-4 py-2.5 text-sm font-medium transition min-h-[44px] flex items-center ${
             currentSegmentId === seg.id
               ? "bg-blue-600 text-white"
               : "bg-slate-800 text-slate-300 hover:bg-slate-700 hover:text-white"

@@ -10,17 +10,17 @@ export default async function Home() {
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100">
       <header className="border-b border-slate-800/80 bg-slate-950/95 backdrop-blur-sm">
-        <div className="mx-auto flex h-16 max-w-5xl items-center justify-between px-4 sm:px-6">
+        <div className="mx-auto flex h-14 min-h-[3.5rem] max-w-5xl flex-wrap items-center justify-between gap-2 px-4 py-2 sm:h-16 sm:px-6">
           <Link
             href="/"
             className="text-lg font-semibold tracking-tight text-white"
           >
             D3 Rankings
           </Link>
-          <nav className="flex items-center gap-6">
+          <nav className="flex items-center">
             <Link
               href="/dashboard"
-              className="rounded-lg bg-blue-600 px-4 py-2 text-sm font-medium text-white transition hover:bg-blue-500"
+              className="min-h-[44px] rounded-lg bg-blue-600 px-4 py-2.5 text-sm font-medium text-white transition hover:bg-blue-500"
             >
               View rankings
             </Link>
@@ -43,11 +43,11 @@ export default async function Home() {
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <Link
               href="/dashboard"
-              className="rounded-lg bg-blue-600 px-6 py-3 text-base font-medium text-white transition hover:bg-blue-500"
+              className="min-h-[48px] rounded-lg bg-blue-600 px-6 py-3 text-base font-medium text-white transition hover:bg-blue-500"
             >
               Browse rankings
             </Link>
-            <CheckoutButton className="rounded-lg border border-slate-600 bg-slate-800/50 px-6 py-3 text-base font-medium text-slate-200 transition hover:border-slate-500 hover:bg-slate-800">
+            <CheckoutButton className="min-h-[48px] rounded-lg border border-slate-600 bg-slate-800/50 px-6 py-3 text-base font-medium text-slate-200 transition hover:border-slate-500 hover:bg-slate-800">
               Start 7-day free trial
             </CheckoutButton>
           </div>
