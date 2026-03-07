@@ -1,0 +1,3 @@
+# Keep 443 MB data folder out of Vercel upload (stays under 250 MB serverless limit)
+frontend/public/data
+public/data
