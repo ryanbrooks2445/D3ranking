@@ -1,65 +1,65 @@
-rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
-1,14,Tyler Smith,Crown,Upper Midwest Athletic Conference (UMAC),umac,28,32.42857142857143,7.39,11.71,6.57,1.04,3.64,2.4642857142857144,9.114879761993166,95
-2,41,"Fish,Carvin",Minnesota Morris,Upper Midwest Athletic Conference (UMAC),umac,27,30.74074074074074,20.93,7.7,1.22,0.74,1.0,1.0740740740740742,7.659100645357571,95
-3,78,"Nyamari,Japheth",Northwestern,Upper Midwest Athletic Conference (UMAC),umac,22,36.09090909090909,21.18,5.64,1.77,1.27,0.23,1.5454545454545454,6.397627103024557,94
-4,96,"Loberger,Adam",Martin Luther,Upper Midwest Athletic Conference (UMAC),umac,25,32.04,22.96,7.92,2.24,0.72,0.28,3.04,6.1070511856634075,94
-5,98,"McNeal,Carrington",North Central,Upper Midwest Athletic Conference (UMAC),umac,28,30.714285714285715,18.5,5.96,2.68,2.04,0.61,2.5714285714285716,6.091462700737763,94
-6,197,"Brockmann,Jack",Bethany Lutheran,Upper Midwest Athletic Conference (UMAC),umac,27,31.88888888888889,12.41,7.48,3.26,1.63,1.37,2.5185185185185186,5.078647816947857,93
-7,277,"Pearson,Benjamin",Martin Luther,Upper Midwest Athletic Conference (UMAC),umac,22,34.18181818181818,16.95,8.55,2.05,1.23,0.32,2.772727272727273,4.5173056172892325,91
-8,278,"McNeal,Carmello",North Central,Upper Midwest Athletic Conference (UMAC),umac,29,31.13793103448276,16.52,3.97,2.0,2.0,0.28,1.793103448275862,4.494184818843932,91
-9,285,"Pieper,Kaden",Minnesota Morris,Upper Midwest Athletic Conference (UMAC),umac,27,31.185185185185187,17.67,6.56,2.19,1.22,0.19,2.407407407407407,4.442237710304886,91
-10,321,"Briggs,Max",Bethany Lutheran,Upper Midwest Athletic Conference (UMAC),umac,27,30.40740740740741,17.85,3.74,2.37,1.63,0.04,2.1481481481481484,4.142822990386001,91
-11,438,Anthony Knight,Crown,Upper Midwest Athletic Conference (UMAC),umac,28,29.25,17.25,3.79,3.43,1.14,0.07,2.75,3.489967472834894,89
-12,530,"Frazell,Noah",Northwestern,Upper Midwest Athletic Conference (UMAC),umac,19,31.210526315789473,14.26,3.95,1.11,1.16,0.53,1.263157894736842,3.011608209286085,88
-13,632,"Thompson,Matt",Minnesota Morris,Upper Midwest Athletic Conference (UMAC),umac,25,27.8,14.32,7.68,1.68,0.72,0.56,2.8,2.611981199837201,87
-14,714,"Hoefs,Jacob",Northwestern,Upper Midwest Athletic Conference (UMAC),umac,25,29.2,11.88,6.48,1.76,1.0,0.24,1.72,2.2892048449478812,86
-15,767,"Behne,Parker",Crown,Upper Midwest Athletic Conference (UMAC),umac,22,28.954545454545453,15.14,3.55,1.45,0.59,0.05,1.4090909090909092,2.113247844549713,85
-16,807,"Thomer,Landen",UW-Superior,Upper Midwest Athletic Conference (UMAC),umac,25,25.6,8.12,9.2,1.48,0.76,0.44,1.28,1.992632793491257,84
-17,815,"Greene,AJ",Northwestern,Upper Midwest Athletic Conference (UMAC),umac,25,29.36,10.2,3.72,2.6,0.8,0.24,0.84,1.955524976238849,84
-18,918,"Washington,Donovan",Crown,Upper Midwest Athletic Conference (UMAC),umac,14,23.214285714285715,9.29,4.21,1.14,1.71,0.21,0.8571428571428571,1.609108706157306,83
-19,931,"Foster,Will",Northwestern,Upper Midwest Athletic Conference (UMAC),umac,22,26.09090909090909,10.95,4.55,2.95,0.86,0.14,1.8636363636363635,1.5775780112969948,83
-20,956,"Walter,Will",Bethany Lutheran,Upper Midwest Athletic Conference (UMAC),umac,26,23.692307692307693,13.04,3.54,0.69,0.38,0.12,0.6153846153846154,1.484517191153509,82
-21,1102,"Fix,Luke",Martin Luther,Upper Midwest Athletic Conference (UMAC),umac,25,24.68,7.16,5.6,1.4,0.52,0.72,0.72,1.00491046712219,80
-22,1164,"Wedgeworth-Brown,Remy",North Central,Upper Midwest Athletic Conference (UMAC),umac,29,28.655172413793103,10.17,3.28,4.52,0.97,0.03,2.689655172413793,0.8862372940585321,80
-23,1205,"Vasold,Benjamin",Martin Luther,Upper Midwest Athletic Conference (UMAC),umac,25,32.4,7.56,4.48,2.36,1.6,0.16,1.6,0.7796124508474565,79
-24,1273,"Bennett,Evan",UW-Superior,Upper Midwest Athletic Conference (UMAC),umac,25,25.52,11.64,3.4,1.48,0.8,0.04,1.56,0.6207993080379484,78
-25,1339,"Lecce,Caiden",UW-Superior,Upper Midwest Athletic Conference (UMAC),umac,25,29.88,7.8,3.52,3.88,1.0,0.08,1.96,0.4546260539400425,77
-26,1511,Colby Deluce,Crown,Upper Midwest Athletic Conference (UMAC),umac,28,26.464285714285715,8.96,3.54,0.86,0.54,0.07,0.6071428571428571,-0.0277824649476798,75
-27,1653,"Smaller,Blue",Bethany Lutheran,Upper Midwest Athletic Conference (UMAC),umac,12,20.583333333333332,6.67,3.5,0.83,0.75,0.75,1.0,-0.3852591958741073,73
-28,1659,"Jenniges,Hudsen",Bethany Lutheran,Upper Midwest Athletic Conference (UMAC),umac,18,17.055555555555557,6.72,4.39,0.89,0.78,0.33,0.8888888888888888,-0.396058022479598,73
-29,1769,"Gunderson,Gustav",Minnesota Morris,Upper Midwest Athletic Conference (UMAC),umac,25,24.56,4.96,3.0,4.08,1.12,0.08,1.96,-0.6810014326872715,72
-30,1775,"Balge,Thomas",Martin Luther,Upper Midwest Athletic Conference (UMAC),umac,18,27.72222222222222,9.78,3.33,1.72,0.33,0.33,2.0555555555555554,-0.6854015529002926,71
-31,1799,"Smith,Elijah",North Central,Upper Midwest Athletic Conference (UMAC),umac,29,20.0,4.66,4.31,1.14,0.69,0.52,0.6896551724137931,-0.7474427592225764,71
-32,1834,"Kjenstad,Ethan",Martin Luther,Upper Midwest Athletic Conference (UMAC),umac,25,25.0,9.08,3.24,0.84,0.32,0.32,1.32,-0.7994424665452106,71
-33,1889,Tristan Youngblood,Crown,Upper Midwest Athletic Conference (UMAC),umac,28,22.892857142857142,7.07,3.46,0.86,0.5,0.04,0.6071428571428571,-0.9373778666495488,70
-34,1937,"Whitney,Elliot",Bethany Lutheran,Upper Midwest Athletic Conference (UMAC),umac,27,21.14814814814815,7.11,2.81,2.78,0.67,0.07,1.851851851851852,-1.0551542989195433,69
-35,1964,"Adams,Jaquan",North Central,Upper Midwest Athletic Conference (UMAC),umac,28,20.5,7.5,3.71,1.0,0.64,0.11,1.2857142857142858,-1.1083667969459654,69
-36,1969,"Ingersoll,Brady",Bethany Lutheran,Upper Midwest Athletic Conference (UMAC),umac,27,18.666666666666668,7.74,2.22,1.19,0.63,0.0,0.8888888888888888,-1.113349287602594,69
-37,2019,"Effertz,Jax",North Central,Upper Midwest Athletic Conference (UMAC),umac,29,22.517241379310345,8.17,2.76,0.45,0.45,0.21,0.9655172413793104,-1.2320283507574028,68
-38,2047,"Beers,Andrew",UW-Superior,Upper Midwest Athletic Conference (UMAC),umac,25,17.76,4.16,3.92,1.04,0.84,0.4,0.8,-1.2972001421166073,68
-39,2091,"Young,Jamisen",North Central,Upper Midwest Athletic Conference (UMAC),umac,13,20.846153846153847,7.69,2.08,1.77,1.38,0.08,2.1538461538461537,-1.370823392523687,67
-40,2108,"Paulson,Rocco",UW-Superior,Upper Midwest Athletic Conference (UMAC),umac,25,19.44,8.12,3.88,1.2,0.16,0.12,1.56,-1.4268922072134604,67
-41,2180,Levi Royston,Crown,Upper Midwest Athletic Conference (UMAC),umac,27,15.62962962962963,6.7,3.19,0.33,0.48,0.22,0.8148148148148148,-1.569973556185154,66
-42,2214,"Tiernan,Thomas",Minnesota Morris,Upper Midwest Athletic Conference (UMAC),umac,26,25.26923076923077,6.69,2.65,1.42,0.62,0.19,1.4615384615384617,-1.66152804204491,66
-43,2233,"Burnett,Jonah",Northwestern,Upper Midwest Athletic Conference (UMAC),umac,25,20.2,5.6,3.04,0.64,0.48,0.28,0.72,-1.6955455983284096,65
-44,2237,"LaRoche, Jr.,Brian",Minnesota Morris,Upper Midwest Athletic Conference (UMAC),umac,13,17.307692307692307,5.38,2.08,1.08,0.31,0.15,0.3076923076923077,-1.7062128971573445,65
-45,2250,"Lauber,Trey",Martin Luther,Upper Midwest Athletic Conference (UMAC),umac,25,23.72,6.68,3.2,0.92,0.64,0.08,1.28,-1.7248456087961603,65
-46,2261,"Peterson,Amory",Bethany Lutheran,Upper Midwest Athletic Conference (UMAC),umac,18,15.333333333333334,5.78,3.56,1.06,0.72,0.22,1.3888888888888888,-1.7451392157582069,65
-47,2312,"Nordaune,Nick",UW-Superior,Upper Midwest Athletic Conference (UMAC),umac,24,11.291666666666666,5.58,2.25,0.29,0.5,0.54,0.7083333333333334,-1.8512229837048844,64
-48,2368,"Johnson,Cole",Bethany Lutheran,Upper Midwest Athletic Conference (UMAC),umac,26,16.576923076923077,3.27,4.08,1.81,0.69,0.19,1.1923076923076923,-1.964565402703965,64
-49,2411,"Nelson,Jase",Minnesota Morris,Upper Midwest Athletic Conference (UMAC),umac,27,20.40740740740741,4.37,3.19,1.59,0.3,0.15,0.8518518518518519,-2.020337084267279,63
-50,2447,"Quimby,Hayden",UW-Superior,Upper Midwest Athletic Conference (UMAC),umac,24,14.583333333333334,4.71,1.75,0.96,0.71,0.08,0.5,-2.098087991625024,62
-51,2458,"Staples-Fairbanks,LeRoy",Minnesota Morris,Upper Midwest Athletic Conference (UMAC),umac,27,19.59259259259259,6.15,2.63,1.44,0.44,0.33,1.6666666666666667,-2.1145604133170104,62
-52,2567,"Hoffman,Josh",North Central,Upper Midwest Athletic Conference (UMAC),umac,26,11.653846153846152,3.96,2.5,0.58,0.58,0.31,0.5769230769230769,-2.3237548204453757,61
-53,2599,"Aune,Isaac",Northwestern,Upper Midwest Athletic Conference (UMAC),umac,20,15.65,2.8,3.35,0.55,0.3,0.4,0.3,-2.382605694340939,60
-54,2623,"Braiedy,Gage",UW-Superior,Upper Midwest Athletic Conference (UMAC),umac,25,12.12,4.64,1.52,0.96,0.76,0.04,0.68,-2.4155957539465005,60
-55,2637,"Borman,Rysley",Bethany Lutheran,Upper Midwest Athletic Conference (UMAC),umac,18,16.61111111111111,6.0,1.83,1.11,0.22,0.06,0.9444444444444444,-2.439773595487849,60
-56,2763,"Tschida,Ben",Northwestern,Upper Midwest Athletic Conference (UMAC),umac,24,19.125,3.63,3.33,0.42,0.33,0.25,0.6666666666666666,-2.7053533496296382,58
-57,2788,"Young,Micah",UW-Superior,Upper Midwest Athletic Conference (UMAC),umac,24,12.458333333333334,4.04,2.04,0.96,0.42,0.21,0.8333333333333334,-2.7773317351188687,58
-58,2968,Joe Sullivan,Crown,Upper Midwest Athletic Conference (UMAC),umac,28,11.642857142857142,3.21,1.96,0.71,0.46,0.0,0.4642857142857143,-3.1421420385863517,56
-59,3023,"Garth,Kenny",UW-Superior,Upper Midwest Athletic Conference (UMAC),umac,11,12.090909090909092,4.45,1.18,1.73,0.27,0.27,1.5454545454545454,-3.2680102566597284,55
-60,3051,"Dak,Jang",Minnesota Morris,Upper Midwest Athletic Conference (UMAC),umac,15,11.0,1.87,2.4,0.2,0.4,0.53,0.5333333333333333,-3.3478485684560653,54
-61,3157,"Mittermeyer,Eddie",UW-Superior,Upper Midwest Athletic Conference (UMAC),umac,22,16.772727272727273,2.95,1.27,0.77,0.5,0.05,0.7272727272727273,-3.650813460693415,53
-62,3278,"Livingston,Jayden",North Central,Upper Midwest Athletic Conference (UMAC),umac,27,10.296296296296296,2.07,1.48,0.93,0.41,0.04,0.7777777777777778,-4.00141084524058,51
-63,3288,"Dalluge,Blake",Northwestern,Upper Midwest Athletic Conference (UMAC),umac,10,13.6,2.7,1.2,0.3,0.6,0.0,0.7,-4.0335503632840535,51
-64,3357,"Wengert,Ricky",Bethany Lutheran,Upper Midwest Athletic Conference (UMAC),umac,19,11.157894736842104,2.79,0.53,0.84,0.58,0.05,1.3157894736842106,-4.521624636843017,50
+rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,14,2025-26,Tyler Smith,Crown,*,Upper Midwest Athletic Conference (UMAC),umac,28,32.42857142857143,7.39,11.71,6.57,1.04,3.64,2.4642857142857144,9.114879761993166,95
+2,41,2025-26,"Fish,Carvin",Minnesota Morris,F,Upper Midwest Athletic Conference (UMAC),umac,27,30.74074074074074,20.93,7.7,1.22,0.74,1.0,1.0740740740740742,7.659100645357571,95
+3,78,2025-26,"Nyamari,Japheth",Northwestern,G,Upper Midwest Athletic Conference (UMAC),umac,22,36.09090909090909,21.18,5.64,1.77,1.27,0.23,1.5454545454545454,6.397627103024557,94
+4,96,2025-26,"Loberger,Adam",Martin Luther,F,Upper Midwest Athletic Conference (UMAC),umac,25,32.04,22.96,7.92,2.24,0.72,0.28,3.04,6.1070511856634075,94
+5,98,2025-26,"McNeal,Carrington",North Central,G,Upper Midwest Athletic Conference (UMAC),umac,28,30.714285714285715,18.5,5.96,2.68,2.04,0.61,2.5714285714285716,6.091462700737763,94
+6,197,2025-26,"Brockmann,Jack",Bethany Lutheran,G,Upper Midwest Athletic Conference (UMAC),umac,27,31.88888888888889,12.41,7.48,3.26,1.63,1.37,2.5185185185185186,5.078647816947857,93
+7,277,2025-26,"Pearson,Benjamin",Martin Luther,G,Upper Midwest Athletic Conference (UMAC),umac,22,34.18181818181818,16.95,8.55,2.05,1.23,0.32,2.772727272727273,4.5173056172892325,91
+8,278,2025-26,"McNeal,Carmello",North Central,G,Upper Midwest Athletic Conference (UMAC),umac,29,31.13793103448276,16.52,3.97,2.0,2.0,0.28,1.793103448275862,4.494184818843932,91
+9,285,2025-26,"Pieper,Kaden",Minnesota Morris,G,Upper Midwest Athletic Conference (UMAC),umac,27,31.185185185185187,17.67,6.56,2.19,1.22,0.19,2.407407407407407,4.442237710304886,91
+10,321,2025-26,"Briggs,Max",Bethany Lutheran,G,Upper Midwest Athletic Conference (UMAC),umac,27,30.40740740740741,17.85,3.74,2.37,1.63,0.04,2.1481481481481484,4.142822990386001,91
+11,438,2025-26,Anthony Knight,Crown,*,Upper Midwest Athletic Conference (UMAC),umac,28,29.25,17.25,3.79,3.43,1.14,0.07,2.75,3.489967472834894,89
+12,530,2025-26,"Frazell,Noah",Northwestern,G,Upper Midwest Athletic Conference (UMAC),umac,19,31.210526315789473,14.26,3.95,1.11,1.16,0.53,1.263157894736842,3.011608209286085,88
+13,632,2025-26,"Thompson,Matt",Minnesota Morris,F,Upper Midwest Athletic Conference (UMAC),umac,25,27.8,14.32,7.68,1.68,0.72,0.56,2.8,2.611981199837201,87
+14,714,2025-26,"Hoefs,Jacob",Northwestern,G,Upper Midwest Athletic Conference (UMAC),umac,25,29.2,11.88,6.48,1.76,1.0,0.24,1.72,2.2892048449478812,86
+15,767,2025-26,"Behne,Parker",Crown,G,Upper Midwest Athletic Conference (UMAC),umac,22,28.954545454545453,15.14,3.55,1.45,0.59,0.05,1.4090909090909092,2.113247844549713,85
+16,807,2025-26,"Thomer,Landen",UW-Superior,F,Upper Midwest Athletic Conference (UMAC),umac,25,25.6,8.12,9.2,1.48,0.76,0.44,1.28,1.992632793491257,84
+17,815,2025-26,"Greene,AJ",Northwestern,G,Upper Midwest Athletic Conference (UMAC),umac,25,29.36,10.2,3.72,2.6,0.8,0.24,0.84,1.955524976238849,84
+18,918,2025-26,"Washington,Donovan",Crown,F,Upper Midwest Athletic Conference (UMAC),umac,14,23.214285714285715,9.29,4.21,1.14,1.71,0.21,0.8571428571428571,1.609108706157306,83
+19,931,2025-26,"Foster,Will",Northwestern,G,Upper Midwest Athletic Conference (UMAC),umac,22,26.09090909090909,10.95,4.55,2.95,0.86,0.14,1.8636363636363635,1.5775780112969948,83
+20,956,2025-26,"Walter,Will",Bethany Lutheran,G,Upper Midwest Athletic Conference (UMAC),umac,26,23.692307692307693,13.04,3.54,0.69,0.38,0.12,0.6153846153846154,1.484517191153509,82
+21,1102,2025-26,"Fix,Luke",Martin Luther,F,Upper Midwest Athletic Conference (UMAC),umac,25,24.68,7.16,5.6,1.4,0.52,0.72,0.72,1.00491046712219,80
+22,1164,2025-26,"Wedgeworth-Brown,Remy",North Central,G,Upper Midwest Athletic Conference (UMAC),umac,29,28.655172413793103,10.17,3.28,4.52,0.97,0.03,2.689655172413793,0.8862372940585321,80
+23,1205,2025-26,"Vasold,Benjamin",Martin Luther,G,Upper Midwest Athletic Conference (UMAC),umac,25,32.4,7.56,4.48,2.36,1.6,0.16,1.6,0.7796124508474565,79
+24,1273,2025-26,"Bennett,Evan",UW-Superior,G,Upper Midwest Athletic Conference (UMAC),umac,25,25.52,11.64,3.4,1.48,0.8,0.04,1.56,0.6207993080379484,78
+25,1339,2025-26,"Lecce,Caiden",UW-Superior,G,Upper Midwest Athletic Conference (UMAC),umac,25,29.88,7.8,3.52,3.88,1.0,0.08,1.96,0.4546260539400425,77
+26,1511,2025-26,Colby Deluce,Crown,*,Upper Midwest Athletic Conference (UMAC),umac,28,26.464285714285715,8.96,3.54,0.86,0.54,0.07,0.6071428571428571,-0.0277824649476798,75
+27,1653,2025-26,"Smaller,Blue",Bethany Lutheran,F,Upper Midwest Athletic Conference (UMAC),umac,12,20.583333333333332,6.67,3.5,0.83,0.75,0.75,1.0,-0.3852591958741073,73
+28,1659,2025-26,"Jenniges,Hudsen",Bethany Lutheran,F,Upper Midwest Athletic Conference (UMAC),umac,18,17.055555555555557,6.72,4.39,0.89,0.78,0.33,0.8888888888888888,-0.396058022479598,73
+29,1769,2025-26,"Gunderson,Gustav",Minnesota Morris,G,Upper Midwest Athletic Conference (UMAC),umac,25,24.56,4.96,3.0,4.08,1.12,0.08,1.96,-0.6810014326872715,72
+30,1775,2025-26,"Balge,Thomas",Martin Luther,G,Upper Midwest Athletic Conference (UMAC),umac,18,27.72222222222222,9.78,3.33,1.72,0.33,0.33,2.0555555555555554,-0.6854015529002926,71
+31,1799,2025-26,"Smith,Elijah",North Central,F,Upper Midwest Athletic Conference (UMAC),umac,29,20.0,4.66,4.31,1.14,0.69,0.52,0.6896551724137931,-0.7474427592225764,71
+32,1834,2025-26,"Kjenstad,Ethan",Martin Luther,F,Upper Midwest Athletic Conference (UMAC),umac,25,25.0,9.08,3.24,0.84,0.32,0.32,1.32,-0.7994424665452106,71
+33,1889,2025-26,Tristan Youngblood,Crown,*,Upper Midwest Athletic Conference (UMAC),umac,28,22.892857142857142,7.07,3.46,0.86,0.5,0.04,0.6071428571428571,-0.9373778666495488,70
+34,1937,2025-26,"Whitney,Elliot",Bethany Lutheran,G,Upper Midwest Athletic Conference (UMAC),umac,27,21.14814814814815,7.11,2.81,2.78,0.67,0.07,1.851851851851852,-1.0551542989195433,69
+35,1964,2025-26,"Adams,Jaquan",North Central,G,Upper Midwest Athletic Conference (UMAC),umac,28,20.5,7.5,3.71,1.0,0.64,0.11,1.2857142857142858,-1.1083667969459654,69
+36,1969,2025-26,"Ingersoll,Brady",Bethany Lutheran,G,Upper Midwest Athletic Conference (UMAC),umac,27,18.666666666666668,7.74,2.22,1.19,0.63,0.0,0.8888888888888888,-1.113349287602594,69
+37,2019,2025-26,"Effertz,Jax",North Central,F,Upper Midwest Athletic Conference (UMAC),umac,29,22.517241379310345,8.17,2.76,0.45,0.45,0.21,0.9655172413793104,-1.2320283507574028,68
+38,2047,2025-26,"Beers,Andrew",UW-Superior,F,Upper Midwest Athletic Conference (UMAC),umac,25,17.76,4.16,3.92,1.04,0.84,0.4,0.8,-1.2972001421166073,68
+39,2091,2025-26,"Young,Jamisen",North Central,G,Upper Midwest Athletic Conference (UMAC),umac,13,20.846153846153847,7.69,2.08,1.77,1.38,0.08,2.1538461538461537,-1.370823392523687,67
+40,2108,2025-26,"Paulson,Rocco",UW-Superior,C,Upper Midwest Athletic Conference (UMAC),umac,25,19.44,8.12,3.88,1.2,0.16,0.12,1.56,-1.4268922072134604,67
+41,2180,2025-26,Levi Royston,Crown,*,Upper Midwest Athletic Conference (UMAC),umac,27,15.62962962962963,6.7,3.19,0.33,0.48,0.22,0.8148148148148148,-1.569973556185154,66
+42,2214,2025-26,"Tiernan,Thomas",Minnesota Morris,G,Upper Midwest Athletic Conference (UMAC),umac,26,25.26923076923077,6.69,2.65,1.42,0.62,0.19,1.4615384615384617,-1.66152804204491,66
+43,2233,2025-26,"Burnett,Jonah",Northwestern,F,Upper Midwest Athletic Conference (UMAC),umac,25,20.2,5.6,3.04,0.64,0.48,0.28,0.72,-1.6955455983284096,65
+44,2237,2025-26,"LaRoche, Jr.,Brian",Minnesota Morris,G,Upper Midwest Athletic Conference (UMAC),umac,13,17.307692307692307,5.38,2.08,1.08,0.31,0.15,0.3076923076923077,-1.7062128971573445,65
+45,2250,2025-26,"Lauber,Trey",Martin Luther,G,Upper Midwest Athletic Conference (UMAC),umac,25,23.72,6.68,3.2,0.92,0.64,0.08,1.28,-1.7248456087961603,65
+46,2261,2025-26,"Peterson,Amory",Bethany Lutheran,G,Upper Midwest Athletic Conference (UMAC),umac,18,15.333333333333334,5.78,3.56,1.06,0.72,0.22,1.3888888888888888,-1.7451392157582069,65
+47,2312,2025-26,"Nordaune,Nick",UW-Superior,G,Upper Midwest Athletic Conference (UMAC),umac,24,11.291666666666666,5.58,2.25,0.29,0.5,0.54,0.7083333333333334,-1.8512229837048844,64
+48,2368,2025-26,"Johnson,Cole",Bethany Lutheran,F,Upper Midwest Athletic Conference (UMAC),umac,26,16.576923076923077,3.27,4.08,1.81,0.69,0.19,1.1923076923076923,-1.964565402703965,64
+49,2411,2025-26,"Nelson,Jase",Minnesota Morris,G,Upper Midwest Athletic Conference (UMAC),umac,27,20.40740740740741,4.37,3.19,1.59,0.3,0.15,0.8518518518518519,-2.020337084267279,63
+50,2447,2025-26,"Quimby,Hayden",UW-Superior,G,Upper Midwest Athletic Conference (UMAC),umac,24,14.583333333333334,4.71,1.75,0.96,0.71,0.08,0.5,-2.098087991625024,62
+51,2458,2025-26,"Staples-Fairbanks,LeRoy",Minnesota Morris,F,Upper Midwest Athletic Conference (UMAC),umac,27,19.59259259259259,6.15,2.63,1.44,0.44,0.33,1.6666666666666667,-2.1145604133170104,62
+52,2567,2025-26,"Hoffman,Josh",North Central,F,Upper Midwest Athletic Conference (UMAC),umac,26,11.653846153846152,3.96,2.5,0.58,0.58,0.31,0.5769230769230769,-2.3237548204453757,61
+53,2599,2025-26,"Aune,Isaac",Northwestern,F,Upper Midwest Athletic Conference (UMAC),umac,20,15.65,2.8,3.35,0.55,0.3,0.4,0.3,-2.382605694340939,60
+54,2623,2025-26,"Braiedy,Gage",UW-Superior,G,Upper Midwest Athletic Conference (UMAC),umac,25,12.12,4.64,1.52,0.96,0.76,0.04,0.68,-2.4155957539465005,60
+55,2637,2025-26,"Borman,Rysley",Bethany Lutheran,G,Upper Midwest Athletic Conference (UMAC),umac,18,16.61111111111111,6.0,1.83,1.11,0.22,0.06,0.9444444444444444,-2.439773595487849,60
+56,2763,2025-26,"Tschida,Ben",Northwestern,F,Upper Midwest Athletic Conference (UMAC),umac,24,19.125,3.63,3.33,0.42,0.33,0.25,0.6666666666666666,-2.7053533496296382,58
+57,2788,2025-26,"Young,Micah",UW-Superior,G,Upper Midwest Athletic Conference (UMAC),umac,24,12.458333333333334,4.04,2.04,0.96,0.42,0.21,0.8333333333333334,-2.7773317351188687,58
+58,2968,2025-26,Joe Sullivan,Crown,0,Upper Midwest Athletic Conference (UMAC),umac,28,11.642857142857142,3.21,1.96,0.71,0.46,0.0,0.4642857142857143,-3.1421420385863517,56
+59,3023,2025-26,"Garth,Kenny",UW-Superior,G,Upper Midwest Athletic Conference (UMAC),umac,11,12.090909090909092,4.45,1.18,1.73,0.27,0.27,1.5454545454545454,-3.2680102566597284,55
+60,3051,2025-26,"Dak,Jang",Minnesota Morris,G,Upper Midwest Athletic Conference (UMAC),umac,15,11.0,1.87,2.4,0.2,0.4,0.53,0.5333333333333333,-3.3478485684560653,54
+61,3157,2025-26,"Mittermeyer,Eddie",UW-Superior,G,Upper Midwest Athletic Conference (UMAC),umac,22,16.772727272727273,2.95,1.27,0.77,0.5,0.05,0.7272727272727273,-3.650813460693415,53
+62,3278,2025-26,"Livingston,Jayden",North Central,G,Upper Midwest Athletic Conference (UMAC),umac,27,10.296296296296296,2.07,1.48,0.93,0.41,0.04,0.7777777777777778,-4.00141084524058,51
+63,3288,2025-26,"Dalluge,Blake",Northwestern,G,Upper Midwest Athletic Conference (UMAC),umac,10,13.6,2.7,1.2,0.3,0.6,0.0,0.7,-4.0335503632840535,51
+64,3357,2025-26,"Wengert,Ricky",Bethany Lutheran,G,Upper Midwest Athletic Conference (UMAC),umac,19,11.157894736842104,2.79,0.53,0.84,0.58,0.05,1.3157894736842106,-4.521624636843017,50

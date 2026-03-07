@@ -1,69 +1,69 @@
-rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
-1,53,K Rogers,Westfield St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,36.3,20.1,8.0,4.6,1.7,0.4,3.4,7.2445593206562275,94
-2,74,J Jackson,Fitchburg St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,20,33.3,21.9,7.9,1.8,0.8,0.3,2.1,6.5228897725167485,94
-3,150,A Barry,Salem St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,32.4,15.2,5.2,2.3,2.1,0.8,1.7,5.456560566799174,93
-4,172,C Williams,MCLA,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,35.7,19.8,5.6,2.4,1.3,0.3,2.5,5.263732783017484,93
-5,179,J Annan,Worcester St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,27.4,11.5,6.2,3.0,2.0,1.6,2.1,5.202810869195649,93
-6,219,J Thomson,Westfield St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,27.6,10.1,11.6,1.1,1.0,1.3,1.2,4.880349978825775,92
-7,262,J Okla,Worcester St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,31.7,14.9,9.0,1.8,1.6,0.1,2.0,4.5977214694560535,92
-8,293,D Kikuba,Bridgewater St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,29.3,13.1,4.5,5.6,2.1,0.1,2.8,4.390355933016434,91
-9,310,X Lewis,Westfield St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,33.6,14.2,3.4,2.9,1.9,0.0,1.1,4.23515380733647,91
-10,359,R Orleans,Salem St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,28.6,13.4,9.7,0.4,1.2,0.5,1.6,3.8376567318137913,90
-11,376,F Koite,Framingham St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,27.8,15.4,4.2,1.2,1.9,0.7,2.0,3.7720100783399886,90
-12,413,Z Taylor,Bridgewater St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,31.1,16.4,6.1,2.8,0.6,0.4,2.6,3.586332673184792,90
-13,423,A Allah,Westfield St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,33.2,12.7,4.3,3.1,1.9,0.4,2.0,3.555704285484846,90
-14,462,L Washington,Framingham St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,35.1,9.4,5.6,4.2,2.7,0.0,2.3,3.3025685562797715,89
-15,483,J Saint Jean,Framingham St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,31.3,13.4,9.2,0.8,0.8,1.3,2.8,3.210801791577717,89
-16,491,L Jennings,Bridgewater St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,24.8,12.0,7.3,1.4,0.8,0.8,1.5,3.166218636554769,89
-17,541,F Field,MCLA,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,31.7,11.9,6.9,1.5,1.7,0.3,1.8,2.959102700050404,88
-18,624,D Rogers,Framingham St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,18,29.2,15.6,3.8,2.0,1.6,0.4,2.8,2.659285222954983,87
-19,644,J James,Westfield St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,29.9,13.3,3.0,1.9,1.4,0.1,1.2,2.5517433635992677,87
-20,709,J Walker,Salem St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,28.8,13.1,3.8,3.4,1.3,0.2,2.5,2.3239955439056983,86
-21,1001,L Miglionico,Anna Maria,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,29.2,16.4,3.9,0.8,0.5,0.3,2.5,1.3335881961142,82
-22,1019,K Franks,MCLA,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,23,25.9,9.0,4.7,2.1,1.6,0.4,1.9,1.2658013602844962,82
-23,1148,C Quinn,MCLA,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,24.8,13.5,3.1,1.5,0.5,0.0,1.6,0.9194521846846072,80
-24,1167,S Sweeney,Bridgewater St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,25.9,11.0,2.2,1.3,0.7,0.2,0.7,0.8810423443155174,80
-25,1263,J Jean Charles,Fitchburg St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,21,19.4,9.0,5.5,0.7,0.8,0.6,1.4,0.6313645302307889,78
-26,1357,N Von Zboray,Fitchburg St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,25.3,11.1,2.7,1.0,0.8,0.0,1.0,0.3996016376311916,77
-27,1397,V Chase,Framingham St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,33.0,10.5,6.6,1.1,0.9,0.6,2.9,0.3324727280978856,77
-28,1466,O Merryman,Salem St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,26.0,10.2,3.7,1.0,0.6,0.3,1.4,0.1114376173149312,76
-29,1481,K Witherow-Bass,Fitchburg St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,15,18.2,8.3,4.3,0.5,0.7,0.3,0.7,0.0737262239160541,75
-30,1534,M Drayton,Fitchburg St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,15,30.9,12.9,2.9,1.0,0.5,0.0,1.9,-0.083950194050577,75
-31,1620,L Talbot,Anna Maria,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,20.5,8.8,2.5,1.5,1.0,0.2,1.4,-0.3029558482602211,74
-32,1641,E Daleba,Worcester St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,17.1,8.0,3.6,1.1,0.8,0.4,1.3,-0.3471945917073865,73
-33,1704,J Mills,MCLA,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,23.2,6.0,5.9,1.0,0.7,0.6,1.5,-0.5095936262913892,72
-34,1706,J Buckle,Worcester St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,19.5,9.4,2.6,1.9,0.6,0.0,1.5,-0.5154263044888927,72
-35,1966,T Rosario,Fitchburg St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,23.0,6.9,3.3,1.9,0.8,0.1,1.6,-1.109984960938875,69
-36,2034,K Mency,Westfield St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,17.8,6.1,1.3,1.2,0.7,0.1,0.3,-1.2641578550691768,68
-37,2041,C Hoekstra,Westfield St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,14.8,2.9,4.1,0.4,0.8,0.7,0.3,-1.2842358708646762,68
-38,2085,D Wondie,Worcester St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,18.0,8.3,1.7,0.6,0.4,0.0,0.6,-1.3627223691075416,67
-39,2124,A Rock,Bridgewater St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,22,16.5,4.5,4.1,1.0,0.4,0.3,0.6,-1.459179946051517,67
-40,2126,A Daguilh,Worcester St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,18.2,6.9,2.3,0.5,0.6,0.2,0.7,-1.4637428966170507,67
-41,2153,D Victor,Framingham St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,19,16.1,6.5,3.0,0.3,0.5,0.8,1.3,-1.518428859945046,66
-42,2236,R Sablon,Worcester St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,20.5,5.7,3.0,1.6,0.7,0.0,1.2,-1.7060571455728646,65
-43,2272,R Outlow,Anna Maria,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,20,17.6,5.0,4.3,0.9,0.1,0.3,0.8,-1.7695591497820442,65
-44,2279,T Engel-Chatten,Fitchburg St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,16.8,5.6,3.7,0.9,0.4,0.2,1.0,-1.7853747255011485,65
-45,2291,D Price,Fitchburg St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,18,13.6,4.8,2.9,0.4,0.3,1.0,1.0,-1.808425367829171,65
-46,2293,M Makiej,Salem St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,14.2,6.8,2.5,0.3,0.5,0.0,0.6,-1.816646175172832,65
-47,2298,W Martinez,Salem St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,19.6,4.0,2.5,0.8,1.2,0.2,0.7,-1.820544535648632,64
-48,2356,J Ingegneri,Anna Maria,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,16,14.9,5.7,2.9,0.4,0.2,0.6,0.9,-1.9330629950629303,64
-49,2405,C Shoesmith,Worcester St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,13.5,4.2,3.6,0.8,0.3,0.2,0.5,-2.0166990403326333,63
-50,2514,T Wheeler,Anna Maria,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,23,18.8,5.0,2.0,3.7,1.1,0.0,2.7,-2.239142158075028,62
-51,2520,A Thompson,Framingham St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,12.4,4.3,2.4,0.6,0.8,0.3,0.8,-2.2471970309640334,62
-52,2564,J Potter,MCLA,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,17.9,3.2,3.8,1.0,0.3,0.4,0.8,-2.3143239241412705,61
-53,2649,X Smaltz,Fitchburg St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,20,13.7,5.7,2.8,0.5,0.3,0.1,0.9,-2.4509491282488627,60
-54,2683,K Wiley,Bridgewater St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,23,12.0,3.1,2.1,0.5,0.6,0.5,0.5,-2.531470307327097,59
-55,2755,J McKinney,Anna Maria,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,19,11.5,2.9,2.7,0.5,0.3,0.6,0.6,-2.685516065589705,58
-56,2815,J Olmstead,Bridgewater St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,20,13.8,5.3,1.8,1.1,0.4,0.0,1.1,-2.8284033078585233,58
-57,2828,I Alexander,Framingham St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,21,15.3,4.9,1.3,0.6,0.5,0.0,0.6,-2.8483228946181347,57
-58,2896,A Fournier,Anna Maria,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,15.1,2.4,2.9,1.2,0.5,0.4,1.1,-2.979389502892519,57
-59,2909,C Burleson,MCLA,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,22,17.8,5.7,1.5,0.7,0.2,0.0,0.9,-3.0094647385267717,56
-60,2912,D Burton,Worcester St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,17.7,5.9,1.6,1.6,0.6,0.0,1.9,-3.0129752391467046,56
-61,2939,T Powell-Aparicio,Worcester St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,17,14.8,5.7,2.4,1.4,1.0,0.2,2.6,-3.080230743847869,56
-62,2952,B White,Fitchburg St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,15.9,2.6,1.6,1.8,0.6,0.2,1.1,-3.1127672791465484,56
-63,3057,M Knight,Anna Maria,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,15.0,2.6,3.0,1.2,0.5,0.1,1.2,-3.3619029409546948,54
-64,3128,S Joacine,Anna Maria,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,12.1,2.8,1.9,0.3,0.3,0.2,0.5,-3.5550454155193125,53
-65,3140,A Bah,Bridgewater St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,22,15.4,1.9,2.5,1.1,0.1,0.4,0.9,-3.5753320230653944,53
-66,3181,M Hayes,Framingham St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,10.3,3.0,1.2,0.9,0.5,0.0,0.8,-3.714037212225672,53
-67,3335,J Simeon,Fitchburg St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,22,12.8,2.7,2.1,0.1,0.3,0.1,0.9,-4.244041389404817,51
-68,3345,J Florestal,Bridgewater St.,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,20,10.8,1.9,0.9,0.1,0.5,0.1,0.5,-4.358811900445178,51
+rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,53,2025-26,K Rogers,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,36.3,20.1,8.0,4.6,1.7,0.4,3.4,7.2445593206562275,94
+2,74,2025-26,J Jackson,Fitchburg St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,20,33.3,21.9,7.9,1.8,0.8,0.3,2.1,6.5228897725167485,94
+3,150,2025-26,A Barry,Salem St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,32.4,15.2,5.2,2.3,2.1,0.8,1.7,5.456560566799174,93
+4,172,2025-26,C Williams,MCLA,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,35.7,19.8,5.6,2.4,1.3,0.3,2.5,5.263732783017484,93
+5,179,2025-26,J Annan,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,27.4,11.5,6.2,3.0,2.0,1.6,2.1,5.202810869195649,93
+6,219,2025-26,J Thomson,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,27.6,10.1,11.6,1.1,1.0,1.3,1.2,4.880349978825775,92
+7,262,2025-26,J Okla,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,31.7,14.9,9.0,1.8,1.6,0.1,2.0,4.5977214694560535,92
+8,293,2025-26,D Kikuba,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,29.3,13.1,4.5,5.6,2.1,0.1,2.8,4.390355933016434,91
+9,310,2025-26,X Lewis,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,33.6,14.2,3.4,2.9,1.9,0.0,1.1,4.23515380733647,91
+10,359,2025-26,R Orleans,Salem St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,28.6,13.4,9.7,0.4,1.2,0.5,1.6,3.8376567318137913,90
+11,376,2025-26,F Koite,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,27.8,15.4,4.2,1.2,1.9,0.7,2.0,3.7720100783399886,90
+12,413,2025-26,Z Taylor,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,31.1,16.4,6.1,2.8,0.6,0.4,2.6,3.586332673184792,90
+13,423,2025-26,A Allah,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,33.2,12.7,4.3,3.1,1.9,0.4,2.0,3.555704285484846,90
+14,462,2025-26,L Washington,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,35.1,9.4,5.6,4.2,2.7,0.0,2.3,3.3025685562797715,89
+15,483,2025-26,J Saint Jean,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,31.3,13.4,9.2,0.8,0.8,1.3,2.8,3.210801791577717,89
+16,491,2025-26,L Jennings,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,24.8,12.0,7.3,1.4,0.8,0.8,1.5,3.166218636554769,89
+17,541,2025-26,F Field,MCLA,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,31.7,11.9,6.9,1.5,1.7,0.3,1.8,2.959102700050404,88
+18,624,2025-26,D Rogers,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,18,29.2,15.6,3.8,2.0,1.6,0.4,2.8,2.659285222954983,87
+19,644,2025-26,J James,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,29.9,13.3,3.0,1.9,1.4,0.1,1.2,2.5517433635992677,87
+20,709,2025-26,J Walker,Salem St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,28.8,13.1,3.8,3.4,1.3,0.2,2.5,2.3239955439056983,86
+21,1001,2025-26,L Miglionico,Anna Maria,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,29.2,16.4,3.9,0.8,0.5,0.3,2.5,1.3335881961142,82
+22,1019,2025-26,K Franks,MCLA,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,23,25.9,9.0,4.7,2.1,1.6,0.4,1.9,1.2658013602844962,82
+23,1148,2025-26,C Quinn,MCLA,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,24.8,13.5,3.1,1.5,0.5,0.0,1.6,0.9194521846846072,80
+24,1167,2025-26,S Sweeney,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,25.9,11.0,2.2,1.3,0.7,0.2,0.7,0.8810423443155174,80
+25,1263,2025-26,J Jean Charles,Fitchburg St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,21,19.4,9.0,5.5,0.7,0.8,0.6,1.4,0.6313645302307889,78
+26,1357,2025-26,N Von Zboray,Fitchburg St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,25.3,11.1,2.7,1.0,0.8,0.0,1.0,0.3996016376311916,77
+27,1397,2025-26,V Chase,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,33.0,10.5,6.6,1.1,0.9,0.6,2.9,0.3324727280978856,77
+28,1466,2025-26,O Merryman,Salem St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,26.0,10.2,3.7,1.0,0.6,0.3,1.4,0.1114376173149312,76
+29,1481,2025-26,K Witherow-Bass,Fitchburg St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,15,18.2,8.3,4.3,0.5,0.7,0.3,0.7,0.0737262239160541,75
+30,1534,2025-26,M Drayton,Fitchburg St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,15,30.9,12.9,2.9,1.0,0.5,0.0,1.9,-0.083950194050577,75
+31,1620,2025-26,L Talbot,Anna Maria,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,20.5,8.8,2.5,1.5,1.0,0.2,1.4,-0.3029558482602211,74
+32,1641,2025-26,E Daleba,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,17.1,8.0,3.6,1.1,0.8,0.4,1.3,-0.3471945917073865,73
+33,1704,2025-26,J Mills,MCLA,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,23.2,6.0,5.9,1.0,0.7,0.6,1.5,-0.5095936262913892,72
+34,1706,2025-26,J Buckle,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,19.5,9.4,2.6,1.9,0.6,0.0,1.5,-0.5154263044888927,72
+35,1966,2025-26,T Rosario,Fitchburg St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,23.0,6.9,3.3,1.9,0.8,0.1,1.6,-1.109984960938875,69
+36,2034,2025-26,K Mency,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,17.8,6.1,1.3,1.2,0.7,0.1,0.3,-1.2641578550691768,68
+37,2041,2025-26,C Hoekstra,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,14.8,2.9,4.1,0.4,0.8,0.7,0.3,-1.2842358708646762,68
+38,2085,2025-26,D Wondie,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,18.0,8.3,1.7,0.6,0.4,0.0,0.6,-1.3627223691075416,67
+39,2124,2025-26,A Rock,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,22,16.5,4.5,4.1,1.0,0.4,0.3,0.6,-1.459179946051517,67
+40,2126,2025-26,A Daguilh,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,18.2,6.9,2.3,0.5,0.6,0.2,0.7,-1.4637428966170507,67
+41,2153,2025-26,D Victor,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,19,16.1,6.5,3.0,0.3,0.5,0.8,1.3,-1.518428859945046,66
+42,2236,2025-26,R Sablon,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,20.5,5.7,3.0,1.6,0.7,0.0,1.2,-1.7060571455728646,65
+43,2272,2025-26,R Outlow,Anna Maria,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,20,17.6,5.0,4.3,0.9,0.1,0.3,0.8,-1.7695591497820442,65
+44,2279,2025-26,T Engel-Chatten,Fitchburg St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,16.8,5.6,3.7,0.9,0.4,0.2,1.0,-1.7853747255011485,65
+45,2291,2025-26,D Price,Fitchburg St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,18,13.6,4.8,2.9,0.4,0.3,1.0,1.0,-1.808425367829171,65
+46,2293,2025-26,M Makiej,Salem St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,14.2,6.8,2.5,0.3,0.5,0.0,0.6,-1.816646175172832,65
+47,2298,2025-26,W Martinez,Salem St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,19.6,4.0,2.5,0.8,1.2,0.2,0.7,-1.820544535648632,64
+48,2356,2025-26,J Ingegneri,Anna Maria,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,16,14.9,5.7,2.9,0.4,0.2,0.6,0.9,-1.9330629950629303,64
+49,2405,2025-26,C Shoesmith,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,13.5,4.2,3.6,0.8,0.3,0.2,0.5,-2.0166990403326333,63
+50,2514,2025-26,T Wheeler,Anna Maria,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,23,18.8,5.0,2.0,3.7,1.1,0.0,2.7,-2.239142158075028,62
+51,2520,2025-26,A Thompson,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,12.4,4.3,2.4,0.6,0.8,0.3,0.8,-2.2471970309640334,62
+52,2564,2025-26,J Potter,MCLA,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,17.9,3.2,3.8,1.0,0.3,0.4,0.8,-2.3143239241412705,61
+53,2649,2025-26,X Smaltz,Fitchburg St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,20,13.7,5.7,2.8,0.5,0.3,0.1,0.9,-2.4509491282488627,60
+54,2683,2025-26,K Wiley,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,23,12.0,3.1,2.1,0.5,0.6,0.5,0.5,-2.531470307327097,59
+55,2755,2025-26,J McKinney,Anna Maria,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,19,11.5,2.9,2.7,0.5,0.3,0.6,0.6,-2.685516065589705,58
+56,2815,2025-26,J Olmstead,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,20,13.8,5.3,1.8,1.1,0.4,0.0,1.1,-2.8284033078585233,58
+57,2828,2025-26,I Alexander,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,21,15.3,4.9,1.3,0.6,0.5,0.0,0.6,-2.8483228946181347,57
+58,2896,2025-26,A Fournier,Anna Maria,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,15.1,2.4,2.9,1.2,0.5,0.4,1.1,-2.979389502892519,57
+59,2909,2025-26,C Burleson,MCLA,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,22,17.8,5.7,1.5,0.7,0.2,0.0,0.9,-3.0094647385267717,56
+60,2912,2025-26,D Burton,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,17.7,5.9,1.6,1.6,0.6,0.0,1.9,-3.0129752391467046,56
+61,2939,2025-26,T Powell-Aparicio,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,17,14.8,5.7,2.4,1.4,1.0,0.2,2.6,-3.080230743847869,56
+62,2952,2025-26,B White,Fitchburg St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,15.9,2.6,1.6,1.8,0.6,0.2,1.1,-3.1127672791465484,56
+63,3057,2025-26,M Knight,Anna Maria,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,15.0,2.6,3.0,1.2,0.5,0.1,1.2,-3.3619029409546948,54
+64,3128,2025-26,S Joacine,Anna Maria,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,12.1,2.8,1.9,0.3,0.3,0.2,0.5,-3.5550454155193125,53
+65,3140,2025-26,A Bah,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,22,15.4,1.9,2.5,1.1,0.1,0.4,0.9,-3.5753320230653944,53
+66,3181,2025-26,M Hayes,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,10.3,3.0,1.2,0.9,0.5,0.0,0.8,-3.714037212225672,53
+67,3335,2025-26,J Simeon,Fitchburg St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,22,12.8,2.7,2.1,0.1,0.3,0.1,0.9,-4.244041389404817,51
+68,3345,2025-26,J Florestal,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,20,10.8,1.9,0.9,0.1,0.5,0.1,0.5,-4.358811900445178,51

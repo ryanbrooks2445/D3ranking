@@ -1,81 +1,81 @@
-rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
-1,9,"Cleveland,Noah",Illinois Wesleyan,College Conference of Illinois and Wisconsin (CCIW),cciw,23,32.34782608695652,18.96,11.35,2.04,1.65,1.87,2.260869565217391,9.37593366391546,97
-2,44,"Funk,Mason",Illinois Wesleyan,College Conference of Illinois and Wisconsin (CCIW),cciw,27,30.37037037037037,15.3,6.22,2.37,1.81,2.59,2.0,7.606712058397061,95
-3,56,"Richardson,Soren",Wheaton,College Conference of Illinois and Wisconsin (CCIW),cciw,26,35.11538461538461,22.42,4.23,2.85,1.54,0.42,2.0384615384615383,7.1093446216020775,94
-4,91,"Johnson,Ryan",Carthage,College Conference of Illinois and Wisconsin (CCIW),cciw,25,32.56,15.0,9.68,2.76,0.96,0.92,1.8,6.183476098720437,94
-5,95,"Thomann,Lane",Millikin,College Conference of Illinois and Wisconsin (CCIW),cciw,24,33.416666666666664,18.96,8.04,1.63,1.04,0.25,1.4583333333333333,6.111657400815166,94
-6,100,"Vanlandingham,Kolden",North Park,College Conference of Illinois and Wisconsin (CCIW),cciw,27,31.96296296296296,16.93,6.22,4.89,1.93,0.22,2.8518518518518516,6.0768424432381005,94
-7,114,"Vuckovic,Mike",North Park,College Conference of Illinois and Wisconsin (CCIW),cciw,26,34.46153846153846,19.85,4.38,4.5,1.23,0.12,2.576923076923077,5.877635071274668,94
-8,147,"Smith,Lamar",Carroll,College Conference of Illinois and Wisconsin (CCIW),cciw,25,29.24,17.0,7.32,2.96,1.28,0.68,2.52,5.518526736630638,93
-9,175,"Grier,Carson",Wheaton,College Conference of Illinois and Wisconsin (CCIW),cciw,26,30.192307692307693,14.19,6.81,2.31,1.54,0.58,1.2692307692307692,5.250854824911263,93
-10,210,"Trelenberg,Dominic",Elmhurst,College Conference of Illinois and Wisconsin (CCIW),cciw,28,35.285714285714285,18.14,5.82,1.93,0.54,0.11,1.0357142857142858,4.971074165311717,92
-11,256,"McNabb,Michael",Carroll,College Conference of Illinois and Wisconsin (CCIW),cciw,25,31.44,21.4,4.2,1.6,1.28,0.16,2.56,4.633000753584593,92
-12,379,"Brooks,Riley",Carthage,College Conference of Illinois and Wisconsin (CCIW),cciw,26,29.692307692307693,17.54,5.31,1.08,0.54,0.08,1.1923076923076923,3.743978710901051,90
-13,403,"Adjahoungbeta,Vinnie",Elmhurst,College Conference of Illinois and Wisconsin (CCIW),cciw,28,29.25,11.86,7.39,1.75,1.07,1.0,1.75,3.622216750234057,90
-14,449,"Diaz,Alejandro",North Central,College Conference of Illinois and Wisconsin (CCIW),cciw,26,31.807692307692307,12.46,5.15,4.0,1.58,0.35,2.5384615384615383,3.370649614710903,89
-15,479,"Colak,Karlo",Illinois Wesleyan,College Conference of Illinois and Wisconsin (CCIW),cciw,27,32.370370370370374,12.85,5.93,3.04,0.78,0.44,1.8888888888888888,3.2182445238369417,89
-16,500,"Bullock,James",North Central,College Conference of Illinois and Wisconsin (CCIW),cciw,21,25.238095238095237,13.05,5.24,0.86,0.62,1.1,1.1428571428571428,3.126365629429451,88
-17,582,"Straughter,Nate",Millikin,College Conference of Illinois and Wisconsin (CCIW),cciw,23,32.08695652173913,14.96,3.7,1.39,1.17,0.43,1.6956521739130437,2.7991208918632067,87
-18,613,"Johnson,AJ",Carthage,College Conference of Illinois and Wisconsin (CCIW),cciw,24,30.333333333333332,13.04,4.33,2.0,0.92,0.17,1.0833333333333333,2.726519555906103,87
-19,618,"Boone,Aidyn",Elmhurst,College Conference of Illinois and Wisconsin (CCIW),cciw,28,26.285714285714285,11.21,5.5,1.25,1.18,0.79,1.2857142857142858,2.6970552735175266,87
-20,694,"Willems,Jake",Augustana,College Conference of Illinois and Wisconsin (CCIW),cciw,25,25.56,12.72,5.2,0.8,1.12,0.28,1.12,2.3916797922197417,86
-21,704,"VanderWoude,Kyan",Wheaton,College Conference of Illinois and Wisconsin (CCIW),cciw,26,31.115384615384617,14.54,5.69,1.38,0.85,0.08,1.8846153846153848,2.335280707059695,86
-22,764,"Klaver,Andre",Augustana,College Conference of Illinois and Wisconsin (CCIW),cciw,25,21.48,13.12,4.24,3.04,1.32,0.32,2.76,2.1278081662000203,85
-23,974,"McKenna,Peyton",Carroll,College Conference of Illinois and Wisconsin (CCIW),cciw,25,31.96,10.12,2.64,2.2,1.72,0.28,1.56,1.4227964326686795,82
-24,984,"Vance,Marquis",North Park,College Conference of Illinois and Wisconsin (CCIW),cciw,27,24.666666666666668,10.96,4.48,0.67,1.22,0.33,1.1851851851851851,1.3912716300526506,82
-25,993,"Martin,Devin",Wheaton,College Conference of Illinois and Wisconsin (CCIW),cciw,26,31.23076923076923,9.27,3.0,4.73,0.73,0.23,2.0,1.3469766227416398,82
-26,1029,"Naber,Jacob",Carroll,College Conference of Illinois and Wisconsin (CCIW),cciw,25,27.32,9.36,6.6,1.4,0.72,0.48,1.56,1.23240705108814,81
-27,1042,"Ketchum,Chris",Millikin,College Conference of Illinois and Wisconsin (CCIW),cciw,24,19.708333333333332,8.96,5.21,1.25,1.33,0.71,1.7083333333333333,1.206334745251682,81
-28,1078,"Anderson,Marieon",Augustana,College Conference of Illinois and Wisconsin (CCIW),cciw,25,25.52,10.04,4.04,0.92,0.72,0.36,0.72,1.0785021782040871,81
-29,1110,"Campbell,Julian",North Park,College Conference of Illinois and Wisconsin (CCIW),cciw,26,17.153846153846153,9.54,4.81,0.65,0.31,0.81,0.8461538461538461,0.9906057608298708,80
-30,1125,"Daun,Griffin",Carthage,College Conference of Illinois and Wisconsin (CCIW),cciw,26,24.653846153846153,6.85,5.12,2.23,1.12,0.31,1.0384615384615383,0.9694732600707294,80
-31,1229,"Smith,Luke",Elmhurst,College Conference of Illinois and Wisconsin (CCIW),cciw,28,27.642857142857142,10.82,2.79,3.25,0.75,0.14,2.107142857142857,0.7116667070810043,79
-32,1242,"Schlesinger,Chris",Carthage,College Conference of Illinois and Wisconsin (CCIW),cciw,26,20.73076923076923,7.19,3.73,2.46,0.46,0.69,0.9615384615384616,0.6943794045493957,79
-33,1243,"Marlowe,Ethan",North Central,College Conference of Illinois and Wisconsin (CCIW),cciw,26,20.423076923076923,6.88,4.77,1.0,0.65,1.42,1.3076923076923077,0.6941059893855446,79
-34,1267,"Molloy,Sean",North Central,College Conference of Illinois and Wisconsin (CCIW),cciw,26,30.5,9.15,4.31,2.04,1.08,0.15,1.6153846153846154,0.6272339198127839,78
-35,1324,"Cornish,Lazario",North Park,College Conference of Illinois and Wisconsin (CCIW),cciw,19,21.842105263157897,6.95,4.74,0.74,0.89,1.21,1.3157894736842106,0.4953308183673582,77
-36,1341,"Winkler,Ian",Millikin,College Conference of Illinois and Wisconsin (CCIW),cciw,19,24.526315789473685,11.68,1.84,2.58,1.0,0.21,2.263157894736842,0.4493893720336042,77
-37,1412,"Niego,Jackson",Illinois Wesleyan,College Conference of Illinois and Wisconsin (CCIW),cciw,27,26.62962962962963,5.3,2.44,3.81,1.44,0.15,1.2592592592592593,0.2852845011738375,76
-38,1457,"Atkinson,Cam",Augustana,College Conference of Illinois and Wisconsin (CCIW),cciw,25,26.08,11.68,2.48,0.68,0.52,0.2,1.16,0.149899333771238,76
-39,1477,"Lawrence,Casen",Illinois Wesleyan,College Conference of Illinois and Wisconsin (CCIW),cciw,27,29.0,10.26,1.52,1.19,1.26,0.0,1.1111111111111112,0.0847048153152793,75
-40,1575,"Nesbitt,Antuan",Carthage,College Conference of Illinois and Wisconsin (CCIW),cciw,24,27.5,9.0,3.04,2.0,0.71,0.25,1.6666666666666667,-0.2144847308389519,74
-41,1643,"Blachut,Sebastian",Elmhurst,College Conference of Illinois and Wisconsin (CCIW),cciw,27,24.88888888888889,8.63,2.7,2.44,0.74,0.3,1.8888888888888888,-0.3521006627802194,73
-42,1705,"Bland,Evan",Carroll,College Conference of Illinois and Wisconsin (CCIW),cciw,21,22.714285714285715,6.71,2.14,2.81,1.14,0.14,1.5238095238095235,-0.5114005684456897,72
-43,1726,"Rhoden,Dom",Augustana,College Conference of Illinois and Wisconsin (CCIW),cciw,25,19.92,7.68,2.84,1.04,1.56,0.12,1.44,-0.5571385024951319,72
-44,1742,"Estepp,Dennis",Carroll,College Conference of Illinois and Wisconsin (CCIW),cciw,25,23.52,6.2,3.24,1.52,1.52,0.28,1.48,-0.5955880825822583,72
-45,1854,"Bates,William",North Park,College Conference of Illinois and Wisconsin (CCIW),cciw,25,26.32,10.0,2.56,1.36,0.88,0.0,1.92,-0.8354275327450752,70
-46,1877,"Swierczek,Tyler",North Central,College Conference of Illinois and Wisconsin (CCIW),cciw,25,23.52,8.24,3.08,0.44,0.44,0.04,0.6,-0.912066595063647,70
-47,1894,"Surin,Tyler",North Central,College Conference of Illinois and Wisconsin (CCIW),cciw,17,21.294117647058822,6.76,3.53,1.12,0.76,0.12,1.0,-0.9491271528095158,70
-48,1983,"Wynja,Brady",Wheaton,College Conference of Illinois and Wisconsin (CCIW),cciw,26,18.346153846153847,5.62,5.35,0.5,0.23,0.54,0.9615384615384616,-1.14317249396933,69
-49,2012,"Romero,Dani",Augustana,College Conference of Illinois and Wisconsin (CCIW),cciw,23,23.565217391304348,5.61,2.87,2.87,0.91,0.17,1.826086956521739,-1.2104491629946903,68
-50,2039,"Aldana,Eli",Augustana,College Conference of Illinois and Wisconsin (CCIW),cciw,14,18.714285714285715,6.21,1.5,1.5,0.64,0.0,0.4285714285714285,-1.278932471207874,68
-51,2111,"Spates,Tionne",Millikin,College Conference of Illinois and Wisconsin (CCIW),cciw,23,20.60869565217391,4.13,4.87,0.65,0.26,0.87,1.0,-1.4300786723483705,67
-52,2121,"Maurchie,Ray",Augustana,College Conference of Illinois and Wisconsin (CCIW),cciw,25,18.08,4.44,4.56,0.72,0.36,0.72,1.0,-1.456751658113021,67
-53,2194,"Sveiteris,Justin",North Central,College Conference of Illinois and Wisconsin (CCIW),cciw,26,16.26923076923077,4.96,3.69,0.73,0.38,0.54,0.8846153846153846,-1.622943593597103,66
-54,2225,"Noyes,McGrady",Millikin,College Conference of Illinois and Wisconsin (CCIW),cciw,24,23.75,3.13,5.0,1.13,0.67,0.33,0.9166666666666666,-1.6812714289604198,65
-55,2324,"Olson,Reid",Wheaton,College Conference of Illinois and Wisconsin (CCIW),cciw,26,20.692307692307693,6.69,1.38,1.69,0.31,0.0,0.9230769230769232,-1.8793968879101275,64
-56,2334,"Kuehl,Brady",Illinois Wesleyan,College Conference of Illinois and Wisconsin (CCIW),cciw,27,13.555555555555555,4.11,2.56,0.67,0.37,0.89,0.8148148148148148,-1.9034286628745267,64
-57,2363,"Smith, Jr.,Jerome",North Park,College Conference of Illinois and Wisconsin (CCIW),cciw,27,16.962962962962962,4.44,1.74,2.26,0.93,0.04,1.1851851851851851,-1.9455982377767724,64
-58,2385,"Cherry,Jack",Elmhurst,College Conference of Illinois and Wisconsin (CCIW),cciw,28,18.642857142857142,4.86,2.39,1.96,0.5,0.11,1.1071428571428572,-1.9887893160756032,63
-59,2413,"Williams,AJ",Carthage,College Conference of Illinois and Wisconsin (CCIW),cciw,26,20.53846153846154,5.15,2.04,0.81,0.46,0.15,0.4615384615384615,-2.024703317362343,63
-60,2524,"Parker,Lucas",Carroll,College Conference of Illinois and Wisconsin (CCIW),cciw,24,15.666666666666666,4.83,2.17,0.38,0.46,0.08,0.25,-2.256153116520285,61
-61,2571,"Garrison,Tyvin",North Park,College Conference of Illinois and Wisconsin (CCIW),cciw,26,16.884615384615383,4.15,2.42,0.73,0.85,0.15,0.7692307692307693,-2.3259933170665863,61
-62,2610,"Davis,Tre",North Central,College Conference of Illinois and Wisconsin (CCIW),cciw,24,18.833333333333332,4.46,2.63,2.0,0.58,0.08,1.4583333333333333,-2.4024746592362813,60
-63,2612,"Haith,Jabe",Carthage,College Conference of Illinois and Wisconsin (CCIW),cciw,25,11.64,4.36,2.0,0.88,0.44,0.12,0.48,-2.406819285506858,60
-64,2620,"Pearson,Talen",Elmhurst,College Conference of Illinois and Wisconsin (CCIW),cciw,28,18.857142857142858,4.75,2.14,1.29,0.39,0.29,1.0714285714285714,-2.412957367986803,60
-65,2641,"Marshall,EJ",Elmhurst,College Conference of Illinois and Wisconsin (CCIW),cciw,28,14.285714285714286,4.11,2.0,1.18,0.64,0.07,0.7142857142857143,-2.440463708435622,60
-66,2802,"Cheney,Seth",North Central,College Conference of Illinois and Wisconsin (CCIW),cciw,21,15.571428571428571,5.57,2.14,0.29,0.24,0.0,0.6666666666666666,-2.8092206357031135,58
-67,2824,"Neibch,Kyle",Wheaton,College Conference of Illinois and Wisconsin (CCIW),cciw,26,15.461538461538462,4.5,1.65,0.42,0.27,0.12,0.3846153846153846,-2.845029184974708,57
-68,2858,"Anderson,Kobe",Millikin,College Conference of Illinois and Wisconsin (CCIW),cciw,24,17.125,3.83,1.13,2.08,0.96,0.08,1.5833333333333333,-2.912422072592536,57
-69,2966,"DiSilvio,Tyler",North Central,College Conference of Illinois and Wisconsin (CCIW),cciw,19,12.105263157894736,3.84,2.21,0.63,0.11,0.0,0.4210526315789473,-3.1406419843721567,56
-70,3048,"Workman,Caden",Augustana,College Conference of Illinois and Wisconsin (CCIW),cciw,18,12.666666666666666,2.72,1.94,0.5,0.39,0.11,0.3888888888888889,-3.340792800414727,54
-71,3101,"Gray,Jahki",North Park,College Conference of Illinois and Wisconsin (CCIW),cciw,17,14.411764705882351,3.88,1.06,0.53,0.35,0.12,0.6470588235294118,-3.4613949928679326,54
-72,3116,"Boldt,Nathan",Illinois Wesleyan,College Conference of Illinois and Wisconsin (CCIW),cciw,20,10.95,1.3,2.35,0.25,0.25,0.8,0.65,-3.504970661060363,54
-73,3171,"Tarjan,Jimmy",Carroll,College Conference of Illinois and Wisconsin (CCIW),cciw,20,12.8,2.35,2.5,0.65,0.2,0.1,0.65,-3.695261255523631,53
-74,3173,"Hedrick,Noah",Wheaton,College Conference of Illinois and Wisconsin (CCIW),cciw,22,11.318181818181818,2.0,1.73,0.86,0.36,0.14,0.5909090909090909,-3.697730411740463,53
-75,3203,"Ruggles,Brady",Illinois Wesleyan,College Conference of Illinois and Wisconsin (CCIW),cciw,22,10.090909090909092,3.14,1.73,0.23,0.23,0.09,0.5454545454545454,-3.7830784380914335,52
-76,3218,"Origliasso,Pat",Millikin,College Conference of Illinois and Wisconsin (CCIW),cciw,24,10.375,3.13,1.71,0.38,0.17,0.04,0.5416666666666666,-3.813786000606791,52
-77,3254,"Andre,Ethan",Augustana,College Conference of Illinois and Wisconsin (CCIW),cciw,24,13.333333333333334,2.83,1.5,0.17,0.29,0.0,0.4166666666666667,-3.948391652317037,52
-78,3314,"James,Jaydon",North Central,College Conference of Illinois and Wisconsin (CCIW),cciw,13,12.076923076923077,2.77,2.0,0.31,0.31,0.15,1.0,-4.146351900304119,51
-79,3319,"Williams,David",Illinois Wesleyan,College Conference of Illinois and Wisconsin (CCIW),cciw,25,10.08,1.84,1.28,1.04,0.32,0.12,0.84,-4.1524972466491645,51
-80,3334,"Nichols,Caden",Millikin,College Conference of Illinois and Wisconsin (CCIW),cciw,21,11.095238095238097,2.67,1.24,0.48,0.38,0.05,0.8571428571428571,-4.243270380428471,51
+rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,9,2025-26,"Cleveland,Noah",Illinois Wesleyan,F,College Conference of Illinois and Wisconsin (CCIW),cciw,23,32.34782608695652,18.96,11.35,2.04,1.65,1.87,2.260869565217391,9.37593366391546,97
+2,44,2025-26,"Funk,Mason",Illinois Wesleyan,G,College Conference of Illinois and Wisconsin (CCIW),cciw,27,30.37037037037037,15.3,6.22,2.37,1.81,2.59,2.0,7.606712058397061,95
+3,56,2025-26,"Richardson,Soren",Wheaton,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,35.11538461538461,22.42,4.23,2.85,1.54,0.42,2.0384615384615383,7.1093446216020775,94
+4,91,2025-26,"Johnson,Ryan",Carthage,F,College Conference of Illinois and Wisconsin (CCIW),cciw,25,32.56,15.0,9.68,2.76,0.96,0.92,1.8,6.183476098720437,94
+5,95,2025-26,"Thomann,Lane",Millikin,G,College Conference of Illinois and Wisconsin (CCIW),cciw,24,33.416666666666664,18.96,8.04,1.63,1.04,0.25,1.4583333333333333,6.111657400815166,94
+6,100,2025-26,"Vanlandingham,Kolden",North Park,G,College Conference of Illinois and Wisconsin (CCIW),cciw,27,31.96296296296296,16.93,6.22,4.89,1.93,0.22,2.8518518518518516,6.0768424432381005,94
+7,114,2025-26,"Vuckovic,Mike",North Park,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,34.46153846153846,19.85,4.38,4.5,1.23,0.12,2.576923076923077,5.877635071274668,94
+8,147,2025-26,"Smith,Lamar",Carroll,F,College Conference of Illinois and Wisconsin (CCIW),cciw,25,29.24,17.0,7.32,2.96,1.28,0.68,2.52,5.518526736630638,93
+9,175,2025-26,"Grier,Carson",Wheaton,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,30.192307692307693,14.19,6.81,2.31,1.54,0.58,1.2692307692307692,5.250854824911263,93
+10,210,2025-26,"Trelenberg,Dominic",Elmhurst,G,College Conference of Illinois and Wisconsin (CCIW),cciw,28,35.285714285714285,18.14,5.82,1.93,0.54,0.11,1.0357142857142858,4.971074165311717,92
+11,256,2025-26,"McNabb,Michael",Carroll,G,College Conference of Illinois and Wisconsin (CCIW),cciw,25,31.44,21.4,4.2,1.6,1.28,0.16,2.56,4.633000753584593,92
+12,379,2025-26,"Brooks,Riley",Carthage,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,29.692307692307693,17.54,5.31,1.08,0.54,0.08,1.1923076923076923,3.743978710901051,90
+13,403,2025-26,"Adjahoungbeta,Vinnie",Elmhurst,F,College Conference of Illinois and Wisconsin (CCIW),cciw,28,29.25,11.86,7.39,1.75,1.07,1.0,1.75,3.622216750234057,90
+14,449,2025-26,"Diaz,Alejandro",North Central,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,31.807692307692307,12.46,5.15,4.0,1.58,0.35,2.5384615384615383,3.370649614710903,89
+15,479,2025-26,"Colak,Karlo",Illinois Wesleyan,G,College Conference of Illinois and Wisconsin (CCIW),cciw,27,32.370370370370374,12.85,5.93,3.04,0.78,0.44,1.8888888888888888,3.2182445238369417,89
+16,500,2025-26,"Bullock,James",North Central,F,College Conference of Illinois and Wisconsin (CCIW),cciw,21,25.238095238095237,13.05,5.24,0.86,0.62,1.1,1.1428571428571428,3.126365629429451,88
+17,582,2025-26,"Straughter,Nate",Millikin,G,College Conference of Illinois and Wisconsin (CCIW),cciw,23,32.08695652173913,14.96,3.7,1.39,1.17,0.43,1.6956521739130437,2.7991208918632067,87
+18,613,2025-26,"Johnson,AJ",Carthage,G,College Conference of Illinois and Wisconsin (CCIW),cciw,24,30.333333333333332,13.04,4.33,2.0,0.92,0.17,1.0833333333333333,2.726519555906103,87
+19,618,2025-26,"Boone,Aidyn",Elmhurst,F,College Conference of Illinois and Wisconsin (CCIW),cciw,28,26.285714285714285,11.21,5.5,1.25,1.18,0.79,1.2857142857142858,2.6970552735175266,87
+20,694,2025-26,"Willems,Jake",Augustana,G,College Conference of Illinois and Wisconsin (CCIW),cciw,25,25.56,12.72,5.2,0.8,1.12,0.28,1.12,2.3916797922197417,86
+21,704,2025-26,"VanderWoude,Kyan",Wheaton,F,College Conference of Illinois and Wisconsin (CCIW),cciw,26,31.115384615384617,14.54,5.69,1.38,0.85,0.08,1.8846153846153848,2.335280707059695,86
+22,764,2025-26,"Klaver,Andre",Augustana,G,College Conference of Illinois and Wisconsin (CCIW),cciw,25,21.48,13.12,4.24,3.04,1.32,0.32,2.76,2.1278081662000203,85
+23,974,2025-26,"McKenna,Peyton",Carroll,G,College Conference of Illinois and Wisconsin (CCIW),cciw,25,31.96,10.12,2.64,2.2,1.72,0.28,1.56,1.4227964326686795,82
+24,984,2025-26,"Vance,Marquis",North Park,G,College Conference of Illinois and Wisconsin (CCIW),cciw,27,24.666666666666668,10.96,4.48,0.67,1.22,0.33,1.1851851851851851,1.3912716300526506,82
+25,993,2025-26,"Martin,Devin",Wheaton,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,31.23076923076923,9.27,3.0,4.73,0.73,0.23,2.0,1.3469766227416398,82
+26,1029,2025-26,"Naber,Jacob",Carroll,F,College Conference of Illinois and Wisconsin (CCIW),cciw,25,27.32,9.36,6.6,1.4,0.72,0.48,1.56,1.23240705108814,81
+27,1042,2025-26,"Ketchum,Chris",Millikin,G,College Conference of Illinois and Wisconsin (CCIW),cciw,24,19.708333333333332,8.96,5.21,1.25,1.33,0.71,1.7083333333333333,1.206334745251682,81
+28,1078,2025-26,"Anderson,Marieon",Augustana,F,College Conference of Illinois and Wisconsin (CCIW),cciw,25,25.52,10.04,4.04,0.92,0.72,0.36,0.72,1.0785021782040871,81
+29,1110,2025-26,"Campbell,Julian",North Park,C,College Conference of Illinois and Wisconsin (CCIW),cciw,26,17.153846153846153,9.54,4.81,0.65,0.31,0.81,0.8461538461538461,0.9906057608298708,80
+30,1125,2025-26,"Daun,Griffin",Carthage,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,24.653846153846153,6.85,5.12,2.23,1.12,0.31,1.0384615384615383,0.9694732600707294,80
+31,1229,2025-26,"Smith,Luke",Elmhurst,,College Conference of Illinois and Wisconsin (CCIW),cciw,28,27.642857142857142,10.82,2.79,3.25,0.75,0.14,2.107142857142857,0.7116667070810043,79
+32,1242,2025-26,"Schlesinger,Chris",Carthage,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,20.73076923076923,7.19,3.73,2.46,0.46,0.69,0.9615384615384616,0.6943794045493957,79
+33,1243,2025-26,"Marlowe,Ethan",North Central,F,College Conference of Illinois and Wisconsin (CCIW),cciw,26,20.423076923076923,6.88,4.77,1.0,0.65,1.42,1.3076923076923077,0.6941059893855446,79
+34,1267,2025-26,"Molloy,Sean",North Central,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,30.5,9.15,4.31,2.04,1.08,0.15,1.6153846153846154,0.6272339198127839,78
+35,1324,2025-26,"Cornish,Lazario",North Park,F,College Conference of Illinois and Wisconsin (CCIW),cciw,19,21.842105263157897,6.95,4.74,0.74,0.89,1.21,1.3157894736842106,0.4953308183673582,77
+36,1341,2025-26,"Winkler,Ian",Millikin,G,College Conference of Illinois and Wisconsin (CCIW),cciw,19,24.526315789473685,11.68,1.84,2.58,1.0,0.21,2.263157894736842,0.4493893720336042,77
+37,1412,2025-26,"Niego,Jackson",Illinois Wesleyan,G,College Conference of Illinois and Wisconsin (CCIW),cciw,27,26.62962962962963,5.3,2.44,3.81,1.44,0.15,1.2592592592592593,0.2852845011738375,76
+38,1457,2025-26,"Atkinson,Cam",Augustana,G,College Conference of Illinois and Wisconsin (CCIW),cciw,25,26.08,11.68,2.48,0.68,0.52,0.2,1.16,0.149899333771238,76
+39,1477,2025-26,"Lawrence,Casen",Illinois Wesleyan,G,College Conference of Illinois and Wisconsin (CCIW),cciw,27,29.0,10.26,1.52,1.19,1.26,0.0,1.1111111111111112,0.0847048153152793,75
+40,1575,2025-26,"Nesbitt,Antuan",Carthage,G,College Conference of Illinois and Wisconsin (CCIW),cciw,24,27.5,9.0,3.04,2.0,0.71,0.25,1.6666666666666667,-0.2144847308389519,74
+41,1643,2025-26,"Blachut,Sebastian",Elmhurst,G,College Conference of Illinois and Wisconsin (CCIW),cciw,27,24.88888888888889,8.63,2.7,2.44,0.74,0.3,1.8888888888888888,-0.3521006627802194,73
+42,1705,2025-26,"Bland,Evan",Carroll,G,College Conference of Illinois and Wisconsin (CCIW),cciw,21,22.714285714285715,6.71,2.14,2.81,1.14,0.14,1.5238095238095235,-0.5114005684456897,72
+43,1726,2025-26,"Rhoden,Dom",Augustana,G,College Conference of Illinois and Wisconsin (CCIW),cciw,25,19.92,7.68,2.84,1.04,1.56,0.12,1.44,-0.5571385024951319,72
+44,1742,2025-26,"Estepp,Dennis",Carroll,G,College Conference of Illinois and Wisconsin (CCIW),cciw,25,23.52,6.2,3.24,1.52,1.52,0.28,1.48,-0.5955880825822583,72
+45,1854,2025-26,"Bates,William",North Park,G,College Conference of Illinois and Wisconsin (CCIW),cciw,25,26.32,10.0,2.56,1.36,0.88,0.0,1.92,-0.8354275327450752,70
+46,1877,2025-26,"Swierczek,Tyler",North Central,F,College Conference of Illinois and Wisconsin (CCIW),cciw,25,23.52,8.24,3.08,0.44,0.44,0.04,0.6,-0.912066595063647,70
+47,1894,2025-26,"Surin,Tyler",North Central,G,College Conference of Illinois and Wisconsin (CCIW),cciw,17,21.294117647058822,6.76,3.53,1.12,0.76,0.12,1.0,-0.9491271528095158,70
+48,1983,2025-26,"Wynja,Brady",Wheaton,F,College Conference of Illinois and Wisconsin (CCIW),cciw,26,18.346153846153847,5.62,5.35,0.5,0.23,0.54,0.9615384615384616,-1.14317249396933,69
+49,2012,2025-26,"Romero,Dani",Augustana,G,College Conference of Illinois and Wisconsin (CCIW),cciw,23,23.565217391304348,5.61,2.87,2.87,0.91,0.17,1.826086956521739,-1.2104491629946903,68
+50,2039,2025-26,"Aldana,Eli",Augustana,G,College Conference of Illinois and Wisconsin (CCIW),cciw,14,18.714285714285715,6.21,1.5,1.5,0.64,0.0,0.4285714285714285,-1.278932471207874,68
+51,2111,2025-26,"Spates,Tionne",Millikin,F,College Conference of Illinois and Wisconsin (CCIW),cciw,23,20.60869565217391,4.13,4.87,0.65,0.26,0.87,1.0,-1.4300786723483705,67
+52,2121,2025-26,"Maurchie,Ray",Augustana,F,College Conference of Illinois and Wisconsin (CCIW),cciw,25,18.08,4.44,4.56,0.72,0.36,0.72,1.0,-1.456751658113021,67
+53,2194,2025-26,"Sveiteris,Justin",North Central,F,College Conference of Illinois and Wisconsin (CCIW),cciw,26,16.26923076923077,4.96,3.69,0.73,0.38,0.54,0.8846153846153846,-1.622943593597103,66
+54,2225,2025-26,"Noyes,McGrady",Millikin,G,College Conference of Illinois and Wisconsin (CCIW),cciw,24,23.75,3.13,5.0,1.13,0.67,0.33,0.9166666666666666,-1.6812714289604198,65
+55,2324,2025-26,"Olson,Reid",Wheaton,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,20.692307692307693,6.69,1.38,1.69,0.31,0.0,0.9230769230769232,-1.8793968879101275,64
+56,2334,2025-26,"Kuehl,Brady",Illinois Wesleyan,F,College Conference of Illinois and Wisconsin (CCIW),cciw,27,13.555555555555555,4.11,2.56,0.67,0.37,0.89,0.8148148148148148,-1.9034286628745267,64
+57,2363,2025-26,"Smith, Jr.,Jerome",North Park,G,College Conference of Illinois and Wisconsin (CCIW),cciw,27,16.962962962962962,4.44,1.74,2.26,0.93,0.04,1.1851851851851851,-1.9455982377767724,64
+58,2385,2025-26,"Cherry,Jack",Elmhurst,G,College Conference of Illinois and Wisconsin (CCIW),cciw,28,18.642857142857142,4.86,2.39,1.96,0.5,0.11,1.1071428571428572,-1.9887893160756032,63
+59,2413,2025-26,"Williams,AJ",Carthage,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,20.53846153846154,5.15,2.04,0.81,0.46,0.15,0.4615384615384615,-2.024703317362343,63
+60,2524,2025-26,"Parker,Lucas",Carroll,G,College Conference of Illinois and Wisconsin (CCIW),cciw,24,15.666666666666666,4.83,2.17,0.38,0.46,0.08,0.25,-2.256153116520285,61
+61,2571,2025-26,"Garrison,Tyvin",North Park,F,College Conference of Illinois and Wisconsin (CCIW),cciw,26,16.884615384615383,4.15,2.42,0.73,0.85,0.15,0.7692307692307693,-2.3259933170665863,61
+62,2610,2025-26,"Davis,Tre",North Central,G,College Conference of Illinois and Wisconsin (CCIW),cciw,24,18.833333333333332,4.46,2.63,2.0,0.58,0.08,1.4583333333333333,-2.4024746592362813,60
+63,2612,2025-26,"Haith,Jabe",Carthage,G,College Conference of Illinois and Wisconsin (CCIW),cciw,25,11.64,4.36,2.0,0.88,0.44,0.12,0.48,-2.406819285506858,60
+64,2620,2025-26,"Pearson,Talen",Elmhurst,G,College Conference of Illinois and Wisconsin (CCIW),cciw,28,18.857142857142858,4.75,2.14,1.29,0.39,0.29,1.0714285714285714,-2.412957367986803,60
+65,2641,2025-26,"Marshall,EJ",Elmhurst,G,College Conference of Illinois and Wisconsin (CCIW),cciw,28,14.285714285714286,4.11,2.0,1.18,0.64,0.07,0.7142857142857143,-2.440463708435622,60
+66,2802,2025-26,"Cheney,Seth",North Central,G,College Conference of Illinois and Wisconsin (CCIW),cciw,21,15.571428571428571,5.57,2.14,0.29,0.24,0.0,0.6666666666666666,-2.8092206357031135,58
+67,2824,2025-26,"Neibch,Kyle",Wheaton,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,15.461538461538462,4.5,1.65,0.42,0.27,0.12,0.3846153846153846,-2.845029184974708,57
+68,2858,2025-26,"Anderson,Kobe",Millikin,G,College Conference of Illinois and Wisconsin (CCIW),cciw,24,17.125,3.83,1.13,2.08,0.96,0.08,1.5833333333333333,-2.912422072592536,57
+69,2966,2025-26,"DiSilvio,Tyler",North Central,F,College Conference of Illinois and Wisconsin (CCIW),cciw,19,12.105263157894736,3.84,2.21,0.63,0.11,0.0,0.4210526315789473,-3.1406419843721567,56
+70,3048,2025-26,"Workman,Caden",Augustana,F,College Conference of Illinois and Wisconsin (CCIW),cciw,18,12.666666666666666,2.72,1.94,0.5,0.39,0.11,0.3888888888888889,-3.340792800414727,54
+71,3101,2025-26,"Gray,Jahki",North Park,G,College Conference of Illinois and Wisconsin (CCIW),cciw,17,14.411764705882351,3.88,1.06,0.53,0.35,0.12,0.6470588235294118,-3.4613949928679326,54
+72,3116,2025-26,"Boldt,Nathan",Illinois Wesleyan,F,College Conference of Illinois and Wisconsin (CCIW),cciw,20,10.95,1.3,2.35,0.25,0.25,0.8,0.65,-3.504970661060363,54
+73,3171,2025-26,"Tarjan,Jimmy",Carroll,G,College Conference of Illinois and Wisconsin (CCIW),cciw,20,12.8,2.35,2.5,0.65,0.2,0.1,0.65,-3.695261255523631,53
+74,3173,2025-26,"Hedrick,Noah",Wheaton,F,College Conference of Illinois and Wisconsin (CCIW),cciw,22,11.318181818181818,2.0,1.73,0.86,0.36,0.14,0.5909090909090909,-3.697730411740463,53
+75,3203,2025-26,"Ruggles,Brady",Illinois Wesleyan,G,College Conference of Illinois and Wisconsin (CCIW),cciw,22,10.090909090909092,3.14,1.73,0.23,0.23,0.09,0.5454545454545454,-3.7830784380914335,52
+76,3218,2025-26,"Origliasso,Pat",Millikin,F,College Conference of Illinois and Wisconsin (CCIW),cciw,24,10.375,3.13,1.71,0.38,0.17,0.04,0.5416666666666666,-3.813786000606791,52
+77,3254,2025-26,"Andre,Ethan",Augustana,G,College Conference of Illinois and Wisconsin (CCIW),cciw,24,13.333333333333334,2.83,1.5,0.17,0.29,0.0,0.4166666666666667,-3.948391652317037,52
+78,3314,2025-26,"James,Jaydon",North Central,G,College Conference of Illinois and Wisconsin (CCIW),cciw,13,12.076923076923077,2.77,2.0,0.31,0.31,0.15,1.0,-4.146351900304119,51
+79,3319,2025-26,"Williams,David",Illinois Wesleyan,G,College Conference of Illinois and Wisconsin (CCIW),cciw,25,10.08,1.84,1.28,1.04,0.32,0.12,0.84,-4.1524972466491645,51
+80,3334,2025-26,"Nichols,Caden",Millikin,G,College Conference of Illinois and Wisconsin (CCIW),cciw,21,11.095238095238097,2.67,1.24,0.48,0.38,0.05,0.8571428571428571,-4.243270380428471,51

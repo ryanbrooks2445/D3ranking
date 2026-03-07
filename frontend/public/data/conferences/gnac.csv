@@ -1,113 +1,113 @@
-rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
-1,15,E Madesko,Lasell,Great Northeast Athletic Conference (GNAC),gnac,25,34.8,20.1,6.0,5.7,2.5,0.3,2.4,9.076285498430137,95
-2,29,R Wani,Saint Joseph's (Maine),Great Northeast Athletic Conference (GNAC),gnac,22,33.3,23.3,6.7,3.1,1.1,0.5,2.2,8.013947356633455,95
-3,42,R Baguidy,Rivier,Great Northeast Athletic Conference (GNAC),gnac,25,39.4,18.5,4.7,6.3,2.5,0.1,2.8,7.626222014524047,95
-4,65,W Donato,Saint Joseph's (Maine),Great Northeast Athletic Conference (GNAC),gnac,28,29.6,15.5,7.5,3.8,1.8,1.5,2.8,6.782218050877339,94
-5,67,T Daniels,Albertus Magnus,Great Northeast Athletic Conference (GNAC),gnac,24,29.3,21.3,3.3,3.3,2.1,0.0,2.0,6.66396695524062,94
-6,103,A Mansaray,Mitchell,Great Northeast Athletic Conference (GNAC),gnac,25,32.2,16.3,8.4,2.6,1.2,1.6,2.9,6.048862681092067,94
-7,106,A Madesko,Lasell,Great Northeast Athletic Conference (GNAC),gnac,26,33.3,12.4,7.8,4.8,2.0,0.6,2.2,5.958902173942437,94
-8,120,"R Ford, Jr.",Albertus Magnus,Great Northeast Athletic Conference (GNAC),gnac,27,34.1,16.2,4.8,4.2,1.9,0.2,1.9,5.815894543577689,94
-9,143,C Yeates,Dean,Great Northeast Athletic Conference (GNAC),gnac,26,31.8,17.0,6.5,2.5,2.3,0.2,2.3,5.560307259822976,93
-10,144,I Shaw-Glen,Rivier,Great Northeast Athletic Conference (GNAC),gnac,25,35.0,18.8,7.9,1.3,0.9,1.0,2.4,5.5395140828159475,93
-11,182,M Guerrier,Emmanuel,Great Northeast Athletic Conference (GNAC),gnac,27,31.0,15.5,8.1,2.4,1.0,0.4,1.6,5.179500961112177,93
-12,186,I Earl,Albertus Magnus,Great Northeast Athletic Conference (GNAC),gnac,27,30.9,13.8,6.7,1.8,1.6,1.7,2.2,5.1633061790539525,93
-13,272,J Frazier,Saint Joseph's (Maine),Great Northeast Athletic Conference (GNAC),gnac,24,32.3,15.3,4.4,2.3,1.0,0.7,1.2,4.549938804849843,92
-14,318,L Altenor,University of Saint Joseph (Conn.),Great Northeast Athletic Conference (GNAC),gnac,28,34.3,15.7,3.5,2.7,1.5,0.1,1.4,4.16269067572148,91
-15,346,N Motley,Dean,Great Northeast Athletic Conference (GNAC),gnac,25,30.8,15.1,5.3,1.8,1.3,0.6,1.8,3.939032563121956,91
-16,393,M Ndayishimiye,Norwich,Great Northeast Athletic Conference (GNAC),gnac,26,32.7,16.0,6.7,2.4,1.2,0.0,2.4,3.66682309948769,90
-17,421,T Butler,Mitchell,Great Northeast Athletic Conference (GNAC),gnac,24,30.6,18.3,1.4,2.3,1.7,0.2,2.3,3.5578231473893256,90
-18,511,R Mayfield,Elms,Great Northeast Athletic Conference (GNAC),gnac,25,29.3,13.0,5.3,0.8,1.6,1.0,1.9,3.078732679238244,88
-19,527,F Feldrappe,University of Saint Joseph (Conn.),Great Northeast Athletic Conference (GNAC),gnac,28,29.6,12.8,6.3,2.6,0.7,0.5,1.9,3.0171340750484843,88
-20,545,B Lee,Mitchell,Great Northeast Athletic Conference (GNAC),gnac,22,28.4,10.2,7.9,1.8,1.7,0.5,1.9,2.9437448834174913,88
-21,623,J Harvey,Regis,Great Northeast Athletic Conference (GNAC),gnac,26,25.7,14.1,6.1,1.5,0.8,0.7,2.3,2.6613531619431505,87
-22,665,D Tanksley Jr.,University of Saint Joseph (Conn.),Great Northeast Athletic Conference (GNAC),gnac,27,27.4,10.4,7.4,1.6,1.3,0.2,1.4,2.491394762625319,86
-23,718,J Kirkland,Albertus Magnus,Great Northeast Athletic Conference (GNAC),gnac,24,27.7,15.5,3.8,0.7,0.8,0.3,1.5,2.2803950328925224,86
-24,770,N Beaudet,Emmanuel,Great Northeast Athletic Conference (GNAC),gnac,27,28.9,14.9,3.6,1.1,1.3,0.0,1.7,2.1083113162621707,85
-25,771,D Mann,Saint Joseph's (Maine),Great Northeast Athletic Conference (GNAC),gnac,27,27.0,13.9,5.2,1.7,0.6,0.2,1.8,2.106879207057902,85
-26,798,S Peterson,Colby-Sawyer,Great Northeast Athletic Conference (GNAC),gnac,22,25.7,10.0,10.2,0.5,0.6,0.5,1.6,2.040797514543074,85
-27,846,A Sullivan,Regis,Great Northeast Athletic Conference (GNAC),gnac,23,29.1,11.5,4.1,4.3,1.2,0.0,2.6,1.8869809519249736,84
-28,905,R Vasquez,Dean,Great Northeast Athletic Conference (GNAC),gnac,26,32.2,9.7,8.1,0.8,0.7,0.2,1.1,1.643248007805416,83
-29,916,J DuBrul,Norwich,Great Northeast Athletic Conference (GNAC),gnac,24,31.3,15.2,6.0,1.5,0.8,0.0,2.8,1.6168173010085307,83
-30,1018,C Hanks,Lasell,Great Northeast Athletic Conference (GNAC),gnac,26,31.0,13.8,2.0,2.0,1.1,0.1,2.0,1.2692213027269097,82
-31,1033,J Ricketts,Norwich,Great Northeast Athletic Conference (GNAC),gnac,26,27.4,10.3,3.7,1.9,1.2,0.1,1.3,1.2151253833840776,81
-32,1077,E Thomas,Colby-Sawyer,Great Northeast Athletic Conference (GNAC),gnac,20,28.8,11.3,5.3,1.3,0.6,0.7,2.1,1.0790457790414556,81
-33,1082,D Adams,Emmanuel,Great Northeast Athletic Conference (GNAC),gnac,27,25.1,11.7,3.5,2.0,1.3,0.5,2.5,1.0668132288996997,81
-34,1086,D Dalcour,Rivier,Great Northeast Athletic Conference (GNAC),gnac,25,27.2,8.2,7.0,0.6,0.7,0.3,0.7,1.0619462640083164,81
-35,1093,C Snowden,Emmanuel,Great Northeast Athletic Conference (GNAC),gnac,22,25.9,11.0,3.7,1.2,0.6,0.3,1.0,1.0388895986871276,81
-36,1140,T Maiwen,Saint Joseph's (Maine),Great Northeast Athletic Conference (GNAC),gnac,28,20.3,6.8,5.7,1.5,1.0,1.1,1.6,0.9328818467122504,80
-37,1174,I Porter,Dean,Great Northeast Athletic Conference (GNAC),gnac,17,24.0,10.9,3.4,2.1,1.9,0.2,2.6,0.8560159268003542,79
-38,1191,C Nogard,Norwich,Great Northeast Athletic Conference (GNAC),gnac,20,24.5,9.4,6.3,0.8,1.3,0.3,1.8,0.8112639110535556,79
-39,1241,J Robie,New England College,Great Northeast Athletic Conference (GNAC),gnac,24,25.8,12.5,2.5,1.0,0.8,0.0,1.2,0.6959867436125536,79
-40,1249,D Watkins,Elms,Great Northeast Athletic Conference (GNAC),gnac,25,26.8,10.4,4.4,1.2,0.5,0.1,1.0,0.674068871499679,78
-41,1278,E Cancel,Elms,Great Northeast Athletic Conference (GNAC),gnac,25,22.0,8.6,4.0,1.5,1.2,0.4,1.4,0.607082045589074,78
-42,1325,R Figueroa,University of Saint Joseph (Conn.),Great Northeast Athletic Conference (GNAC),gnac,28,28.4,12.6,2.6,1.2,0.9,0.3,2.0,0.4934192584671363,77
-43,1333,M Youngquist,Rivier,Great Northeast Athletic Conference (GNAC),gnac,25,25.8,9.6,4.7,0.7,0.7,0.4,1.2,0.4671591991271959,77
-44,1337,A Macleod,New England College,Great Northeast Athletic Conference (GNAC),gnac,18,23.1,7.4,4.8,1.7,0.7,1.0,1.7,0.4585131548901832,77
-45,1346,A Ciaglo,Elms,Great Northeast Athletic Conference (GNAC),gnac,17,27.1,9.8,3.9,1.6,1.1,0.1,1.6,0.4319902084209517,77
-46,1429,R Elliott,Regis,Great Northeast Athletic Conference (GNAC),gnac,26,26.7,7.3,6.0,0.8,0.9,0.5,1.3,0.2390616880139651,76
-47,1461,J Tertulien,University of Saint Joseph (Conn.),Great Northeast Athletic Conference (GNAC),gnac,28,23.3,6.8,4.3,3.0,1.5,0.4,2.4,0.1315510212235624,76
-48,1465,G Brynda,Regis,Great Northeast Athletic Conference (GNAC),gnac,18,26.0,8.3,4.9,0.5,0.7,0.6,1.2,0.1115789311129724,76
-49,1523,J Williams,Rivier,Great Northeast Athletic Conference (GNAC),gnac,22,19.4,6.7,5.5,0.8,0.7,0.5,1.0,-0.0542624902211866,75
-50,1544,T Bellows,Colby-Sawyer,Great Northeast Athletic Conference (GNAC),gnac,25,31.1,12.3,3.7,2.0,0.6,0.4,3.1,-0.1162512092577658,75
-51,1616,J Beaudet,Mitchell,Great Northeast Athletic Conference (GNAC),gnac,23,14.6,5.2,5.2,0.5,0.3,1.0,0.6,-0.2978760937797798,74
-52,1618,X Rubio,Dean,Great Northeast Athletic Conference (GNAC),gnac,22,14.7,8.2,1.4,1.2,1.4,0.2,1.0,-0.2999127087444279,74
-53,1631,A Hinnant,Albertus Magnus,Great Northeast Athletic Conference (GNAC),gnac,26,19.8,4.8,6.2,0.7,0.6,1.2,1.4,-0.3215966026949903,73
-54,1675,A Lovelace,University of Saint Joseph (Conn.),Great Northeast Athletic Conference (GNAC),gnac,26,16.0,6.5,2.0,1.9,1.3,0.1,0.9,-0.4511212631521564,73
-55,1676,M Strazzeri,New England College,Great Northeast Athletic Conference (GNAC),gnac,25,26.7,11.0,3.4,2.4,0.7,0.1,2.8,-0.4549654683779165,73
-56,1679,L Montejo,New England College,Great Northeast Athletic Conference (GNAC),gnac,25,23.5,7.2,5.6,2.0,0.4,0.3,1.8,-0.4611152032182743,73
-57,1686,R Cuvier,New England College,Great Northeast Athletic Conference (GNAC),gnac,25,20.0,7.2,5.6,1.1,0.6,0.6,1.8,-0.4793752189729854,73
-58,1779,S Barnes,Rivier,Great Northeast Athletic Conference (GNAC),gnac,24,34.4,6.8,2.5,3.0,0.9,0.2,1.8,-0.6910620029727939,71
-59,1782,N Charlot,Albertus Magnus,Great Northeast Athletic Conference (GNAC),gnac,25,18.3,4.8,3.3,1.4,1.5,0.3,1.0,-0.7000201606226624,71
-60,1890,Z Tate,Mitchell,Great Northeast Athletic Conference (GNAC),gnac,21,19.4,5.8,3.8,0.7,0.4,0.6,0.7,-0.9405343892574368,70
-61,1919,L Lapierre Caissie,Colby-Sawyer,Great Northeast Athletic Conference (GNAC),gnac,25,25.8,7.2,4.5,1.4,0.8,0.1,1.7,-1.005651711140324,70
-62,2000,T Briscoe IV,Rivier,Great Northeast Athletic Conference (GNAC),gnac,24,21.5,6.8,2.5,0.7,0.7,0.3,0.8,-1.182987126227591,68
-63,2013,M Duran,Emmanuel,Great Northeast Athletic Conference (GNAC),gnac,22,21.0,5.4,3.7,1.2,0.5,0.3,0.8,-1.2112196079235242,68
-64,2042,N Fitzpatrick,Regis,Great Northeast Athletic Conference (GNAC),gnac,26,18.8,7.7,2.2,0.9,0.8,0.0,1.0,-1.2892119185439144,68
-65,2071,E Adarkwa,Colby-Sawyer,Great Northeast Athletic Conference (GNAC),gnac,20,25.6,10.8,2.4,1.9,0.8,0.2,3.1,-1.3440454641509527,68
-66,2117,D Stallworth,Mitchell,Great Northeast Athletic Conference (GNAC),gnac,19,16.4,6.8,2.3,1.6,1.3,0.1,1.8,-1.4383298063520362,67
-67,2123,T Chinn,Regis,Great Northeast Athletic Conference (GNAC),gnac,26,14.1,6.0,4.0,0.6,0.8,0.0,0.9,-1.4580848773882629,67
-68,2144,M Johnson-Correia,Norwich,Great Northeast Athletic Conference (GNAC),gnac,25,20.7,6.8,1.8,1.2,0.9,0.1,1.1,-1.4944190649999267,67
-69,2152,C Foster-Martez,Lasell,Great Northeast Athletic Conference (GNAC),gnac,26,17.6,4.0,3.1,1.0,0.8,0.3,0.5,-1.5149513971843165,66
-70,2184,A Oliveira,Emmanuel,Great Northeast Athletic Conference (GNAC),gnac,26,25.0,4.0,5.0,2.1,1.4,0.0,2.0,-1.5820684636007054,66
-71,2187,T Costin,Lasell,Great Northeast Athletic Conference (GNAC),gnac,26,14.8,7.2,1.9,0.4,0.7,0.0,0.6,-1.5933923602197462,66
-72,2192,Q Partee Jr.,Lasell,Great Northeast Athletic Conference (GNAC),gnac,25,13.4,6.7,3.5,0.4,0.4,0.2,0.9,-1.6145087346632143,66
-73,2245,K Dunphe,Saint Joseph's (Maine),Great Northeast Athletic Conference (GNAC),gnac,28,21.0,4.1,3.3,2.2,0.5,0.1,1.0,-1.7162726089878957,65
-74,2288,B Gadiaga,University of Saint Joseph (Conn.),Great Northeast Athletic Conference (GNAC),gnac,26,12.2,4.1,3.2,0.5,0.8,0.8,1.1,-1.8041311621467708,65
-75,2360,X Boyd,Dean,Great Northeast Athletic Conference (GNAC),gnac,24,19.8,8.6,3.3,0.7,0.3,0.0,1.7,-1.942352384809572,64
-76,2369,C Nell,Lasell,Great Northeast Athletic Conference (GNAC),gnac,26,14.3,4.6,3.0,0.5,0.3,0.6,0.7,-1.970260788111169,64
-77,2371,A Cisse,University of Saint Joseph (Conn.),Great Northeast Athletic Conference (GNAC),gnac,27,14.6,5.6,3.1,0.6,0.5,0.3,1.0,-1.972156023185202,64
-78,2409,J Box,Lasell,Great Northeast Athletic Conference (GNAC),gnac,16,23.4,5.1,1.7,1.8,0.5,0.1,0.9,-2.0196634337413304,63
-79,2415,Y Dakane,Saint Joseph's (Maine),Great Northeast Athletic Conference (GNAC),gnac,28,13.9,3.6,2.7,1.6,1.6,0.0,1.4,-2.0308672089117734,63
-80,2445,R Pearson,Albertus Magnus,Great Northeast Athletic Conference (GNAC),gnac,24,10.3,2.3,2.5,0.1,0.5,1.1,0.3,-2.092409306454481,63
-81,2456,J Stovall,New England College,Great Northeast Athletic Conference (GNAC),gnac,23,16.3,7.7,2.3,1.1,0.6,0.0,1.7,-2.1108055857081434,62
-82,2499,R Severy,Norwich,Great Northeast Athletic Conference (GNAC),gnac,26,16.6,4.5,4.5,0.5,0.3,0.3,1.0,-2.2071159393923914,62
-83,2575,R Rangel,Emmanuel,Great Northeast Athletic Conference (GNAC),gnac,26,17.0,4.4,2.5,1.9,0.6,0.0,1.2,-2.333392593666068,61
-84,2592,R Jones,Lasell,Great Northeast Athletic Conference (GNAC),gnac,16,13.4,3.4,2.2,1.0,0.3,0.3,0.3,-2.3640983605572714,61
-85,2630,J Bogar,Elms,Great Northeast Athletic Conference (GNAC),gnac,25,16.4,4.2,3.4,0.7,0.8,0.3,1.3,-2.4313934272022695,60
-86,2639,T Daly,Mitchell,Great Northeast Athletic Conference (GNAC),gnac,25,25.2,4.3,1.9,2.2,1.0,0.0,1.6,-2.4400629546118604,60
-87,2695,D Victory,Albertus Magnus,Great Northeast Athletic Conference (GNAC),gnac,23,13.8,2.3,2.0,1.9,1.1,0.1,1.0,-2.546688880618725,59
-88,2700,J Herbin,Regis,Great Northeast Athletic Conference (GNAC),gnac,23,20.9,4.3,2.9,0.6,0.8,0.1,1.0,-2.555159164167783,59
-89,2716,A Sarlan,Elms,Great Northeast Athletic Conference (GNAC),gnac,23,17.4,2.3,4.2,1.0,0.3,0.1,0.5,-2.6038282467888227,59
-90,2759,H Jacques,Emmanuel,Great Northeast Athletic Conference (GNAC),gnac,24,15.5,3.5,2.2,0.8,0.6,0.5,1.0,-2.689379718775477,58
-91,2846,D Reid,Regis,Great Northeast Athletic Conference (GNAC),gnac,26,13.0,4.8,1.5,0.3,0.5,0.1,0.6,-2.892160192686765,57
-92,2860,A Alicea,Mitchell,Great Northeast Athletic Conference (GNAC),gnac,21,13.7,5.3,1.1,0.5,0.4,0.0,0.6,-2.9174532702381746,57
-93,2879,D Salvatore,Saint Joseph's (Maine),Great Northeast Athletic Conference (GNAC),gnac,20,10.6,3.1,2.2,1.6,0.5,0.0,0.9,-2.9551559367247484,57
-94,2904,M Kanneh,Norwich,Great Northeast Athletic Conference (GNAC),gnac,26,15.8,2.2,3.3,0.5,0.2,0.5,0.6,-2.998493399667647,56
-95,2920,D Fontenot,Dean,Great Northeast Athletic Conference (GNAC),gnac,26,15.1,4.1,1.9,0.6,0.2,0.1,0.5,-3.03058844877316,56
-96,2948,M Hills,New England College,Great Northeast Athletic Conference (GNAC),gnac,21,13.6,5.6,1.5,1.0,0.4,0.0,1.3,-3.1020723612315386,56
-97,2997,J Welch,New England College,Great Northeast Athletic Conference (GNAC),gnac,25,10.4,3.4,2.0,0.4,0.4,0.2,0.6,-3.2104078702163887,55
-98,3011,C Louis,Dean,Great Northeast Athletic Conference (GNAC),gnac,26,11.5,2.9,2.3,0.5,0.2,0.1,0.3,-3.2383205401406365,55
-99,3020,C Jefferson,Mitchell,Great Northeast Athletic Conference (GNAC),gnac,25,14.4,4.6,1.3,0.3,0.3,0.0,0.5,-3.265082250407619,55
-100,3041,J Freeman,Saint Joseph's (Maine),Great Northeast Athletic Conference (GNAC),gnac,20,10.3,3.5,1.5,0.6,0.3,0.1,0.5,-3.3279192184898716,55
-101,3074,A Blunt,Colby-Sawyer,Great Northeast Athletic Conference (GNAC),gnac,25,19.8,4.7,2.3,0.6,0.3,0.4,1.6,-3.388696022576517,54
-102,3094,J Lawson,Elms,Great Northeast Athletic Conference (GNAC),gnac,24,13.5,3.8,2.7,1.0,0.5,0.0,1.4,-3.4511436410743173,54
-103,3098,C Hanavan,Emmanuel,Great Northeast Athletic Conference (GNAC),gnac,20,10.9,3.8,0.9,0.5,0.1,0.1,0.3,-3.455738163544049,54
-104,3136,K Emadamerho,New England College,Great Northeast Athletic Conference (GNAC),gnac,25,20.8,3.6,2.8,1.2,0.4,0.1,1.6,-3.5616592272364653,53
-105,3139,L Sward,Mitchell,Great Northeast Athletic Conference (GNAC),gnac,22,13.9,3.4,1.4,0.9,0.4,0.0,0.8,-3.5729231880606864,53
-106,3153,D Bogre,Norwich,Great Northeast Athletic Conference (GNAC),gnac,24,10.9,2.0,1.4,0.6,0.9,0.1,0.7,-3.626697111565411,53
-107,3176,T Edmonds,Colby-Sawyer,Great Northeast Athletic Conference (GNAC),gnac,25,24.3,5.3,2.8,2.0,0.6,0.0,2.9,-3.7013547296981297,53
-108,3190,R Johnson,Regis,Great Northeast Athletic Conference (GNAC),gnac,23,13.0,3.4,2.3,0.3,0.3,0.0,0.8,-3.757253201296447,53
-109,3224,N Nordberg,Norwich,Great Northeast Athletic Conference (GNAC),gnac,21,12.5,3.1,0.9,0.3,0.4,0.0,0.4,-3.831152151454942,52
-110,3263,M Berete,Dean,Great Northeast Athletic Conference (GNAC),gnac,20,13.2,2.9,2.2,0.3,0.2,0.1,0.8,-3.975141762958085,52
-111,3290,N Hutchinson,Norwich,Great Northeast Athletic Conference (GNAC),gnac,23,14.2,2.4,1.7,0.9,0.2,0.3,1.1,-4.040011865677592,51
-112,3307,D De Moor,Colby-Sawyer,Great Northeast Athletic Conference (GNAC),gnac,22,11.3,2.8,1.1,0.6,0.3,0.1,0.8,-4.107281482523507,51
+rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,15,2025-26,E Madesko,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,25,34.8,20.1,6.0,5.7,2.5,0.3,2.4,9.076285498430137,95
+2,29,2025-26,R Wani,Saint Joseph's (Maine),,Great Northeast Athletic Conference (GNAC),gnac,22,33.3,23.3,6.7,3.1,1.1,0.5,2.2,8.013947356633455,95
+3,42,2025-26,R Baguidy,Rivier,,Great Northeast Athletic Conference (GNAC),gnac,25,39.4,18.5,4.7,6.3,2.5,0.1,2.8,7.626222014524047,95
+4,65,2025-26,W Donato,Saint Joseph's (Maine),,Great Northeast Athletic Conference (GNAC),gnac,28,29.6,15.5,7.5,3.8,1.8,1.5,2.8,6.782218050877339,94
+5,67,2025-26,T Daniels,Albertus Magnus,,Great Northeast Athletic Conference (GNAC),gnac,24,29.3,21.3,3.3,3.3,2.1,0.0,2.0,6.66396695524062,94
+6,103,2025-26,A Mansaray,Mitchell,,Great Northeast Athletic Conference (GNAC),gnac,25,32.2,16.3,8.4,2.6,1.2,1.6,2.9,6.048862681092067,94
+7,106,2025-26,A Madesko,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,26,33.3,12.4,7.8,4.8,2.0,0.6,2.2,5.958902173942437,94
+8,120,2025-26,"R Ford, Jr.",Albertus Magnus,,Great Northeast Athletic Conference (GNAC),gnac,27,34.1,16.2,4.8,4.2,1.9,0.2,1.9,5.815894543577689,94
+9,143,2025-26,C Yeates,Dean,,Great Northeast Athletic Conference (GNAC),gnac,26,31.8,17.0,6.5,2.5,2.3,0.2,2.3,5.560307259822976,93
+10,144,2025-26,I Shaw-Glen,Rivier,,Great Northeast Athletic Conference (GNAC),gnac,25,35.0,18.8,7.9,1.3,0.9,1.0,2.4,5.5395140828159475,93
+11,182,2025-26,M Guerrier,Emmanuel,,Great Northeast Athletic Conference (GNAC),gnac,27,31.0,15.5,8.1,2.4,1.0,0.4,1.6,5.179500961112177,93
+12,186,2025-26,I Earl,Albertus Magnus,,Great Northeast Athletic Conference (GNAC),gnac,27,30.9,13.8,6.7,1.8,1.6,1.7,2.2,5.1633061790539525,93
+13,272,2025-26,J Frazier,Saint Joseph's (Maine),,Great Northeast Athletic Conference (GNAC),gnac,24,32.3,15.3,4.4,2.3,1.0,0.7,1.2,4.549938804849843,92
+14,318,2025-26,L Altenor,University of Saint Joseph (Conn.),,Great Northeast Athletic Conference (GNAC),gnac,28,34.3,15.7,3.5,2.7,1.5,0.1,1.4,4.16269067572148,91
+15,346,2025-26,N Motley,Dean,,Great Northeast Athletic Conference (GNAC),gnac,25,30.8,15.1,5.3,1.8,1.3,0.6,1.8,3.939032563121956,91
+16,393,2025-26,M Ndayishimiye,Norwich,,Great Northeast Athletic Conference (GNAC),gnac,26,32.7,16.0,6.7,2.4,1.2,0.0,2.4,3.66682309948769,90
+17,421,2025-26,T Butler,Mitchell,,Great Northeast Athletic Conference (GNAC),gnac,24,30.6,18.3,1.4,2.3,1.7,0.2,2.3,3.5578231473893256,90
+18,511,2025-26,R Mayfield,Elms,,Great Northeast Athletic Conference (GNAC),gnac,25,29.3,13.0,5.3,0.8,1.6,1.0,1.9,3.078732679238244,88
+19,527,2025-26,F Feldrappe,University of Saint Joseph (Conn.),,Great Northeast Athletic Conference (GNAC),gnac,28,29.6,12.8,6.3,2.6,0.7,0.5,1.9,3.0171340750484843,88
+20,545,2025-26,B Lee,Mitchell,,Great Northeast Athletic Conference (GNAC),gnac,22,28.4,10.2,7.9,1.8,1.7,0.5,1.9,2.9437448834174913,88
+21,623,2025-26,J Harvey,Regis,,Great Northeast Athletic Conference (GNAC),gnac,26,25.7,14.1,6.1,1.5,0.8,0.7,2.3,2.6613531619431505,87
+22,665,2025-26,D Tanksley Jr.,University of Saint Joseph (Conn.),,Great Northeast Athletic Conference (GNAC),gnac,27,27.4,10.4,7.4,1.6,1.3,0.2,1.4,2.491394762625319,86
+23,718,2025-26,J Kirkland,Albertus Magnus,,Great Northeast Athletic Conference (GNAC),gnac,24,27.7,15.5,3.8,0.7,0.8,0.3,1.5,2.2803950328925224,86
+24,770,2025-26,N Beaudet,Emmanuel,,Great Northeast Athletic Conference (GNAC),gnac,27,28.9,14.9,3.6,1.1,1.3,0.0,1.7,2.1083113162621707,85
+25,771,2025-26,D Mann,Saint Joseph's (Maine),,Great Northeast Athletic Conference (GNAC),gnac,27,27.0,13.9,5.2,1.7,0.6,0.2,1.8,2.106879207057902,85
+26,798,2025-26,S Peterson,Colby-Sawyer,,Great Northeast Athletic Conference (GNAC),gnac,22,25.7,10.0,10.2,0.5,0.6,0.5,1.6,2.040797514543074,85
+27,846,2025-26,A Sullivan,Regis,,Great Northeast Athletic Conference (GNAC),gnac,23,29.1,11.5,4.1,4.3,1.2,0.0,2.6,1.8869809519249736,84
+28,905,2025-26,R Vasquez,Dean,,Great Northeast Athletic Conference (GNAC),gnac,26,32.2,9.7,8.1,0.8,0.7,0.2,1.1,1.643248007805416,83
+29,916,2025-26,J DuBrul,Norwich,,Great Northeast Athletic Conference (GNAC),gnac,24,31.3,15.2,6.0,1.5,0.8,0.0,2.8,1.6168173010085307,83
+30,1018,2025-26,C Hanks,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,26,31.0,13.8,2.0,2.0,1.1,0.1,2.0,1.2692213027269097,82
+31,1033,2025-26,J Ricketts,Norwich,,Great Northeast Athletic Conference (GNAC),gnac,26,27.4,10.3,3.7,1.9,1.2,0.1,1.3,1.2151253833840776,81
+32,1077,2025-26,E Thomas,Colby-Sawyer,,Great Northeast Athletic Conference (GNAC),gnac,20,28.8,11.3,5.3,1.3,0.6,0.7,2.1,1.0790457790414556,81
+33,1082,2025-26,D Adams,Emmanuel,,Great Northeast Athletic Conference (GNAC),gnac,27,25.1,11.7,3.5,2.0,1.3,0.5,2.5,1.0668132288996997,81
+34,1086,2025-26,D Dalcour,Rivier,,Great Northeast Athletic Conference (GNAC),gnac,25,27.2,8.2,7.0,0.6,0.7,0.3,0.7,1.0619462640083164,81
+35,1093,2025-26,C Snowden,Emmanuel,,Great Northeast Athletic Conference (GNAC),gnac,22,25.9,11.0,3.7,1.2,0.6,0.3,1.0,1.0388895986871276,81
+36,1140,2025-26,T Maiwen,Saint Joseph's (Maine),,Great Northeast Athletic Conference (GNAC),gnac,28,20.3,6.8,5.7,1.5,1.0,1.1,1.6,0.9328818467122504,80
+37,1174,2025-26,I Porter,Dean,,Great Northeast Athletic Conference (GNAC),gnac,17,24.0,10.9,3.4,2.1,1.9,0.2,2.6,0.8560159268003542,79
+38,1191,2025-26,C Nogard,Norwich,,Great Northeast Athletic Conference (GNAC),gnac,20,24.5,9.4,6.3,0.8,1.3,0.3,1.8,0.8112639110535556,79
+39,1241,2025-26,J Robie,New England College,,Great Northeast Athletic Conference (GNAC),gnac,24,25.8,12.5,2.5,1.0,0.8,0.0,1.2,0.6959867436125536,79
+40,1249,2025-26,D Watkins,Elms,,Great Northeast Athletic Conference (GNAC),gnac,25,26.8,10.4,4.4,1.2,0.5,0.1,1.0,0.674068871499679,78
+41,1278,2025-26,E Cancel,Elms,,Great Northeast Athletic Conference (GNAC),gnac,25,22.0,8.6,4.0,1.5,1.2,0.4,1.4,0.607082045589074,78
+42,1325,2025-26,R Figueroa,University of Saint Joseph (Conn.),,Great Northeast Athletic Conference (GNAC),gnac,28,28.4,12.6,2.6,1.2,0.9,0.3,2.0,0.4934192584671363,77
+43,1333,2025-26,M Youngquist,Rivier,,Great Northeast Athletic Conference (GNAC),gnac,25,25.8,9.6,4.7,0.7,0.7,0.4,1.2,0.4671591991271959,77
+44,1337,2025-26,A Macleod,New England College,,Great Northeast Athletic Conference (GNAC),gnac,18,23.1,7.4,4.8,1.7,0.7,1.0,1.7,0.4585131548901832,77
+45,1346,2025-26,A Ciaglo,Elms,,Great Northeast Athletic Conference (GNAC),gnac,17,27.1,9.8,3.9,1.6,1.1,0.1,1.6,0.4319902084209517,77
+46,1429,2025-26,R Elliott,Regis,,Great Northeast Athletic Conference (GNAC),gnac,26,26.7,7.3,6.0,0.8,0.9,0.5,1.3,0.2390616880139651,76
+47,1461,2025-26,J Tertulien,University of Saint Joseph (Conn.),,Great Northeast Athletic Conference (GNAC),gnac,28,23.3,6.8,4.3,3.0,1.5,0.4,2.4,0.1315510212235624,76
+48,1465,2025-26,G Brynda,Regis,,Great Northeast Athletic Conference (GNAC),gnac,18,26.0,8.3,4.9,0.5,0.7,0.6,1.2,0.1115789311129724,76
+49,1523,2025-26,J Williams,Rivier,,Great Northeast Athletic Conference (GNAC),gnac,22,19.4,6.7,5.5,0.8,0.7,0.5,1.0,-0.0542624902211866,75
+50,1544,2025-26,T Bellows,Colby-Sawyer,,Great Northeast Athletic Conference (GNAC),gnac,25,31.1,12.3,3.7,2.0,0.6,0.4,3.1,-0.1162512092577658,75
+51,1616,2025-26,J Beaudet,Mitchell,,Great Northeast Athletic Conference (GNAC),gnac,23,14.6,5.2,5.2,0.5,0.3,1.0,0.6,-0.2978760937797798,74
+52,1618,2025-26,X Rubio,Dean,,Great Northeast Athletic Conference (GNAC),gnac,22,14.7,8.2,1.4,1.2,1.4,0.2,1.0,-0.2999127087444279,74
+53,1631,2025-26,A Hinnant,Albertus Magnus,,Great Northeast Athletic Conference (GNAC),gnac,26,19.8,4.8,6.2,0.7,0.6,1.2,1.4,-0.3215966026949903,73
+54,1675,2025-26,A Lovelace,University of Saint Joseph (Conn.),,Great Northeast Athletic Conference (GNAC),gnac,26,16.0,6.5,2.0,1.9,1.3,0.1,0.9,-0.4511212631521564,73
+55,1676,2025-26,M Strazzeri,New England College,,Great Northeast Athletic Conference (GNAC),gnac,25,26.7,11.0,3.4,2.4,0.7,0.1,2.8,-0.4549654683779165,73
+56,1679,2025-26,L Montejo,New England College,,Great Northeast Athletic Conference (GNAC),gnac,25,23.5,7.2,5.6,2.0,0.4,0.3,1.8,-0.4611152032182743,73
+57,1686,2025-26,R Cuvier,New England College,,Great Northeast Athletic Conference (GNAC),gnac,25,20.0,7.2,5.6,1.1,0.6,0.6,1.8,-0.4793752189729854,73
+58,1779,2025-26,S Barnes,Rivier,,Great Northeast Athletic Conference (GNAC),gnac,24,34.4,6.8,2.5,3.0,0.9,0.2,1.8,-0.6910620029727939,71
+59,1782,2025-26,N Charlot,Albertus Magnus,,Great Northeast Athletic Conference (GNAC),gnac,25,18.3,4.8,3.3,1.4,1.5,0.3,1.0,-0.7000201606226624,71
+60,1890,2025-26,Z Tate,Mitchell,,Great Northeast Athletic Conference (GNAC),gnac,21,19.4,5.8,3.8,0.7,0.4,0.6,0.7,-0.9405343892574368,70
+61,1919,2025-26,L Lapierre Caissie,Colby-Sawyer,,Great Northeast Athletic Conference (GNAC),gnac,25,25.8,7.2,4.5,1.4,0.8,0.1,1.7,-1.005651711140324,70
+62,2000,2025-26,T Briscoe IV,Rivier,,Great Northeast Athletic Conference (GNAC),gnac,24,21.5,6.8,2.5,0.7,0.7,0.3,0.8,-1.182987126227591,68
+63,2013,2025-26,M Duran,Emmanuel,,Great Northeast Athletic Conference (GNAC),gnac,22,21.0,5.4,3.7,1.2,0.5,0.3,0.8,-1.2112196079235242,68
+64,2042,2025-26,N Fitzpatrick,Regis,,Great Northeast Athletic Conference (GNAC),gnac,26,18.8,7.7,2.2,0.9,0.8,0.0,1.0,-1.2892119185439144,68
+65,2071,2025-26,E Adarkwa,Colby-Sawyer,,Great Northeast Athletic Conference (GNAC),gnac,20,25.6,10.8,2.4,1.9,0.8,0.2,3.1,-1.3440454641509527,68
+66,2117,2025-26,D Stallworth,Mitchell,,Great Northeast Athletic Conference (GNAC),gnac,19,16.4,6.8,2.3,1.6,1.3,0.1,1.8,-1.4383298063520362,67
+67,2123,2025-26,T Chinn,Regis,,Great Northeast Athletic Conference (GNAC),gnac,26,14.1,6.0,4.0,0.6,0.8,0.0,0.9,-1.4580848773882629,67
+68,2144,2025-26,M Johnson-Correia,Norwich,,Great Northeast Athletic Conference (GNAC),gnac,25,20.7,6.8,1.8,1.2,0.9,0.1,1.1,-1.4944190649999267,67
+69,2152,2025-26,C Foster-Martez,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,26,17.6,4.0,3.1,1.0,0.8,0.3,0.5,-1.5149513971843165,66
+70,2184,2025-26,A Oliveira,Emmanuel,,Great Northeast Athletic Conference (GNAC),gnac,26,25.0,4.0,5.0,2.1,1.4,0.0,2.0,-1.5820684636007054,66
+71,2187,2025-26,T Costin,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,26,14.8,7.2,1.9,0.4,0.7,0.0,0.6,-1.5933923602197462,66
+72,2192,2025-26,Q Partee Jr.,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,25,13.4,6.7,3.5,0.4,0.4,0.2,0.9,-1.6145087346632143,66
+73,2245,2025-26,K Dunphe,Saint Joseph's (Maine),,Great Northeast Athletic Conference (GNAC),gnac,28,21.0,4.1,3.3,2.2,0.5,0.1,1.0,-1.7162726089878957,65
+74,2288,2025-26,B Gadiaga,University of Saint Joseph (Conn.),,Great Northeast Athletic Conference (GNAC),gnac,26,12.2,4.1,3.2,0.5,0.8,0.8,1.1,-1.8041311621467708,65
+75,2360,2025-26,X Boyd,Dean,,Great Northeast Athletic Conference (GNAC),gnac,24,19.8,8.6,3.3,0.7,0.3,0.0,1.7,-1.942352384809572,64
+76,2369,2025-26,C Nell,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,26,14.3,4.6,3.0,0.5,0.3,0.6,0.7,-1.970260788111169,64
+77,2371,2025-26,A Cisse,University of Saint Joseph (Conn.),,Great Northeast Athletic Conference (GNAC),gnac,27,14.6,5.6,3.1,0.6,0.5,0.3,1.0,-1.972156023185202,64
+78,2409,2025-26,J Box,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,16,23.4,5.1,1.7,1.8,0.5,0.1,0.9,-2.0196634337413304,63
+79,2415,2025-26,Y Dakane,Saint Joseph's (Maine),,Great Northeast Athletic Conference (GNAC),gnac,28,13.9,3.6,2.7,1.6,1.6,0.0,1.4,-2.0308672089117734,63
+80,2445,2025-26,R Pearson,Albertus Magnus,,Great Northeast Athletic Conference (GNAC),gnac,24,10.3,2.3,2.5,0.1,0.5,1.1,0.3,-2.092409306454481,63
+81,2456,2025-26,J Stovall,New England College,,Great Northeast Athletic Conference (GNAC),gnac,23,16.3,7.7,2.3,1.1,0.6,0.0,1.7,-2.1108055857081434,62
+82,2499,2025-26,R Severy,Norwich,,Great Northeast Athletic Conference (GNAC),gnac,26,16.6,4.5,4.5,0.5,0.3,0.3,1.0,-2.2071159393923914,62
+83,2575,2025-26,R Rangel,Emmanuel,,Great Northeast Athletic Conference (GNAC),gnac,26,17.0,4.4,2.5,1.9,0.6,0.0,1.2,-2.333392593666068,61
+84,2592,2025-26,R Jones,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,16,13.4,3.4,2.2,1.0,0.3,0.3,0.3,-2.3640983605572714,61
+85,2630,2025-26,J Bogar,Elms,,Great Northeast Athletic Conference (GNAC),gnac,25,16.4,4.2,3.4,0.7,0.8,0.3,1.3,-2.4313934272022695,60
+86,2639,2025-26,T Daly,Mitchell,,Great Northeast Athletic Conference (GNAC),gnac,25,25.2,4.3,1.9,2.2,1.0,0.0,1.6,-2.4400629546118604,60
+87,2695,2025-26,D Victory,Albertus Magnus,,Great Northeast Athletic Conference (GNAC),gnac,23,13.8,2.3,2.0,1.9,1.1,0.1,1.0,-2.546688880618725,59
+88,2700,2025-26,J Herbin,Regis,,Great Northeast Athletic Conference (GNAC),gnac,23,20.9,4.3,2.9,0.6,0.8,0.1,1.0,-2.555159164167783,59
+89,2716,2025-26,A Sarlan,Elms,,Great Northeast Athletic Conference (GNAC),gnac,23,17.4,2.3,4.2,1.0,0.3,0.1,0.5,-2.6038282467888227,59
+90,2759,2025-26,H Jacques,Emmanuel,,Great Northeast Athletic Conference (GNAC),gnac,24,15.5,3.5,2.2,0.8,0.6,0.5,1.0,-2.689379718775477,58
+91,2846,2025-26,D Reid,Regis,,Great Northeast Athletic Conference (GNAC),gnac,26,13.0,4.8,1.5,0.3,0.5,0.1,0.6,-2.892160192686765,57
+92,2860,2025-26,A Alicea,Mitchell,,Great Northeast Athletic Conference (GNAC),gnac,21,13.7,5.3,1.1,0.5,0.4,0.0,0.6,-2.9174532702381746,57
+93,2879,2025-26,D Salvatore,Saint Joseph's (Maine),,Great Northeast Athletic Conference (GNAC),gnac,20,10.6,3.1,2.2,1.6,0.5,0.0,0.9,-2.9551559367247484,57
+94,2904,2025-26,M Kanneh,Norwich,,Great Northeast Athletic Conference (GNAC),gnac,26,15.8,2.2,3.3,0.5,0.2,0.5,0.6,-2.998493399667647,56
+95,2920,2025-26,D Fontenot,Dean,,Great Northeast Athletic Conference (GNAC),gnac,26,15.1,4.1,1.9,0.6,0.2,0.1,0.5,-3.03058844877316,56
+96,2948,2025-26,M Hills,New England College,,Great Northeast Athletic Conference (GNAC),gnac,21,13.6,5.6,1.5,1.0,0.4,0.0,1.3,-3.1020723612315386,56
+97,2997,2025-26,J Welch,New England College,,Great Northeast Athletic Conference (GNAC),gnac,25,10.4,3.4,2.0,0.4,0.4,0.2,0.6,-3.2104078702163887,55
+98,3011,2025-26,C Louis,Dean,,Great Northeast Athletic Conference (GNAC),gnac,26,11.5,2.9,2.3,0.5,0.2,0.1,0.3,-3.2383205401406365,55
+99,3020,2025-26,C Jefferson,Mitchell,,Great Northeast Athletic Conference (GNAC),gnac,25,14.4,4.6,1.3,0.3,0.3,0.0,0.5,-3.265082250407619,55
+100,3041,2025-26,J Freeman,Saint Joseph's (Maine),,Great Northeast Athletic Conference (GNAC),gnac,20,10.3,3.5,1.5,0.6,0.3,0.1,0.5,-3.3279192184898716,55
+101,3074,2025-26,A Blunt,Colby-Sawyer,,Great Northeast Athletic Conference (GNAC),gnac,25,19.8,4.7,2.3,0.6,0.3,0.4,1.6,-3.388696022576517,54
+102,3094,2025-26,J Lawson,Elms,,Great Northeast Athletic Conference (GNAC),gnac,24,13.5,3.8,2.7,1.0,0.5,0.0,1.4,-3.4511436410743173,54
+103,3098,2025-26,C Hanavan,Emmanuel,,Great Northeast Athletic Conference (GNAC),gnac,20,10.9,3.8,0.9,0.5,0.1,0.1,0.3,-3.455738163544049,54
+104,3136,2025-26,K Emadamerho,New England College,,Great Northeast Athletic Conference (GNAC),gnac,25,20.8,3.6,2.8,1.2,0.4,0.1,1.6,-3.5616592272364653,53
+105,3139,2025-26,L Sward,Mitchell,,Great Northeast Athletic Conference (GNAC),gnac,22,13.9,3.4,1.4,0.9,0.4,0.0,0.8,-3.5729231880606864,53
+106,3153,2025-26,D Bogre,Norwich,,Great Northeast Athletic Conference (GNAC),gnac,24,10.9,2.0,1.4,0.6,0.9,0.1,0.7,-3.626697111565411,53
+107,3176,2025-26,T Edmonds,Colby-Sawyer,,Great Northeast Athletic Conference (GNAC),gnac,25,24.3,5.3,2.8,2.0,0.6,0.0,2.9,-3.7013547296981297,53
+108,3190,2025-26,R Johnson,Regis,,Great Northeast Athletic Conference (GNAC),gnac,23,13.0,3.4,2.3,0.3,0.3,0.0,0.8,-3.757253201296447,53
+109,3224,2025-26,N Nordberg,Norwich,,Great Northeast Athletic Conference (GNAC),gnac,21,12.5,3.1,0.9,0.3,0.4,0.0,0.4,-3.831152151454942,52
+110,3263,2025-26,M Berete,Dean,,Great Northeast Athletic Conference (GNAC),gnac,20,13.2,2.9,2.2,0.3,0.2,0.1,0.8,-3.975141762958085,52
+111,3290,2025-26,N Hutchinson,Norwich,,Great Northeast Athletic Conference (GNAC),gnac,23,14.2,2.4,1.7,0.9,0.2,0.3,1.1,-4.040011865677592,51
+112,3307,2025-26,D De Moor,Colby-Sawyer,,Great Northeast Athletic Conference (GNAC),gnac,22,11.3,2.8,1.1,0.6,0.3,0.1,0.8,-4.107281482523507,51

@@ -1,70 +1,70 @@
-rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
-1,49,J Rodriguez,Pitt.-Bradford,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,27.1,19.6,3.8,1.9,3.0,0.4,1.4,7.273823632232,95
-2,130,T Rozich,Pitt.-Greensburg,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,33.8,16.6,6.9,4.4,1.3,0.2,2.4,5.703949950338135,93
-3,153,K Claar,Penn St.-Altoona,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,29.9,15.2,5.8,2.3,2.5,0.4,1.8,5.437486317841973,93
-4,183,M Rainey,La Roche,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,33.1,16.1,6.6,1.4,0.7,1.8,2.1,5.176804108061823,93
-5,202,J Byer,Pitt.-Greensburg,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,26.8,15.0,5.8,2.0,2.1,0.2,1.3,5.056122245800041,92
-6,208,L Morse,Hilbert,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,31.1,18.9,8.2,1.0,0.9,0.7,2.5,4.983211580799771,92
-7,233,B Epps,La Roche,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,31.6,16.9,6.3,2.4,1.6,0.1,2.1,4.7755687328999645,92
-8,248,J Dunkle,Penn St.-Behrend,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,29.8,17.0,8.3,1.0,0.7,0.7,1.9,4.691825889740502,92
-9,279,J Montgomery,Hilbert,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,30.6,9.0,4.9,6.9,1.9,0.7,2.6,4.477560443703263,91
-10,391,S Jenkins,Mt. Aloysius,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,30.1,12.9,9.7,1.0,1.2,0.4,1.8,3.6744868862431455,90
-11,406,D Bass-Briscoe,Mt. Aloysius,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,28.3,14.2,5.1,3.8,1.6,0.3,2.8,3.615057909807166,90
-12,465,M Baskerville,Penn St.-Altoona,Allegheny Mountain Collegiate Conference (AMCC),amcc,20,27.0,8.7,6.2,1.3,1.6,1.8,1.6,3.29196828289967,89
-13,559,M Lawson,Alfred St.,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,32.3,17.2,4.3,2.6,1.6,0.2,3.5,2.8696931706733895,88
-14,588,J Giannetta,Carlow,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,32.2,16.0,4.5,2.4,1.1,0.0,2.4,2.7821002883133055,87
-15,653,C Rankin,La Roche,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,30.8,10.7,5.1,3.8,1.3,0.4,2.3,2.525758677135526,86
-16,721,N Edwards,Penn St.-Behrend,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,31.5,11.5,4.9,1.7,1.1,0.2,1.1,2.2736804656812346,86
-17,727,T Tinch,Mt. Aloysius,Allegheny Mountain Collegiate Conference (AMCC),amcc,24,26.3,15.0,5.1,1.1,0.5,0.1,1.5,2.2423301732615317,85
-18,741,D Cunningham Jr,Alfred St.,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,32.5,15.5,5.2,2.1,1.3,0.4,3.4,2.204627379273312,85
-19,749,M Marinchak,Pitt.-Greensburg,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,28.9,13.0,3.1,1.2,1.2,0.3,1.1,2.1603027830409554,85
-20,780,T Keffer,Pitt.-Greensburg,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,28.5,9.3,5.0,1.6,1.4,0.3,0.8,2.0776496992136884,85
-21,802,N Poplar,Pitt.-Bradford,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,20.8,10.8,6.2,1.0,1.6,0.9,2.3,2.018480482741266,84
-22,836,M McDonough,Penn St.-Behrend,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,32.0,11.2,2.6,3.2,0.8,0.1,1.1,1.909518803755354,84
-23,857,N Frye,Penn St.-Altoona,Allegheny Mountain Collegiate Conference (AMCC),amcc,17,27.9,14.2,5.6,0.8,0.8,0.1,1.8,1.838807413301093,84
-24,902,R Daniels,Penn St.-Altoona,Allegheny Mountain Collegiate Conference (AMCC),amcc,19,24.7,14.8,2.1,1.4,0.8,0.5,1.9,1.656965524695179,83
-25,926,X Norris,Pitt.-Bradford,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,25.0,12.0,3.4,1.9,1.4,0.2,1.8,1.5934508135229843,83
-26,945,C Cook,Carlow,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,25.2,9.8,5.3,1.4,1.0,0.4,1.2,1.538940127635623,83
-27,953,M Bigley,Pitt.-Greensburg,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,26.4,10.0,3.9,3.0,0.8,0.1,1.3,1.5024356113722228,82
-28,978,M Blankenberg,Penn St.-Behrend,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,30.7,10.3,3.9,2.4,1.2,0.2,1.6,1.414621982144266,82
-29,994,T Pavihi,Carlow,Allegheny Mountain Collegiate Conference (AMCC),amcc,22,27.7,12.5,6.6,1.5,0.6,0.4,2.5,1.344469708799204,82
-30,1053,A Jones,Hilbert,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,27.0,13.4,4.2,1.6,1.0,0.0,2.2,1.15761689948655,81
-31,1087,C Cobbins,Pitt.-Bradford,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,20.0,9.4,4.8,1.1,1.3,0.4,1.4,1.0616732365594883,81
-32,1100,L Golle,La Roche,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,31.7,12.0,2.8,2.4,0.5,0.0,1.4,1.0103516155207732,80
-33,1131,N Fowlks,Hilbert,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,23.0,7.8,5.0,2.1,0.8,1.0,1.8,0.9566356490902916,80
-34,1355,B Cage,Penn St.-Altoona,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,24.1,12.0,1.5,1.4,1.0,0.2,1.6,0.4043918892421416,77
-35,1419,C Farley,Pitt.-Bradford,Allegheny Mountain Collegiate Conference (AMCC),amcc,24,19.8,10.7,2.0,1.5,1.2,0.0,1.4,0.2650739546570853,76
-36,1470,B Bell,La Roche,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,22.8,9.7,4.2,0.6,0.3,0.5,1.1,0.106922792266305,76
-37,1654,M Kargo,Penn St.-Altoona,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,25.9,4.0,2.6,4.5,1.7,0.1,2.0,-0.3867337707456122,73
-38,1737,T Edwards,Pitt.-Bradford,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,18.2,8.4,2.5,1.1,0.8,0.3,1.2,-0.5865606559202489,72
-39,1756,B Sneddon,Alfred St.,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,18.1,6.2,4.5,0.8,0.6,0.2,0.6,-0.6601707453464937,72
-40,1860,J Tavarez,Carlow,Allegheny Mountain Collegiate Conference (AMCC),amcc,23,21.8,9.2,3.4,1.6,0.7,0.1,2.0,-0.8537252660659085,70
-41,2125,X Boone,Pitt.-Bradford,Allegheny Mountain Collegiate Conference (AMCC),amcc,17,18.1,5.7,2.7,2.3,1.0,0.2,1.8,-1.459508913803957,67
-42,2155,A Batts,Carlow,Allegheny Mountain Collegiate Conference (AMCC),amcc,24,21.3,7.7,2.0,1.5,0.8,0.0,1.5,-1.5211934610704263,66
-43,2248,R Lewis,Hilbert,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,21.1,4.7,4.2,1.7,0.6,0.1,1.3,-1.7180655491096433,65
-44,2253,D Robinson,Hilbert,Allegheny Mountain Collegiate Conference (AMCC),amcc,21,14.1,3.8,3.8,1.1,0.7,0.2,0.7,-1.738913242784272,65
-45,2264,K Pryor,Pitt.-Bradford,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,17.6,5.3,1.7,1.8,0.8,0.1,1.0,-1.748054343814563,65
-46,2266,M Hill,Pitt.-Bradford,Allegheny Mountain Collegiate Conference (AMCC),amcc,21,11.3,6.5,1.5,0.6,1.3,0.0,1.0,-1.7509570860344403,65
-47,2326,E Kioko,Alfred St.,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,15.7,6.4,4.3,0.2,0.2,0.3,1.1,-1.8880054121731,64
-48,2355,S Mason,Penn St.-Behrend,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,24.4,4.8,2.0,1.5,0.6,0.0,0.6,-1.933017218744182,64
-49,2366,J Howard,Alfred St.,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,17.7,4.1,2.9,0.7,0.3,0.7,0.7,-1.9530427553822471,64
-50,2392,E Taft,Alfred St.,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,21.5,5.5,1.7,1.9,0.3,0.0,0.8,-1.9990521927163467,63
-51,2401,T Adamson,Carlow,Allegheny Mountain Collegiate Conference (AMCC),amcc,20,22.6,5.2,2.5,1.3,0.5,0.2,1.0,-2.0129354980327268,63
-52,2425,I Nascimento-Zschaeck,Mt. Aloysius,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,22.5,7.5,2.0,1.7,0.9,0.0,2.1,-2.0501915902839656,63
-53,2544,J Nelson,Mt. Aloysius,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,24.1,4.2,1.9,1.9,0.6,0.1,1.0,-2.27592880468762,61
-54,2578,J Beatty,La Roche,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,20.0,4.9,2.0,1.9,0.9,0.0,1.5,-2.3392291605980673,61
-55,2662,I Bremer,Hilbert,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,16.3,5.8,1.5,0.7,0.2,0.2,0.7,-2.480713563699976,60
-56,2705,S Williams,Hilbert,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,15.8,5.1,1.5,1.8,0.7,0.1,1.5,-2.570273815611134,59
-57,2736,J Collins,Pitt.-Greensburg,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,10.6,3.6,2.1,0.8,0.6,0.1,0.5,-2.6363951502347187,59
-58,2745,T Martin,Pitt.-Greensburg,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,14.7,4.9,1.3,0.7,0.5,0.0,0.5,-2.6675544449342996,59
-59,2801,A Cunningham,Alfred St.,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,23.5,2.0,3.6,2.1,0.6,0.1,1.3,-2.8076631788588675,58
-60,2906,S Brown,Pitt.-Bradford,Allegheny Mountain Collegiate Conference (AMCC),amcc,20,10.3,1.2,2.2,1.1,0.7,0.6,0.8,-3.006426918043265,56
-61,2937,J Jenisch,Penn St.-Behrend,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,14.0,4.1,2.1,0.3,0.4,0.1,0.6,-3.075185760879335,56
-62,3031,F Hutchison,Mt. Aloysius,Allegheny Mountain Collegiate Conference (AMCC),amcc,23,17.9,5.7,1.0,0.7,0.2,0.0,1.0,-3.301020293331745,55
-63,3119,S Byrd,Carlow,Allegheny Mountain Collegiate Conference (AMCC),amcc,17,13.7,3.1,2.8,0.9,0.4,0.1,1.2,-3.5237225728863506,54
-64,3138,D Hind,Penn St.-Behrend,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,11.0,3.4,1.2,1.0,0.3,0.0,0.7,-3.563474205315318,53
-65,3194,B Beard,Carlow,Allegheny Mountain Collegiate Conference (AMCC),amcc,24,14.1,3.9,1.9,0.5,0.5,0.2,1.4,-3.771981896123083,53
-66,3217,D Carr,Mt. Aloysius,Allegheny Mountain Collegiate Conference (AMCC),amcc,19,11.3,4.0,1.6,0.9,0.4,0.0,1.3,-3.81297721398266,52
-67,3298,Z Bruce,Penn St.-Altoona,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,12.5,3.1,1.8,0.4,0.2,0.2,1.0,-4.061839961345909,51
-68,3311,E Johansson,Penn St.-Altoona,Allegheny Mountain Collegiate Conference (AMCC),amcc,24,11.7,2.3,1.6,1.3,0.3,0.0,1.1,-4.137741479843325,51
-69,3351,D Allen,Carlow,Allegheny Mountain Collegiate Conference (AMCC),amcc,18,12.7,1.1,1.7,0.6,0.6,0.1,0.9,-4.427977295043243,50
+rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,49,2025-26,J Rodriguez,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,27.1,19.6,3.8,1.9,3.0,0.4,1.4,7.273823632232,95
+2,130,2025-26,T Rozich,Pitt.-Greensburg,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,33.8,16.6,6.9,4.4,1.3,0.2,2.4,5.703949950338135,93
+3,153,2025-26,K Claar,Penn St.-Altoona,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,29.9,15.2,5.8,2.3,2.5,0.4,1.8,5.437486317841973,93
+4,183,2025-26,M Rainey,La Roche,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,33.1,16.1,6.6,1.4,0.7,1.8,2.1,5.176804108061823,93
+5,202,2025-26,J Byer,Pitt.-Greensburg,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,26.8,15.0,5.8,2.0,2.1,0.2,1.3,5.056122245800041,92
+6,208,2025-26,L Morse,Hilbert,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,31.1,18.9,8.2,1.0,0.9,0.7,2.5,4.983211580799771,92
+7,233,2025-26,B Epps,La Roche,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,31.6,16.9,6.3,2.4,1.6,0.1,2.1,4.7755687328999645,92
+8,248,2025-26,J Dunkle,Penn St.-Behrend,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,29.8,17.0,8.3,1.0,0.7,0.7,1.9,4.691825889740502,92
+9,279,2025-26,J Montgomery,Hilbert,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,30.6,9.0,4.9,6.9,1.9,0.7,2.6,4.477560443703263,91
+10,391,2025-26,S Jenkins,Mt. Aloysius,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,30.1,12.9,9.7,1.0,1.2,0.4,1.8,3.6744868862431455,90
+11,406,2025-26,D Bass-Briscoe,Mt. Aloysius,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,28.3,14.2,5.1,3.8,1.6,0.3,2.8,3.615057909807166,90
+12,465,2025-26,M Baskerville,Penn St.-Altoona,,Allegheny Mountain Collegiate Conference (AMCC),amcc,20,27.0,8.7,6.2,1.3,1.6,1.8,1.6,3.29196828289967,89
+13,559,2025-26,M Lawson,Alfred St.,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,32.3,17.2,4.3,2.6,1.6,0.2,3.5,2.8696931706733895,88
+14,588,2025-26,J Giannetta,Carlow,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,32.2,16.0,4.5,2.4,1.1,0.0,2.4,2.7821002883133055,87
+15,653,2025-26,C Rankin,La Roche,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,30.8,10.7,5.1,3.8,1.3,0.4,2.3,2.525758677135526,86
+16,721,2025-26,N Edwards,Penn St.-Behrend,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,31.5,11.5,4.9,1.7,1.1,0.2,1.1,2.2736804656812346,86
+17,727,2025-26,T Tinch,Mt. Aloysius,,Allegheny Mountain Collegiate Conference (AMCC),amcc,24,26.3,15.0,5.1,1.1,0.5,0.1,1.5,2.2423301732615317,85
+18,741,2025-26,D Cunningham Jr,Alfred St.,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,32.5,15.5,5.2,2.1,1.3,0.4,3.4,2.204627379273312,85
+19,749,2025-26,M Marinchak,Pitt.-Greensburg,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,28.9,13.0,3.1,1.2,1.2,0.3,1.1,2.1603027830409554,85
+20,780,2025-26,T Keffer,Pitt.-Greensburg,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,28.5,9.3,5.0,1.6,1.4,0.3,0.8,2.0776496992136884,85
+21,802,2025-26,N Poplar,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,20.8,10.8,6.2,1.0,1.6,0.9,2.3,2.018480482741266,84
+22,836,2025-26,M McDonough,Penn St.-Behrend,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,32.0,11.2,2.6,3.2,0.8,0.1,1.1,1.909518803755354,84
+23,857,2025-26,N Frye,Penn St.-Altoona,,Allegheny Mountain Collegiate Conference (AMCC),amcc,17,27.9,14.2,5.6,0.8,0.8,0.1,1.8,1.838807413301093,84
+24,902,2025-26,R Daniels,Penn St.-Altoona,,Allegheny Mountain Collegiate Conference (AMCC),amcc,19,24.7,14.8,2.1,1.4,0.8,0.5,1.9,1.656965524695179,83
+25,926,2025-26,X Norris,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,25.0,12.0,3.4,1.9,1.4,0.2,1.8,1.5934508135229843,83
+26,945,2025-26,C Cook,Carlow,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,25.2,9.8,5.3,1.4,1.0,0.4,1.2,1.538940127635623,83
+27,953,2025-26,M Bigley,Pitt.-Greensburg,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,26.4,10.0,3.9,3.0,0.8,0.1,1.3,1.5024356113722228,82
+28,978,2025-26,M Blankenberg,Penn St.-Behrend,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,30.7,10.3,3.9,2.4,1.2,0.2,1.6,1.414621982144266,82
+29,994,2025-26,T Pavihi,Carlow,,Allegheny Mountain Collegiate Conference (AMCC),amcc,22,27.7,12.5,6.6,1.5,0.6,0.4,2.5,1.344469708799204,82
+30,1053,2025-26,A Jones,Hilbert,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,27.0,13.4,4.2,1.6,1.0,0.0,2.2,1.15761689948655,81
+31,1087,2025-26,C Cobbins,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,20.0,9.4,4.8,1.1,1.3,0.4,1.4,1.0616732365594883,81
+32,1100,2025-26,L Golle,La Roche,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,31.7,12.0,2.8,2.4,0.5,0.0,1.4,1.0103516155207732,80
+33,1131,2025-26,N Fowlks,Hilbert,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,23.0,7.8,5.0,2.1,0.8,1.0,1.8,0.9566356490902916,80
+34,1355,2025-26,B Cage,Penn St.-Altoona,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,24.1,12.0,1.5,1.4,1.0,0.2,1.6,0.4043918892421416,77
+35,1419,2025-26,C Farley,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,24,19.8,10.7,2.0,1.5,1.2,0.0,1.4,0.2650739546570853,76
+36,1470,2025-26,B Bell,La Roche,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,22.8,9.7,4.2,0.6,0.3,0.5,1.1,0.106922792266305,76
+37,1654,2025-26,M Kargo,Penn St.-Altoona,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,25.9,4.0,2.6,4.5,1.7,0.1,2.0,-0.3867337707456122,73
+38,1737,2025-26,T Edwards,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,18.2,8.4,2.5,1.1,0.8,0.3,1.2,-0.5865606559202489,72
+39,1756,2025-26,B Sneddon,Alfred St.,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,18.1,6.2,4.5,0.8,0.6,0.2,0.6,-0.6601707453464937,72
+40,1860,2025-26,J Tavarez,Carlow,,Allegheny Mountain Collegiate Conference (AMCC),amcc,23,21.8,9.2,3.4,1.6,0.7,0.1,2.0,-0.8537252660659085,70
+41,2125,2025-26,X Boone,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,17,18.1,5.7,2.7,2.3,1.0,0.2,1.8,-1.459508913803957,67
+42,2155,2025-26,A Batts,Carlow,,Allegheny Mountain Collegiate Conference (AMCC),amcc,24,21.3,7.7,2.0,1.5,0.8,0.0,1.5,-1.5211934610704263,66
+43,2248,2025-26,R Lewis,Hilbert,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,21.1,4.7,4.2,1.7,0.6,0.1,1.3,-1.7180655491096433,65
+44,2253,2025-26,D Robinson,Hilbert,,Allegheny Mountain Collegiate Conference (AMCC),amcc,21,14.1,3.8,3.8,1.1,0.7,0.2,0.7,-1.738913242784272,65
+45,2264,2025-26,K Pryor,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,17.6,5.3,1.7,1.8,0.8,0.1,1.0,-1.748054343814563,65
+46,2266,2025-26,M Hill,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,21,11.3,6.5,1.5,0.6,1.3,0.0,1.0,-1.7509570860344403,65
+47,2326,2025-26,E Kioko,Alfred St.,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,15.7,6.4,4.3,0.2,0.2,0.3,1.1,-1.8880054121731,64
+48,2355,2025-26,S Mason,Penn St.-Behrend,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,24.4,4.8,2.0,1.5,0.6,0.0,0.6,-1.933017218744182,64
+49,2366,2025-26,J Howard,Alfred St.,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,17.7,4.1,2.9,0.7,0.3,0.7,0.7,-1.9530427553822471,64
+50,2392,2025-26,E Taft,Alfred St.,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,21.5,5.5,1.7,1.9,0.3,0.0,0.8,-1.9990521927163467,63
+51,2401,2025-26,T Adamson,Carlow,,Allegheny Mountain Collegiate Conference (AMCC),amcc,20,22.6,5.2,2.5,1.3,0.5,0.2,1.0,-2.0129354980327268,63
+52,2425,2025-26,I Nascimento-Zschaeck,Mt. Aloysius,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,22.5,7.5,2.0,1.7,0.9,0.0,2.1,-2.0501915902839656,63
+53,2544,2025-26,J Nelson,Mt. Aloysius,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,24.1,4.2,1.9,1.9,0.6,0.1,1.0,-2.27592880468762,61
+54,2578,2025-26,J Beatty,La Roche,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,20.0,4.9,2.0,1.9,0.9,0.0,1.5,-2.3392291605980673,61
+55,2662,2025-26,I Bremer,Hilbert,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,16.3,5.8,1.5,0.7,0.2,0.2,0.7,-2.480713563699976,60
+56,2705,2025-26,S Williams,Hilbert,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,15.8,5.1,1.5,1.8,0.7,0.1,1.5,-2.570273815611134,59
+57,2736,2025-26,J Collins,Pitt.-Greensburg,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,10.6,3.6,2.1,0.8,0.6,0.1,0.5,-2.6363951502347187,59
+58,2745,2025-26,T Martin,Pitt.-Greensburg,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,14.7,4.9,1.3,0.7,0.5,0.0,0.5,-2.6675544449342996,59
+59,2801,2025-26,A Cunningham,Alfred St.,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,23.5,2.0,3.6,2.1,0.6,0.1,1.3,-2.8076631788588675,58
+60,2906,2025-26,S Brown,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,20,10.3,1.2,2.2,1.1,0.7,0.6,0.8,-3.006426918043265,56
+61,2937,2025-26,J Jenisch,Penn St.-Behrend,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,14.0,4.1,2.1,0.3,0.4,0.1,0.6,-3.075185760879335,56
+62,3031,2025-26,F Hutchison,Mt. Aloysius,,Allegheny Mountain Collegiate Conference (AMCC),amcc,23,17.9,5.7,1.0,0.7,0.2,0.0,1.0,-3.301020293331745,55
+63,3119,2025-26,S Byrd,Carlow,,Allegheny Mountain Collegiate Conference (AMCC),amcc,17,13.7,3.1,2.8,0.9,0.4,0.1,1.2,-3.5237225728863506,54
+64,3138,2025-26,D Hind,Penn St.-Behrend,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,11.0,3.4,1.2,1.0,0.3,0.0,0.7,-3.563474205315318,53
+65,3194,2025-26,B Beard,Carlow,,Allegheny Mountain Collegiate Conference (AMCC),amcc,24,14.1,3.9,1.9,0.5,0.5,0.2,1.4,-3.771981896123083,53
+66,3217,2025-26,D Carr,Mt. Aloysius,,Allegheny Mountain Collegiate Conference (AMCC),amcc,19,11.3,4.0,1.6,0.9,0.4,0.0,1.3,-3.81297721398266,52
+67,3298,2025-26,Z Bruce,Penn St.-Altoona,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,12.5,3.1,1.8,0.4,0.2,0.2,1.0,-4.061839961345909,51
+68,3311,2025-26,E Johansson,Penn St.-Altoona,,Allegheny Mountain Collegiate Conference (AMCC),amcc,24,11.7,2.3,1.6,1.3,0.3,0.0,1.1,-4.137741479843325,51
+69,3351,2025-26,D Allen,Carlow,,Allegheny Mountain Collegiate Conference (AMCC),amcc,18,12.7,1.1,1.7,0.6,0.6,0.1,0.9,-4.427977295043243,50

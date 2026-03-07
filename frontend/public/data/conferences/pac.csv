@@ -1,107 +1,107 @@
-rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
-1,30,"Butler,Sawyer",Franciscan,Presidents Athletic Conference (PAC),pac,27,31.59259259259259,21.89,5.67,2.22,2.48,0.81,2.4814814814814814,7.917517287162363,95
-2,46,"Plotner,Nathan",W&J,Presidents Athletic Conference (PAC),pac,28,31.0,14.32,6.68,1.64,2.14,2.61,1.75,7.50061846453837,95
-3,47,"Pinkett,Diaun",Chatham,Presidents Athletic Conference (PAC),pac,27,34.111111111111114,17.3,7.19,3.93,2.33,0.48,2.1481481481481484,7.465669528720676,95
-4,116,"Harrell,DJ",Westminster,Presidents Athletic Conference (PAC),pac,28,33.285714285714285,21.0,3.82,3.14,0.89,0.32,1.9642857142857144,5.860563642647404,94
-5,126,"Christenson,Mike",Grove City,Presidents Athletic Conference (PAC),pac,26,31.153846153846153,19.42,6.0,2.38,1.38,0.31,2.1153846153846154,5.76001677154175,93
-6,148,"Xavier,Lovenson",Chatham,Presidents Athletic Conference (PAC),pac,27,32.74074074074074,16.93,8.07,1.48,1.15,0.85,1.962962962962963,5.477940369768792,93
-7,152,"Rose,Coco",Bethany,Presidents Athletic Conference (PAC),pac,24,30.208333333333332,18.67,2.58,4.17,2.0,0.33,2.6666666666666665,5.452984974073501,93
-8,157,"Gales,Jaden",Saint Vincent,Presidents Athletic Conference (PAC),pac,23,27.47826086956522,17.39,7.52,0.91,1.13,0.7,1.5217391304347827,5.376419652675716,93
-9,344,"Randle,Kyle",Grove City,Presidents Athletic Conference (PAC),pac,26,28.23076923076923,15.88,4.12,1.73,1.73,0.35,1.7692307692307692,3.941711058019151,91
-10,417,"Ostrowski,Dev",Saint Vincent,Presidents Athletic Conference (PAC),pac,26,28.615384615384617,12.58,3.92,1.96,1.92,0.23,0.9615384615384616,3.5736705591102984,90
-11,437,"Oliver,Zach",Franciscan,Presidents Athletic Conference (PAC),pac,25,25.88,13.2,8.12,1.28,0.76,0.16,1.08,3.490672861395743,89
-12,455,"DePietro,Trey",Westminster,Presidents Athletic Conference (PAC),pac,27,26.77777777777778,11.93,5.52,1.89,0.52,1.33,1.4074074074074074,3.346267170060261,89
-13,481,"Lang, Ryan",Allegheny,Presidents Athletic Conference (PAC),pac,26,35.69230769230769,14.81,6.73,3.58,0.88,0.12,2.923076923076923,3.213622663925774,89
-14,486,"Reasbeck,Ryan",Bethany,Presidents Athletic Conference (PAC),pac,25,29.36,13.24,5.12,1.84,1.64,0.12,1.48,3.1909168053121872,89
-15,495,"Jackson,Jayden",Bethany,Presidents Athletic Conference (PAC),pac,25,30.12,15.84,7.64,1.08,0.72,0.8,2.8,3.1492757100241437,89
-16,528,"Weir,Drew",Westminster,Presidents Athletic Conference (PAC),pac,29,31.03448275862069,14.21,7.31,1.52,0.83,0.52,2.2413793103448274,3.015598905525819,88
-17,565,"Coletti,Tommy",Geneva,Presidents Athletic Conference (PAC),pac,26,34.73076923076923,13.46,5.85,2.54,0.69,1.04,2.730769230769231,2.847443892164492,88
-18,581,"Acosta,Alex",W&J,Presidents Athletic Conference (PAC),pac,28,25.892857142857142,11.93,6.86,0.71,1.14,0.79,1.5357142857142858,2.7998770307239544,87
-19,656,"Seidl,Matt",W&J,Presidents Athletic Conference (PAC),pac,28,32.42857142857143,11.71,5.21,2.57,2.14,0.36,2.6785714285714284,2.521871132533959,86
-20,689,"Bertovich,Jonathan",Geneva,Presidents Athletic Conference (PAC),pac,23,31.043478260869566,14.0,4.91,3.13,0.91,0.43,2.869565217391304,2.4100613562985576,86
-21,739,"TenBerge,Jake",Chatham,Presidents Athletic Conference (PAC),pac,27,27.703703703703702,12.07,6.0,1.74,0.59,0.59,1.7407407407407407,2.2065451267818377,85
-22,744,"Vizenor,Drew",Chatham,Presidents Athletic Conference (PAC),pac,27,26.666666666666668,10.7,4.44,1.3,1.11,0.63,1.0,2.1818323535476445,85
-23,763,"Niles,DJ",Hiram,Presidents Athletic Conference (PAC),pac,24,21.583333333333332,8.67,5.75,1.04,0.54,1.54,1.0833333333333333,2.13029301923364,85
-24,832,"Hixson,Troy",Bethany,Presidents Athletic Conference (PAC),pac,25,30.48,11.48,4.52,1.56,0.64,0.48,1.12,1.9163769570120308,84
-25,843,"Rhodes,Jackson",Waynesburg,Presidents Athletic Conference (PAC),pac,21,33.857142857142854,14.1,4.33,1.29,0.76,0.1,1.5714285714285714,1.8931823555846767,84
-26,845,"Latauskas, Pijus",Allegheny,Presidents Athletic Conference (PAC),pac,26,31.46153846153846,13.77,5.12,0.54,0.5,0.85,1.8846153846153848,1.888352864746563,84
-27,862,"Jones,Jevontae",Saint Vincent,Presidents Athletic Conference (PAC),pac,25,23.72,10.32,5.12,1.68,0.92,1.04,1.92,1.8212249628968125,84
-28,894,"Rowell,Cameron",W&J,Presidents Athletic Conference (PAC),pac,24,19.208333333333332,8.13,3.08,0.96,2.04,0.75,0.7916666666666666,1.6979307267869717,83
-29,943,"Yonkeu,Karl",Franciscan,Presidents Athletic Conference (PAC),pac,27,24.703703703703702,7.04,5.19,1.63,1.0,1.56,1.5925925925925926,1.5468121952996774,83
-30,954,"Henderson II,Anthony",Thiel,Presidents Athletic Conference (PAC),pac,23,32.82608695652174,10.09,2.87,2.0,1.17,0.17,0.8260869565217391,1.4949709191149132,82
-31,958,"Gordon,Maxwell",Saint Vincent,Presidents Athletic Conference (PAC),pac,24,26.208333333333332,8.54,2.96,4.21,1.21,0.08,1.5416666666666667,1.4754054025249388,82
-32,1058,"Johncour,Austin",Grove City,Presidents Athletic Conference (PAC),pac,26,19.46153846153846,9.62,6.58,0.65,0.27,0.92,1.3846153846153846,1.1493097042271334,81
-33,1067,"Carte,Matthew",W&J,Presidents Athletic Conference (PAC),pac,28,24.321428571428573,11.25,2.96,2.86,1.11,0.07,1.9642857142857144,1.1219713923227466,81
-34,1074,"Bishop,Bryson",Bethany,Presidents Athletic Conference (PAC),pac,15,25.333333333333332,6.93,5.73,1.47,0.87,1.47,1.8,1.1029226688422695,81
-35,1092,"Barker,Trey",Geneva,Presidents Athletic Conference (PAC),pac,26,32.88461538461539,13.27,4.5,0.88,0.38,0.08,1.4615384615384617,1.0430629699149834,81
-36,1111,"Andrews,Alex",Bethany,Presidents Athletic Conference (PAC),pac,12,17.25,7.67,6.0,0.5,0.58,1.17,1.0833333333333333,0.9894123537881916,80
-37,1112,"Ulysse,Drovinsky",Hiram,Presidents Athletic Conference (PAC),pac,26,22.923076923076923,6.92,4.15,1.73,1.15,1.04,1.3076923076923077,0.9892204229542492,80
-38,1154,"Jones,Collin",Hiram,Presidents Athletic Conference (PAC),pac,26,26.53846153846154,12.65,3.5,1.42,0.81,0.31,2.0,0.9073240315437336,80
-39,1187,"Million,Nick",Geneva,Presidents Athletic Conference (PAC),pac,18,26.166666666666668,9.28,4.89,0.56,0.78,0.61,1.0555555555555556,0.8209409771603398,79
-40,1208,"Blake,Aiden",Waynesburg,Presidents Athletic Conference (PAC),pac,14,21.142857142857142,10.71,3.93,0.64,0.93,0.29,1.1428571428571428,0.7747182278171114,79
-41,1222,"Accursio-Harris,Khamari",Thiel,Presidents Athletic Conference (PAC),pac,23,28.17391304347826,9.78,4.39,2.0,0.78,0.74,2.1739130434782608,0.7306027412999362,79
-42,1245,"Sitter, James",Allegheny,Presidents Athletic Conference (PAC),pac,26,28.846153846153847,9.88,4.46,0.96,0.73,0.38,1.1923076923076923,0.688754915702204,79
-43,1292,"Ryan,Nick",Westminster,Presidents Athletic Conference (PAC),pac,24,25.25,10.0,5.71,1.0,0.63,0.13,1.375,0.5809084845797249,78
-44,1297,"Plasko,Michael",W&J,Presidents Athletic Conference (PAC),pac,23,21.782608695652176,10.96,1.83,1.3,1.26,0.09,1.2173913043478262,0.5633122721124547,78
-45,1330,"Burlenski,Quinton",W&J,Presidents Athletic Conference (PAC),pac,28,25.571428571428573,9.0,2.89,2.21,1.57,0.0,1.6071428571428572,0.4762187393856527,77
-46,1373,"Goins,Jalen",Waynesburg,Presidents Athletic Conference (PAC),pac,22,30.90909090909091,8.5,3.09,2.32,1.05,0.32,1.5454545454545454,0.3754763915222736,77
-47,1394,"Perry, Jayson",Allegheny,Presidents Athletic Conference (PAC),pac,25,28.68,8.6,2.8,3.24,0.68,0.68,2.16,0.3382665502980991,77
-48,1467,"Pollaro,Zachary",Franciscan,Presidents Athletic Conference (PAC),pac,23,21.217391304347824,8.74,3.09,0.91,1.09,0.0,0.6956521739130435,0.1108418654255761,76
-49,1472,"Kemp,Kadenne",Thiel,Presidents Athletic Conference (PAC),pac,24,22.666666666666668,8.67,6.46,0.38,0.42,0.54,1.4583333333333333,0.0936202690786024,76
-50,1488,"Payne,Jaden",Saint Vincent,Presidents Athletic Conference (PAC),pac,18,22.11111111111111,8.11,4.39,0.5,1.0,0.44,1.1111111111111112,0.0416694765522235,75
-51,1537,"Hergenrother,Mick",Westminster,Presidents Athletic Conference (PAC),pac,28,29.964285714285715,5.82,3.71,3.14,2.04,0.0,2.142857142857143,-0.089030056298085,75
-52,1563,"Stanley,Lucas",Westminster,Presidents Athletic Conference (PAC),pac,29,21.24137931034483,7.62,2.69,0.66,1.0,0.21,0.4137931034482758,-0.1740607760081607,74
-53,1622,"Martin,Colton",Grove City,Presidents Athletic Conference (PAC),pac,26,23.076923076923077,7.38,4.54,1.08,0.96,0.27,1.3076923076923077,-0.3062033795166251,74
-54,1714,"Keesee,Casey",Waynesburg,Presidents Athletic Conference (PAC),pac,19,24.473684210526315,10.21,2.63,2.42,0.68,0.0,2.210526315789474,-0.5340103997734791,72
-55,1718,"Crosby,Terek",Saint Vincent,Presidents Athletic Conference (PAC),pac,26,19.46153846153846,9.46,2.15,0.92,0.69,0.12,1.0384615384615383,-0.5441970411793459,72
-56,1758,"Iuzzolino,Mike",Saint Vincent,Presidents Athletic Conference (PAC),pac,24,23.0,9.42,2.04,1.13,0.83,0.04,1.25,-0.6619878199801701,72
-57,1760,"Ermat,Kenny",Thiel,Presidents Athletic Conference (PAC),pac,24,21.041666666666668,6.46,5.17,1.33,0.75,0.5,1.7083333333333333,-0.6676151529299995,72
-58,1766,"Matthews,Austin",Geneva,Presidents Athletic Conference (PAC),pac,26,22.923076923076923,7.96,5.65,0.58,0.46,0.27,1.4615384615384617,-0.675998354220753,72
-59,1796,"Townsend,Aiden",Franciscan,Presidents Athletic Conference (PAC),pac,27,17.703703703703702,6.33,2.7,0.89,0.63,1.04,1.1851851851851851,-0.7271253999220099,71
-60,1802,"Wallace, Max",Allegheny,Presidents Athletic Conference (PAC),pac,26,20.653846153846153,6.69,3.35,0.85,0.5,0.65,0.9615384615384616,-0.7531233801232113,71
-61,1804,"Sanders,Das",Thiel,Presidents Athletic Conference (PAC),pac,24,24.125,7.75,4.63,1.08,0.58,0.42,1.7083333333333333,-0.7556164694254186,71
-62,1872,"Bilovus,Scott",Waynesburg,Presidents Athletic Conference (PAC),pac,24,22.5,8.75,2.46,0.46,0.54,0.17,0.8333333333333334,-0.898501952787265,70
-63,1935,"Makrancy,Brock",Hiram,Presidents Athletic Conference (PAC),pac,25,26.16,8.12,2.96,1.36,0.44,0.12,1.28,-1.050040992531002,69
-64,1974,"Covetta,Anthony",Franciscan,Presidents Athletic Conference (PAC),pac,27,15.62962962962963,8.81,1.96,0.44,0.41,0.11,0.7037037037037037,-1.1260996858622372,69
-65,1990,"Srock,Alec",Geneva,Presidents Athletic Conference (PAC),pac,26,22.923076923076923,7.04,5.19,0.81,0.54,0.08,1.3846153846153846,-1.1549605297161671,69
-66,2095,"Martin,Josh",Hiram,Presidents Athletic Conference (PAC),pac,19,23.210526315789473,6.21,2.89,2.21,0.74,0.0,1.4736842105263157,-1.3865525101808227,67
-67,2200,"Hill,Dushawn",Hiram,Presidents Athletic Conference (PAC),pac,24,14.791666666666666,6.54,1.83,1.67,0.46,0.04,0.9583333333333334,-1.6340137049349566,66
-68,2219,"Violan,Manuel Devora",Hiram,Presidents Athletic Conference (PAC),pac,26,14.73076923076923,6.04,2.31,1.08,0.88,0.23,1.1923076923076923,-1.671663245941922,66
-69,2235,"Haller,Caleb",Grove City,Presidents Athletic Conference (PAC),pac,26,19.0,3.62,4.15,1.96,0.65,0.31,1.3076923076923077,-1.704387333040516,65
-70,2254,"DiCecco,John",Thiel,Presidents Athletic Conference (PAC),pac,23,23.956521739130434,7.35,2.91,0.91,0.39,0.3,1.4782608695652173,-1.7392040956389407,65
-71,2263,"Smith,Mikey",Waynesburg,Presidents Athletic Conference (PAC),pac,18,17.72222222222222,4.11,4.83,0.83,0.61,0.28,1.0,-1.7480081195794106,65
-72,2304,"Fulmer,Easton",Chatham,Presidents Athletic Conference (PAC),pac,27,15.37037037037037,6.93,2.04,0.85,0.26,0.22,0.8888888888888888,-1.8350506441986565,64
-73,2375,"Rose-Burton,Malachi",Franciscan,Presidents Athletic Conference (PAC),pac,27,18.48148148148148,3.19,2.48,1.63,0.56,0.22,0.4814814814814814,-1.9771518879971777,63
-74,2412,"Scott,Avery",Hiram,Presidents Athletic Conference (PAC),pac,10,17.7,6.7,2.9,0.8,0.6,0.3,1.6,-2.0207978144894594,63
-75,2419,"Stewart,Jaden",Bethany,Presidents Athletic Conference (PAC),pac,25,11.48,5.28,1.84,0.24,0.52,0.28,0.32,-2.036834258436415,63
-76,2432,"Richards,Nathan",Franciscan,Presidents Athletic Conference (PAC),pac,27,18.48148148148148,4.63,1.52,1.67,0.74,0.11,0.8518518518518519,-2.0637110807761188,63
-77,2459,"Collins,Drew",Grove City,Presidents Athletic Conference (PAC),pac,12,18.25,5.5,2.25,0.92,0.33,0.42,1.0,-2.1156091172612843,62
-78,2478,"Marshall,Semaj",Bethany,Presidents Athletic Conference (PAC),pac,24,19.958333333333332,5.25,2.46,2.71,1.25,0.08,2.5,-2.157505262302632,62
-79,2549,"Brockmeyer, Lincoln",Allegheny,Presidents Athletic Conference (PAC),pac,22,15.818181818181818,6.23,2.91,0.27,0.64,0.05,1.0909090909090908,-2.2833509677996453,61
-80,2550,"Genther,Zach",Chatham,Presidents Athletic Conference (PAC),pac,26,19.192307692307693,5.31,1.35,1.73,0.5,0.08,1.0384615384615383,-2.2854187473183982,61
-81,2603,"Barnhart,Grant",Waynesburg,Presidents Athletic Conference (PAC),pac,25,17.56,4.84,2.76,0.44,0.24,0.36,0.72,-2.3890683960114365,60
-82,2605,"Agema,Jack",Hiram,Presidents Athletic Conference (PAC),pac,24,16.75,5.17,1.5,1.71,0.71,0.0,1.2083333333333333,-2.3911478525184116,60
-83,2655,"Trotsko,Volodymyr",Franciscan,Presidents Athletic Conference (PAC),pac,25,12.2,4.12,3.12,0.8,0.24,0.04,0.48,-2.467135768576827,60
-84,2668,"Norfleet IV,Sam",Chatham,Presidents Athletic Conference (PAC),pac,25,21.04,5.12,1.48,1.6,0.56,0.04,1.12,-2.491811583633634,60
-85,2733,"Colucci,Nick",W&J,Presidents Athletic Conference (PAC),pac,20,11.4,3.15,2.25,0.8,1.25,0.1,0.95,-2.6334186974656104,59
-86,2765,"Teslovich, Eli",Allegheny,Presidents Athletic Conference (PAC),pac,26,15.615384615384617,5.12,1.77,1.54,0.54,0.0,1.3076923076923077,-2.713359419170197,58
-87,2877,"Rivers,Demetrius",Waynesburg,Presidents Athletic Conference (PAC),pac,16,14.8125,2.75,3.13,0.88,0.63,0.88,1.75,-2.9471076611620894,57
-88,2907,"Spalding,Duncan",Saint Vincent,Presidents Athletic Conference (PAC),pac,25,10.76,3.48,2.48,0.4,0.36,0.16,0.52,-3.006649087511819,56
-89,2964,"Raikes,Donovan",Waynesburg,Presidents Athletic Conference (PAC),pac,19,12.052631578947368,1.74,2.68,0.32,0.16,0.68,0.4210526315789473,-3.1399805069514786,56
-90,2976,"Edwards,Ryan",Geneva,Presidents Athletic Conference (PAC),pac,26,19.03846153846154,4.15,1.62,1.35,0.65,0.0,1.2692307692307692,-3.153369030534111,55
-91,2987,"Skelton,Anderson",Grove City,Presidents Athletic Conference (PAC),pac,24,13.0,2.42,1.71,0.63,0.54,0.46,0.6666666666666666,-3.17197362417596,55
-92,3002,"Jenkins,TJ",Bethany,Presidents Athletic Conference (PAC),pac,20,11.1,1.45,2.5,1.25,0.4,0.25,0.6,-3.220334446742383,55
-93,3005,"Gopalakrishna,Liam",Hiram,Presidents Athletic Conference (PAC),pac,26,11.615384615384617,4.04,1.12,0.46,0.35,0.04,0.3846153846153846,-3.226249431113195,55
-94,3072,"Lilly,Zech",Thiel,Presidents Athletic Conference (PAC),pac,21,10.761904761904765,2.38,2.86,0.1,0.19,0.29,0.3809523809523809,-3.3842326696837066,54
-95,3084,"Lentz,Logan",Thiel,Presidents Athletic Conference (PAC),pac,23,13.565217391304348,2.91,2.09,0.61,0.65,0.3,1.0869565217391304,-3.415726255697733,54
-96,3123,"Callahan,Donovan",Chatham,Presidents Athletic Conference (PAC),pac,25,13.12,3.44,2.36,0.68,0.28,0.16,1.04,-3.545897967256713,53
-97,3132,"Hendershott,Jaxon",Westminster,Presidents Athletic Conference (PAC),pac,29,13.482758620689657,3.28,1.1,0.79,0.17,0.0,0.3793103448275862,-3.558891104257371,53
-98,3144,Mitchell Wiechecki,Hiram,Presidents Athletic Conference (PAC),pac,18,12.11111111111111,3.39,2.17,0.78,0.28,0.11,1.0,-3.587020652247604,53
-99,3172,"Book,Josh",Grove City,Presidents Athletic Conference (PAC),pac,21,12.476190476190476,2.38,2.76,0.95,0.19,0.05,0.8571428571428571,-3.6965654513153767,53
-100,3205,"Maddalon, Owen",Allegheny,Presidents Athletic Conference (PAC),pac,26,14.73076923076923,1.19,2.38,0.73,0.62,0.08,0.6538461538461539,-3.786729680229367,52
-101,3214,"Conklin,Liam",Grove City,Presidents Athletic Conference (PAC),pac,26,12.576923076923077,1.96,2.0,0.85,0.58,0.12,0.9230769230769232,-3.8072185374026337,52
-102,3235,"Olinger,David",Grove City,Presidents Athletic Conference (PAC),pac,22,12.181818181818182,0.82,1.41,1.18,0.59,0.14,0.5909090909090909,-3.866489828688897,52
-103,3267,"Lucas,Tayt",Geneva,Presidents Athletic Conference (PAC),pac,26,11.846153846153848,2.92,0.85,0.42,0.38,0.0,0.5,-3.97750007319972,52
-104,3293,"Heaton,Kyle",Hiram,Presidents Athletic Conference (PAC),pac,23,11.73913043478261,1.61,1.57,0.52,0.22,0.3,0.5652173913043478,-4.052992109993478,51
-105,3321,"Wolf,Owen",Grove City,Presidents Athletic Conference (PAC),pac,26,10.461538461538462,2.08,1.58,0.5,0.08,0.12,0.5,-4.1635330730236815,51
-106,3350,"Bungart,Lasse",Chatham,Presidents Athletic Conference (PAC),pac,18,10.22222222222222,1.39,1.72,0.67,0.22,0.06,0.6666666666666666,-4.41823491997862,50
+rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,30,2025-26,"Butler,Sawyer",Franciscan,G,Presidents Athletic Conference (PAC),pac,27,31.59259259259259,21.89,5.67,2.22,2.48,0.81,2.4814814814814814,7.917517287162363,95
+2,46,2025-26,"Plotner,Nathan",W&J,F,Presidents Athletic Conference (PAC),pac,28,31.0,14.32,6.68,1.64,2.14,2.61,1.75,7.50061846453837,95
+3,47,2025-26,"Pinkett,Diaun",Chatham,G,Presidents Athletic Conference (PAC),pac,27,34.111111111111114,17.3,7.19,3.93,2.33,0.48,2.1481481481481484,7.465669528720676,95
+4,116,2025-26,"Harrell,DJ",Westminster,G,Presidents Athletic Conference (PAC),pac,28,33.285714285714285,21.0,3.82,3.14,0.89,0.32,1.9642857142857144,5.860563642647404,94
+5,126,2025-26,"Christenson,Mike",Grove City,G,Presidents Athletic Conference (PAC),pac,26,31.153846153846153,19.42,6.0,2.38,1.38,0.31,2.1153846153846154,5.76001677154175,93
+6,148,2025-26,"Xavier,Lovenson",Chatham,G,Presidents Athletic Conference (PAC),pac,27,32.74074074074074,16.93,8.07,1.48,1.15,0.85,1.962962962962963,5.477940369768792,93
+7,152,2025-26,"Rose,Coco",Bethany,G,Presidents Athletic Conference (PAC),pac,24,30.208333333333332,18.67,2.58,4.17,2.0,0.33,2.6666666666666665,5.452984974073501,93
+8,157,2025-26,"Gales,Jaden",Saint Vincent,F,Presidents Athletic Conference (PAC),pac,23,27.47826086956522,17.39,7.52,0.91,1.13,0.7,1.5217391304347827,5.376419652675716,93
+9,344,2025-26,"Randle,Kyle",Grove City,G,Presidents Athletic Conference (PAC),pac,26,28.23076923076923,15.88,4.12,1.73,1.73,0.35,1.7692307692307692,3.941711058019151,91
+10,417,2025-26,"Ostrowski,Dev",Saint Vincent,G,Presidents Athletic Conference (PAC),pac,26,28.615384615384617,12.58,3.92,1.96,1.92,0.23,0.9615384615384616,3.5736705591102984,90
+11,437,2025-26,"Oliver,Zach",Franciscan,F,Presidents Athletic Conference (PAC),pac,25,25.88,13.2,8.12,1.28,0.76,0.16,1.08,3.490672861395743,89
+12,455,2025-26,"DePietro,Trey",Westminster,G,Presidents Athletic Conference (PAC),pac,27,26.77777777777778,11.93,5.52,1.89,0.52,1.33,1.4074074074074074,3.346267170060261,89
+13,481,2025-26,"Lang, Ryan",Allegheny,*,Presidents Athletic Conference (PAC),pac,26,35.69230769230769,14.81,6.73,3.58,0.88,0.12,2.923076923076923,3.213622663925774,89
+14,486,2025-26,"Reasbeck,Ryan",Bethany,G,Presidents Athletic Conference (PAC),pac,25,29.36,13.24,5.12,1.84,1.64,0.12,1.48,3.1909168053121872,89
+15,495,2025-26,"Jackson,Jayden",Bethany,F,Presidents Athletic Conference (PAC),pac,25,30.12,15.84,7.64,1.08,0.72,0.8,2.8,3.1492757100241437,89
+16,528,2025-26,"Weir,Drew",Westminster,G,Presidents Athletic Conference (PAC),pac,29,31.03448275862069,14.21,7.31,1.52,0.83,0.52,2.2413793103448274,3.015598905525819,88
+17,565,2025-26,"Coletti,Tommy",Geneva,G,Presidents Athletic Conference (PAC),pac,26,34.73076923076923,13.46,5.85,2.54,0.69,1.04,2.730769230769231,2.847443892164492,88
+18,581,2025-26,"Acosta,Alex",W&J,F,Presidents Athletic Conference (PAC),pac,28,25.892857142857142,11.93,6.86,0.71,1.14,0.79,1.5357142857142858,2.7998770307239544,87
+19,656,2025-26,"Seidl,Matt",W&J,G,Presidents Athletic Conference (PAC),pac,28,32.42857142857143,11.71,5.21,2.57,2.14,0.36,2.6785714285714284,2.521871132533959,86
+20,689,2025-26,"Bertovich,Jonathan",Geneva,G,Presidents Athletic Conference (PAC),pac,23,31.043478260869566,14.0,4.91,3.13,0.91,0.43,2.869565217391304,2.4100613562985576,86
+21,739,2025-26,"TenBerge,Jake",Chatham,F,Presidents Athletic Conference (PAC),pac,27,27.703703703703702,12.07,6.0,1.74,0.59,0.59,1.7407407407407407,2.2065451267818377,85
+22,744,2025-26,"Vizenor,Drew",Chatham,G,Presidents Athletic Conference (PAC),pac,27,26.666666666666668,10.7,4.44,1.3,1.11,0.63,1.0,2.1818323535476445,85
+23,763,2025-26,"Niles,DJ",Hiram,F,Presidents Athletic Conference (PAC),pac,24,21.583333333333332,8.67,5.75,1.04,0.54,1.54,1.0833333333333333,2.13029301923364,85
+24,832,2025-26,"Hixson,Troy",Bethany,G,Presidents Athletic Conference (PAC),pac,25,30.48,11.48,4.52,1.56,0.64,0.48,1.12,1.9163769570120308,84
+25,843,2025-26,"Rhodes,Jackson",Waynesburg,F,Presidents Athletic Conference (PAC),pac,21,33.857142857142854,14.1,4.33,1.29,0.76,0.1,1.5714285714285714,1.8931823555846767,84
+26,845,2025-26,"Latauskas, Pijus",Allegheny,*,Presidents Athletic Conference (PAC),pac,26,31.46153846153846,13.77,5.12,0.54,0.5,0.85,1.8846153846153848,1.888352864746563,84
+27,862,2025-26,"Jones,Jevontae",Saint Vincent,G,Presidents Athletic Conference (PAC),pac,25,23.72,10.32,5.12,1.68,0.92,1.04,1.92,1.8212249628968125,84
+28,894,2025-26,"Rowell,Cameron",W&J,G,Presidents Athletic Conference (PAC),pac,24,19.208333333333332,8.13,3.08,0.96,2.04,0.75,0.7916666666666666,1.6979307267869717,83
+29,943,2025-26,"Yonkeu,Karl",Franciscan,F,Presidents Athletic Conference (PAC),pac,27,24.703703703703702,7.04,5.19,1.63,1.0,1.56,1.5925925925925926,1.5468121952996774,83
+30,954,2025-26,"Henderson II,Anthony",Thiel,G,Presidents Athletic Conference (PAC),pac,23,32.82608695652174,10.09,2.87,2.0,1.17,0.17,0.8260869565217391,1.4949709191149132,82
+31,958,2025-26,"Gordon,Maxwell",Saint Vincent,G,Presidents Athletic Conference (PAC),pac,24,26.208333333333332,8.54,2.96,4.21,1.21,0.08,1.5416666666666667,1.4754054025249388,82
+32,1058,2025-26,"Johncour,Austin",Grove City,C,Presidents Athletic Conference (PAC),pac,26,19.46153846153846,9.62,6.58,0.65,0.27,0.92,1.3846153846153846,1.1493097042271334,81
+33,1067,2025-26,"Carte,Matthew",W&J,G,Presidents Athletic Conference (PAC),pac,28,24.321428571428573,11.25,2.96,2.86,1.11,0.07,1.9642857142857144,1.1219713923227466,81
+34,1074,2025-26,"Bishop,Bryson",Bethany,G,Presidents Athletic Conference (PAC),pac,15,25.333333333333332,6.93,5.73,1.47,0.87,1.47,1.8,1.1029226688422695,81
+35,1092,2025-26,"Barker,Trey",Geneva,G,Presidents Athletic Conference (PAC),pac,26,32.88461538461539,13.27,4.5,0.88,0.38,0.08,1.4615384615384617,1.0430629699149834,81
+36,1111,2025-26,"Andrews,Alex",Bethany,F,Presidents Athletic Conference (PAC),pac,12,17.25,7.67,6.0,0.5,0.58,1.17,1.0833333333333333,0.9894123537881916,80
+37,1112,2025-26,"Ulysse,Drovinsky",Hiram,F,Presidents Athletic Conference (PAC),pac,26,22.923076923076923,6.92,4.15,1.73,1.15,1.04,1.3076923076923077,0.9892204229542492,80
+38,1154,2025-26,"Jones,Collin",Hiram,G,Presidents Athletic Conference (PAC),pac,26,26.53846153846154,12.65,3.5,1.42,0.81,0.31,2.0,0.9073240315437336,80
+39,1187,2025-26,"Million,Nick",Geneva,G,Presidents Athletic Conference (PAC),pac,18,26.166666666666668,9.28,4.89,0.56,0.78,0.61,1.0555555555555556,0.8209409771603398,79
+40,1208,2025-26,"Blake,Aiden",Waynesburg,G,Presidents Athletic Conference (PAC),pac,14,21.142857142857142,10.71,3.93,0.64,0.93,0.29,1.1428571428571428,0.7747182278171114,79
+41,1222,2025-26,"Accursio-Harris,Khamari",Thiel,F,Presidents Athletic Conference (PAC),pac,23,28.17391304347826,9.78,4.39,2.0,0.78,0.74,2.1739130434782608,0.7306027412999362,79
+42,1245,2025-26,"Sitter, James",Allegheny,*,Presidents Athletic Conference (PAC),pac,26,28.846153846153847,9.88,4.46,0.96,0.73,0.38,1.1923076923076923,0.688754915702204,79
+43,1292,2025-26,"Ryan,Nick",Westminster,G,Presidents Athletic Conference (PAC),pac,24,25.25,10.0,5.71,1.0,0.63,0.13,1.375,0.5809084845797249,78
+44,1297,2025-26,"Plasko,Michael",W&J,G,Presidents Athletic Conference (PAC),pac,23,21.782608695652176,10.96,1.83,1.3,1.26,0.09,1.2173913043478262,0.5633122721124547,78
+45,1330,2025-26,"Burlenski,Quinton",W&J,G,Presidents Athletic Conference (PAC),pac,28,25.571428571428573,9.0,2.89,2.21,1.57,0.0,1.6071428571428572,0.4762187393856527,77
+46,1373,2025-26,"Goins,Jalen",Waynesburg,G,Presidents Athletic Conference (PAC),pac,22,30.90909090909091,8.5,3.09,2.32,1.05,0.32,1.5454545454545454,0.3754763915222736,77
+47,1394,2025-26,"Perry, Jayson",Allegheny,*,Presidents Athletic Conference (PAC),pac,25,28.68,8.6,2.8,3.24,0.68,0.68,2.16,0.3382665502980991,77
+48,1467,2025-26,"Pollaro,Zachary",Franciscan,G,Presidents Athletic Conference (PAC),pac,23,21.217391304347824,8.74,3.09,0.91,1.09,0.0,0.6956521739130435,0.1108418654255761,76
+49,1472,2025-26,"Kemp,Kadenne",Thiel,F,Presidents Athletic Conference (PAC),pac,24,22.666666666666668,8.67,6.46,0.38,0.42,0.54,1.4583333333333333,0.0936202690786024,76
+50,1488,2025-26,"Payne,Jaden",Saint Vincent,F,Presidents Athletic Conference (PAC),pac,18,22.11111111111111,8.11,4.39,0.5,1.0,0.44,1.1111111111111112,0.0416694765522235,75
+51,1537,2025-26,"Hergenrother,Mick",Westminster,G,Presidents Athletic Conference (PAC),pac,28,29.964285714285715,5.82,3.71,3.14,2.04,0.0,2.142857142857143,-0.089030056298085,75
+52,1563,2025-26,"Stanley,Lucas",Westminster,G,Presidents Athletic Conference (PAC),pac,29,21.24137931034483,7.62,2.69,0.66,1.0,0.21,0.4137931034482758,-0.1740607760081607,74
+53,1622,2025-26,"Martin,Colton",Grove City,F,Presidents Athletic Conference (PAC),pac,26,23.076923076923077,7.38,4.54,1.08,0.96,0.27,1.3076923076923077,-0.3062033795166251,74
+54,1714,2025-26,"Keesee,Casey",Waynesburg,G,Presidents Athletic Conference (PAC),pac,19,24.473684210526315,10.21,2.63,2.42,0.68,0.0,2.210526315789474,-0.5340103997734791,72
+55,1718,2025-26,"Crosby,Terek",Saint Vincent,G,Presidents Athletic Conference (PAC),pac,26,19.46153846153846,9.46,2.15,0.92,0.69,0.12,1.0384615384615383,-0.5441970411793459,72
+56,1758,2025-26,"Iuzzolino,Mike",Saint Vincent,G,Presidents Athletic Conference (PAC),pac,24,23.0,9.42,2.04,1.13,0.83,0.04,1.25,-0.6619878199801701,72
+57,1760,2025-26,"Ermat,Kenny",Thiel,F,Presidents Athletic Conference (PAC),pac,24,21.041666666666668,6.46,5.17,1.33,0.75,0.5,1.7083333333333333,-0.6676151529299995,72
+58,1766,2025-26,"Matthews,Austin",Geneva,C,Presidents Athletic Conference (PAC),pac,26,22.923076923076923,7.96,5.65,0.58,0.46,0.27,1.4615384615384617,-0.675998354220753,72
+59,1796,2025-26,"Townsend,Aiden",Franciscan,F,Presidents Athletic Conference (PAC),pac,27,17.703703703703702,6.33,2.7,0.89,0.63,1.04,1.1851851851851851,-0.7271253999220099,71
+60,1802,2025-26,"Wallace, Max",Allegheny,0,Presidents Athletic Conference (PAC),pac,26,20.653846153846153,6.69,3.35,0.85,0.5,0.65,0.9615384615384616,-0.7531233801232113,71
+61,1804,2025-26,"Sanders,Das",Thiel,F,Presidents Athletic Conference (PAC),pac,24,24.125,7.75,4.63,1.08,0.58,0.42,1.7083333333333333,-0.7556164694254186,71
+62,1872,2025-26,"Bilovus,Scott",Waynesburg,G,Presidents Athletic Conference (PAC),pac,24,22.5,8.75,2.46,0.46,0.54,0.17,0.8333333333333334,-0.898501952787265,70
+63,1935,2025-26,"Makrancy,Brock",Hiram,F,Presidents Athletic Conference (PAC),pac,25,26.16,8.12,2.96,1.36,0.44,0.12,1.28,-1.050040992531002,69
+64,1974,2025-26,"Covetta,Anthony",Franciscan,G,Presidents Athletic Conference (PAC),pac,27,15.62962962962963,8.81,1.96,0.44,0.41,0.11,0.7037037037037037,-1.1260996858622372,69
+65,1990,2025-26,"Srock,Alec",Geneva,F,Presidents Athletic Conference (PAC),pac,26,22.923076923076923,7.04,5.19,0.81,0.54,0.08,1.3846153846153846,-1.1549605297161671,69
+66,2095,2025-26,"Martin,Josh",Hiram,G,Presidents Athletic Conference (PAC),pac,19,23.210526315789473,6.21,2.89,2.21,0.74,0.0,1.4736842105263157,-1.3865525101808227,67
+67,2200,2025-26,"Hill,Dushawn",Hiram,G,Presidents Athletic Conference (PAC),pac,24,14.791666666666666,6.54,1.83,1.67,0.46,0.04,0.9583333333333334,-1.6340137049349566,66
+68,2219,2025-26,"Violan,Manuel Devora",Hiram,G,Presidents Athletic Conference (PAC),pac,26,14.73076923076923,6.04,2.31,1.08,0.88,0.23,1.1923076923076923,-1.671663245941922,66
+69,2235,2025-26,"Haller,Caleb",Grove City,G,Presidents Athletic Conference (PAC),pac,26,19.0,3.62,4.15,1.96,0.65,0.31,1.3076923076923077,-1.704387333040516,65
+70,2254,2025-26,"DiCecco,John",Thiel,F,Presidents Athletic Conference (PAC),pac,23,23.956521739130434,7.35,2.91,0.91,0.39,0.3,1.4782608695652173,-1.7392040956389407,65
+71,2263,2025-26,"Smith,Mikey",Waynesburg,G,Presidents Athletic Conference (PAC),pac,18,17.72222222222222,4.11,4.83,0.83,0.61,0.28,1.0,-1.7480081195794106,65
+72,2304,2025-26,"Fulmer,Easton",Chatham,G,Presidents Athletic Conference (PAC),pac,27,15.37037037037037,6.93,2.04,0.85,0.26,0.22,0.8888888888888888,-1.8350506441986565,64
+73,2375,2025-26,"Rose-Burton,Malachi",Franciscan,G,Presidents Athletic Conference (PAC),pac,27,18.48148148148148,3.19,2.48,1.63,0.56,0.22,0.4814814814814814,-1.9771518879971777,63
+74,2412,2025-26,"Scott,Avery",Hiram,G,Presidents Athletic Conference (PAC),pac,10,17.7,6.7,2.9,0.8,0.6,0.3,1.6,-2.0207978144894594,63
+75,2419,2025-26,"Stewart,Jaden",Bethany,G,Presidents Athletic Conference (PAC),pac,25,11.48,5.28,1.84,0.24,0.52,0.28,0.32,-2.036834258436415,63
+76,2432,2025-26,"Richards,Nathan",Franciscan,G,Presidents Athletic Conference (PAC),pac,27,18.48148148148148,4.63,1.52,1.67,0.74,0.11,0.8518518518518519,-2.0637110807761188,63
+77,2459,2025-26,"Collins,Drew",Grove City,G,Presidents Athletic Conference (PAC),pac,12,18.25,5.5,2.25,0.92,0.33,0.42,1.0,-2.1156091172612843,62
+78,2478,2025-26,"Marshall,Semaj",Bethany,G,Presidents Athletic Conference (PAC),pac,24,19.958333333333332,5.25,2.46,2.71,1.25,0.08,2.5,-2.157505262302632,62
+79,2549,2025-26,"Brockmeyer, Lincoln",Allegheny,0,Presidents Athletic Conference (PAC),pac,22,15.818181818181818,6.23,2.91,0.27,0.64,0.05,1.0909090909090908,-2.2833509677996453,61
+80,2550,2025-26,"Genther,Zach",Chatham,G,Presidents Athletic Conference (PAC),pac,26,19.192307692307693,5.31,1.35,1.73,0.5,0.08,1.0384615384615383,-2.2854187473183982,61
+81,2603,2025-26,"Barnhart,Grant",Waynesburg,G,Presidents Athletic Conference (PAC),pac,25,17.56,4.84,2.76,0.44,0.24,0.36,0.72,-2.3890683960114365,60
+82,2605,2025-26,"Agema,Jack",Hiram,G,Presidents Athletic Conference (PAC),pac,24,16.75,5.17,1.5,1.71,0.71,0.0,1.2083333333333333,-2.3911478525184116,60
+83,2655,2025-26,"Trotsko,Volodymyr",Franciscan,F,Presidents Athletic Conference (PAC),pac,25,12.2,4.12,3.12,0.8,0.24,0.04,0.48,-2.467135768576827,60
+84,2668,2025-26,"Norfleet IV,Sam",Chatham,G,Presidents Athletic Conference (PAC),pac,25,21.04,5.12,1.48,1.6,0.56,0.04,1.12,-2.491811583633634,60
+85,2733,2025-26,"Colucci,Nick",W&J,G,Presidents Athletic Conference (PAC),pac,20,11.4,3.15,2.25,0.8,1.25,0.1,0.95,-2.6334186974656104,59
+86,2765,2025-26,"Teslovich, Eli",Allegheny,0,Presidents Athletic Conference (PAC),pac,26,15.615384615384617,5.12,1.77,1.54,0.54,0.0,1.3076923076923077,-2.713359419170197,58
+87,2877,2025-26,"Rivers,Demetrius",Waynesburg,G,Presidents Athletic Conference (PAC),pac,16,14.8125,2.75,3.13,0.88,0.63,0.88,1.75,-2.9471076611620894,57
+88,2907,2025-26,"Spalding,Duncan",Saint Vincent,F,Presidents Athletic Conference (PAC),pac,25,10.76,3.48,2.48,0.4,0.36,0.16,0.52,-3.006649087511819,56
+89,2964,2025-26,"Raikes,Donovan",Waynesburg,F,Presidents Athletic Conference (PAC),pac,19,12.052631578947368,1.74,2.68,0.32,0.16,0.68,0.4210526315789473,-3.1399805069514786,56
+90,2976,2025-26,"Edwards,Ryan",Geneva,G,Presidents Athletic Conference (PAC),pac,26,19.03846153846154,4.15,1.62,1.35,0.65,0.0,1.2692307692307692,-3.153369030534111,55
+91,2987,2025-26,"Skelton,Anderson",Grove City,G,Presidents Athletic Conference (PAC),pac,24,13.0,2.42,1.71,0.63,0.54,0.46,0.6666666666666666,-3.17197362417596,55
+92,3002,2025-26,"Jenkins,TJ",Bethany,G,Presidents Athletic Conference (PAC),pac,20,11.1,1.45,2.5,1.25,0.4,0.25,0.6,-3.220334446742383,55
+93,3005,2025-26,"Gopalakrishna,Liam",Hiram,G,Presidents Athletic Conference (PAC),pac,26,11.615384615384617,4.04,1.12,0.46,0.35,0.04,0.3846153846153846,-3.226249431113195,55
+94,3072,2025-26,"Lilly,Zech",Thiel,F,Presidents Athletic Conference (PAC),pac,21,10.761904761904765,2.38,2.86,0.1,0.19,0.29,0.3809523809523809,-3.3842326696837066,54
+95,3084,2025-26,"Lentz,Logan",Thiel,G,Presidents Athletic Conference (PAC),pac,23,13.565217391304348,2.91,2.09,0.61,0.65,0.3,1.0869565217391304,-3.415726255697733,54
+96,3123,2025-26,"Callahan,Donovan",Chatham,G,Presidents Athletic Conference (PAC),pac,25,13.12,3.44,2.36,0.68,0.28,0.16,1.04,-3.545897967256713,53
+97,3132,2025-26,"Hendershott,Jaxon",Westminster,G,Presidents Athletic Conference (PAC),pac,29,13.482758620689657,3.28,1.1,0.79,0.17,0.0,0.3793103448275862,-3.558891104257371,53
+98,3144,2025-26,Mitchell Wiechecki,Hiram,0,Presidents Athletic Conference (PAC),pac,18,12.11111111111111,3.39,2.17,0.78,0.28,0.11,1.0,-3.587020652247604,53
+99,3172,2025-26,"Book,Josh",Grove City,F,Presidents Athletic Conference (PAC),pac,21,12.476190476190476,2.38,2.76,0.95,0.19,0.05,0.8571428571428571,-3.6965654513153767,53
+100,3205,2025-26,"Maddalon, Owen",Allegheny,*,Presidents Athletic Conference (PAC),pac,26,14.73076923076923,1.19,2.38,0.73,0.62,0.08,0.6538461538461539,-3.786729680229367,52
+101,3214,2025-26,"Conklin,Liam",Grove City,F,Presidents Athletic Conference (PAC),pac,26,12.576923076923077,1.96,2.0,0.85,0.58,0.12,0.9230769230769232,-3.8072185374026337,52
+102,3235,2025-26,"Olinger,David",Grove City,F,Presidents Athletic Conference (PAC),pac,22,12.181818181818182,0.82,1.41,1.18,0.59,0.14,0.5909090909090909,-3.866489828688897,52
+103,3267,2025-26,"Lucas,Tayt",Geneva,G,Presidents Athletic Conference (PAC),pac,26,11.846153846153848,2.92,0.85,0.42,0.38,0.0,0.5,-3.97750007319972,52
+104,3293,2025-26,"Heaton,Kyle",Hiram,F,Presidents Athletic Conference (PAC),pac,23,11.73913043478261,1.61,1.57,0.52,0.22,0.3,0.5652173913043478,-4.052992109993478,51
+105,3321,2025-26,"Wolf,Owen",Grove City,F,Presidents Athletic Conference (PAC),pac,26,10.461538461538462,2.08,1.58,0.5,0.08,0.12,0.5,-4.1635330730236815,51
+106,3350,2025-26,"Bungart,Lasse",Chatham,F,Presidents Athletic Conference (PAC),pac,18,10.22222222222222,1.39,1.72,0.67,0.22,0.06,0.6666666666666666,-4.41823491997862,50

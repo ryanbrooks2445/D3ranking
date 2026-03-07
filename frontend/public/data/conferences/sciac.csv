@@ -1,87 +1,87 @@
-rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
-1,32,"McCleery Brown,Alex",Occidental,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,32.63636363636363,19.23,10.09,1.95,2.18,0.27,1.8636363636363635,7.880613231004174,95
-2,54,Reid Jones,Claremont-Mudd-Scripps,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,31.36,15.24,5.0,1.96,3.84,0.72,1.32,7.238332253697857,94
-3,60,Tochi Onyeador,Whittier,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,30.291666666666668,9.21,11.17,1.13,1.54,3.0,1.3333333333333333,6.967665060213178,94
-4,109,Will Householter,Claremont-Mudd-Scripps,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,33.72,18.92,3.04,3.52,1.88,0.2,1.84,5.93091242636001,94
-5,162,"Gordon,Lucas",Redlands,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,23.37037037037037,14.48,8.7,1.33,1.3,1.07,1.6666666666666667,5.332864763073844,93
-6,176,Joey Kennedy,Claremont-Mudd-Scripps,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,24.72,11.56,7.84,3.76,1.2,1.12,1.8,5.242761509804339,93
-7,237,"Heberle,Jake",Chapman,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,31.555555555555557,18.22,6.04,2.3,0.67,0.63,2.259259259259259,4.754096310939868,92
-8,246,"Luna,Nasir",Occidental,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,32.083333333333336,18.0,4.63,3.21,0.58,0.17,1.7083333333333333,4.70852765515407,92
-9,257,"Glogovac,Dorian",Caltech,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,35.416666666666664,23.63,7.42,2.17,1.29,0.33,4.958333333333333,4.628954798894015,92
-10,263,"Clotfelter,Nicky",Occidental,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,28.458333333333332,14.96,6.75,3.08,0.71,1.08,2.4166666666666665,4.597448084719393,92
-11,289,"Boston,Jhace",Redlands,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,23.04,12.0,5.28,3.08,1.44,1.64,2.28,4.429216413945796,91
-12,311,Cahal Connolly,Claremont-Mudd-Scripps,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,28.56,13.48,7.0,1.76,1.04,0.76,1.4,4.2316969390713535,91
-13,327,"Hutchinson,Charlie",Pomona-Pitzer,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,32.833333333333336,13.46,7.5,2.63,0.75,0.83,2.0416666666666665,4.063994399716568,91
-14,375,Jonathan Duley,Whittier,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,31.60869565217391,18.26,1.7,2.22,1.09,0.17,1.565217391304348,3.776757729510852,90
-15,466,"Katoa,Higgy",La Verne,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,28.61904761904762,12.29,2.33,3.67,1.95,0.24,1.6666666666666667,3.28353441827298,89
-16,576,"Billings,Cruz",Chapman,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,29.11111111111111,14.7,2.78,5.26,0.78,0.11,2.888888888888889,2.818767871539037,87
-17,677,"Hlywiak,Jake",Redlands,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,24.59259259259259,13.15,2.67,2.04,1.0,0.15,0.925925925925926,2.440287864361645,86
-18,724,Chinecherem Nwanevu,Whittier,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,17,25.88235294117647,7.12,5.65,2.18,2.47,0.53,1.588235294117647,2.2525687759161563,86
-19,735,"Ferguson,Omari",Redlands,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,21.37037037037037,11.7,2.96,2.7,2.52,0.15,2.407407407407407,2.216873862627644,85
-20,757,"Sangster,Derek",Redlands,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,20.185185185185187,11.04,4.78,0.93,1.11,0.52,0.925925925925926,2.138323421260912,85
-21,797,"Diekman,Matthew",Pomona-Pitzer,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,27.75,11.42,4.0,2.54,1.08,0.04,1.2916666666666667,2.041339373352297,85
-22,944,"Jasper,Kyle",Pomona-Pitzer,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,27.875,12.33,2.67,2.5,1.08,0.0,1.5833333333333333,1.5439271916633237,83
-23,960,Brandon Andrews,Whittier,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,22.458333333333332,13.04,3.17,2.25,0.88,0.04,1.7916666666666667,1.4708592371528193,82
-24,970,Jaden Mathis,Whittier,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,27.666666666666668,11.33,2.92,1.33,0.92,0.0,0.5416666666666666,1.4374741103263635,82
-25,1090,"Williamson,Chase",Caltech,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,30.043478260869566,10.87,4.74,2.39,0.87,0.3,2.217391304347826,1.0504973242818527,81
-26,1091,"Bedolla,Carlos",La Verne,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,13,21.23076923076923,10.08,4.15,1.0,0.46,1.23,1.6153846153846154,1.0457826122359597,81
-27,1120,"Young,Jaden",California Lutheran,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,24.39130434782609,12.61,2.0,2.09,0.74,0.04,1.4782608695652173,0.9777513929702826,80
-28,1136,"Keegan,Joe",Chapman,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,23.333333333333332,9.11,4.22,1.0,0.59,0.81,1.0,0.9399210139158152,80
-29,1149,"Brown,Cam",Redlands,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,18.5,7.88,3.92,3.23,1.15,0.19,1.5769230769230769,0.9186698307387682,80
-30,1237,"Fancher,Finnegan",Caltech,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,29.8,8.28,4.28,1.0,0.52,1.04,1.12,0.702144014341882,79
-31,1310,"Treene,Charlie",Pomona-Pitzer,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,21.954545454545453,6.27,4.77,0.91,0.68,1.05,0.7727272727272727,0.529203446800844,78
-32,1334,"Angelo,Tony",California Lutheran,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,13,16.76923076923077,5.46,3.46,3.23,1.08,0.31,1.0,0.4666433598276153,77
-33,1343,"Verkamp,Matthew",California Lutheran,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,26.76923076923077,11.38,5.23,1.65,0.77,0.04,2.269230769230769,0.4452059388193654,77
-34,1364,"White,Kason",La Verne,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,23.782608695652176,11.43,4.52,0.65,0.7,0.78,2.3043478260869565,0.3894330543646449,77
-35,1387,Bryce Whitaker,Whittier,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,24.458333333333332,8.08,3.04,4.04,0.79,0.08,1.9166666666666667,0.3494373962453829,77
-36,1403,"Mjoen,Ryder",California Lutheran,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,19.76923076923077,9.81,2.31,1.69,0.62,0.04,0.7692307692307693,0.3124848036718011,76
-37,1446,"Christian,James",La Verne,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,20.166666666666668,11.0,2.42,1.63,1.17,0.21,2.0,0.1937127799868765,76
-38,1519,"Shen,Cody",California Lutheran,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,19.38095238095238,7.67,3.14,1.9,1.1,0.0,1.0476190476190477,-0.0449761104258759,75
-39,1525,Brady Karich,Claremont-Mudd-Scripps,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,27.8,4.04,2.88,4.56,1.24,0.48,1.88,-0.0595854184730778,75
-40,1550,"Balami,Josh",Caltech,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,17,29.176470588235293,12.35,3.94,2.59,0.65,0.18,3.3529411764705883,-0.1330433587408723,74
-41,1556,"Amadi,Chozen",Redlands,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,20.692307692307693,9.58,2.04,1.96,0.73,0.04,1.2692307692307692,-0.1550569950288364,74
-42,1560,"Boba,Atticus",Occidental,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,24.346153846153847,5.65,3.35,3.12,0.73,0.35,1.2692307692307692,-0.1690095300985409,74
-43,1566,"Remer,Ze'ev",California Lutheran,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,20.863636363636363,6.09,2.86,3.59,0.82,0.14,1.4090909090909092,-0.180761476608906,74
-44,1573,"Florescu,Stuart",Caltech,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,27.26086956521739,9.09,4.96,1.96,0.61,0.35,2.3043478260869565,-0.2103611573873838,74
-45,1592,"Hanning,Ethan",Occidental,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,13,19.23076923076923,10.0,3.85,0.85,0.38,0.15,1.2307692307692308,-0.2445836634236791,74
-46,1637,"Aquino,Cody",La Verne,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,23.217391304347824,8.96,2.61,1.39,0.74,0.3,1.3478260869565215,-0.3410682865900202,73
-47,1682,"Schulz,Scott",Chapman,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,22.59259259259259,5.19,4.85,1.19,0.7,0.33,0.6296296296296297,-0.4650781963665497,73
-48,1729,"Hurley,Major",La Verne,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,17,19.352941176470587,5.35,5.41,1.29,1.0,0.24,1.1764705882352942,-0.5659293610697903,72
-49,1732,"Rainey,Perry",Occidental,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,18.954545454545453,7.41,4.23,1.41,0.55,0.45,1.5,-0.5747917710302509,72
-50,1798,"Noble,Peter",Occidental,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,19.923076923076923,7.42,2.12,1.08,0.69,0.19,0.6153846153846154,-0.7426262383811149,71
-51,1861,Peyton Guerrero,Whittier,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,18.25,9.54,2.25,1.0,0.42,0.13,1.2083333333333333,-0.869776693581037,70
-52,1880,"Crawford,Aidan",California Lutheran,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,19.818181818181817,8.64,3.05,1.18,0.68,0.09,1.4545454545454546,-0.9155031914273593,70
-53,1893,"Lind,Sam",Pomona-Pitzer,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,25.217391304347824,8.65,2.83,0.61,0.57,0.26,1.173913043478261,-0.9462169171851156,70
-54,1917,James Frye,Claremont-Mudd-Scripps,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,17.75,6.0,4.42,1.54,0.29,0.08,0.8333333333333334,-1.0036334549032482,70
-55,1931,"Ware,Donovan",Redlands,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,18.25925925925926,5.3,2.26,0.96,1.07,0.11,0.2962962962962963,-1.036272114344755,69
-56,2037,"Gray,Jackson",La Verne,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,27.083333333333332,7.29,2.83,0.92,0.25,0.13,0.7083333333333334,-1.275741265239725,68
-57,2094,"Rodrigue,Ryan",Caltech,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,25.0,8.54,2.13,1.42,0.96,0.04,1.875,-1.3849626786267288,67
-58,2128,"Bladow,Cooper",Pomona-Pitzer,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,18.272727272727273,6.32,2.45,1.05,0.64,0.05,0.7272727272727273,-1.470588727938377,67
-59,2139,"Pipersburgh,Andrew",California Lutheran,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,14.38095238095238,3.62,6.0,0.62,0.24,0.38,0.6190476190476191,-1.4892131584411543,67
-60,2209,"DeVore,Josh",California Lutheran,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,15.115384615384617,6.0,3.62,0.85,0.35,0.19,0.9230769230769232,-1.6538440924476785,66
-61,2270,"Farrington,Luke",Chapman,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,18.28,4.52,2.36,0.96,0.44,0.28,0.32,-1.76740419448143,65
-62,2283,"Mattera,Nathan",Redlands,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,17.666666666666668,4.0,1.59,1.22,1.04,0.15,0.4444444444444444,-1.7970169343970963,65
-63,2333,"Bennett,Isaiah",La Verne,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,16,14.875,5.06,1.38,1.25,1.13,0.13,0.9375,-1.895981476123254,64
-64,2496,"Breaux,Micah",Occidental,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,11.142857142857142,3.57,2.71,1.43,0.52,0.57,1.1428571428571428,-2.202841713864202,62
-65,2523,"Mansour,Dylan",Chapman,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,16.0,5.26,2.81,0.59,0.96,0.15,1.2592592592592593,-2.255163134638044,61
-66,2569,"Koretz,Jacob",Occidental,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,20.692307692307693,4.42,1.81,1.96,0.65,0.08,1.1538461538461535,-2.3242915570572875,61
-67,2589,"Cojocaru,Daniel",Chapman,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,14.333333333333334,4.71,1.86,1.76,0.24,0.19,0.9523809523809524,-2.3574125253386273,61
-68,2598,"Jack,Joe",Chapman,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,13.038461538461538,5.15,2.27,0.35,0.62,0.23,0.8076923076923077,-2.3813895583240887,60
-69,2604,Luke Jacobson,Claremont-Mudd-Scripps,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,11.208333333333334,4.25,2.46,0.54,0.46,0.33,0.625,-2.39038753496117,60
-70,2626,Samuel Gibbs,Claremont-Mudd-Scripps,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,13.8,3.12,2.36,1.16,0.68,0.08,0.48,-2.427492774231318,60
-71,2669,"Whittaker,Percy",La Verne,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,11.0,4.95,2.14,0.43,0.48,0.1,0.5714285714285714,-2.500032585112953,60
-72,2673,"Fitzgerald,Connor",Pomona-Pitzer,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,20,12.3,4.8,1.35,0.9,0.3,0.15,0.45,-2.505458361845484,59
-73,2817,"Daaboul,Julian",La Verne,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,19,10.526315789473683,1.89,2.16,0.42,0.58,0.68,0.4736842105263157,-2.8339134115253426,58
-74,2820,"Hyde,Camden",California Lutheran,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,11.961538461538462,2.69,2.65,1.0,0.31,0.31,0.6153846153846154,-2.838931044583332,58
-75,2910,"Morphy,Makaio",California Lutheran,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,14.461538461538462,4.38,1.31,1.0,0.5,0.15,0.9615384615384616,-3.0095305727938912,56
-76,2917,"Bryker,Bryson",Pomona-Pitzer,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,13.041666666666666,2.83,1.75,0.92,0.42,0.08,0.3333333333333333,-3.0242167016544395,56
-77,2957,"Tittelfitz,TJ",Chapman,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,12.095238095238097,4.14,2.43,0.43,0.33,0.0,0.6666666666666666,-3.128073047778701,56
-78,2983,"Lewis,Sharodd",La Verne,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,12,11.083333333333334,3.33,3.08,0.5,0.33,0.17,0.8333333333333334,-3.160428343552676,55
-79,2998,"Koclanes,Andrew",Caltech,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,18.125,2.46,2.13,1.46,0.46,0.0,0.75,-3.2165033675829737,55
-80,3015,"Geffen,Ido",Caltech,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,12.416666666666666,3.71,2.46,0.54,0.38,0.13,0.875,-3.2424524796547596,55
-81,3063,Nathan Noronha,Claremont-Mudd-Scripps,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,12.227272727272728,3.95,0.95,0.86,0.73,0.0,0.9545454545454546,-3.372075912140345,54
-82,3118,"Rosenberg,Clyde",Pomona-Pitzer,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,13,10.0,3.23,2.08,0.15,0.23,0.0,0.3076923076923077,-3.521887969346672,54
-83,3145,"Cornish,Reagan",Pomona-Pitzer,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,19,12.894736842105264,3.11,1.16,0.68,0.37,0.0,0.4736842105263157,-3.5908314616250516,53
-84,3160,"Bernardo,Jackson",Chapman,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,12.434782608695652,1.91,1.43,1.26,0.57,0.0,0.6956521739130435,-3.6632307811109337,53
-85,3193,"Jourdain,PJ",California Lutheran,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,19,10.578947368421051,3.53,0.84,0.58,0.32,0.0,0.5789473684210527,-3.763451692366884,53
-86,3349,"Kim,Alex",Chapman,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,13,11.846153846153848,2.54,2.23,0.31,0.15,0.08,1.0,-4.412851236657903,50
+rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,32,2025-26,"McCleery Brown,Alex",Occidental,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,32.63636363636363,19.23,10.09,1.95,2.18,0.27,1.8636363636363635,7.880613231004174,95
+2,54,2025-26,Reid Jones,Claremont-Mudd-Scripps,g,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,31.36,15.24,5.0,1.96,3.84,0.72,1.32,7.238332253697857,94
+3,60,2025-26,Tochi Onyeador,Whittier,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,30.291666666666668,9.21,11.17,1.13,1.54,3.0,1.3333333333333333,6.967665060213178,94
+4,109,2025-26,Will Householter,Claremont-Mudd-Scripps,g,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,33.72,18.92,3.04,3.52,1.88,0.2,1.84,5.93091242636001,94
+5,162,2025-26,"Gordon,Lucas",Redlands,F,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,23.37037037037037,14.48,8.7,1.33,1.3,1.07,1.6666666666666667,5.332864763073844,93
+6,176,2025-26,Joey Kennedy,Claremont-Mudd-Scripps,f,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,24.72,11.56,7.84,3.76,1.2,1.12,1.8,5.242761509804339,93
+7,237,2025-26,"Heberle,Jake",Chapman,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,31.555555555555557,18.22,6.04,2.3,0.67,0.63,2.259259259259259,4.754096310939868,92
+8,246,2025-26,"Luna,Nasir",Occidental,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,32.083333333333336,18.0,4.63,3.21,0.58,0.17,1.7083333333333333,4.70852765515407,92
+9,257,2025-26,"Glogovac,Dorian",Caltech,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,35.416666666666664,23.63,7.42,2.17,1.29,0.33,4.958333333333333,4.628954798894015,92
+10,263,2025-26,"Clotfelter,Nicky",Occidental,F,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,28.458333333333332,14.96,6.75,3.08,0.71,1.08,2.4166666666666665,4.597448084719393,92
+11,289,2025-26,"Boston,Jhace",Redlands,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,23.04,12.0,5.28,3.08,1.44,1.64,2.28,4.429216413945796,91
+12,311,2025-26,Cahal Connolly,Claremont-Mudd-Scripps,c,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,28.56,13.48,7.0,1.76,1.04,0.76,1.4,4.2316969390713535,91
+13,327,2025-26,"Hutchinson,Charlie",Pomona-Pitzer,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,32.833333333333336,13.46,7.5,2.63,0.75,0.83,2.0416666666666665,4.063994399716568,91
+14,375,2025-26,Jonathan Duley,Whittier,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,31.60869565217391,18.26,1.7,2.22,1.09,0.17,1.565217391304348,3.776757729510852,90
+15,466,2025-26,"Katoa,Higgy",La Verne,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,28.61904761904762,12.29,2.33,3.67,1.95,0.24,1.6666666666666667,3.28353441827298,89
+16,576,2025-26,"Billings,Cruz",Chapman,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,29.11111111111111,14.7,2.78,5.26,0.78,0.11,2.888888888888889,2.818767871539037,87
+17,677,2025-26,"Hlywiak,Jake",Redlands,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,24.59259259259259,13.15,2.67,2.04,1.0,0.15,0.925925925925926,2.440287864361645,86
+18,724,2025-26,Chinecherem Nwanevu,Whittier,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,17,25.88235294117647,7.12,5.65,2.18,2.47,0.53,1.588235294117647,2.2525687759161563,86
+19,735,2025-26,"Ferguson,Omari",Redlands,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,21.37037037037037,11.7,2.96,2.7,2.52,0.15,2.407407407407407,2.216873862627644,85
+20,757,2025-26,"Sangster,Derek",Redlands,F,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,20.185185185185187,11.04,4.78,0.93,1.11,0.52,0.925925925925926,2.138323421260912,85
+21,797,2025-26,"Diekman,Matthew",Pomona-Pitzer,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,27.75,11.42,4.0,2.54,1.08,0.04,1.2916666666666667,2.041339373352297,85
+22,944,2025-26,"Jasper,Kyle",Pomona-Pitzer,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,27.875,12.33,2.67,2.5,1.08,0.0,1.5833333333333333,1.5439271916633237,83
+23,960,2025-26,Brandon Andrews,Whittier,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,22.458333333333332,13.04,3.17,2.25,0.88,0.04,1.7916666666666667,1.4708592371528193,82
+24,970,2025-26,Jaden Mathis,Whittier,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,27.666666666666668,11.33,2.92,1.33,0.92,0.0,0.5416666666666666,1.4374741103263635,82
+25,1090,2025-26,"Williamson,Chase",Caltech,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,30.043478260869566,10.87,4.74,2.39,0.87,0.3,2.217391304347826,1.0504973242818527,81
+26,1091,2025-26,"Bedolla,Carlos",La Verne,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,13,21.23076923076923,10.08,4.15,1.0,0.46,1.23,1.6153846153846154,1.0457826122359597,81
+27,1120,2025-26,"Young,Jaden",California Lutheran,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,24.39130434782609,12.61,2.0,2.09,0.74,0.04,1.4782608695652173,0.9777513929702826,80
+28,1136,2025-26,"Keegan,Joe",Chapman,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,23.333333333333332,9.11,4.22,1.0,0.59,0.81,1.0,0.9399210139158152,80
+29,1149,2025-26,"Brown,Cam",Redlands,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,18.5,7.88,3.92,3.23,1.15,0.19,1.5769230769230769,0.9186698307387682,80
+30,1237,2025-26,"Fancher,Finnegan",Caltech,C,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,29.8,8.28,4.28,1.0,0.52,1.04,1.12,0.702144014341882,79
+31,1310,2025-26,"Treene,Charlie",Pomona-Pitzer,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,21.954545454545453,6.27,4.77,0.91,0.68,1.05,0.7727272727272727,0.529203446800844,78
+32,1334,2025-26,"Angelo,Tony",California Lutheran,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,13,16.76923076923077,5.46,3.46,3.23,1.08,0.31,1.0,0.4666433598276153,77
+33,1343,2025-26,"Verkamp,Matthew",California Lutheran,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,26.76923076923077,11.38,5.23,1.65,0.77,0.04,2.269230769230769,0.4452059388193654,77
+34,1364,2025-26,"White,Kason",La Verne,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,23.782608695652176,11.43,4.52,0.65,0.7,0.78,2.3043478260869565,0.3894330543646449,77
+35,1387,2025-26,Bryce Whitaker,Whittier,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,24.458333333333332,8.08,3.04,4.04,0.79,0.08,1.9166666666666667,0.3494373962453829,77
+36,1403,2025-26,"Mjoen,Ryder",California Lutheran,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,19.76923076923077,9.81,2.31,1.69,0.62,0.04,0.7692307692307693,0.3124848036718011,76
+37,1446,2025-26,"Christian,James",La Verne,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,20.166666666666668,11.0,2.42,1.63,1.17,0.21,2.0,0.1937127799868765,76
+38,1519,2025-26,"Shen,Cody",California Lutheran,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,19.38095238095238,7.67,3.14,1.9,1.1,0.0,1.0476190476190477,-0.0449761104258759,75
+39,1525,2025-26,Brady Karich,Claremont-Mudd-Scripps,g,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,27.8,4.04,2.88,4.56,1.24,0.48,1.88,-0.0595854184730778,75
+40,1550,2025-26,"Balami,Josh",Caltech,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,17,29.176470588235293,12.35,3.94,2.59,0.65,0.18,3.3529411764705883,-0.1330433587408723,74
+41,1556,2025-26,"Amadi,Chozen",Redlands,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,20.692307692307693,9.58,2.04,1.96,0.73,0.04,1.2692307692307692,-0.1550569950288364,74
+42,1560,2025-26,"Boba,Atticus",Occidental,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,24.346153846153847,5.65,3.35,3.12,0.73,0.35,1.2692307692307692,-0.1690095300985409,74
+43,1566,2025-26,"Remer,Ze'ev",California Lutheran,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,20.863636363636363,6.09,2.86,3.59,0.82,0.14,1.4090909090909092,-0.180761476608906,74
+44,1573,2025-26,"Florescu,Stuart",Caltech,C,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,27.26086956521739,9.09,4.96,1.96,0.61,0.35,2.3043478260869565,-0.2103611573873838,74
+45,1592,2025-26,"Hanning,Ethan",Occidental,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,13,19.23076923076923,10.0,3.85,0.85,0.38,0.15,1.2307692307692308,-0.2445836634236791,74
+46,1637,2025-26,"Aquino,Cody",La Verne,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,23.217391304347824,8.96,2.61,1.39,0.74,0.3,1.3478260869565215,-0.3410682865900202,73
+47,1682,2025-26,"Schulz,Scott",Chapman,F,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,22.59259259259259,5.19,4.85,1.19,0.7,0.33,0.6296296296296297,-0.4650781963665497,73
+48,1729,2025-26,"Hurley,Major",La Verne,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,17,19.352941176470587,5.35,5.41,1.29,1.0,0.24,1.1764705882352942,-0.5659293610697903,72
+49,1732,2025-26,"Rainey,Perry",Occidental,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,18.954545454545453,7.41,4.23,1.41,0.55,0.45,1.5,-0.5747917710302509,72
+50,1798,2025-26,"Noble,Peter",Occidental,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,19.923076923076923,7.42,2.12,1.08,0.69,0.19,0.6153846153846154,-0.7426262383811149,71
+51,1861,2025-26,Peyton Guerrero,Whittier,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,18.25,9.54,2.25,1.0,0.42,0.13,1.2083333333333333,-0.869776693581037,70
+52,1880,2025-26,"Crawford,Aidan",California Lutheran,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,19.818181818181817,8.64,3.05,1.18,0.68,0.09,1.4545454545454546,-0.9155031914273593,70
+53,1893,2025-26,"Lind,Sam",Pomona-Pitzer,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,25.217391304347824,8.65,2.83,0.61,0.57,0.26,1.173913043478261,-0.9462169171851156,70
+54,1917,2025-26,James Frye,Claremont-Mudd-Scripps,g,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,17.75,6.0,4.42,1.54,0.29,0.08,0.8333333333333334,-1.0036334549032482,70
+55,1931,2025-26,"Ware,Donovan",Redlands,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,18.25925925925926,5.3,2.26,0.96,1.07,0.11,0.2962962962962963,-1.036272114344755,69
+56,2037,2025-26,"Gray,Jackson",La Verne,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,27.083333333333332,7.29,2.83,0.92,0.25,0.13,0.7083333333333334,-1.275741265239725,68
+57,2094,2025-26,"Rodrigue,Ryan",Caltech,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,25.0,8.54,2.13,1.42,0.96,0.04,1.875,-1.3849626786267288,67
+58,2128,2025-26,"Bladow,Cooper",Pomona-Pitzer,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,18.272727272727273,6.32,2.45,1.05,0.64,0.05,0.7272727272727273,-1.470588727938377,67
+59,2139,2025-26,"Pipersburgh,Andrew",California Lutheran,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,14.38095238095238,3.62,6.0,0.62,0.24,0.38,0.6190476190476191,-1.4892131584411543,67
+60,2209,2025-26,"DeVore,Josh",California Lutheran,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,15.115384615384617,6.0,3.62,0.85,0.35,0.19,0.9230769230769232,-1.6538440924476785,66
+61,2270,2025-26,"Farrington,Luke",Chapman,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,18.28,4.52,2.36,0.96,0.44,0.28,0.32,-1.76740419448143,65
+62,2283,2025-26,"Mattera,Nathan",Redlands,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,17.666666666666668,4.0,1.59,1.22,1.04,0.15,0.4444444444444444,-1.7970169343970963,65
+63,2333,2025-26,"Bennett,Isaiah",La Verne,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,16,14.875,5.06,1.38,1.25,1.13,0.13,0.9375,-1.895981476123254,64
+64,2496,2025-26,"Breaux,Micah",Occidental,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,11.142857142857142,3.57,2.71,1.43,0.52,0.57,1.1428571428571428,-2.202841713864202,62
+65,2523,2025-26,"Mansour,Dylan",Chapman,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,16.0,5.26,2.81,0.59,0.96,0.15,1.2592592592592593,-2.255163134638044,61
+66,2569,2025-26,"Koretz,Jacob",Occidental,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,20.692307692307693,4.42,1.81,1.96,0.65,0.08,1.1538461538461535,-2.3242915570572875,61
+67,2589,2025-26,"Cojocaru,Daniel",Chapman,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,14.333333333333334,4.71,1.86,1.76,0.24,0.19,0.9523809523809524,-2.3574125253386273,61
+68,2598,2025-26,"Jack,Joe",Chapman,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,13.038461538461538,5.15,2.27,0.35,0.62,0.23,0.8076923076923077,-2.3813895583240887,60
+69,2604,2025-26,Luke Jacobson,Claremont-Mudd-Scripps,f,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,11.208333333333334,4.25,2.46,0.54,0.46,0.33,0.625,-2.39038753496117,60
+70,2626,2025-26,Samuel Gibbs,Claremont-Mudd-Scripps,g,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,13.8,3.12,2.36,1.16,0.68,0.08,0.48,-2.427492774231318,60
+71,2669,2025-26,"Whittaker,Percy",La Verne,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,11.0,4.95,2.14,0.43,0.48,0.1,0.5714285714285714,-2.500032585112953,60
+72,2673,2025-26,"Fitzgerald,Connor",Pomona-Pitzer,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,20,12.3,4.8,1.35,0.9,0.3,0.15,0.45,-2.505458361845484,59
+73,2817,2025-26,"Daaboul,Julian",La Verne,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,19,10.526315789473683,1.89,2.16,0.42,0.58,0.68,0.4736842105263157,-2.8339134115253426,58
+74,2820,2025-26,"Hyde,Camden",California Lutheran,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,11.961538461538462,2.69,2.65,1.0,0.31,0.31,0.6153846153846154,-2.838931044583332,58
+75,2910,2025-26,"Morphy,Makaio",California Lutheran,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,14.461538461538462,4.38,1.31,1.0,0.5,0.15,0.9615384615384616,-3.0095305727938912,56
+76,2917,2025-26,"Bryker,Bryson",Pomona-Pitzer,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,13.041666666666666,2.83,1.75,0.92,0.42,0.08,0.3333333333333333,-3.0242167016544395,56
+77,2957,2025-26,"Tittelfitz,TJ",Chapman,F,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,12.095238095238097,4.14,2.43,0.43,0.33,0.0,0.6666666666666666,-3.128073047778701,56
+78,2983,2025-26,"Lewis,Sharodd",La Verne,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,12,11.083333333333334,3.33,3.08,0.5,0.33,0.17,0.8333333333333334,-3.160428343552676,55
+79,2998,2025-26,"Koclanes,Andrew",Caltech,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,18.125,2.46,2.13,1.46,0.46,0.0,0.75,-3.2165033675829737,55
+80,3015,2025-26,"Geffen,Ido",Caltech,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,12.416666666666666,3.71,2.46,0.54,0.38,0.13,0.875,-3.2424524796547596,55
+81,3063,2025-26,Nathan Noronha,Claremont-Mudd-Scripps,g,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,12.227272727272728,3.95,0.95,0.86,0.73,0.0,0.9545454545454546,-3.372075912140345,54
+82,3118,2025-26,"Rosenberg,Clyde",Pomona-Pitzer,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,13,10.0,3.23,2.08,0.15,0.23,0.0,0.3076923076923077,-3.521887969346672,54
+83,3145,2025-26,"Cornish,Reagan",Pomona-Pitzer,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,19,12.894736842105264,3.11,1.16,0.68,0.37,0.0,0.4736842105263157,-3.5908314616250516,53
+84,3160,2025-26,"Bernardo,Jackson",Chapman,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,12.434782608695652,1.91,1.43,1.26,0.57,0.0,0.6956521739130435,-3.6632307811109337,53
+85,3193,2025-26,"Jourdain,PJ",California Lutheran,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,19,10.578947368421051,3.53,0.84,0.58,0.32,0.0,0.5789473684210527,-3.763451692366884,53
+86,3349,2025-26,"Kim,Alex",Chapman,F,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,13,11.846153846153848,2.54,2.23,0.31,0.15,0.08,1.0,-4.412851236657903,50
