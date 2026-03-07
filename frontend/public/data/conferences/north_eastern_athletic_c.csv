@@ -1,0 +1,132 @@
+rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,59,"Baldwin,Corey",Cairn University,North Eastern Athletic Conference,north_eastern_athletic_c,28,33.035714285714285,16.0,7.86,2.75,2.14,0.82,1.7857142857142858,7.017878838480797,94
+2,82,"Lewis,Marlon",Notre Dame of Maryland,North Eastern Athletic Conference,north_eastern_athletic_c,26,25.615384615384617,18.0,6.5,0.81,1.19,1.54,1.5769230769230769,6.293004751649394,94
+3,84,"Hurst,Camden",Lancaster Bible College,North Eastern Athletic Conference,north_eastern_athletic_c,27,28.14814814814815,21.07,3.67,2.81,2.0,0.56,2.6296296296296298,6.282256724611024,94
+4,133,"Pierce,Jalen",Wilson College,North Eastern Athletic Conference,north_eastern_athletic_c,27,33.888888888888886,16.19,5.63,3.44,1.78,0.26,1.7777777777777777,5.690586179176736,93
+5,145,"Bowie,Jalen",Wilson College,North Eastern Athletic Conference,north_eastern_athletic_c,27,34.333333333333336,15.52,7.85,2.63,1.63,0.89,2.4814814814814814,5.522963321125438,93
+6,159,"Simpson,Jaylon",Cairn University,North Eastern Athletic Conference,north_eastern_athletic_c,28,31.142857142857142,20.25,3.89,1.64,1.14,0.57,1.75,5.371199040068135,93
+7,254,"Storr,Connor",Lancaster Bible College,North Eastern Athletic Conference,north_eastern_athletic_c,26,22.807692307692307,15.73,5.88,2.5,2.0,0.85,2.923076923076923,4.639583614816049,92
+8,319,"Jones,Armani",Wilson College,North Eastern Athletic Conference,north_eastern_athletic_c,27,32.18518518518518,16.22,7.81,1.67,0.74,0.7,2.3703703703703702,4.146211262450198,91
+9,340,"Golding,Jden",Keystone College,North Eastern Athletic Conference,north_eastern_athletic_c,27,34.03703703703704,17.19,6.15,3.07,1.3,0.15,3.074074074074074,3.9601519449664666,91
+10,347,"Valencia, Jory",Gallaudet University,North Eastern Athletic Conference,north_eastern_athletic_c,18,31.0,12.67,4.5,6.5,1.94,0.44,3.8333333333333335,3.928032525809376,91
+11,386,"Kelly,JoJo",Penn State Abington,North Eastern Athletic Conference,north_eastern_athletic_c,25,36.04,19.92,5.84,2.2,0.92,0.28,3.52,3.704540381184255,90
+12,395,"Holland II,Corwin",Penn State Brandywine,North Eastern Athletic Conference,north_eastern_athletic_c,27,25.88888888888889,14.7,6.52,0.89,1.0,0.41,1.2592592592592593,3.654924111288967,90
+13,428,"Ross,Ricardo",Notre Dame of Maryland,North Eastern Athletic Conference,north_eastern_athletic_c,26,26.76923076923077,15.12,3.77,3.0,1.92,0.08,2.3461538461538463,3.5383809306778,89
+14,467,"Reece,Isaiah",Valley Forge,North Eastern Athletic Conference,north_eastern_athletic_c,23,28.565217391304348,14.91,5.09,1.52,1.04,0.96,2.260869565217391,3.280468692337927,89
+15,488,"Crimaudo,James",St. Mary's (Md.),North Eastern Athletic Conference,north_eastern_athletic_c,19,30.894736842105264,13.63,6.37,1.84,1.11,0.32,1.7894736842105263,3.1819782127980085,89
+16,515,Jordan Spencer,Penn State Harrisburg,North Eastern Athletic Conference,north_eastern_athletic_c,27,27.22222222222222,10.41,7.19,1.81,1.22,0.63,1.3703703703703705,3.074966493189318,88
+17,544,"Meinel,Tyler",Penn State Abington,North Eastern Athletic Conference,north_eastern_athletic_c,25,31.96,11.04,6.16,0.88,1.28,1.0,1.32,2.9444124176334063,88
+18,587,Dylan Moore,Penn State Harrisburg,North Eastern Athletic Conference,north_eastern_athletic_c,28,23.75,12.07,4.46,1.36,1.39,0.71,1.3571428571428572,2.790508458580399,87
+19,630,"Lawder,William",Valley Forge,North Eastern Athletic Conference,north_eastern_athletic_c,22,25.59090909090909,8.64,8.05,1.0,1.55,0.55,1.0909090909090908,2.6256405521391457,87
+20,674,"Ayers,Ron",Cairn University,North Eastern Athletic Conference,north_eastern_athletic_c,27,27.296296296296298,12.56,3.67,2.41,0.96,0.04,1.0740740740740742,2.4459406382032536,86
+21,683,"Jones,Ahmodrion",Keystone College,North Eastern Athletic Conference,north_eastern_athletic_c,27,32.666666666666664,13.19,6.0,2.81,0.85,0.41,2.6296296296296298,2.424553349448246,86
+22,690,"Murphy,PJ",Keystone College,North Eastern Athletic Conference,north_eastern_athletic_c,27,27.333333333333332,12.63,4.07,1.15,1.19,0.19,0.8888888888888888,2.4015430627888867,86
+23,728,"Prator,Zach",Penn State Berks,North Eastern Athletic Conference,north_eastern_athletic_c,23,25.17391304347826,12.74,4.91,1.61,0.52,0.78,1.6956521739130437,2.2422087789190037,85
+24,781,"Fogg,Jaden",Penn State Brandywine,North Eastern Athletic Conference,north_eastern_athletic_c,26,24.423076923076923,11.46,5.65,2.08,0.92,0.88,2.3461538461538463,2.0739782279207737,85
+25,865,"Hill,Chris",Cairn University,North Eastern Athletic Conference,north_eastern_athletic_c,28,30.25,10.18,4.18,3.68,1.43,0.07,2.107142857142857,1.815293423729048,84
+26,973,"Fox,Tyler",Penn State Abington,North Eastern Athletic Conference,north_eastern_athletic_c,25,30.36,13.12,3.56,1.88,0.96,0.12,1.92,1.4326029789229016,82
+27,985,"White,Ja'bri",Penn State Brandywine,North Eastern Athletic Conference,north_eastern_athletic_c,26,24.0,11.12,4.27,1.54,1.15,0.31,1.6153846153846154,1.3890880660279872,82
+28,1000,Chris Henderson,Penn State Harrisburg,North Eastern Athletic Conference,north_eastern_athletic_c,28,26.107142857142858,10.71,4.89,1.96,1.29,0.21,1.9642857142857144,1.3350606417901654,82
+29,1005,"Wright,Anthony",Notre Dame of Maryland,North Eastern Athletic Conference,north_eastern_athletic_c,26,27.653846153846153,10.19,4.31,1.5,1.31,0.27,1.4230769230769231,1.3073426166652309,82
+30,1028,"Koverman,Jake",St. Mary's (Md.),North Eastern Athletic Conference,north_eastern_athletic_c,24,29.958333333333332,11.63,5.17,1.38,1.04,0.5,2.25,1.2369691979535355,81
+31,1035,Octavio Alexander,Penn College,North Eastern Athletic Conference,north_eastern_athletic_c,18,27.38888888888889,11.78,4.06,2.67,0.78,0.0,1.9444444444444444,1.212458512660754,81
+32,1041,"Smith,K'Mari",Penn State Abington,North Eastern Athletic Conference,north_eastern_athletic_c,25,32.16,10.4,5.24,3.84,1.0,0.16,2.88,1.2069987825186963,81
+33,1117,"Blair,Korey",St. Mary's (Md.),North Eastern Athletic Conference,north_eastern_athletic_c,24,30.208333333333332,13.92,3.21,1.71,1.04,0.25,2.625,0.9832320301034494,80
+34,1124,"Ayers,Kamdyn",Keystone College,North Eastern Athletic Conference,north_eastern_athletic_c,21,30.333333333333332,8.43,3.86,4.33,2.14,0.1,3.142857142857143,0.9740044688423848,80
+35,1173,"Cotten,Isaiah",Penn State Berks,North Eastern Athletic Conference,north_eastern_athletic_c,19,26.105263157894736,7.42,4.89,2.26,1.47,0.47,1.7894736842105263,0.8572673683553959,80
+36,1247,"Pugh,Jackson",Notre Dame of Maryland,North Eastern Athletic Conference,north_eastern_athletic_c,26,26.23076923076923,9.19,2.19,2.96,1.62,0.0,1.7692307692307692,0.6803865427656841,79
+37,1279,"Pierre,Denzel",Valley Forge,North Eastern Athletic Conference,north_eastern_athletic_c,23,23.73913043478261,11.0,3.43,1.48,1.13,0.17,1.7826086956521738,0.6067607277243583,78
+38,1296,Peyton Murphy,Penn College,North Eastern Athletic Conference,north_eastern_athletic_c,22,21.363636363636363,9.41,3.09,2.32,1.23,0.23,1.7727272727272727,0.5673864596897866,78
+39,1350,"Wright,Quentin",Penn State Berks,North Eastern Athletic Conference,north_eastern_athletic_c,25,23.64,5.76,6.04,1.52,0.88,1.0,1.56,0.4216709861488018,77
+40,1354,"Ortman, Alex",Gallaudet University,North Eastern Athletic Conference,north_eastern_athletic_c,21,22.47619047619047,13.76,3.57,0.95,0.62,0.14,2.238095238095238,0.4053942965285689,77
+41,1358,"Ferreira,Marquis",Penn State Berks,North Eastern Athletic Conference,north_eastern_athletic_c,20,27.5,14.1,1.45,2.3,0.5,0.05,2.3,0.3985763582978399,77
+42,1363,"Rumbaugh,Luke",Lancaster Bible College,North Eastern Athletic Conference,north_eastern_athletic_c,13,19.615384615384617,10.0,3.15,1.0,0.69,0.38,1.0769230769230769,0.3900562405960456,77
+43,1401,"Byfield,Mike",Penn State Abington,North Eastern Athletic Conference,north_eastern_athletic_c,26,24.76923076923077,10.42,4.54,1.12,0.62,0.27,1.6153846153846154,0.322692299929444,76
+44,1417,"Washington, Brandon",Gallaudet University,North Eastern Athletic Conference,north_eastern_athletic_c,18,26.444444444444443,7.89,6.5,1.83,1.61,0.5,2.888888888888889,0.2748590085633111,76
+45,1424,"Brown,Josh",Keystone College,North Eastern Athletic Conference,north_eastern_athletic_c,12,33.5,9.67,5.33,1.5,1.08,0.17,2.1666666666666665,0.2488172047679894,76
+46,1445,"Little,Amari",Penn State Brandywine,North Eastern Athletic Conference,north_eastern_athletic_c,20,25.75,10.1,2.1,2.8,1.2,0.05,2.1,0.1969862423971463,76
+47,1458,Andre Thomas,Penn State Harrisburg,North Eastern Athletic Conference,north_eastern_athletic_c,28,25.428571428571427,4.54,2.75,3.79,1.5,0.04,1.1071428571428572,0.1490623932733411,76
+48,1459,"Quintero,Evan",St. Mary's (Md.),North Eastern Athletic Conference,north_eastern_athletic_c,23,21.043478260869566,8.48,4.83,1.0,0.7,1.17,2.1739130434782608,0.1390267826157428,76
+49,1464,"Davis,Jaylin",Wilson College,North Eastern Athletic Conference,north_eastern_athletic_c,26,21.384615384615383,9.81,2.81,2.46,1.42,0.04,2.269230769230769,0.1128386468812561,76
+50,1489,Jay Henry,Penn College,North Eastern Athletic Conference,north_eastern_athletic_c,19,28.68421052631579,11.63,3.42,3.95,1.47,0.05,4.157894736842105,0.0344296093677067,75
+51,1498,"Gingerich,Matthew",Penn State Berks,North Eastern Athletic Conference,north_eastern_athletic_c,25,19.56,6.08,4.88,1.68,0.92,0.72,1.48,0.0184917573212385,75
+52,1505,"Jones,Ty",Rosemont,North Eastern Athletic Conference,north_eastern_athletic_c,21,27.0,8.1,2.57,2.19,1.43,0.1,1.5714285714285714,-0.0029711548967248,75
+53,1510,"Dacosta,Jahbreco",Notre Dame of Maryland,North Eastern Athletic Conference,north_eastern_athletic_c,25,19.84,6.96,6.52,0.48,0.68,0.2,0.84,-0.025014963360884,75
+54,1524,"Raford,Winston",Wilson College,North Eastern Athletic Conference,north_eastern_athletic_c,27,30.37037037037037,9.74,1.85,1.0,0.85,0.19,0.8888888888888888,-0.0580734370718633,75
+55,1531,Landon Reeder,Penn College,North Eastern Athletic Conference,north_eastern_athletic_c,21,22.428571428571427,9.19,5.76,0.71,0.24,0.67,1.761904761904762,-0.0671142451592176,75
+56,1591,Antwone George,Penn State Harrisburg,North Eastern Athletic Conference,north_eastern_athletic_c,28,19.464285714285715,7.32,3.71,1.82,1.21,0.25,1.6071428571428572,-0.2427917559516571,74
+57,1593,Ethan Roman,Penn College,North Eastern Athletic Conference,north_eastern_athletic_c,10,22.9,9.6,2.2,2.5,0.6,0.2,1.8,-0.2475588010481329,74
+58,1624,"Carlson, Wyatt",Gallaudet University,North Eastern Athletic Conference,north_eastern_athletic_c,19,20.473684210526315,7.68,4.26,0.79,0.63,0.84,1.5263157894736843,-0.3113982201529749,73
+59,1633,"Gomez,Zaki",Rosemont,North Eastern Athletic Conference,north_eastern_athletic_c,20,31.1,10.05,4.45,1.95,1.25,0.25,3.05,-0.3258273739380988,73
+60,1663,"Long,Dylan",Notre Dame of Maryland,North Eastern Athletic Conference,north_eastern_athletic_c,26,23.884615384615383,6.04,3.42,1.15,1.31,0.19,0.8076923076923077,-0.4150974503670139,73
+61,1673,"Hyde,Khairi",St. Mary's (Md.),North Eastern Athletic Conference,north_eastern_athletic_c,23,27.347826086956523,7.22,3.09,3.04,1.13,0.22,2.1739130434782608,-0.4426869119418425,73
+62,1678,"King,Daniel",Lancaster Bible College,North Eastern Athletic Conference,north_eastern_athletic_c,27,20.703703703703702,6.81,4.37,1.19,1.22,0.15,1.3333333333333333,-0.4594435569445158,73
+63,1690,"Powell,Tamir",Penn State Abington,North Eastern Athletic Conference,north_eastern_athletic_c,18,22.27777777777778,5.83,4.11,0.94,0.61,0.83,1.0,-0.4858413714012204,73
+64,1692,"Mast,Jaedon",Penn State Berks,North Eastern Athletic Conference,north_eastern_athletic_c,24,23.833333333333332,9.88,2.5,2.5,1.63,0.13,3.0416666666666665,-0.4885277528126568,73
+65,1728,"Warren,Bryan",Penn State Brandywine,North Eastern Athletic Conference,north_eastern_athletic_c,25,19.12,5.96,3.6,1.92,1.56,0.08,1.52,-0.563966016485377,72
+66,1759,"Mingledolph,Josh",Penn State Berks,North Eastern Athletic Conference,north_eastern_athletic_c,13,24.46153846153846,7.46,4.92,3.62,1.15,0.54,3.769230769230769,-0.6663349863796868,72
+67,1776,"McKenney-George,Dominik",Valley Forge,North Eastern Athletic Conference,north_eastern_athletic_c,22,22.136363636363637,8.09,1.95,2.77,1.23,0.09,2.136363636363636,-0.6889869657023098,71
+68,1805,"Heidebrecht,Mark",Lancaster Bible College,North Eastern Athletic Conference,north_eastern_athletic_c,22,11.454545454545457,6.09,3.14,0.77,0.68,0.36,0.4545454545454545,-0.7596686243151685,71
+69,1806,"Reese,Tobias",Wilson College,North Eastern Athletic Conference,north_eastern_athletic_c,27,22.88888888888889,7.33,3.0,1.78,0.85,0.07,1.2962962962962965,-0.7607766956834128,71
+70,1840,"Thomas,Demetrius",Keystone College,North Eastern Athletic Conference,north_eastern_athletic_c,24,21.916666666666668,5.42,6.21,0.58,0.29,0.54,0.9583333333333334,-0.8036186464467581,71
+71,1852,"Jones,Kyle",Valley Forge,North Eastern Athletic Conference,north_eastern_athletic_c,20,20.3,6.6,3.25,1.6,0.85,0.15,1.15,-0.8334391704934037,70
+72,1864,"Orsi-Pedersen, Jayden",Gallaudet University,North Eastern Athletic Conference,north_eastern_athletic_c,20,21.3,9.0,3.6,0.65,0.4,0.25,1.35,-0.8782958635475557,70
+73,1923,"DaCosta,Andrew",Cairn University,North Eastern Athletic Conference,north_eastern_athletic_c,28,14.357142857142858,8.54,3.14,0.57,0.46,0.11,1.0,-1.0173738401864147,69
+74,1938,"Swider,Jack",Penn State Brandywine,North Eastern Athletic Conference,north_eastern_athletic_c,26,25.692307692307693,7.27,4.19,1.04,0.35,0.08,1.0384615384615383,-1.0567556116910972,69
+75,1945,"Scott,Niame",Keystone College,North Eastern Athletic Conference,north_eastern_athletic_c,13,21.384615384615383,9.08,2.62,1.31,0.77,0.08,1.7692307692307692,-1.0735765384865972,69
+76,1985,"Gaskins,Byron",Cairn University,North Eastern Athletic Conference,north_eastern_athletic_c,28,15.321428571428571,6.79,3.18,1.21,0.86,0.18,1.2857142857142858,-1.145925780051408,69
+77,1992,Cydae Joseph-Davis,Penn College,North Eastern Athletic Conference,north_eastern_athletic_c,22,11.409090909090908,4.36,3.5,0.27,0.68,0.82,0.5,-1.1569342005666576,69
+78,2002,"Foster,Jordan",Notre Dame of Maryland,North Eastern Athletic Conference,north_eastern_athletic_c,11,17.09090909090909,4.09,2.82,1.18,1.27,0.82,1.2727272727272727,-1.184131395022226,68
+79,2063,"Austin,Nile",Lancaster Bible College,North Eastern Athletic Conference,north_eastern_athletic_c,27,22.555555555555557,4.78,2.19,1.59,1.48,0.11,1.0740740740740742,-1.3268350979089454,68
+80,2065,Owen Newcomer,Penn College,North Eastern Athletic Conference,north_eastern_athletic_c,23,24.043478260869566,6.35,2.09,1.17,0.65,0.0,0.5217391304347826,-1.32749763056849,68
+81,2106,"Green,Carlos",Notre Dame of Maryland,North Eastern Athletic Conference,north_eastern_athletic_c,25,18.68,7.92,1.4,1.32,0.52,0.08,1.04,-1.4187035798901515,67
+82,2110,"Broady,Michael",Valley Forge,North Eastern Athletic Conference,north_eastern_athletic_c,23,15.565217391304348,7.13,2.04,0.96,0.7,0.13,0.9565217391304348,-1.4294661131661195,67
+83,2122,"Johnson,Chandler",Notre Dame of Maryland,North Eastern Athletic Conference,north_eastern_athletic_c,24,18.875,6.17,2.17,2.25,0.63,0.17,1.4166666666666667,-1.4578399975552867,67
+84,2142,Neyshawn Mabry,Penn College,North Eastern Athletic Conference,north_eastern_athletic_c,19,12.0,3.58,3.84,0.37,0.42,1.26,0.9473684210526316,-1.4937100419625038,67
+85,2185,"Pulley,Tyshaun",Lancaster Bible College,North Eastern Athletic Conference,north_eastern_athletic_c,27,16.25925925925926,5.37,2.96,1.37,0.74,0.19,1.0740740740740742,-1.586313773515153,66
+86,2215,Reed iv David,Penn State Harrisburg,North Eastern Athletic Conference,north_eastern_athletic_c,28,13.892857142857142,5.0,3.5,0.36,0.5,0.5,0.7142857142857143,-1.6629119566425183,66
+87,2244,"Salo,JD",St. Mary's (Md.),North Eastern Athletic Conference,north_eastern_athletic_c,24,18.166666666666668,5.58,5.29,0.75,0.38,0.79,2.0,-1.7133798995923963,65
+88,2319,"Taylor,Chris",Rosemont,North Eastern Athletic Conference,north_eastern_athletic_c,21,30.714285714285715,6.62,2.71,1.62,1.62,0.05,2.4761904761904763,-1.865480330265135,64
+89,2342,Isaiah Milien,Penn State Harrisburg,North Eastern Athletic Conference,north_eastern_athletic_c,25,13.16,5.16,1.52,0.96,0.96,0.0,0.56,-1.9110938638425563,64
+90,2347,"Bowers,Bennett",Lancaster Bible College,North Eastern Athletic Conference,north_eastern_athletic_c,27,19.51851851851852,5.7,1.81,2.15,0.78,0.0,1.4074074074074074,-1.91374328143712,64
+91,2350,"Collins,Luke",Penn State Berks,North Eastern Athletic Conference,north_eastern_athletic_c,22,17.772727272727273,5.91,0.95,1.91,0.64,0.0,0.9545454545454546,-1.9208491275006792,64
+92,2370,"Gaines,Mike",Valley Forge,North Eastern Athletic Conference,north_eastern_athletic_c,14,12.142857142857142,4.57,2.64,0.64,0.36,0.29,0.3571428571428571,-1.9715481588936208,64
+93,2462,"Moore,Brandon",Rosemont,North Eastern Athletic Conference,north_eastern_athletic_c,21,22.047619047619047,8.71,4.05,0.81,0.95,0.24,3.047619047619047,-2.1176437537220063,62
+94,2495,"Metivia,Christian",Valley Forge,North Eastern Athletic Conference,north_eastern_athletic_c,22,18.772727272727273,3.73,3.0,1.23,1.14,0.14,1.2272727272727273,-2.2011089585534847,62
+95,2507,"Boren, Keanu",Gallaudet University,North Eastern Athletic Conference,north_eastern_athletic_c,18,24.11111111111111,6.39,3.5,0.72,0.44,0.06,1.3888888888888888,-2.2252493437913796,62
+96,2541,"Desir,Jonathan",Cairn University,North Eastern Athletic Conference,north_eastern_athletic_c,28,15.321428571428571,3.39,3.07,0.79,0.54,0.11,0.3571428571428571,-2.2715424091990215,61
+97,2553,Lucas jr Kevin,Penn State Harrisburg,North Eastern Athletic Conference,north_eastern_athletic_c,26,13.384615384615383,4.27,1.69,1.27,0.96,0.04,0.8461538461538461,-2.29066599356055,61
+98,2572,"Hooks,Reaves",Lancaster Bible College,North Eastern Athletic Conference,north_eastern_athletic_c,27,12.851851851851851,4.3,1.81,2.44,0.56,0.19,1.4444444444444444,-2.32691674957447,61
+99,2579,"Burrell Jr,Andre",Cairn University,North Eastern Athletic Conference,north_eastern_athletic_c,28,17.5,2.79,3.96,0.32,0.43,0.68,0.75,-2.340241493671023,61
+100,2594,"Godhania,Ahmaar",Penn State Brandywine,North Eastern Athletic Conference,north_eastern_athletic_c,27,16.74074074074074,6.41,1.67,0.67,0.52,0.04,0.9629629629629628,-2.3671464287778106,61
+101,2602,"Ditton,Tyler",Keystone College,North Eastern Athletic Conference,north_eastern_athletic_c,27,14.296296296296296,6.56,1.22,0.15,0.52,0.11,0.6666666666666666,-2.3889486487647895,60
+102,2632,"Lewis,Jacob",Lancaster Bible College,North Eastern Athletic Conference,north_eastern_athletic_c,26,11.692307692307692,6.12,1.96,0.35,0.46,0.08,0.8076923076923077,-2.4352107435610613,60
+103,2657,"Sukaly,Robert",Rosemont,North Eastern Athletic Conference,north_eastern_athletic_c,14,18.642857142857142,6.57,1.57,0.71,0.29,0.0,0.8571428571428571,-2.4700293326799603,60
+104,2665,"Dowdie,Deven",Valley Forge,North Eastern Athletic Conference,north_eastern_athletic_c,23,15.782608695652174,3.87,2.3,2.26,0.7,0.09,1.4782608695652173,-2.4844946991627395,60
+105,2706,Justin Leddo,Penn State Harrisburg,North Eastern Athletic Conference,north_eastern_athletic_c,25,10.2,4.24,2.2,0.64,0.32,0.16,0.44,-2.5712701171762715,59
+106,2727,"Shelley,Damir",Penn State Brandywine,North Eastern Athletic Conference,north_eastern_athletic_c,11,19.0,3.36,2.09,2.55,0.82,0.18,1.7272727272727273,-2.6248637038117897,59
+107,2732,"Jackson,Tyler",Rosemont,North Eastern Athletic Conference,north_eastern_athletic_c,21,20.857142857142858,5.95,1.95,1.43,0.9,0.0,1.8571428571428572,-2.6333151881390924,59
+108,2746,"Brewer Jr., Bruce",Gallaudet University,North Eastern Athletic Conference,north_eastern_athletic_c,21,20.38095238095238,2.19,2.86,3.14,0.86,0.05,1.8095238095238095,-2.670162157820188,59
+109,2747,"Harrison,Gabriel",Penn State Berks,North Eastern Athletic Conference,north_eastern_athletic_c,24,13.041666666666666,3.92,3.0,0.58,0.46,0.38,1.0,-2.6703310303585495,58
+110,2768,"Johnson,Isaiah",Penn State Brandywine,North Eastern Athletic Conference,north_eastern_athletic_c,27,11.666666666666666,4.0,2.44,0.22,0.48,0.22,0.5185185185185185,-2.722230075658045,58
+111,2775,Maurice Davis,Penn State Harrisburg,North Eastern Athletic Conference,north_eastern_athletic_c,28,14.285714285714286,3.64,2.75,1.04,0.5,0.25,1.0357142857142858,-2.7369161609933848,58
+112,2779,"Florio, Kyle",Gallaudet University,North Eastern Athletic Conference,north_eastern_athletic_c,18,14.61111111111111,2.67,1.61,1.11,0.83,0.06,0.4444444444444444,-2.7555439065665297,58
+113,2781,"Nelson,Javon",Penn State Brandywine,North Eastern Athletic Conference,north_eastern_athletic_c,26,16.884615384615383,2.65,2.46,1.19,0.81,0.42,1.1538461538461535,-2.762029820851922,58
+114,2782,"Cavacini,Peter",Penn State Berks,North Eastern Athletic Conference,north_eastern_athletic_c,11,10.0,6.27,1.36,0.36,0.27,0.09,0.8181818181818182,-2.7676578614291594,58
+115,2936,Kendall Bratten,Penn College,North Eastern Athletic Conference,north_eastern_athletic_c,18,11.444444444444445,3.61,2.61,0.61,0.39,0.22,0.8888888888888888,-3.0728591977999327,56
+116,2979,"Murphy,Sean",Penn State Abington,North Eastern Athletic Conference,north_eastern_athletic_c,26,15.115384615384617,2.5,3.04,0.27,0.12,0.58,0.6538461538461539,-3.156296079203828,55
+117,2980,"Thompson,Tristan",St. Mary's (Md.),North Eastern Athletic Conference,north_eastern_athletic_c,18,14.72222222222222,3.67,3.44,0.83,0.67,0.11,1.5,-3.157505664531444,55
+118,3022,"Rivera,Nick",Cairn University,North Eastern Athletic Conference,north_eastern_athletic_c,22,10.545454545454543,1.64,2.27,1.5,0.64,0.09,0.8181818181818182,-3.267798934421697,55
+119,3030,"Maxwell-Lawus,Jeramiah",Keystone College,North Eastern Athletic Conference,north_eastern_athletic_c,26,10.461538461538462,2.12,2.42,0.58,0.5,0.38,0.7307692307692307,-3.296332112248857,55
+120,3035,"Scarpulla,Tyler",Rosemont,North Eastern Athletic Conference,north_eastern_athletic_c,20,23.85,4.35,1.95,1.8,0.35,0.05,1.65,-3.312754529752296,55
+121,3163,Elija Eccleston,Penn State Harrisburg,North Eastern Athletic Conference,north_eastern_athletic_c,22,10.954545454545457,4.59,1.0,0.77,0.5,0.0,1.2272727272727273,-3.682135817587216,53
+122,3166,"Kobil,Ben",St. Mary's (Md.),North Eastern Athletic Conference,north_eastern_athletic_c,21,14.857142857142858,2.62,2.14,1.19,0.52,0.1,1.238095238095238,-3.690064891595466,53
+123,3234,"Truskey,Cooper",Penn State Berks,North Eastern Athletic Conference,north_eastern_athletic_c,23,11.434782608695652,3.43,0.83,0.57,0.26,0.0,0.5652173913043478,-3.860657785275986,52
+124,3268,Jenssyn Shuey,Penn College,North Eastern Athletic Conference,north_eastern_athletic_c,10,13.8,2.6,2.7,0.6,0.3,0.0,1.0,-3.9777964216402655,52
+125,3289,Colby Bost,Penn College,North Eastern Athletic Conference,north_eastern_athletic_c,23,11.217391304347826,2.78,1.52,0.48,0.3,0.17,0.8695652173913043,-4.0348157710452925,51
+126,3305,"Blake Jr.,Travis",Wilson College,North Eastern Athletic Conference,north_eastern_athletic_c,27,10.148148148148149,2.0,1.56,0.11,0.41,0.15,0.4814814814814814,-4.078235717705363,51
+127,3339,"Hunter,Joshua",Penn State Abington,North Eastern Athletic Conference,north_eastern_athletic_c,10,11.8,2.7,1.8,0.5,0.0,0.1,0.8,-4.26752964608747,51
+128,3348,"Wilder,Dallas",Rosemont,North Eastern Athletic Conference,north_eastern_athletic_c,17,11.764705882352942,1.47,1.59,0.59,0.59,0.0,0.8235294117647058,-4.370330856284639,50
+129,3352,"Mason,Jaylyn",Rosemont,North Eastern Athletic Conference,north_eastern_athletic_c,14,13.642857142857142,2.21,1.64,0.36,0.14,0.07,0.7142857142857143,-4.429120472380042,50
+130,3362,Josh Shepherd,Penn College,North Eastern Athletic Conference,north_eastern_athletic_c,20,11.8,4.4,1.05,1.0,0.5,0.05,2.2,-4.6257340337098105,50
+131,3376,"Ortiz, Zeke",Gallaudet University,North Eastern Athletic Conference,north_eastern_athletic_c,17,10.823529411764708,2.24,1.35,1.24,0.47,0.0,2.235294117647059,-5.408160047320837,50

@@ -1,0 +1,104 @@
+conference_code,conference,season,team,player_name,first_name,last_name,games_played,mpg,points_per_game,rebounds_per_game,assists_per_game,steals_per_game,blocked_shots_per_game,turnovers_per_game,composite_score,rank,rating,global_rank
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Plattsburgh,R Welch,R,Welch,25,37.6,26.1,8.2,4.2,1.6,0.2,3.5,12.2381050914866,1,99,6145
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Canton,L Johnson Jr.,L Johnson,Jr.,18,33.4,19.8,12.0,3.2,2.6,2.0,4.1,10.954899519974655,2,93,6146
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Cortland,A Coston,A,Coston,27,30.4,14.9,7.9,3.3,0.9,1.1,1.6,7.2288855644807875,3,91,6151
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oswego,D Judd,D,Judd,28,30.0,18.1,9.0,1.4,0.9,0.9,2.8,7.040572789562892,4,89,6147
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Fredonia,M Garza,M,Garza,25,33.9,16.3,5.4,1.8,1.4,0.4,1.9,5.814395941161631,5,87,6148
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,New Paltz,L Matthews,L,Matthews,26,33.1,16.2,6.3,1.2,1.0,0.2,1.3,5.731440657512641,6,86,6149
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oneonta,C LaClair,C,LaClair,25,30.8,14.2,7.8,2.3,1.0,0.2,1.5,5.672917224769163,7,85,6153
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Cortland,K Arcuri,K,Arcuri,23,31.2,13.2,7.1,2.8,1.0,0.4,1.2,5.601728353371707,8,84,6156
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Potsdam,M Hancock,M,Hancock,25,30.4,13.5,6.6,3.3,1.2,0.4,2.1,5.350059209990951,9,82,6155
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,New Paltz,I Rivera,I,Rivera,25,29.9,15.2,7.1,1.8,1.6,1.1,3.5,5.179447246604237,10,81,6150
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oswego,J McGhee,J,McGhee,28,22.9,14.5,3.1,2.1,1.2,0.2,1.1,4.634608433605584,11,81,6152
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Canton,J Reese,J,Reese,25,26.4,13.6,5.0,1.8,2.1,0.8,2.4,4.594730259133737,12,80,6154
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oswego,A Foster,A,Foster,28,29.0,10.5,6.6,2.6,1.8,0.3,2.1,3.6123496777512702,13,79,6169
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,New Paltz,M Sylla,M,Sylla,25,28.4,12.1,6.0,2.7,1.7,0.1,3.0,3.4358565398717147,14,78,6159
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oneonta,N Cortez,N,Cortez,26,27.3,12.3,3.9,2.2,1.2,0.0,1.8,3.0835137599963987,15,77,6158
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oswego,S Bradley,S,Bradley,27,28.9,11.4,4.0,2.0,0.8,0.3,1.1,3.008640844690224,16,76,6161
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Cortland,J Davis,J,Davis,27,28.3,9.7,7.0,2.3,1.1,1.1,2.5,2.9499866131347425,17,76,6173
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Plattsburgh,J Gladney,J,Gladney,26,35.8,11.2,3.3,2.9,1.4,0.1,1.8,2.9402102811288398,18,75,6162
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Morrisville,J Works,J,Works,26,24.4,10.8,3.5,1.7,1.2,0.7,1.1,2.8904397610324817,19,74,6165
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Canton,B Streb,B,Streb,24,31.5,10.2,6.5,2.0,0.9,0.8,2.1,2.8285758300696413,20,74,6171
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,New Paltz,T Amalfitano,T,Amalfitano,25,27.6,12.0,3.1,1.9,0.9,0.5,1.6,2.805118201137261,21,73,6160
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Plattsburgh,K Screen,K,Screen,25,28.0,9.8,8.0,1.2,0.5,0.6,1.4,2.729249917618108,22,72,6172
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Morrisville,J Moorehead,J,Moorehead,26,20.3,12.7,2.0,1.5,1.4,0.1,1.5,2.6833887431946835,23,72,6157
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oneonta,D Knox,D,Knox,24,28.6,9.0,5.3,2.0,1.0,0.6,1.0,2.5634463280629713,24,71,6178
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Fredonia,E Sokolowski,E,Sokolowski,20,27.3,8.3,5.5,4.0,1.4,0.1,2.1,2.5455998764064125,25,70,6183
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oswego,G McLane,G,McLane,28,27.7,8.0,5.6,2.1,2.5,0.6,1.8,2.5379270872491775,26,70,6186
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Morrisville,A Grainger,A,Grainger,26,22.2,10.5,4.2,1.7,1.1,1.2,2.1,2.4857863867771215,27,69,6167
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oneonta,N Cohen,N,Cohen,25,22.3,11.0,4.4,1.0,1.2,0.3,1.2,2.4774648121404246,28,69,6163
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Morrisville,B Wingate,B,Wingate,24,22.1,10.7,4.2,1.5,1.4,0.2,1.9,2.0803290538638124,29,68,6166
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Morrisville,K Haskins,K,Haskins,25,24.0,9.1,4.1,3.2,1.1,0.1,1.9,1.9844914724220295,30,68,6177
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Buffalo State,C Ani,C,Ani,25,25.0,8.2,7.4,0.7,0.6,1.4,1.7,1.784370435089674,31,67,6185
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Fredonia,S Williams,S,Williams,25,27.4,10.8,2.3,2.9,0.7,0.0,2.0,1.7220759648299193,32,66,6164
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Plattsburgh,M Johnson,M,Johnson,24,28.7,9.2,6.8,1.3,0.6,0.1,1.6,1.625049240332145,33,66,6176
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Buffalo State,O DeJesus,O,DeJesus,24,25.3,8.5,3.0,3.1,1.3,0.0,1.6,1.532449653423571,34,65,6182
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Cortland,I Austin,I,Austin,26,23.4,10.4,2.7,1.3,1.0,0.0,1.2,1.445121895913898,35,65,6170
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Cortland,N Raymond,N,Raymond,27,20.1,9.3,2.6,2.5,0.7,0.1,1.6,1.1435313427421945,36,64,6175
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Potsdam,T Hardy,T,Hardy,25,23.7,10.5,3.6,1.1,0.8,0.3,2.0,1.137151009056095,37,64,6168
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Canton,M Smith,M,Smith,21,22.5,9.4,2.1,1.5,1.2,0.1,1.1,1.119606013348642,38,63,6174
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Buffalo State,J Opare,J,Opare,25,21.7,8.6,2.7,2.1,0.9,0.1,1.4,0.8324126072131955,39,63,6181
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Potsdam,J Singh,J,Singh,25,23.6,8.6,3.2,1.6,1.4,0.2,2.1,0.5369802183221787,40,63,6180
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oswego,F Fowler,F,Fowler,27,23.4,7.1,2.6,2.2,1.4,0.1,1.3,0.4567266995572381,41,62,6189
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Potsdam,B Kemokai,B,Kemokai,25,22.8,7.8,2.2,0.8,1.5,0.3,1.0,0.2711759644993256,42,62,6187
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Potsdam,E Baksh,E,Baksh,24,24.4,8.8,4.7,1.3,0.8,0.2,2.8,0.010673141365430024,43,61,6179
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Buffalo State,E Strong,E,Strong,25,21.5,6.3,4.0,1.1,0.9,0.4,1.1,-0.1604520634043265,44,61,6196
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,New Paltz,T Keane,T,Keane,26,28.9,4.5,4.2,3.0,1.6,0.1,1.8,-0.18247460229569956,45,60,6213
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Fredonia,B Kopp,B,Kopp,16,23.9,8.3,2.0,2.6,0.6,0.0,2.4,-0.28086359078152556,46,60,6184
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oneonta,P Evans,P,Evans,21,19.8,6.1,3.3,2.1,0.5,0.0,1.1,-0.42034976610373687,47,59,6199
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Fredonia,C Williams,C,Williams,25,20.2,7.0,2.6,1.4,0.5,0.1,1.1,-0.5263220345518257,48,59,6191
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Potsdam,B Brown,B,Brown,25,27.0,6.0,2.6,1.3,1.9,0.2,1.6,-0.533168960963724,49,59,6200
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Canton,E Gbekou,E,Gbekou,25,19.8,7.7,1.4,1.1,0.5,0.0,1.0,-0.7203115728840981,50,58,6188
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Canton,E Johnson Jr.,E Johnson,Jr.,24,20.4,6.2,4.7,0.8,0.3,0.5,1.4,-0.7231936177746756,51,58,6197
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oswego,C Whyte-Luciano,C,Whyte-Luciano,28,13.7,6.9,1.9,0.6,0.5,0.1,0.4,-0.7661473727228453,52,57,6192
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Cortland,X Leveille,X,Leveille,27,17.1,7.1,2.3,0.3,0.3,0.5,0.8,-0.8614515577305166,53,57,6190
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Buffalo State,Z Johnson,Z,Johnson,23,20.9,6.7,2.0,1.1,1.0,0.3,1.5,-0.9066577945189249,54,56,6193
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oneonta,S Booth,S,Booth,26,17.3,6.6,2.8,0.3,0.3,0.0,0.3,-0.951688693160078,55,56,6195
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Buffalo State,H Shabazz,H,Shabazz,23,19.3,6.6,2.7,1.2,0.9,0.1,1.6,-0.961714542837801,56,56,6194
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Morrisville,R Wiggins,R,Wiggins,25,17.5,6.0,1.9,1.2,1.6,0.1,1.6,-1.0889070098939717,57,55,6201
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Fredonia,D Brooks,D,Brooks,17,18.1,6.2,3.0,0.8,0.4,0.2,1.1,-1.194906316013085,58,55,6198
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Cortland,G Armbrewster,G,Armbrewster,27,21.9,4.7,2.4,1.9,0.4,0.0,0.7,-1.344383029277898,59,55,6208
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oneonta,H Herlihy,H,Herlihy,26,20.0,4.7,2.8,1.2,0.4,0.1,0.5,-1.4261057446008631,60,54,6207
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Morrisville,S Shury-Muse,S,Shury-Muse,16,11.9,4.6,3.9,0.6,0.5,0.1,0.5,-1.4370031271956885,61,54,6211
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Morrisville,T Borges,T,Borges,26,15.1,5.3,2.9,0.5,0.4,0.4,0.7,-1.443127308033426,62,53,6203
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Buffalo State,B Cheng,B,Cheng,16,20.0,5.1,2.8,1.8,0.4,0.1,1.3,-1.4526618324412985,63,53,6204
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Plattsburgh,D McKnight Jr.,D McKnight,Jr.,25,19.0,5.6,2.0,0.6,0.6,0.5,0.9,-1.460069558777677,64,53,6202
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Morrisville,T Cooper,T,Cooper,22,14.1,4.5,3.2,0.5,0.5,0.3,0.6,-1.7086647617651052,65,52,6215
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,New Paltz,O Sy,O,Sy,23,14.1,4.5,2.7,0.8,0.7,0.4,1.0,-1.7873777672782243,66,52,6212
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Potsdam,L Cox,L,Cox,24,11.4,4.3,2.7,0.1,0.2,0.8,0.5,-1.9765514127331507,67,52,6218
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Fredonia,J Douglas,J,Douglas,24,12.4,4.9,2.6,0.4,0.2,0.5,1.1,-2.1821250655365665,68,51,6206
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oswego,P Emling,P,Emling,22,10.8,3.5,2.2,0.7,0.8,0.1,0.4,-2.2418962982327253,69,51,6223
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Canton,C Nastasi,C,Nastasi,21,16.3,5.1,2.2,0.7,0.6,0.0,1.3,-2.27901524298314,70,50,6205
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Potsdam,B Ozen,B,Ozen,23,13.8,4.5,2.6,0.3,0.1,0.4,0.7,-2.289516086254061,71,50,6214
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Buffalo State,R Skvorc,R,Skvorc,19,15.7,4.7,1.9,0.4,0.4,0.1,0.6,-2.2940999804314792,72,50,6209
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Cortland,C McDonald,C,McDonald,24,10.0,2.8,3.7,0.5,0.5,0.3,0.4,-2.307901422412571,73,49,6228
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Buffalo State,W Beard,W,Beard,22,12.4,4.3,1.9,0.5,0.6,0.1,0.6,-2.3172002986078457,74,49,6217
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Plattsburgh,C Hartig,C,Hartig,26,14.4,3.2,3.3,0.4,0.4,0.3,0.5,-2.4260142834095073,75,49,6225
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,New Paltz,J Noelizaire,J,Noelizaire,26,15.9,3.6,2.8,1.0,0.6,0.3,1.3,-2.484044264752582,76,48,6222
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Buffalo State,A Webb,A,Webb,25,14.6,3.8,3.3,0.4,0.2,0.2,0.9,-2.6151098332657443,77,48,6220
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,New Paltz,A Leonard,A,Leonard,25,13.2,4.4,1.4,0.5,0.6,0.0,0.8,-2.652357902487811,78,48,6216
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Buffalo State,M Scott,M,Scott,23,10.0,4.7,0.8,0.7,0.2,0.0,0.6,-2.66328378210842,79,47,6210
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Fredonia,A Andrews,A,Andrews,21,12.3,3.6,2.3,0.5,0.2,0.3,0.7,-2.7538729850982357,80,47,6221
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Cortland,G Pacheco,G,Pacheco,23,11.9,4.0,1.3,0.6,0.5,0.1,0.9,-2.9053800542311965,81,47,6219
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oneonta,C Almanzar,C,Almanzar,26,9.6,3.1,2.7,0.3,0.2,0.1,0.7,-3.1666749931766818,82,46,6226
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Morrisville,J Guerrero,J,Guerrero,20,8.6,2.2,2.5,0.6,0.3,0.3,0.6,-3.2381039975364083,83,46,6236
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Canton,J Sidle,J,Sidle,24,10.0,2.9,1.2,0.7,0.5,0.0,0.6,-3.3087299952569413,84,46,6227
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oswego,J Monroe,J,Monroe,20,7.7,2.1,1.3,0.4,0.4,0.2,0.1,-3.426308978272719,85,45,6237
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Fredonia,K Laditan,K,Laditan,25,14.9,2.0,3.7,0.8,0.4,0.2,1.4,-3.460710829663854,86,45,6239
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Canton,K Castrello,K,Castrello,16,9.3,3.2,0.8,0.5,0.5,0.0,0.7,-3.4785583882971434,87,45,6224
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Potsdam,M Szymanski,M,Szymanski,20,8.6,2.7,0.6,0.7,0.3,0.0,0.4,-3.584479494400366,88,45,6229
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Potsdam,C Bastedo,C,Bastedo,16,11.3,2.0,1.2,1.0,0.5,0.0,0.6,-3.6049818786980987,89,44,6238
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Canton,J Francois,J,Francois,23,11.7,2.6,1.5,0.4,0.4,0.0,0.6,-3.6262192146477172,90,44,6230
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Fredonia,M MacDonald,M,MacDonald,25,13.9,2.3,1.7,1.4,0.1,0.0,1.1,-3.676994127066825,91,44,6234
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oneonta,S Barber,S,Barber,24,7.9,2.6,0.5,0.4,0.3,0.1,0.3,-3.7075534552669502,92,43,6231
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oneonta,D Mitchell-Murray,D,Mitchell-Murray,25,8.2,2.4,1.6,0.3,0.2,0.3,0.7,-3.7500174723547457,93,43,6233
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Morrisville,D Abu,D,Abu,19,8.2,1.5,1.2,1.2,0.4,0.0,0.6,-3.8134095299048343,94,43,6242
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Plattsburgh,A McGuire,A,McGuire,23,9.8,1.4,1.8,0.3,0.2,0.4,0.4,-3.9183908518185215,95,42,6243
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Canton,T Sullivan,T,Sullivan,17,8.7,2.5,0.8,0.1,0.2,0.1,0.4,-3.9946473536365614,96,42,6232
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oneonta,I Wally,I,Wally,17,4.8,2.2,1.8,0.1,0.0,0.1,0.5,-4.04084400988781,97,42,6235
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oswego,J Watkins,J,Watkins,22,8.1,1.6,0.4,0.8,0.3,0.0,0.4,-4.177978958691672,98,41,6241
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Fredonia,A Holmes,A,Holmes,22,9.7,2.0,1.4,0.3,0.2,0.0,0.7,-4.250478141519066,99,41,6240
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,New Paltz,P Nydam,P,Nydam,18,6.5,1.2,1.2,0.1,0.2,0.3,0.2,-4.263610346958218,100,41,6246
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Buffalo State,M Smith,M,Smith,15,3.5,1.3,0.9,0.1,0.1,0.1,0.3,-4.595557429179641,101,41,6245
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oneonta,K Gonzalez,K,Gonzalez,16,3.4,1.4,0.6,0.1,0.1,0.0,0.3,-4.711946912539391,102,40,6244
+sunyac,State University of New York Athletic Conference (SUNYAC),2025-26,Oswego,T Rosbrook,T,Rosbrook,22,6.6,0.6,1.1,0.3,0.1,0.0,0.2,-4.7789217675692415,103,40,6247

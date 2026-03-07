@@ -1,0 +1,100 @@
+rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,20,"Cook,Jacob",Concordia,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,34.53846153846154,21.46,11.08,3.35,1.04,0.58,2.5384615384615383,8.625166525996503,95
+2,24,"Barnette,Myles",Gustavus,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,29.96153846153846,18.77,3.88,4.0,2.5,0.73,1.5,8.184701455615704,95
+3,27,"Shannon,Noah",Macalester,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,33.64,21.44,7.88,3.52,1.12,0.36,1.96,8.03902705543377,95
+4,80,"Loge,Jackson",Concordia,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,32.03703703703704,14.63,10.37,2.19,0.96,1.11,1.5925925925925926,6.3691689529452,94
+5,85,"Semanko,JJ",Augsburg,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,30.85185185185185,17.81,8.63,2.48,1.26,0.52,2.074074074074074,6.282140022012813,94
+6,107,"Kirk,Kobe",St. Olaf,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,32.69230769230769,18.73,4.08,1.5,1.04,1.23,1.3076923076923077,5.957738111281136,94
+7,178,"Schell,Payton",Concordia,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,31.333333333333332,13.7,4.26,1.63,1.07,1.96,1.0740740740740742,5.21824401763353,93
+8,195,"Ebel,Brendan",Hamline,Minnesota Intercollegiate Athletic Conference (MIAC),miac,22,29.772727272727273,14.73,5.95,2.23,2.0,0.68,1.818181818181818,5.087623996621089,93
+9,292,"Koelling,Sam",Carleton,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,30.615384615384617,14.5,7.65,1.35,0.77,0.85,1.4615384615384617,4.396759915057805,91
+10,297,"Uhl,AJ",St. Olaf,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,29.68,14.64,6.88,2.24,0.56,0.84,1.64,4.357852083108527,91
+11,317,"Klug,Reid",Saint Mary's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,23,30.782608695652176,13.65,5.57,2.57,1.22,0.78,1.7391304347826086,4.163065854824235,91
+12,352,"Batala,Elias",Augsburg,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,26.925925925925927,14.63,4.33,1.81,1.15,0.78,1.4444444444444444,3.886778894583981,90
+13,405,"Schmitz,Blake",Bethel,Minnesota Intercollegiate Athletic Conference (MIAC),miac,22,31.818181818181817,14.73,5.0,2.0,1.27,0.73,2.090909090909091,3.619748900501558,90
+14,445,"Burke,Nick",Bethel,Minnesota Intercollegiate Athletic Conference (MIAC),miac,24,33.25,17.29,6.21,2.96,0.71,0.17,3.0416666666666665,3.422472332573717,89
+15,454,"Schmitt,Jake",Gustavus,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,28.153846153846153,15.42,3.54,1.92,1.42,0.04,1.4230769230769231,3.3470561343040637,89
+16,458,Peyton Podany,Saint John's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,27.51851851851852,15.04,5.78,2.56,0.56,0.19,1.8148148148148149,3.308851907343783,89
+17,474,"Muhammad,Hanif",Augsburg,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,25.22222222222222,12.44,2.85,2.0,2.37,0.15,1.1851851851851851,3.252377813649265,89
+18,497,"Butler,Davion",St. Scholastica,Minnesota Intercollegiate Athletic Conference (MIAC),miac,24,31.75,15.33,3.42,3.21,1.92,0.08,2.7916666666666665,3.1401978766516416,89
+19,578,"Drake,Matt",Carleton,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,33.53846153846154,19.42,2.81,2.15,0.77,0.04,2.730769230769231,2.809354957044915,87
+20,615,Baiden Bean,Saint John's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,26.814814814814813,8.63,2.67,5.52,1.59,0.19,1.6296296296296295,2.718530599111685,87
+21,625,"Engelberg,Josh",Carleton,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,33.03846153846154,15.12,3.85,2.35,1.0,0.19,2.076923076923077,2.65567367177369,87
+22,693,"DeDominces,Dane",Hamline,Minnesota Intercollegiate Athletic Conference (MIAC),miac,24,26.916666666666668,9.33,7.21,1.58,1.04,0.75,1.4166666666666667,2.3919414139063497,86
+23,701,"Nelson,Koy",St. Scholastica,Minnesota Intercollegiate Athletic Conference (MIAC),miac,24,30.541666666666668,14.75,3.25,2.29,0.96,0.13,1.875,2.354716808130015,86
+24,750,"Quam,Andrew",Gustavus,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,22.8,11.84,3.6,2.04,0.92,0.16,0.92,2.1558002248962427,85
+25,808,"Dosmann,Dominic",Hamline,Minnesota Intercollegiate Athletic Conference (MIAC),miac,24,27.791666666666668,10.71,5.13,1.75,0.67,0.54,1.1666666666666667,1.990697813480122,84
+26,823,"Harvey,Jackson",Saint Mary's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,22,23.681818181818183,11.5,8.05,0.73,0.27,0.77,1.7272727272727273,1.9427184817494725,84
+27,827,"Vaidya,Raoul",Hamline,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,29.84,14.0,2.64,2.0,0.76,0.04,1.32,1.934278761401497,84
+28,882,"Lamb,Rex",St. Olaf,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,28.23076923076923,13.88,2.81,1.73,0.81,0.31,1.6923076923076923,1.7409595836538128,83
+29,952,"Aguillon,Joaquin",Macalester,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,33.28,8.64,4.2,4.28,1.16,0.48,2.4,1.505591954552696,82
+30,957,"Belka,Peyton",Concordia,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,35.44444444444444,12.04,2.85,3.26,0.96,0.22,2.185185185185185,1.483141281409877,82
+31,1043,"Charbonneau,Jack",Bethel,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,23.92,9.68,6.2,1.2,0.48,0.44,1.2,1.206007541266018,81
+32,1189,"Wall-Atim,Ethan",Hamline,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,21.12,6.52,5.88,2.44,0.84,0.44,1.32,0.8126851885513405,79
+33,1199,"Averill,Tobias",Carleton,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,31.423076923076923,8.88,4.81,2.12,1.04,0.35,1.7692307692307692,0.7908033586007788,79
+34,1210,"Koch,Carson",Gustavus,Minnesota Intercollegiate Athletic Conference (MIAC),miac,21,25.952380952380953,6.0,6.52,1.0,1.33,0.33,0.8095238095238095,0.7722118068115831,79
+35,1215,"Gingras,Sam",Bethel,Minnesota Intercollegiate Athletic Conference (MIAC),miac,24,26.125,11.25,3.79,1.79,0.58,0.38,1.7916666666666667,0.7634758384207139,79
+36,1224,"Neubert,Jay",Bethel,Minnesota Intercollegiate Athletic Conference (MIAC),miac,21,28.0,10.62,2.81,1.43,0.71,0.14,0.9047619047619048,0.7254247487188213,79
+37,1260,"Weckwerth,Reid",Saint Mary's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,27.16,12.16,2.84,0.72,0.44,0.12,0.88,0.6420693085849485,78
+38,1370,"Madigan,Liam",St. Olaf,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,22.923076923076923,5.88,6.12,2.69,0.73,0.23,1.3461538461538465,0.3831152594888613,77
+39,1378,"Keykal,Aaron",St. Scholastica,Minnesota Intercollegiate Athletic Conference (MIAC),miac,20,25.95,7.8,6.3,1.4,0.95,0.35,1.7,0.3658886455421443,77
+40,1428,"Wolff,Eli",Gustavus,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,23.03703703703704,9.41,2.96,1.11,0.67,0.11,0.6666666666666666,0.2397816350719667,76
+41,1452,"Hart,Daveion",Augsburg,Minnesota Intercollegiate Athletic Conference (MIAC),miac,16,18.4375,8.94,2.25,1.19,0.75,0.38,0.75,0.1776306747481124,76
+42,1546,"Markham,Sawyer",Saint Mary's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,28.6,9.08,3.2,3.36,0.92,0.12,2.52,-0.1295898754297371,75
+43,1548,"Brown,Jayden",St. Scholastica,Minnesota Intercollegiate Athletic Conference (MIAC),miac,24,24.666666666666668,9.38,4.04,1.29,0.75,0.29,1.7083333333333333,-0.1314166406869445,75
+44,1553,"Kraay,Max",St. Olaf,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,20.32,7.4,3.04,1.44,0.44,0.36,0.56,-0.1460507409765307,74
+45,1605,"Kloos,Hayden",St. Scholastica,Minnesota Intercollegiate Athletic Conference (MIAC),miac,23,22.652173913043477,5.83,4.26,0.74,0.78,0.7,0.7391304347826086,-0.2711196952366587,74
+46,1627,"Hamburge,Noah",Macalester,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,25.92,8.72,3.52,1.48,0.96,0.08,1.52,-0.3183628879023131,73
+47,1661,Vincent Hillesheim,Saint John's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,22.074074074074073,8.15,5.22,0.74,0.26,0.11,0.8888888888888888,-0.4002602654874604,73
+48,1665,"Smith,Patrick",Carleton,Minnesota Intercollegiate Athletic Conference (MIAC),miac,23,18.60869565217391,5.43,5.57,1.7,0.65,0.26,1.0869565217391304,-0.4204976956444183,73
+49,1727,"Beauchamp,Connor",Gustavus,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,14.037037037037036,5.7,4.85,0.59,0.67,0.04,0.1851851851851851,-0.5577475111233656,72
+50,1733,"Walther,Owen",Macalester,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,25.76,9.08,2.36,0.84,0.36,0.04,0.56,-0.5768573670125493,72
+51,1784,"Tostrud,Luther",St. Olaf,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,22.23076923076923,3.42,3.88,1.77,1.04,0.35,0.5384615384615384,-0.7012394324448996,71
+52,1819,"Izuora,Obinna",Gustavus,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,16.384615384615383,7.23,2.73,0.92,0.85,0.12,0.7307692307692307,-0.7753932318796934,71
+53,1844,"Palmer,John",Saint Mary's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,24,29.625,8.04,3.29,2.13,0.75,0.08,1.8333333333333333,-0.8144841162478168,71
+54,1901,"Brush,Ryan",Macalester,Minnesota Intercollegiate Athletic Conference (MIAC),miac,21,18.38095238095238,7.57,2.24,1.29,0.62,0.05,0.8095238095238095,-0.965973488112337,70
+55,1921,"Johnson,Carlos",St. Scholastica,Minnesota Intercollegiate Athletic Conference (MIAC),miac,11,14.454545454545457,5.45,3.73,1.0,0.64,0.36,0.7272727272727273,-1.0141543672590465,70
+56,1934,Henry Tschetter,Saint John's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,20.08,6.36,4.12,1.44,0.6,0.04,1.08,-1.046713849243988,69
+57,1995,Liam Farniok,Saint John's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,24.25925925925926,7.22,2.3,2.0,0.63,0.07,1.3333333333333333,-1.1703914493655594,69
+58,1999,"Branham,Khai",Saint Mary's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,22,22.40909090909091,7.05,3.55,1.18,0.5,0.09,1.0909090909090908,-1.1802287396511195,68
+59,2017,"Rabaey,Isaac",Augsburg,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,20.03703703703704,6.59,4.33,0.96,0.48,0.3,1.2962962962962965,-1.2254625153996122,68
+60,2046,"Jilla,Kyle",Macalester,Minnesota Intercollegiate Athletic Conference (MIAC),miac,22,28.59090909090909,5.23,6.32,1.68,0.73,0.23,2.0454545454545454,-1.2954278145583076,68
+61,2056,"Axmed,Ali",Augsburg,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,19.703703703703702,4.56,2.33,2.04,0.96,0.22,0.9629629629629628,-1.3173856526076535,68
+62,2059,"Gomez,Trent",Augsburg,Minnesota Intercollegiate Athletic Conference (MIAC),miac,23,17.869565217391305,6.39,1.3,0.7,1.04,0.04,0.391304347826087,-1.3203085527626213,68
+63,2076,"Laliberte,Braedy",Hamline,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,17.52,5.12,1.8,1.04,1.24,0.32,0.8,-1.3500457962404289,67
+64,2077,"Willis,Chris",St. Olaf,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,16.36,5.44,1.8,1.6,0.64,0.0,0.36,-1.353506328623567,67
+65,2107,Jamison Lien,Saint John's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,15.074074074074074,6.67,3.96,0.63,0.26,0.11,0.7777777777777778,-1.426326897907027,67
+66,2145,"Holzer,Cole",Concordia,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,16.192307692307693,5.15,3.88,1.31,0.58,0.27,1.1153846153846154,-1.494821207388833,67
+67,2211,Charlie Theis,Saint John's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,24,14.625,6.96,3.63,0.46,0.29,0.08,0.875,-1.6548779294009095,66
+68,2256,"Kaba,Omar",Carleton,Minnesota Intercollegiate Athletic Conference (MIAC),miac,21,17.428571428571427,3.67,3.29,0.81,0.57,0.81,0.9047619047619048,-1.7410028212706896,65
+69,2317,"Mattes,Adam",Bethel,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,20.96,6.72,2.56,1.0,0.2,0.12,0.92,-1.8624989012014792,64
+70,2408,"Jones,Drelyn",St. Scholastica,Minnesota Intercollegiate Athletic Conference (MIAC),miac,18,16.77777777777778,4.17,2.33,0.83,0.78,0.22,0.5555555555555556,-2.019173827476274,63
+71,2417,"Diaz,Javier",Macalester,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,12.76,8.28,3.36,0.48,0.28,0.2,1.76,-2.033407876330591,63
+72,2526,Justin Johnson,Saint John's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,24,14.041666666666666,6.5,1.42,1.17,0.29,0.04,0.9166666666666666,-2.2578512198826113,61
+73,2597,"Teklemariam,Nebiyu",St. Scholastica,Minnesota Intercollegiate Athletic Conference (MIAC),miac,22,13.363636363636363,4.68,1.68,0.73,0.36,0.32,0.5454545454545454,-2.380684567515799,60
+74,2611,"Rodriguez,Keenan",Augsburg,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,19.814814814814813,5.04,1.33,1.0,0.63,0.07,0.7037037037037037,-2.4044118106313954,60
+75,2628,"Courneya,Justin",Concordia,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,25.62962962962963,4.93,1.52,2.07,0.48,0.11,1.2962962962962965,-2.4292193681867555,60
+76,2648,Hudson Hochstedler,Saint John's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,15.461538461538462,4.38,2.04,0.88,0.5,0.04,0.5,-2.4506784544578974,60
+77,2714,"Franson,Alex",Concordia,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,18.555555555555557,4.0,1.81,1.74,0.78,0.11,1.2592592592592593,-2.601546435958996,59
+78,2806,"DeDominces,Jake",Hamline,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,11.36,6.4,1.04,0.44,0.28,0.0,0.76,-2.8136758569346583,58
+79,2821,"Holecek,Camden",Hamline,Minnesota Intercollegiate Athletic Conference (MIAC),miac,15,13.933333333333334,4.47,1.6,0.47,0.67,0.0,0.6,-2.8416650018521428,58
+80,2830,"Buslee,Max",Gustavus,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,12.76923076923077,4.46,1.12,0.58,0.38,0.04,0.3076923076923077,-2.849858197982706,57
+81,2850,"Kamara,Abraham",Saint Mary's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,16,16.8125,4.5,1.25,2.5,0.94,0.0,2.0,-2.8971577920397755,57
+82,2862,"Myer,Lucas",Macalester,Minnesota Intercollegiate Athletic Conference (MIAC),miac,18,16.72222222222222,3.56,2.11,0.83,0.22,0.17,0.5,-2.9184887638945813,57
+83,2869,"Kaul,AJ",Bethel,Minnesota Intercollegiate Athletic Conference (MIAC),miac,22,16.272727272727273,4.86,1.05,0.77,0.23,0.09,0.5454545454545454,-2.9308542923653453,57
+84,2887,"Randle,Jamal",Macalester,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,10.8,5.24,1.44,0.76,0.44,0.0,0.92,-2.9682353715993517,57
+85,2915,"Donaldson,Brock",Hamline,Minnesota Intercollegiate Athletic Conference (MIAC),miac,23,12.608695652173912,3.83,1.39,1.26,0.3,0.09,0.6956521739130435,-3.015672369658891,56
+86,2927,"Wohlers,Josh",Saint Mary's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,21.64,3.68,2.36,0.68,0.32,0.12,0.68,-3.0484983397655716,56
+87,2930,"Hussherr,Julien",Augsburg,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,16.25925925925926,3.41,1.3,1.44,0.48,0.0,0.7037037037037037,-3.050510130254799,56
+88,2993,"Matti,Isaac",Gustavus,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,14.96,2.28,2.32,0.68,0.44,0.08,0.32,-3.181370044397952,55
+89,3039,"Rosendahl,Caleb",Bethel,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,17.24,2.24,2.88,1.6,0.36,0.04,1.04,-3.324044052946584,55
+90,3047,"Raymond,Ben",St. Scholastica,Minnesota Intercollegiate Athletic Conference (MIAC),miac,11,13.363636363636363,1.82,2.09,0.55,0.45,0.27,0.3636363636363636,-3.3389521790908168,54
+91,3075,"Mickelson,Sam",Augsburg,Minnesota Intercollegiate Athletic Conference (MIAC),miac,10,11.4,3.9,2.8,0.4,0.4,0.2,1.2,-3.3920838171776495,54
+92,3175,"Carlson,Cooper",St. Olaf,Minnesota Intercollegiate Athletic Conference (MIAC),miac,21,10.38095238095238,2.86,1.43,0.48,0.57,0.0,0.6190476190476191,-3.700344958685435,53
+93,3177,"Norsman,George",Carleton,Minnesota Intercollegiate Athletic Conference (MIAC),miac,23,10.347826086956522,4.39,1.43,0.39,0.09,0.17,0.9130434782608696,-3.703646791012763,53
+94,3189,"Roche,Liam",St. Olaf,Minnesota Intercollegiate Athletic Conference (MIAC),miac,22,15.545454545454543,3.59,1.77,1.23,0.09,0.14,1.2272727272727273,-3.749046394454459,53
+95,3191,"Hill,Mitchell",Saint Mary's,Minnesota Intercollegiate Athletic Conference (MIAC),miac,16,10.6875,3.13,1.19,0.63,0.38,0.06,0.6875,-3.759505226143121,53
+96,3308,"Schradle,JT",Bethel,Minnesota Intercollegiate Athletic Conference (MIAC),miac,13,12.076923076923077,2.46,1.92,0.92,0.08,0.15,1.0,-4.124259717385544,51
+97,3316,"Weber,Andrew",Carleton,Minnesota Intercollegiate Athletic Conference (MIAC),miac,21,11.38095238095238,1.29,1.24,0.86,0.33,0.0,0.3809523809523809,-4.148070799582286,51
+98,3338,"Harris,Paul",St. Scholastica,Minnesota Intercollegiate Athletic Conference (MIAC),miac,20,13.35,2.6,1.45,0.4,0.3,0.05,0.8,-4.267415653228723,51
+99,3374,"Karels,Kobe",St. Scholastica,Minnesota Intercollegiate Athletic Conference (MIAC),miac,10,11.2,0.9,0.7,0.2,0.8,0.2,1.0,-4.9231049898715735,50

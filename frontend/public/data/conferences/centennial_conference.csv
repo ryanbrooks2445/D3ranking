@@ -1,0 +1,90 @@
+rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,73,"Kearney,David",McDaniel,Centennial Conference,centennial_conference,26,32.76923076923077,17.46,6.81,1.27,1.92,1.35,1.9615384615384617,6.532745670042786,94
+2,131,"Jackson,Charlie",Johns Hopkins,Centennial Conference,centennial_conference,27,29.814814814814813,18.89,7.37,2.0,1.7,0.59,2.7777777777777777,5.700971247336765,93
+3,180,"Toure,Mohamed",Ursinus,Centennial Conference,centennial_conference,27,28.48148148148148,17.33,5.93,0.96,1.07,1.0,1.4814814814814814,5.193024312557164,93
+4,267,"Strong-Jacobson,Adam",Haverford,Centennial Conference,centennial_conference,25,22.76,12.04,8.08,1.4,1.08,1.56,1.64,4.57050960855848,92
+5,320,"Eglinton Manner,Wyatt",Johns Hopkins,Centennial Conference,centennial_conference,27,28.074074074074073,13.19,5.56,3.37,1.37,0.26,1.5925925925925926,4.144900208287119,91
+6,387,"Nowoswiat,Kevin",Franklin & Marshall,Centennial Conference,centennial_conference,27,34.111111111111114,16.22,7.37,2.52,1.04,0.15,2.7777777777777777,3.687552515159135,90
+7,447,"Murphy,Jamie",Ursinus,Centennial Conference,centennial_conference,27,29.333333333333332,16.3,6.59,2.52,1.7,0.3,3.5555555555555554,3.4175845529824413,89
+8,487,"Paquette,Eddie",Swarthmore,Centennial Conference,centennial_conference,26,25.884615384615383,15.04,5.85,1.85,1.08,0.04,1.8076923076923077,3.1871453891383585,89
+9,522,"Moran,Dane",Dickinson,Centennial Conference,centennial_conference,25,25.72,14.92,8.2,0.84,0.64,1.12,2.88,3.0417427707944524,88
+10,583,"Mess,Aidan",Gettysburg,Centennial Conference,centennial_conference,26,20.384615384615383,9.04,7.15,1.62,0.69,1.73,1.7692307692307692,2.798975150986153,87
+11,698,"Grauslys,Vakaris",Franklin & Marshall,Centennial Conference,centennial_conference,27,31.88888888888889,13.0,3.44,3.48,1.48,0.37,2.7037037037037037,2.3774739568083945,86
+12,762,"Nocito,Nick",Ursinus,Centennial Conference,centennial_conference,27,28.88888888888889,11.52,3.81,5.59,1.7,0.07,3.592592592592593,2.130797483177858,85
+13,826,"Stanton-Shepherd,Peter",Muhlenberg,Centennial Conference,centennial_conference,25,29.2,9.92,6.84,1.44,0.84,0.52,1.4,1.935778111295953,84
+14,864,"Woodard,Jack",Muhlenberg,Centennial Conference,centennial_conference,25,29.16,11.0,5.0,1.96,0.4,1.0,1.8,1.8201524737679629,84
+15,886,"Zamloot,Ray",Gettysburg,Centennial Conference,centennial_conference,27,31.074074074074073,11.81,4.26,1.44,1.22,0.33,1.5925925925925926,1.73255832799675,83
+16,948,"Buck,Drew",Muhlenberg,Centennial Conference,centennial_conference,25,31.76,11.92,3.52,1.16,1.16,0.4,1.44,1.529823442006477,83
+17,1046,"Nalty,Jon",Washington College,Centennial Conference,centennial_conference,25,26.36,11.32,3.52,1.68,1.84,0.0,1.96,1.1979121095793517,81
+18,1059,"Field,Matthew",Ursinus,Centennial Conference,centennial_conference,27,21.703703703703702,7.41,5.59,1.04,0.85,0.96,1.037037037037037,1.1471240222605177,81
+19,1070,"Harris,Jaedon",Washington College,Centennial Conference,centennial_conference,25,20.6,9.04,2.36,2.16,2.4,0.04,1.64,1.1149719399880562,81
+20,1083,"Waldon,Nolan",Washington College,Centennial Conference,centennial_conference,20,26.8,12.75,1.85,2.5,2.15,0.0,2.85,1.0655225643555906,81
+21,1152,"Felli,Tanti",Johns Hopkins,Centennial Conference,centennial_conference,26,24.346153846153847,8.85,4.35,0.92,0.81,0.81,1.1153846153846154,0.9112351742847272,80
+22,1202,"Portnoy,Max",Washington College,Centennial Conference,centennial_conference,25,26.96,8.52,5.44,2.64,1.16,0.48,2.4,0.7889309939214828,79
+23,1217,"Gillus,Caleb",Gettysburg,Centennial Conference,centennial_conference,23,28.565217391304348,11.3,2.87,3.09,0.96,0.13,2.347826086956522,0.7603004863707854,79
+24,1269,"Williams,Nate",Gettysburg,Centennial Conference,centennial_conference,13,24.923076923076923,9.08,3.92,0.85,1.77,0.23,1.4615384615384617,0.6223836584556224,78
+25,1291,"Donahue,Steve",Franklin & Marshall,Centennial Conference,centennial_conference,27,28.185185185185187,12.22,2.7,1.33,1.19,0.11,1.9259259259259256,0.5825435710848602,78
+26,1298,"Williams,Jeb",Johns Hopkins,Centennial Conference,centennial_conference,27,26.88888888888889,8.93,3.89,0.89,1.48,0.52,1.5555555555555556,0.555539642240348,78
+27,1307,"Jones,Franklin",Franklin & Marshall,Centennial Conference,centennial_conference,27,23.185185185185187,5.85,5.0,1.15,1.52,0.78,1.2592592592592593,0.5333351005413323,78
+28,1323,"Jimenez,Zander",Swarthmore,Centennial Conference,centennial_conference,18,25.27777777777778,12.67,4.44,0.83,0.78,0.11,2.0555555555555554,0.4996964499745185,78
+29,1381,"Ruiz,Juan",Dickinson,Centennial Conference,centennial_conference,21,16.047619047619047,6.38,6.76,1.24,0.52,0.86,1.4285714285714286,0.359360613289514,77
+30,1404,"Woodland,Ty",Washington College,Centennial Conference,centennial_conference,25,23.2,9.8,3.92,0.76,0.56,0.68,1.4,0.3118312660322527,76
+31,1425,"Black,Bruce",McDaniel,Centennial Conference,centennial_conference,26,25.692307692307693,11.12,4.58,1.31,0.81,0.23,2.1923076923076925,0.2472743933571434,76
+32,1471,"Marr,Gaven",Haverford,Centennial Conference,centennial_conference,19,21.63157894736842,9.84,3.79,1.47,0.84,0.11,1.5789473684210529,0.098777460911847,76
+33,1499,"Burger,Devin",Swarthmore,Centennial Conference,centennial_conference,25,23.72,7.92,6.04,1.56,0.4,0.4,1.64,0.0151875123273698,75
+34,1507,"Shaffer,Ryan",McDaniel,Centennial Conference,centennial_conference,26,27.153846153846153,7.0,5.65,1.42,0.81,0.46,1.5384615384615383,-0.0061150216551947,75
+35,1512,"Stuart,Ashenafi",McDaniel,Centennial Conference,centennial_conference,25,34.16,12.16,3.4,1.2,0.48,0.04,1.88,-0.02988879368964,75
+36,1532,"Craft,Reece",Gettysburg,Centennial Conference,centennial_conference,27,24.03703703703704,9.07,4.81,0.67,0.48,0.59,1.5185185185185186,-0.0724189551040541,75
+37,1540,"Belaiter,Tomas",Ursinus,Centennial Conference,centennial_conference,26,21.0,6.15,3.92,1.23,0.96,0.62,0.9615384615384616,-0.1013090796953248,75
+38,1554,"Aurelien,Caleb",Swarthmore,Centennial Conference,centennial_conference,26,26.26923076923077,4.42,4.92,0.92,0.85,0.65,0.4230769230769231,-0.1496635755730537,74
+39,1586,"Uremovich,Christian",Haverford,Centennial Conference,centennial_conference,25,19.92,7.84,2.96,1.36,0.72,0.24,0.84,-0.2348835155239215,74
+40,1599,"Nieman,Luke",Ursinus,Centennial Conference,centennial_conference,27,24.296296296296298,8.93,2.59,0.67,1.04,0.15,0.925925925925926,-0.2647720050539082,74
+41,1602,"Pichay,Jacob",Dickinson,Centennial Conference,centennial_conference,23,27.47826086956522,10.78,3.39,1.87,0.87,0.22,2.5217391304347827,-0.2690732322014104,74
+42,1614,"Ruiz,Luis",Dickinson,Centennial Conference,centennial_conference,19,20.894736842105264,3.53,6.32,1.95,0.68,1.0,1.5263157894736843,-0.2961266359457771,74
+43,1626,"Amos-Whitfield,Bryson",Franklin & Marshall,Centennial Conference,centennial_conference,27,22.296296296296298,6.74,5.11,0.81,0.41,0.19,0.5185185185185185,-0.3173746886404116,73
+44,1771,"Edmond,Isaiah",Dickinson,Centennial Conference,centennial_conference,23,28.73913043478261,9.96,4.0,2.61,0.57,0.0,2.6956521739130435,-0.6822159431193833,72
+45,1800,"Feller,Logan",Johns Hopkins,Centennial Conference,centennial_conference,27,26.51851851851852,6.56,3.33,1.22,0.59,0.15,0.6296296296296297,-0.7494824268368038,71
+46,1817,"Achufusi,Arinze",Muhlenberg,Centennial Conference,centennial_conference,20,26.5,9.2,1.6,1.25,0.9,0.25,1.5,-0.7713518265729036,71
+47,1841,"Klaiber,Nick",Johns Hopkins,Centennial Conference,centennial_conference,27,20.814814814814813,7.81,2.81,1.74,0.7,0.0,1.2222222222222223,-0.8089517067262567,71
+48,1848,"Nolan,Tyler",Haverford,Centennial Conference,centennial_conference,25,19.56,7.0,2.6,0.52,1.04,0.28,0.76,-0.8248346787038758,70
+49,1947,"Lang,Ryan",Washington College,Centennial Conference,centennial_conference,24,24.291666666666668,5.0,3.75,1.08,1.0,0.08,0.6666666666666666,-1.0792724210780855,69
+50,2020,"Kageyama,Brady",Swarthmore,Centennial Conference,centennial_conference,26,19.96153846153846,7.35,1.19,2.58,0.46,0.19,1.4230769230769231,-1.234907383318358,68
+51,2027,"Greene,Drew",Muhlenberg,Centennial Conference,centennial_conference,18,21.27777777777778,4.72,2.61,3.33,1.06,0.06,1.7222222222222223,-1.2454969283130406,68
+52,2051,"Hoffman,Nate",Muhlenberg,Centennial Conference,centennial_conference,23,23.652173913043477,5.61,3.83,1.52,1.17,0.26,1.7391304347826086,-1.3047847057207205,68
+53,2133,"Kearney,Matt",McDaniel,Centennial Conference,centennial_conference,25,19.08,7.52,3.12,0.64,0.6,0.16,1.24,-1.476827615252645,67
+54,2143,"Hanson,Cal",Swarthmore,Centennial Conference,centennial_conference,26,20.692307692307693,6.35,2.38,1.27,0.81,0.0,0.9615384615384616,-1.4943973985153216,67
+55,2186,"Cheung Hernandez,Emmanuel",Haverford,Centennial Conference,centennial_conference,25,15.08,7.16,3.84,1.2,1.2,0.04,2.16,-1.59197379454278,66
+56,2208,"Rizos,Niko",Haverford,Centennial Conference,centennial_conference,24,14.25,4.75,4.38,0.83,0.54,0.58,1.2916666666666667,-1.6472298812025783,66
+57,2222,"Radulovic,Kosta",Gettysburg,Centennial Conference,centennial_conference,27,15.592592592592592,6.19,3.48,0.74,0.33,0.74,1.5185185185185186,-1.6767989375538432,66
+58,2325,"Bland,Davis",Washington College,Centennial Conference,centennial_conference,25,18.72,5.44,2.24,0.64,0.28,0.32,0.44,-1.8798124111121035,64
+59,2348,"Toulson,Trevor",Ursinus,Centennial Conference,centennial_conference,26,16.03846153846154,3.38,2.65,0.85,0.65,0.88,0.9230769230769232,-1.915121118026976,64
+60,2349,"Coleman,Nyle",Swarthmore,Centennial Conference,centennial_conference,26,19.23076923076923,5.73,1.38,2.38,0.65,0.0,1.3076923076923077,-1.916087631711158,64
+61,2414,"Dopirak,Joey",Dickinson,Centennial Conference,centennial_conference,24,19.666666666666668,6.42,3.13,0.79,0.5,0.21,1.375,-2.026564883208724,63
+62,2472,"Warren,Carter",Haverford,Centennial Conference,centennial_conference,25,19.36,5.92,2.16,2.36,0.8,0.08,2.04,-2.1458172350265827,62
+63,2542,"Herr,Josh",Gettysburg,Centennial Conference,centennial_conference,23,17.782608695652176,4.43,3.3,0.61,0.61,0.04,0.6956521739130435,-2.273947765771728,61
+64,2546,"Coleman,Raja",Haverford,Centennial Conference,centennial_conference,25,20.52,6.08,2.08,1.6,0.52,0.0,1.4,-2.2793293787966946,61
+65,2547,"Kelly,Porter",Ursinus,Centennial Conference,centennial_conference,27,16.77777777777778,5.74,2.07,0.59,0.7,0.15,1.0,-2.281871014569095,61
+66,2561,"Gorman,Liam",Muhlenberg,Centennial Conference,centennial_conference,25,14.96,4.92,1.92,0.84,0.44,0.16,0.6,-2.3085919166337003,61
+67,2650,"Briscoe,Malachi",Gettysburg,Centennial Conference,centennial_conference,25,18.88,4.68,2.88,1.0,0.32,0.36,1.16,-2.453925887478349,60
+68,2658,"Cosby,Cole",Dickinson,Centennial Conference,centennial_conference,25,26.4,6.16,1.64,1.24,0.48,0.16,1.4,-2.477625809042929,60
+69,2660,"Cormac,Dylan",Franklin & Marshall,Centennial Conference,centennial_conference,25,14.52,4.8,1.2,0.44,0.64,0.04,0.28,-2.4803266450323913,60
+70,2692,"Stump,Jonathan",Swarthmore,Centennial Conference,centennial_conference,24,12.666666666666666,3.88,2.96,0.25,0.5,0.5,0.8333333333333334,-2.539926388252054,59
+71,2693,"Anderson,Seth",Haverford,Centennial Conference,centennial_conference,25,14.56,2.56,3.2,1.32,0.36,0.28,0.68,-2.54385448107931,59
+72,2813,"Becker,Jacob",Washington College,Centennial Conference,centennial_conference,20,12.7,2.1,2.95,0.65,0.3,0.3,0.25,-2.8281394777111255,58
+73,2911,"Sherman-Murphy,Elias",Muhlenberg,Centennial Conference,centennial_conference,17,15.058823529411764,5.29,1.59,0.94,0.29,0.0,1.0,-3.0124287760806174,56
+74,2916,"George,Dallas",McDaniel,Centennial Conference,centennial_conference,26,16.153846153846153,2.5,1.65,1.54,0.73,0.04,0.7692307692307693,-3.0165396772997655,56
+75,2963,"Maloney,Matthew",Swarthmore,Centennial Conference,centennial_conference,25,13.44,4.48,2.48,0.72,0.28,0.08,1.04,-3.1386723490694184,56
+76,2970,"George,Alex",Haverford,Centennial Conference,centennial_conference,25,19.48,3.28,1.08,1.72,0.48,0.04,0.88,-3.14257073875576,56
+77,2978,"Carrara,Lorenzo",Gettysburg,Centennial Conference,centennial_conference,27,16.14814814814815,4.74,1.48,0.56,0.3,0.0,0.6666666666666666,-3.1544712924416265,55
+78,3004,"Mahoney,Matt",Dickinson,Centennial Conference,centennial_conference,25,19.12,4.28,2.64,0.48,0.48,0.04,1.08,-3.225933775732295,55
+79,3026,"Carr Jr.,David",Washington College,Centennial Conference,centennial_conference,25,10.0,3.24,1.0,0.48,0.64,0.08,0.4,-3.2705424500213383,55
+80,3058,"Biekietov,Bohdan",Franklin & Marshall,Centennial Conference,centennial_conference,27,16.37037037037037,3.78,3.0,0.81,0.59,0.19,1.5925925925925926,-3.3621261976581116,54
+81,3069,"Grospe,Alex",Gettysburg,Centennial Conference,centennial_conference,25,13.24,3.0,0.96,2.08,0.44,0.0,1.08,-3.379354280465159,54
+82,3103,"Ayala Jr.,Mikey",McDaniel,Centennial Conference,centennial_conference,24,27.75,2.38,1.5,1.83,0.5,0.0,1.0,-3.468210324857562,54
+83,3109,"Lawrence,Carter",Franklin & Marshall,Centennial Conference,centennial_conference,27,10.333333333333334,2.74,3.26,0.48,0.22,0.11,0.7777777777777778,-3.4851767964701525,54
+84,3148,"Leskauskas,Ryan",Dickinson,Centennial Conference,centennial_conference,20,14.0,3.45,1.45,0.7,0.45,0.1,0.9,-3.602259850151623,53
+85,3216,"Costello,Ben",Washington College,Centennial Conference,centennial_conference,23,12.521739130434783,3.04,2.17,0.26,0.09,0.13,0.6086956521739131,-3.8078807848024385,52
+86,3243,"Lee,Matt",Muhlenberg,Centennial Conference,centennial_conference,12,10.916666666666666,2.17,1.92,0.33,0.17,0.0,0.25,-3.9018675650243178,52
+87,3256,"Stevenson,Will",Johns Hopkins,Centennial Conference,centennial_conference,27,13.074074074074074,1.07,2.3,0.48,0.19,0.26,0.4074074074074074,-3.952117789453448,52
+88,3269,"Varghese,Isaac",Haverford,Centennial Conference,centennial_conference,23,11.0,3.78,0.87,0.7,0.43,0.04,1.0869565217391304,-3.97871123226489,52
+89,3286,"D'Iorio,Gavin",Muhlenberg,Centennial Conference,centennial_conference,20,15.55,1.9,2.45,0.25,0.35,0.05,0.6,-4.032728012716572,51

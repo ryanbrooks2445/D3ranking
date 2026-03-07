@@ -1,0 +1,50 @@
+[
+  {
+    "conference_code": "e8",
+    "conference": "Empire 8 (E8)",
+    "player_count": 106,
+    "ranked_count": 106
+  },
+  {
+    "conference_code": "mac",
+    "conference": "Middle Atlantic Conferences (MAC)",
+    "player_count": 147,
+    "ranked_count": 147
+  },
+  {
+    "conference_code": "njac",
+    "conference": "New Jersey Athletic Conference (NJAC)",
+    "player_count": 76,
+    "ranked_count": 76
+  },
+  {
+    "conference_code": "nacc",
+    "conference": "Northern Athletics Collegiate Conference (NACC)",
+    "player_count": 242,
+    "ranked_count": 242
+  },
+  {
+    "conference_code": "odac",
+    "conference": "Old Dominion Athletic Conference (ODAC)",
+    "player_count": 117,
+    "ranked_count": 117
+  },
+  {
+    "conference_code": "pac",
+    "conference": "Presidents Athletic Conference (PAC)",
+    "player_count": 119,
+    "ranked_count": 119
+  },
+  {
+    "conference_code": "north",
+    "conference": "north",
+    "player_count": 149,
+    "ranked_count": 149
+  },
+  {
+    "conference_code": "skyline",
+    "conference": "skyline",
+    "player_count": 169,
+    "ranked_count": 169
+  }
+]

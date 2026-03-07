@@ -1,0 +1,135 @@
+rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,12,"Rowe,Jayden",York,Middle Atlantic Conferences (MAC),mac,27,32.55555555555556,25.63,7.04,3.15,1.19,1.74,3.6666666666666665,9.198865221565988,96
+2,17,"Yarbrough,Jevon",Hood,Middle Atlantic Conferences (MAC),mac,27,35.74074074074074,25.56,6.3,6.3,1.89,0.11,4.296296296296297,8.902326457154778,95
+3,31,"Thomas,Jayden",DeSales,Middle Atlantic Conferences (MAC),mac,26,37.88461538461539,25.62,7.08,5.5,1.54,0.04,4.576923076923077,7.906930879586192,95
+4,58,"Onyeka,Olise",Eastern,Middle Atlantic Conferences (MAC),mac,24,30.291666666666668,16.29,10.71,1.17,1.13,2.17,2.4583333333333335,7.073165551298017,94
+5,71,"Dupree,Phanique",Albright,Middle Atlantic Conferences (MAC),mac,25,30.8,14.4,8.0,1.2,0.76,2.4,1.32,6.54230437360204,94
+6,122,"Mitchell,Qadir",Albright,Middle Atlantic Conferences (MAC),mac,26,31.46153846153846,21.42,3.65,2.15,1.23,0.35,1.8846153846153848,5.778389038415293,94
+7,149,"McWhite,Chase",Albright,Middle Atlantic Conferences (MAC),mac,22,29.454545454545453,12.5,8.73,2.77,1.18,1.68,2.272727272727273,5.462848676935506,93
+8,168,"Hamilton,Elijah",Alvernia,Middle Atlantic Conferences (MAC),mac,24,33.375,17.75,7.38,1.21,0.92,1.0,2.0416666666666665,5.273266765723965,93
+9,177,"Scholl,Tommy",Stevens,Middle Atlantic Conferences (MAC),mac,27,33.7037037037037,18.11,6.56,2.07,1.52,0.07,1.9259259259259256,5.236944373068707,93
+10,203,Jake Karnish,King's,Middle Atlantic Conferences (MAC),mac,10,32.3,11.0,10.3,4.0,1.3,0.1,1.6,5.045627184282642,92
+11,224,Ben Rodner-Tims,King's,Middle Atlantic Conferences (MAC),mac,25,33.92,18.08,5.24,4.16,1.08,0.24,2.92,4.82111974006195,92
+12,235,"Cottrell,Robert",Alvernia,Middle Atlantic Conferences (MAC),mac,21,35.19047619047619,16.95,3.71,3.48,1.67,0.33,2.2857142857142856,4.761255918507951,92
+13,252,"Gallagher,Jack",Misericordia,Middle Atlantic Conferences (MAC),mac,27,28.0,13.07,8.26,1.7,1.7,0.96,2.037037037037037,4.6652159848479275,92
+14,296,"Johnson,Nas",Arcadia,Middle Atlantic Conferences (MAC),mac,21,32.333333333333336,17.76,4.19,3.81,1.1,0.19,2.619047619047619,4.370019908227439,91
+15,298,"Chhabra,Harmehar",Stevens,Middle Atlantic Conferences (MAC),mac,27,29.96296296296296,14.3,6.37,4.67,0.93,0.59,2.8518518518518516,4.346612888284695,91
+16,322,"Bright,Myles",Widener,Middle Atlantic Conferences (MAC),mac,25,30.68,19.48,4.08,2.6,1.08,0.0,2.48,4.133703000029215,91
+17,335,"Dearry,Rasheem",Alvernia,Middle Atlantic Conferences (MAC),mac,25,33.6,16.12,4.84,2.0,1.56,0.12,1.76,4.0244061083641585,91
+18,341,"Lynam,Jamison",Arcadia,Middle Atlantic Conferences (MAC),mac,26,33.19230769230769,17.69,2.65,3.0,1.65,0.08,2.3461538461538463,3.959593283112053,91
+19,368,"Cox,Garrett",Hood,Middle Atlantic Conferences (MAC),mac,25,27.96,12.72,7.68,1.76,0.8,0.68,1.4,3.807812383080656,90
+20,371,"Huseby,Jude",Hood,Middle Atlantic Conferences (MAC),mac,27,28.88888888888889,12.26,8.3,2.52,1.19,0.48,2.0,3.7980228018879862,90
+21,390,"Robinson,Kullen",Hood,Middle Atlantic Conferences (MAC),mac,27,30.40740740740741,16.56,5.63,2.11,0.67,0.33,2.0,3.678641741837369,90
+22,409,"Lyles,Caleb",Messiah,Middle Atlantic Conferences (MAC),mac,25,33.64,18.4,6.0,2.08,1.32,0.16,3.24,3.5964230705097338,90
+23,415,"Prociak,Matt",Misericordia,Middle Atlantic Conferences (MAC),mac,27,30.51851851851852,15.15,7.26,1.3,0.41,0.37,1.4074074074074074,3.5772982879092874,90
+24,422,"Okocha,Joshua",Arcadia,Middle Atlantic Conferences (MAC),mac,26,29.346153846153847,9.96,7.54,1.88,1.54,0.58,1.1538461538461535,3.556207736486912,90
+25,480,"Maddison,Kyle",Stevens,Middle Atlantic Conferences (MAC),mac,27,33.2962962962963,14.33,3.85,3.78,1.56,0.22,2.6666666666666665,3.217824299985849,89
+26,512,"Landis,Tate",York,Middle Atlantic Conferences (MAC),mac,27,30.03703703703704,13.26,3.26,3.48,1.74,0.19,2.1481481481481484,3.0785546603831553,88
+27,538,"Beaman,Kole",Stevenson,Middle Atlantic Conferences (MAC),mac,25,29.6,14.28,4.4,1.36,0.92,0.4,1.24,2.9668495461142372,88
+28,546,"Denvir,Frankie",FDU - Florham,Middle Atlantic Conferences (MAC),mac,25,27.04,12.84,4.96,2.56,1.48,0.12,1.8,2.928328866258523,88
+29,550,"Herrin,Mike",Delaware Valley,Middle Atlantic Conferences (MAC),mac,25,27.76,15.92,5.6,1.56,1.28,0.16,2.44,2.915589599758909,88
+30,585,"McBride,Johnny",Messiah,Middle Atlantic Conferences (MAC),mac,25,27.12,10.92,8.44,1.28,0.72,1.36,2.28,2.7981992222793304,87
+31,589,"Redding,Antonio",Delaware Valley,Middle Atlantic Conferences (MAC),mac,25,35.04,17.48,2.96,2.88,0.96,0.04,2.68,2.7802077724460235,87
+32,634,"Haberern,Cooper",York,Middle Atlantic Conferences (MAC),mac,27,30.814814814814813,12.19,4.78,0.63,0.93,0.41,0.4814814814814814,2.6038942947490056,87
+33,686,"Stanley,Janye",Alvernia,Middle Atlantic Conferences (MAC),mac,25,32.0,13.92,5.44,1.76,0.92,0.44,2.2,2.4205120752302456,86
+34,702,"Smith,Chris",FDU - Florham,Middle Atlantic Conferences (MAC),mac,25,31.04,14.6,5.68,1.12,0.64,0.6,2.16,2.3355555382453654,86
+35,722,"Sejuste,Giovanni",Lebanon Valley,Middle Atlantic Conferences (MAC),mac,24,23.958333333333332,13.79,5.13,0.75,0.79,0.79,1.875,2.2651448514221304,86
+36,732,"Bandy,Demarcus",Lebanon Valley,Middle Atlantic Conferences (MAC),mac,25,23.96,10.48,3.68,1.24,1.84,0.76,1.4,2.22280287995994,85
+37,769,"Tang,Kyle",Lebanon Valley,Middle Atlantic Conferences (MAC),mac,25,31.92,10.4,3.36,4.56,1.92,0.08,2.64,2.110396433108334,85
+38,774,"Sherman,DaRon",Eastern,Middle Atlantic Conferences (MAC),mac,24,31.291666666666668,9.33,4.17,3.13,2.25,0.17,2.0416666666666665,2.1033039293366795,85
+39,820,"Wert,Ben",Messiah,Middle Atlantic Conferences (MAC),mac,19,26.63157894736842,13.21,4.26,0.68,0.95,0.58,1.5263157894736843,1.943173076253955,84
+40,829,"Stanton,Jeremiah",Albright,Middle Atlantic Conferences (MAC),mac,25,30.64,12.68,3.12,5.12,0.64,0.16,2.88,1.923273203440176,84
+41,851,Devin Kimmick,King's,Middle Atlantic Conferences (MAC),mac,25,28.72,8.68,6.92,2.96,0.44,0.4,1.44,1.8639086697058032,84
+42,855,"Mallory,Karron",Hood,Middle Atlantic Conferences (MAC),mac,27,30.444444444444443,10.93,3.89,2.19,1.11,0.15,1.1851851851851851,1.851164667728996,84
+43,866,"Reyes,Jay-Nelly",Widener,Middle Atlantic Conferences (MAC),mac,21,24.80952380952381,9.71,4.05,3.1,2.67,0.38,3.0,1.8094283008172751,84
+44,911,"Creek,Mac",FDU - Florham,Middle Atlantic Conferences (MAC),mac,25,28.32,10.52,4.92,4.64,1.4,0.16,3.28,1.6313875966960878,83
+45,942,"Segich,Kori",Widener,Middle Atlantic Conferences (MAC),mac,24,27.041666666666668,11.67,5.21,1.54,0.83,0.25,1.625,1.5490084157322237,83
+46,946,"Jones,Mason",Alvernia,Middle Atlantic Conferences (MAC),mac,25,26.4,8.84,4.96,1.92,1.44,0.44,1.48,1.5365018635080645,83
+47,989,"Parks,Josh",Arcadia,Middle Atlantic Conferences (MAC),mac,24,27.541666666666668,7.67,5.33,1.42,1.08,0.63,0.9166666666666666,1.3588392161339995,82
+48,991,"Keppel,Luke",DeSales,Middle Atlantic Conferences (MAC),mac,26,32.53846153846154,12.69,4.62,1.88,0.77,0.12,2.0,1.3476983406673906,82
+49,1034,"Troyer,Ben",York,Middle Atlantic Conferences (MAC),mac,27,19.333333333333332,9.74,4.11,0.89,1.3,0.26,0.8888888888888888,1.2146245703197966,81
+50,1037,"Attivo,Corey",Arcadia,Middle Atlantic Conferences (MAC),mac,26,27.115384615384617,9.65,4.85,0.73,0.58,0.85,1.0384615384615383,1.2098298205258144,81
+51,1123,"Aryee,Jacob",Widener,Middle Atlantic Conferences (MAC),mac,20,20.05,13.25,2.65,1.05,1.15,0.2,1.85,0.9755602253535172,80
+52,1142,"Luddy,Kyle",Stevenson,Middle Atlantic Conferences (MAC),mac,25,27.72,8.44,5.24,1.68,0.44,0.4,0.88,0.931928836167065,80
+53,1184,"Jackson,Myles",Stevenson,Middle Atlantic Conferences (MAC),mac,25,24.8,11.48,3.92,1.6,0.52,0.16,1.44,0.8313057362781755,79
+54,1201,"Leming,Matt",Stevens,Middle Atlantic Conferences (MAC),mac,27,26.074074074074073,9.48,3.74,0.93,0.74,0.11,0.4074074074074074,0.789580075558511,79
+55,1240,"Pagan,Noah",FDU - Florham,Middle Atlantic Conferences (MAC),mac,21,20.19047619047619,8.57,5.9,1.29,0.71,1.05,2.0952380952380953,0.6979463245772384,79
+56,1261,"Taylor,Dejuan",Eastern,Middle Atlantic Conferences (MAC),mac,24,26.583333333333332,12.08,5.29,0.42,0.38,0.25,1.5416666666666667,0.6392585751152329,78
+57,1283,"Wright,Darryl",Misericordia,Middle Atlantic Conferences (MAC),mac,26,25.03846153846154,4.88,3.12,4.42,1.85,0.15,1.7692307692307692,0.5943425633288439,78
+58,1287,"Edwards-Saliu,Jordan",Messiah,Middle Atlantic Conferences (MAC),mac,20,26.0,7.85,8.3,0.4,0.6,0.4,1.3,0.592741577306277,78
+59,1289,"Chandler,Arvel",Misericordia,Middle Atlantic Conferences (MAC),mac,27,27.88888888888889,7.93,3.48,2.59,0.81,0.26,1.148148148148148,0.586962957528891,78
+60,1299,"Melvin,Reed",Lebanon Valley,Middle Atlantic Conferences (MAC),mac,17,23.529411764705884,11.59,2.94,0.71,0.82,0.18,1.1764705882352942,0.5513583984991671,78
+61,1382,Sean Forrest,King's,Middle Atlantic Conferences (MAC),mac,16,23.5,8.38,4.5,1.56,0.31,0.5,1.0625,0.3548104802405199,77
+62,1421,"Seguignol,Kendall",Stevenson,Middle Atlantic Conferences (MAC),mac,25,20.28,9.44,5.56,0.4,0.84,0.24,1.36,0.2542507255432502,76
+63,1441,"Ihezue,Noah",Stevenson,Middle Atlantic Conferences (MAC),mac,25,22.8,8.52,3.32,2.2,1.4,0.28,1.96,0.2135901816522394,76
+64,1456,Jaden Hall,King's,Middle Atlantic Conferences (MAC),mac,23,20.91304347826087,11.3,3.39,0.83,0.57,0.35,1.608695652173913,0.1515508346784002,76
+65,1589,"Lee,Jeremiah",Delaware Valley,Middle Atlantic Conferences (MAC),mac,19,20.68421052631579,8.32,4.26,0.58,0.95,0.32,1.263157894736842,-0.2395863434740173,74
+66,1596,"Penn,Jason",Lebanon Valley,Middle Atlantic Conferences (MAC),mac,25,27.56,10.28,2.96,1.12,0.64,0.2,1.52,-0.2633003538503078,74
+67,1615,"Lewis,Mason",Eastern,Middle Atlantic Conferences (MAC),mac,23,23.695652173913043,5.74,4.22,1.3,0.96,0.48,0.9565217391304348,-0.2972539149633689,74
+68,1632,"Johnson,Kamal",Delaware Valley,Middle Atlantic Conferences (MAC),mac,24,23.416666666666668,7.79,2.63,2.0,1.17,0.21,1.5416666666666667,-0.3248055020857578,73
+69,1642,"Domingo,Emanuel",DeSales,Middle Atlantic Conferences (MAC),mac,26,18.384615384615383,7.12,3.38,0.54,0.54,0.81,0.8076923076923077,-0.3473100277558818,73
+70,1646,"Coughlan,Brendan",Stevens,Middle Atlantic Conferences (MAC),mac,22,20.09090909090909,6.68,3.82,1.41,0.5,0.09,0.4545454545454545,-0.3651504028620509,73
+71,1662,"Pridgen,David",Stevenson,Middle Atlantic Conferences (MAC),mac,21,20.61904761904762,5.95,4.48,0.86,1.0,0.62,1.1428571428571428,-0.4016880091222237,73
+72,1683,"Stoute,Eli",Misericordia,Middle Atlantic Conferences (MAC),mac,27,21.925925925925927,8.11,3.37,0.74,0.67,0.33,0.9629629629629628,-0.4651806600917612,73
+73,1741,"Fleet,Connor",Eastern,Middle Atlantic Conferences (MAC),mac,24,29.333333333333332,12.08,2.17,2.63,0.88,0.04,3.1666666666666665,-0.5930719135738012,72
+74,1751,"Loscalzo,Anthony",Stevens,Middle Atlantic Conferences (MAC),mac,26,24.076923076923077,6.69,2.0,2.04,1.04,0.04,0.9230769230769232,-0.639940419201809,72
+75,1773,"Unangst,Phil",Lebanon Valley,Middle Atlantic Conferences (MAC),mac,24,20.208333333333332,5.79,4.88,1.0,1.0,0.33,1.2083333333333333,-0.6833015042063078,71
+76,1781,"Dodson,Ethan",Widener,Middle Atlantic Conferences (MAC),mac,25,20.48,6.0,3.76,1.08,1.16,0.28,1.08,-0.6993660424051331,71
+77,1807,"Walker,Cole",King's,Middle Atlantic Conferences (MAC),mac,15,18.533333333333335,5.33,5.27,0.93,0.53,0.53,1.0,-0.7608534363265209,71
+78,1824,"Gutowski,Evan",Stevens,Middle Atlantic Conferences (MAC),mac,27,19.03703703703704,6.22,4.52,1.19,0.22,0.59,1.0740740740740742,-0.7908335589405502,71
+79,1825,"Bryson,TJ",Widener,Middle Atlantic Conferences (MAC),mac,25,22.92,6.04,2.44,1.16,1.28,0.04,0.64,-0.7929944992496049,71
+80,1849,Ray Gooley,King's,Middle Atlantic Conferences (MAC),mac,25,25.0,5.88,3.68,0.84,0.6,0.52,0.76,-0.8267247810735023,70
+81,1856,Ben Malley,King's,Middle Atlantic Conferences (MAC),mac,25,22.2,9.68,2.64,1.12,0.24,0.0,1.12,-0.8390753091587251,70
+82,1892,"Diaz,Kareem",Alvernia,Middle Atlantic Conferences (MAC),mac,25,25.16,5.4,4.36,1.6,0.48,0.2,0.88,-0.946052947959446,70
+83,1897,"Mordi,Brian",Delaware Valley,Middle Atlantic Conferences (MAC),mac,24,17.583333333333332,4.13,4.96,0.38,0.58,0.96,0.8333333333333334,-0.9548332508021689,70
+84,1900,"Bradford,Brendon",Delaware Valley,Middle Atlantic Conferences (MAC),mac,19,15.63157894736842,7.47,2.37,0.37,0.74,0.05,0.3684210526315789,-0.9643027065906872,70
+85,1930,"Kane,Emmett",Widener,Middle Atlantic Conferences (MAC),mac,25,14.56,3.84,4.08,0.6,0.96,0.52,0.48,-1.0350383704417765,69
+86,1962,"Jackson,Christian",Stevenson,Middle Atlantic Conferences (MAC),mac,19,24.42105263157895,6.53,3.05,3.11,1.21,0.11,2.473684210526316,-1.1048027285624773,69
+87,2001,"McGinty,Jake",Delaware Valley,Middle Atlantic Conferences (MAC),mac,25,28.68,2.84,3.92,2.04,1.68,0.24,1.36,-1.1837916834530844,68
+88,2146,"Schlatter,Dylan",Widener,Middle Atlantic Conferences (MAC),mac,21,16.571428571428573,4.14,2.95,1.1,0.95,0.33,0.7142857142857143,-1.4951067409065373,67
+89,2147,Matt Christian,King's,Middle Atlantic Conferences (MAC),mac,25,16.0,7.2,1.52,0.96,0.32,0.04,0.44,-1.4973945495814462,67
+90,2175,"Walker,Amyr",Arcadia,Middle Atlantic Conferences (MAC),mac,26,16.423076923076923,4.5,3.54,1.81,0.58,0.23,1.0769230769230769,-1.5625698872995502,66
+91,2227,"Smith,Miles",Albright,Middle Atlantic Conferences (MAC),mac,26,20.03846153846154,4.15,2.12,2.46,1.0,0.08,1.1923076923076923,-1.6840918516731966,65
+92,2229,"Kopcha,Avery",Messiah,Middle Atlantic Conferences (MAC),mac,25,20.52,6.88,1.8,0.84,0.8,0.0,0.88,-1.684578449083962,65
+93,2260,"Romano,Gino",FDU - Florham,Middle Atlantic Conferences (MAC),mac,25,22.6,7.96,2.36,1.6,0.32,0.12,1.68,-1.7426040044552904,65
+94,2297,"Glassmacher,Ryan",DeSales,Middle Atlantic Conferences (MAC),mac,26,17.153846153846153,4.81,3.73,0.85,0.62,0.38,1.1153846153846154,-1.8204709239585692,65
+95,2327,"Crawford,Kyndall",Arcadia,Middle Atlantic Conferences (MAC),mac,24,11.916666666666666,4.54,3.58,0.67,0.21,0.33,0.5,-1.8884199486887645,64
+96,2343,"WIlliams,Anthony",Eastern,Middle Atlantic Conferences (MAC),mac,18,11.38888888888889,4.5,2.44,0.61,0.67,0.17,0.3333333333333333,-1.911917660296412,64
+97,2358,"Smith,Aleks",York,Middle Atlantic Conferences (MAC),mac,25,17.24,5.12,4.2,0.2,0.4,0.12,0.6,-1.9348159304389037,64
+98,2421,"Buzby,Riley",DeSales,Middle Atlantic Conferences (MAC),mac,26,15.384615384615383,5.27,2.46,1.08,0.62,0.19,1.0,-2.0391572466565355,63
+99,2429,"Schroeder,Nick",York,Middle Atlantic Conferences (MAC),mac,27,19.703703703703702,3.93,2.81,1.19,0.81,0.15,0.8148148148148148,-2.0610454984698734,63
+100,2453,"Boyle,Brendan",DeSales,Middle Atlantic Conferences (MAC),mac,16,17.5,6.25,2.63,1.13,0.5,0.0,1.1875,-2.107983844248496,62
+101,2477,"Lee,Jelani",Stevenson,Middle Atlantic Conferences (MAC),mac,24,14.833333333333334,5.04,3.08,0.42,0.46,0.0,0.4583333333333333,-2.155213447595715,62
+102,2484,"Orloff,D.J.",Misericordia,Middle Atlantic Conferences (MAC),mac,27,13.51851851851852,4.3,2.67,0.41,0.26,0.33,0.2592592592592592,-2.1680164193882403,62
+103,2491,"Edwards,Chris",DeSales,Middle Atlantic Conferences (MAC),mac,26,16.807692307692307,3.31,3.35,0.35,0.23,0.65,0.4230769230769231,-2.1857331704973193,62
+104,2516,"Linton,Gage",Hood,Middle Atlantic Conferences (MAC),mac,27,16.40740740740741,4.63,3.33,1.3,0.52,0.0,1.037037037037037,-2.2406062607673976,62
+105,2529,"Fuller-Wright,Spencer",Albright,Middle Atlantic Conferences (MAC),mac,23,15.782608695652174,2.26,4.26,0.52,0.3,0.78,0.6956521739130435,-2.261522822367174,61
+106,2535,"Isaac,Darius",Arcadia,Middle Atlantic Conferences (MAC),mac,23,15.652173913043478,4.22,1.87,1.43,0.91,0.0,0.8695652173913043,-2.2680498754363345,61
+107,2543,"Fulton,Troy",Hood,Middle Atlantic Conferences (MAC),mac,27,13.851851851851851,5.93,1.67,0.48,0.19,0.04,0.2962962962962963,-2.2744539165930293,61
+108,2581,"Brooks,Andre",Stevenson,Middle Atlantic Conferences (MAC),mac,24,16.666666666666668,5.42,1.75,0.88,0.79,0.04,0.9583333333333334,-2.3416800781318057,61
+109,2614,"Herbert,Myles",Messiah,Middle Atlantic Conferences (MAC),mac,25,28.64,7.16,2.44,3.92,1.0,0.0,3.84,-2.4074009003152272,60
+110,2621,"Bolyn,Jake",Hood,Middle Atlantic Conferences (MAC),mac,15,13.733333333333333,5.8,2.07,0.8,0.67,0.0,1.0666666666666669,-2.414915457341036,60
+111,2709,"Musonge,Namisse",Widener,Middle Atlantic Conferences (MAC),mac,25,15.24,4.68,1.48,0.32,0.48,0.28,0.48,-2.586944312032551,59
+112,2721,"Glass,Ethan",York,Middle Atlantic Conferences (MAC),mac,27,16.444444444444443,2.52,2.37,0.59,0.81,0.33,0.4814814814814814,-2.610493077201859,59
+113,2754,"Callahan,Joey",Albright,Middle Atlantic Conferences (MAC),mac,26,18.384615384615383,4.81,0.85,1.08,0.54,0.08,0.6923076923076923,-2.683270721320832,58
+114,2835,"Ruisch,Robbie",DeSales,Middle Atlantic Conferences (MAC),mac,18,15.833333333333334,3.83,2.72,0.56,0.17,0.28,0.6666666666666666,-2.8644568174386698,57
+115,2836,"Mate,Nick",Eastern,Middle Atlantic Conferences (MAC),mac,22,15.136363636363637,5.5,0.64,1.27,0.41,0.0,0.9545454545454546,-2.8677831714563213,57
+116,2847,"Keys,Akhir",Albright,Middle Atlantic Conferences (MAC),mac,26,12.346153846153848,5.5,1.23,0.46,0.19,0.08,0.5769230769230769,-2.8931017338183236,57
+117,2849,"Kerlin,Tyler",Lebanon Valley,Middle Atlantic Conferences (MAC),mac,25,17.72,5.72,1.8,0.84,0.52,0.08,1.36,-2.896224441941267,57
+118,2868,"Nasuti,Ryan",Misericordia,Middle Atlantic Conferences (MAC),mac,27,15.25925925925926,5.19,2.04,0.7,0.19,0.11,0.925925925925926,-2.9296810262641357,57
+119,2875,"King,O'Malley",FDU - Florham,Middle Atlantic Conferences (MAC),mac,22,17.545454545454547,3.95,2.95,1.18,0.32,0.09,1.1363636363636365,-2.9412532442738426,57
+120,2876,"Moore,Micah",FDU - Florham,Middle Atlantic Conferences (MAC),mac,23,13.08695652173913,4.57,2.35,0.65,0.57,0.09,1.0869565217391304,-2.94436613057959,57
+121,2925,"Pavlik,Karson",Lebanon Valley,Middle Atlantic Conferences (MAC),mac,24,16.291666666666668,2.96,2.54,0.71,0.5,0.0,0.5,-3.041789186357151,56
+122,2969,"Townsend,Nate",Misericordia,Middle Atlantic Conferences (MAC),mac,27,14.11111111111111,4.93,2.04,1.41,0.37,0.04,1.5185185185185186,-3.1421644464190575,56
+123,2974,"Wright,JT",Delaware Valley,Middle Atlantic Conferences (MAC),mac,25,15.92,5.24,1.44,0.24,0.28,0.08,0.72,-3.1491625342996437,55
+124,2995,"Gladue,Theo",DeSales,Middle Atlantic Conferences (MAC),mac,24,18.791666666666668,2.96,2.71,1.13,0.42,0.04,0.9166666666666666,-3.1970711599242234,55
+125,3013,"Meeker,Will",DeSales,Middle Atlantic Conferences (MAC),mac,26,12.884615384615383,4.0,1.88,0.54,0.19,0.15,0.6538461538461539,-3.23988206241416,55
+126,3070,"Longacre,Miles",Messiah,Middle Atlantic Conferences (MAC),mac,17,16.41176470588235,5.53,1.88,0.65,0.18,0.0,1.2352941176470589,-3.3794095074069723,54
+127,3113,"Klueh,Ethan",FDU - Florham,Middle Atlantic Conferences (MAC),mac,19,12.052631578947368,4.42,0.89,0.79,0.11,0.05,0.6842105263157895,-3.4901759014477616,54
+128,3237,"Everett,Ryan",Delaware Valley,Middle Atlantic Conferences (MAC),mac,20,10.95,2.8,1.25,0.55,0.4,0.0,0.6,-3.8911212930532417,52
+129,3248,"Harris,Josh",Eastern,Middle Atlantic Conferences (MAC),mac,22,11.636363636363637,2.77,1.41,0.27,0.41,0.23,0.7727272727272727,-3.922607382310239,52
+130,3273,"Rummler,Peyton",Messiah,Middle Atlantic Conferences (MAC),mac,16,10.5625,1.13,2.38,0.44,0.25,0.25,0.5,-3.9829711058243897,51
+131,3322,"Bile,Jorarei",FDU - Florham,Middle Atlantic Conferences (MAC),mac,13,14.076923076923077,3.85,2.08,0.85,0.31,0.08,1.6923076923076923,-4.169330211431975,51
+132,3331,"Merz,Ryan",FDU - Florham,Middle Atlantic Conferences (MAC),mac,24,11.375,1.04,1.38,1.13,0.29,0.08,0.625,-4.234109666910573,51
+133,3371,"Main,Michael",Lebanon Valley,Middle Atlantic Conferences (MAC),mac,25,12.96,2.56,1.76,0.8,0.08,0.0,1.36,-4.822434892799394,50
+134,3372,"Hersh,Declan",Messiah,Middle Atlantic Conferences (MAC),mac,23,12.173913043478262,1.87,1.43,0.87,0.26,0.0,1.2173913043478262,-4.844273239986745,50

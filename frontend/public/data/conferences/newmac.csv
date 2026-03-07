@@ -1,0 +1,75 @@
+rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,22,"Iafrate,Dimetri",Wheaton,New England Women's and Men's Athletic Conference (NEWMAC),newmac,28,36.642857142857146,19.46,5.18,4.54,2.89,0.25,2.25,8.223196144788739,95
+2,105,"Farrell,Luke",Coast Guard,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,27.52,17.56,8.48,1.76,0.64,1.44,2.28,5.978648153816147,94
+3,163,"Molen,Justin",WPI,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,31.346153846153847,15.12,6.88,4.08,1.19,0.54,2.269230769230769,5.332422433688991,93
+4,173,"Margoupis,Jack",Salve Regina,New England Women's and Men's Athletic Conference (NEWMAC),newmac,15,32.06666666666667,20.2,6.33,1.8,0.73,0.4,2.1333333333333333,5.263650119578705,93
+5,194,"Iscandari,Aliaun",Clark,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,29.5,18.62,3.77,3.0,2.46,0.15,2.8461538461538463,5.088548083390272,93
+6,209,Timmy O'Toole,Babson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,27,23.814814814814813,9.93,9.15,1.7,1.67,1.07,0.9629629629629628,4.97897655571984,92
+7,288,"John,Boluwasefe",Clark,New England Women's and Men's Athletic Conference (NEWMAC),newmac,23,31.130434782608695,14.74,6.83,1.52,1.35,1.3,2.391304347826087,4.433097638371513,91
+8,358,"Seymour,Sean",Salve Regina,New England Women's and Men's Athletic Conference (NEWMAC),newmac,27,35.51851851851852,16.33,4.59,2.04,0.89,0.59,1.8888888888888888,3.84638122204442,90
+9,461,"Bledsoe,Nathan",WPI,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,29.0,14.58,5.12,0.88,0.85,0.19,0.6923076923076923,3.3038128936265583,89
+10,526,Thomas Ferdinando,Babson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,27,32.2962962962963,17.04,4.15,2.7,1.07,0.07,2.7037037037037037,3.0184688065181966,88
+11,569,Timmy Mulvey,Babson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,27,33.7037037037037,16.15,2.04,2.37,1.15,0.04,1.7037037037037035,2.8382129004404546,88
+12,594,"Pridgen,Quentin",Clark,New England Women's and Men's Athletic Conference (NEWMAC),newmac,21,32.80952380952381,9.24,8.0,5.67,1.57,0.24,3.619047619047619,2.772834178684848,87
+13,637,"Evely,Josiah",Springfield,New England Women's and Men's Athletic Conference (NEWMAC),newmac,24,25.416666666666668,10.33,5.25,1.88,1.58,0.75,1.6666666666666667,2.5767549037246904,87
+14,805,"Hartley,Josh",Springfield,New England Women's and Men's Athletic Conference (NEWMAC),newmac,23,20.782608695652176,9.52,6.0,0.7,0.83,1.7,1.826086956521739,2.007506658972658,84
+15,848,"Morrissey,Eoin",Wheaton,New England Women's and Men's Athletic Conference (NEWMAC),newmac,28,32.5,11.64,7.36,1.82,0.82,0.36,2.2857142857142856,1.8773532761075324,84
+16,888,"Armant,Jacob",Emerson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,28.88,12.28,3.76,3.12,1.12,0.08,2.24,1.7309834559200357,83
+17,899,"Spenard,Pat",Salve Regina,New England Women's and Men's Athletic Conference (NEWMAC),newmac,27,32.629629629629626,12.74,5.48,1.41,0.48,0.56,1.962962962962963,1.6819073052751334,83
+18,915,"MOWERY, Wyatt",MIT,New England Women's and Men's Athletic Conference (NEWMAC),newmac,23,23.434782608695652,8.91,5.61,1.57,0.52,1.91,2.3043478260869565,1.6188739373647814,83
+19,919,"Parks,Trevor",Coast Guard,New England Women's and Men's Athletic Conference (NEWMAC),newmac,24,27.5,10.46,3.75,1.33,1.08,0.79,1.375,1.6075370160784983,83
+20,921,"McMullen,Jack",Salve Regina,New England Women's and Men's Athletic Conference (NEWMAC),newmac,27,32.851851851851855,8.33,6.22,2.78,1.67,0.11,1.962962962962963,1.604933521558336,83
+21,930,"SPANN, Parker",MIT,New England Women's and Men's Athletic Conference (NEWMAC),newmac,15,32.8,12.4,6.27,1.93,1.27,0.4,3.0,1.5786805885886248,83
+22,1013,"DOBIE, Isaac",MIT,New England Women's and Men's Athletic Conference (NEWMAC),newmac,23,29.73913043478261,16.04,4.57,1.57,1.0,0.04,3.217391304347826,1.2899417675012104,82
+23,1021,"Frazer,Jordan",Coast Guard,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,27.6,10.12,4.64,2.36,1.2,0.24,1.92,1.2648925634880652,82
+24,1081,"Parent,Elijah",Coast Guard,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,31.44,12.52,2.68,2.4,1.04,0.12,2.12,1.0689815434713834,81
+25,1119,"Helmhold,Linus",Emerson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,23.48,11.88,6.32,1.32,0.32,0.76,2.56,0.9798236053189318,80
+26,1141,"Newman,J.R.",WPI,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,30.53846153846154,10.38,3.73,1.92,1.19,0.12,1.6153846153846154,0.9322519172977368,80
+27,1146,"Reidy,Tim",WPI,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,28.576923076923077,12.77,1.77,1.31,0.81,0.08,1.1538461538461535,0.9258329015854384,80
+28,1159,"Neumann,Reid",Clark,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,31.884615384615383,12.27,2.81,1.08,0.81,0.42,1.5769230769230769,0.8921079947725685,80
+29,1171,"Herry,Tristan",Wheaton,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,31.03846153846154,12.27,2.23,2.31,1.08,0.08,2.0,0.8654195284110712,80
+30,1178,"Malvey,Domenic",Salve Regina,New England Women's and Men's Athletic Conference (NEWMAC),newmac,24,31.458333333333332,8.0,3.67,3.58,1.25,0.13,1.8333333333333333,0.8486328810471455,79
+31,1200,Tyler Lauder,Babson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,27,24.48148148148148,5.26,6.26,2.81,0.89,0.93,1.8148148148148149,0.7900957379900646,79
+32,1209,"Campbell,Zachary",Springfield,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,22.32,9.8,3.6,0.84,0.92,0.56,1.12,0.772693686184668,79
+33,1255,"Gasset Ruiz,Guillermo",Emerson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,25.68,7.0,4.12,2.08,1.12,1.04,1.8,0.6616337173281315,78
+34,1326,Delgado-gonzalez Rome,MIT,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,33.92,9.04,5.0,2.44,0.84,0.2,2.0,0.486554171704383,77
+35,1362,"Matteson,Hunter",Springfield,New England Women's and Men's Athletic Conference (NEWMAC),newmac,18,18.77777777777778,9.5,5.44,0.56,0.22,0.39,0.9444444444444444,0.39049694286393,77
+36,1473,"Small,Elijah",Clark,New England Women's and Men's Athletic Conference (NEWMAC),newmac,12,17.0,6.17,4.58,0.42,0.67,0.75,0.4166666666666667,0.0911538386875318,76
+37,1486,Logan Murphy,Babson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,27,25.14814814814815,7.44,2.67,1.59,1.0,0.19,0.6666666666666666,0.0585039590546591,75
+38,1533,"Squires,Kyle",Clark,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,29.23076923076923,10.35,2.81,1.0,0.35,0.19,1.0,-0.082445461301072,75
+39,1719,"ZHANG, Michael",MIT,New England Women's and Men's Athletic Conference (NEWMAC),newmac,23,28.17391304347826,10.7,2.35,0.91,0.83,0.13,1.6956521739130437,-0.5443841792336289,72
+40,1936,"Volonte,Giulio",Emerson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,24,14.5,7.17,3.38,0.83,0.63,0.38,1.2083333333333333,-1.0525120255558025,69
+41,1987,"Margetson,Nicholas",WPI,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,26.96153846153846,4.42,4.19,2.69,0.58,0.04,1.1923076923076923,-1.14763271712563,69
+42,1994,"GOGOLIN, Merlin",MIT,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,17.24,6.68,3.92,1.52,0.56,0.2,1.44,-1.1678067561872263,69
+43,2053,"Bleier,Jack",WPI,New England Women's and Men's Athletic Conference (NEWMAC),newmac,24,16.958333333333332,7.0,2.29,1.29,0.54,0.04,0.8333333333333334,-1.3099681632853917,68
+44,2062,"Mensah,William",Salve Regina,New England Women's and Men's Athletic Conference (NEWMAC),newmac,27,18.37037037037037,4.81,4.33,0.63,0.67,0.7,1.148148148148148,-1.32634477677663,68
+45,2073,Ryan Frauenheim,Babson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,16.73076923076923,4.81,1.65,1.92,1.04,0.0,0.6153846153846154,-1.347359241000982,67
+46,2105,"WEILAND, Jackson",MIT,New England Women's and Men's Athletic Conference (NEWMAC),newmac,10,30.3,7.3,3.4,2.6,0.8,0.3,2.7,-1.4169642293411102,67
+47,2119,"Perri,Sean",Wheaton,New England Women's and Men's Athletic Conference (NEWMAC),newmac,28,26.857142857142858,7.46,3.07,0.93,0.36,0.07,1.0357142857142858,-1.4498362415143895,67
+48,2160,"Francoeur,Zavier",Salve Regina,New England Women's and Men's Athletic Conference (NEWMAC),newmac,27,22.48148148148148,6.67,2.33,1.41,0.96,0.3,1.6666666666666667,-1.54025540598886,66
+49,2166,"Kendall,Ashton",Coast Guard,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,21.72,7.16,2.04,1.8,0.8,0.04,1.56,-1.5493426363115943,66
+50,2177,"Roban,Shay",Emerson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,24,14.208333333333334,8.13,1.79,0.46,0.33,0.13,0.75,-1.5682085666172387,66
+51,2182,"Paulino,John",Springfield,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,26.64,4.48,4.0,3.12,1.16,0.16,2.44,-1.576044548546638,66
+52,2221,"Livingston,Xoren",Springfield,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,19.36,6.4,2.16,0.84,0.56,0.04,0.64,-1.676147120520186,66
+53,2249,"McNamara,Brendan",Emerson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,23.12,4.88,1.72,2.52,0.36,0.04,0.8,-1.7241717160935135,65
+54,2252,"Zadrozny,Rex",Wheaton,New England Women's and Men's Athletic Conference (NEWMAC),newmac,28,15.75,5.57,3.5,0.54,0.21,0.64,1.0,-1.7308485348528222,65
+55,2307,"Matanmi,Malik",Clark,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,17.307692307692307,4.08,3.96,1.12,0.38,0.58,1.1153846153846154,-1.8458527527219168,64
+56,2323,"Morvillo,Matt",WPI,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,12.52,4.56,4.04,0.88,0.52,0.12,0.8,-1.876543257233369,64
+57,2452,"Pedevillano,Sal",Wheaton,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,19.692307692307693,4.92,2.54,1.23,0.46,0.04,0.7307692307692307,-2.10792156172106,62
+58,2506,"Gardiner,Asher",Emerson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,11.88,3.72,3.16,0.68,0.6,0.48,0.88,-2.2248032291085793,62
+59,2531,"WINDHAM, Woods",MIT,New England Women's and Men's Athletic Conference (NEWMAC),newmac,14,14.357142857142858,3.86,3.79,0.43,0.71,0.07,0.6428571428571429,-2.263945305138048,61
+60,2656,"Lopes,Ajay",Springfield,New England Women's and Men's Athletic Conference (NEWMAC),newmac,23,16.782608695652176,6.04,1.22,1.61,0.22,0.17,1.2173913043478262,-2.4686094611707063,60
+61,2672,"Schreiber,Tao",WPI,New England Women's and Men's Athletic Conference (NEWMAC),newmac,22,12.227272727272728,4.27,2.05,1.05,0.82,0.41,1.318181818181818,-2.5044007895429736,59
+62,2707,"EWING, Mike",MIT,New England Women's and Men's Athletic Conference (NEWMAC),newmac,20,22.45,5.0,3.25,0.3,0.3,0.3,1.0,-2.5759294635951875,59
+63,2724,"Rodriguez,Cedric",Springfield,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,22.8,5.44,2.8,0.92,0.4,0.2,1.4,-2.613613488106226,59
+64,2735,"Clark,Trace",Clark,New England Women's and Men's Athletic Conference (NEWMAC),newmac,13,15.76923076923077,3.0,1.46,1.15,1.0,0.15,0.6923076923076923,-2.635649364693818,59
+65,2739,"Gramlich,Hank",Emerson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,13.2,2.8,2.12,1.92,0.64,0.2,1.04,-2.653415037138119,59
+66,2789,"Scandura,Nick",Wheaton,New England Women's and Men's Athletic Conference (NEWMAC),newmac,28,17.357142857142858,3.46,2.5,0.89,0.54,0.11,0.7142857142857143,-2.7818944544235475,58
+67,2827,"Robinson,Zander",Springfield,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,12.52,3.36,1.76,0.92,0.32,0.28,0.52,-2.847118271180359,57
+68,2864,"Dabbondanza,Aiden",Coast Guard,New England Women's and Men's Athletic Conference (NEWMAC),newmac,23,17.782608695652176,3.3,1.78,1.26,0.61,0.52,1.3043478260869563,-2.921825503981806,57
+69,2905,"Linder,Rowan",Salve Regina,New England Women's and Men's Athletic Conference (NEWMAC),newmac,18,11.555555555555555,4.06,1.0,0.33,0.56,0.39,0.6666666666666666,-3.0029068425593186,56
+70,2914,Robby Fiore,Babson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,27,12.666666666666666,4.89,1.33,0.81,0.26,0.0,0.6666666666666666,-3.015401560574566,56
+71,3131,"Rodgers,Christian",Coast Guard,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,16.04,2.52,2.4,1.48,0.44,0.04,1.2,-3.558654601090915,53
+72,3192,"Luessenhop,Otto",Emerson,New England Women's and Men's Athletic Conference (NEWMAC),newmac,22,10.5,2.5,1.5,0.32,0.0,0.27,0.2727272727272727,-3.763215664600555,53
+73,3281,"CHEN, Samuel",MIT,New England Women's and Men's Athletic Conference (NEWMAC),newmac,20,10.7,1.05,1.2,0.95,0.6,0.0,0.45,-4.011604707130208,51
+74,3325,"Clarke,Christopher",Clark,New England Women's and Men's Athletic Conference (NEWMAC),newmac,24,10.041666666666666,2.17,1.92,0.42,0.17,0.13,0.7083333333333334,-4.190977872448418,51

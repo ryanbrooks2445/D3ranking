@@ -1,0 +1,44 @@
+[
+  {
+    "conference_code": "e8",
+    "conference": "Empire 8 (E8)",
+    "player_count": 102,
+    "ranked_count": 102
+  },
+  {
+    "conference_code": "lec",
+    "conference": "Little East Conference (LEC)",
+    "player_count": 195,
+    "ranked_count": 195
+  },
+  {
+    "conference_code": "mac",
+    "conference": "Middle Atlantic Conferences (MAC)",
+    "player_count": 209,
+    "ranked_count": 209
+  },
+  {
+    "conference_code": "miac",
+    "conference": "Minnesota Intercollegiate Athletic Conference (MIAC)",
+    "player_count": 257,
+    "ranked_count": 257
+  },
+  {
+    "conference_code": "nescac",
+    "conference": "New England Small College Athletic Conference (NESCAC)",
+    "player_count": 232,
+    "ranked_count": 232
+  },
+  {
+    "conference_code": "ccc",
+    "conference": "The Commonwealth Coast Conference (CCC)",
+    "player_count": 153,
+    "ranked_count": 153
+  },
+  {
+    "conference_code": "wiac",
+    "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
+    "player_count": 134,
+    "ranked_count": 134
+  }
+]

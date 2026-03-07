@@ -1,0 +1,108 @@
+rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,52,"Samet,Zevi",Yeshiva,Skyline Conference,skyline_conference,28,32.0,23.25,4.11,2.36,1.54,0.14,1.5714285714285714,7.252553657835959,94
+2,77,"Devaney,Jake",Maritime,Skyline Conference,skyline_conference,26,31.807692307692307,18.0,7.54,1.65,1.85,1.54,2.8846153846153846,6.411002706142044,94
+3,125,"Rodriguez,Kenny",St. Joseph's-Long Island,Skyline Conference,skyline_conference,26,35.15384615384615,16.62,7.88,3.92,1.27,0.73,2.9615384615384617,5.760761905027713,94
+4,139,"Notias,Michael",Farmingdale State,Skyline Conference,skyline_conference,28,29.0,14.89,3.86,4.64,1.75,0.32,1.5714285714285714,5.5998666769081415,93
+5,165,"Esposito,AJ",St. Joseph's-Long Island,Skyline Conference,skyline_conference,26,34.03846153846154,13.5,11.88,1.65,0.62,0.77,1.5769230769230769,5.299366184486712,93
+6,198,"Robinson,Chris",Manhattanville,Skyline Conference,skyline_conference,26,31.384615384615383,14.08,5.31,3.62,2.12,0.77,2.423076923076923,5.074784196445052,93
+7,200,Tim Barton,Merchant Marine,Skyline Conference,skyline_conference,23,32.391304347826086,11.96,7.65,2.83,1.43,1.43,2.0434782608695654,5.0735719152401035,93
+8,206,"Oselka,Yoav",Yeshiva,Skyline Conference,skyline_conference,28,27.535714285714285,14.46,8.07,3.11,1.61,0.39,2.3214285714285716,4.987331409254263,92
+9,216,"Woodberry,Eric",Mount Saint Vincent,Skyline Conference,skyline_conference,25,32.8,18.16,6.12,2.48,1.16,0.52,2.52,4.9305642216961845,92
+10,230,"Ofori,Joel",Old Westbury,Skyline Conference,skyline_conference,27,31.11111111111111,12.52,9.74,1.7,1.0,1.52,2.2222222222222223,4.777961922285948,92
+11,243,"Williams,Zion",Maritime,Skyline Conference,skyline_conference,24,30.791666666666668,17.92,5.83,4.29,0.88,0.25,3.0416666666666665,4.726809951679395,92
+12,259,"Conroy,Sean",Farmingdale State,Skyline Conference,skyline_conference,28,29.857142857142858,14.61,4.86,4.04,1.46,0.39,2.107142857142857,4.626931889221316,92
+13,337,"Ward,Desmond",Purchase,Skyline Conference,skyline_conference,27,31.22222222222222,12.33,8.19,1.59,1.63,0.78,2.0,3.989913144849494,91
+14,424,"Rollins,Ricky",Purchase,Skyline Conference,skyline_conference,17,26.176470588235293,10.94,6.06,1.88,1.35,1.29,1.7058823529411764,3.5519498357264654,90
+15,426,"King Jr.,Jermaine",Old Westbury,Skyline Conference,skyline_conference,27,35.51851851851852,14.41,2.52,4.44,1.37,0.0,1.962962962962963,3.544053826566812,89
+16,510,"Middleton,Isiah",Manhattanville,Skyline Conference,skyline_conference,26,29.923076923076923,13.38,7.08,0.58,0.62,0.81,1.3846153846153846,3.083022479166708,88
+17,525,"Dougherty,Chris",Sarah Lawrence,Skyline Conference,skyline_conference,27,28.074074074074073,8.3,9.56,2.56,0.44,1.74,2.407407407407407,3.0202838073828953,88
+18,540,Jack Flannery,Merchant Marine,Skyline Conference,skyline_conference,25,33.04,15.84,4.44,1.6,1.28,0.24,2.12,2.961107100721436,88
+19,556,"Dovrat,Yair",Yeshiva,Skyline Conference,skyline_conference,28,31.75,8.82,4.82,5.04,1.14,0.68,2.107142857142857,2.8880559265754955,88
+20,572,"Skeete,Trey",Purchase,Skyline Conference,skyline_conference,27,35.81481481481482,11.7,5.59,2.7,2.0,0.07,2.1481481481481484,2.824640073779617,88
+21,573,"Saint-Louis,Andrew",Manhattanville,Skyline Conference,skyline_conference,24,34.833333333333336,13.96,4.67,3.04,1.17,0.17,2.2916666666666665,2.8229498971422764,88
+22,648,"Anderson,Tyler",Maritime,Skyline Conference,skyline_conference,26,29.076923076923077,11.08,3.23,2.69,2.0,0.31,1.6923076923076923,2.540868024079768,87
+23,661,"Kim,Andrew",Sarah Lawrence,Skyline Conference,skyline_conference,27,30.40740740740741,11.19,4.48,4.33,1.07,0.0,1.962962962962963,2.502421383178795,86
+24,678,"Gado,Joel",Mount Saint Vincent,Skyline Conference,skyline_conference,19,21.789473684210527,11.74,8.32,1.58,1.32,0.95,3.1052631578947367,2.4389152182142393,86
+25,737,"Munson,Justin",St. Joseph's-Brooklyn,Skyline Conference,skyline_conference,25,28.92,13.56,5.96,3.44,1.04,0.16,3.2,2.212352911535554,85
+26,761,"Kelly,Eamon",Sarah Lawrence,Skyline Conference,skyline_conference,24,29.416666666666668,12.33,4.42,2.38,1.04,0.21,1.75,2.131311164854347,85
+27,784,"Evans,Kentrell",Farmingdale State,Skyline Conference,skyline_conference,28,21.142857142857142,10.79,8.46,0.82,0.68,0.36,1.4285714285714286,2.063718433923422,85
+28,786,"Zakheim,Max",Yeshiva,Skyline Conference,skyline_conference,25,28.48,9.04,5.0,2.84,1.36,0.28,1.4,2.059890309717361,85
+29,824,"Buckley,Liam",Farmingdale State,Skyline Conference,skyline_conference,26,24.384615384615383,10.62,6.42,1.35,0.69,0.46,1.2692307692307692,1.942320671705895,84
+30,841,"Thomas,Christian",Old Westbury,Skyline Conference,skyline_conference,18,28.22222222222222,9.44,5.11,1.22,1.06,0.72,1.0,1.8990171220485528,84
+31,884,"Block,Evan",Maritime,Skyline Conference,skyline_conference,22,25.863636363636363,6.73,6.91,2.36,1.36,0.36,1.2272727272727273,1.7360588824279015,83
+32,889,Aaron Zalescik,Merchant Marine,Skyline Conference,skyline_conference,25,30.76,8.84,7.96,1.52,1.76,0.32,2.16,1.730550973622972,83
+33,897,"Egan,J.P.",Mount Saint Mary,Skyline Conference,skyline_conference,25,25.92,8.92,4.72,2.16,1.16,0.48,1.24,1.6907274412047104,83
+34,971,"Idowu,Jacob",St. Joseph's-Brooklyn,Skyline Conference,skyline_conference,25,27.04,11.84,8.04,1.04,0.72,0.28,2.32,1.4350361313103444,82
+35,1012,"Walsh,Matthew",Mount Saint Mary,Skyline Conference,skyline_conference,25,26.96,8.96,3.52,2.12,1.92,0.24,1.6,1.2930554060162358,82
+36,1040,"Ranaghan,John",Manhattanville,Skyline Conference,skyline_conference,26,30.807692307692307,10.42,3.77,1.62,0.92,0.27,1.1538461538461535,1.2082713819216524,81
+37,1088,"Akinwale,Imole",Old Westbury,Skyline Conference,skyline_conference,26,34.76923076923077,10.77,3.23,2.38,1.54,0.15,2.1153846153846154,1.0530921450903956,81
+38,1165,"Burman,Braden",Sarah Lawrence,Skyline Conference,skyline_conference,27,26.185185185185187,9.85,4.63,1.78,0.7,0.15,1.2592592592592593,0.8860101976289649,80
+39,1220,"Gaston,Jaiden",St. Joseph's-Long Island,Skyline Conference,skyline_conference,26,30.46153846153846,11.31,3.54,1.62,0.65,0.19,1.5,0.7381624683893584,79
+40,1235,"Salice-Mitchell,Blake",Mount Saint Vincent,Skyline Conference,skyline_conference,19,22.05263157894737,9.95,5.05,1.32,0.53,0.42,1.4736842105263157,0.7056360227806108,79
+41,1280,"Western,Maurice",Purchase,Skyline Conference,skyline_conference,25,27.88,9.6,2.44,2.28,0.8,0.4,1.4,0.6020900639813933,78
+42,1303,"Holzman,Sean",Purchase,Skyline Conference,skyline_conference,27,24.0,7.15,5.7,1.04,0.78,0.44,0.8518518518518519,0.5399256644107149,78
+43,1322,Mason Lavergne,Merchant Marine,Skyline Conference,skyline_conference,25,30.04,10.84,2.48,2.52,1.68,0.36,2.84,0.502432543945809,78
+44,1418,"Tucker,Jordan",Farmingdale State,Skyline Conference,skyline_conference,28,18.607142857142858,9.43,3.64,1.11,0.89,0.25,1.2142857142857142,0.2727823743406039,76
+45,1468,"Hawkins,TayShaun",St. Joseph's-Long Island,Skyline Conference,skyline_conference,25,32.12,12.64,4.12,2.12,0.56,0.16,2.92,0.1108224716869645,76
+46,1542,"Mills,Colin",St. Joseph's-Brooklyn,Skyline Conference,skyline_conference,25,26.24,10.4,1.8,1.68,1.12,0.08,1.68,-0.1049613865629791,75
+47,1558,"Darden,Antuan",Purchase,Skyline Conference,skyline_conference,11,19.636363636363637,6.91,4.91,0.64,0.18,1.55,1.6363636363636365,-0.1594898266149809,74
+48,1598,"Itcovichi,Roy",Yeshiva,Skyline Conference,skyline_conference,25,24.68,7.8,4.28,1.56,0.6,0.24,1.28,-0.263960850178383,74
+49,1808,"Rivera,Justin",Mount Saint Mary,Skyline Conference,skyline_conference,25,26.08,9.16,3.36,1.96,1.24,0.08,2.56,-0.7617886463743363,71
+50,1823,"Chi,Alex",Mount Saint Vincent,Skyline Conference,skyline_conference,20,27.7,9.7,3.85,2.45,1.0,0.15,3.1,-0.7870653985394584,71
+51,1837,"Hunter,Chris",Purchase,Skyline Conference,skyline_conference,27,28.666666666666668,8.78,4.07,3.78,1.41,0.22,4.074074074074074,-0.8022420368920851,71
+52,1869,"Bardichev,Dothan",Yeshiva,Skyline Conference,skyline_conference,27,19.925925925925927,6.04,3.26,1.89,0.7,0.41,1.3333333333333333,-0.8912273770492651,70
+53,1876,"Young,Bradley",Old Westbury,Skyline Conference,skyline_conference,13,21.846153846153847,5.62,4.15,0.92,1.08,0.08,0.8461538461538461,-0.90478149794591,70
+54,1881,"Wrynn,Austin",St. Joseph's-Brooklyn,Skyline Conference,skyline_conference,24,19.291666666666668,6.21,4.0,0.25,0.58,0.75,0.9583333333333334,-0.9167896373137756,70
+55,1958,"Tricario,Jesse",Maritime,Skyline Conference,skyline_conference,21,20.52380952380953,6.29,4.38,0.52,0.81,0.57,1.4285714285714286,-1.1011632508857836,69
+56,1972,"Siechen,Robbie",Farmingdale State,Skyline Conference,skyline_conference,28,18.75,6.0,2.36,1.36,0.54,0.29,0.6428571428571429,-1.1215790398012362,69
+57,1980,"Matonti,Thomas",Sarah Lawrence,Skyline Conference,skyline_conference,27,20.333333333333332,8.48,2.26,0.59,0.56,0.0,0.7777777777777778,-1.134623257102358,69
+58,2055,"Geremino,Rob",Mount Saint Mary,Skyline Conference,skyline_conference,19,19.157894736842103,6.0,2.53,1.0,0.74,0.53,1.105263157894737,-1.3157921125506389,68
+59,2061,"Graham,Brenden",Mount Saint Mary,Skyline Conference,skyline_conference,25,25.04,7.52,2.8,1.72,0.92,0.08,1.84,-1.3245403573383612,68
+60,2087,"Stanley,Dylon",Farmingdale State,Skyline Conference,skyline_conference,28,14.928571428571429,5.25,3.11,0.61,0.64,0.64,0.8571428571428571,-1.3668385365333968,67
+61,2151,Sykes jr Richard,Merchant Marine,Skyline Conference,skyline_conference,23,21.652173913043477,7.22,1.96,1.22,1.0,0.26,1.608695652173913,-1.5135591122895116,66
+62,2173,"Maxwell,Matthew",St. Joseph's-Long Island,Skyline Conference,skyline_conference,24,22.916666666666668,4.96,2.71,2.13,0.83,0.21,1.375,-1.5606922548674826,66
+63,2197,"Vidal,Louis",Mount Saint Vincent,Skyline Conference,skyline_conference,23,22.782608695652176,6.74,3.87,1.52,0.78,0.35,2.217391304347826,-1.625340815736671,66
+64,2228,"Urena,Carlos",Manhattanville,Skyline Conference,skyline_conference,25,23.04,6.48,2.44,1.68,0.84,0.08,1.56,-1.6843458830653792,65
+65,2315,"Cummings,Maven",St. Joseph's-Brooklyn,Skyline Conference,skyline_conference,24,15.541666666666666,8.21,2.58,0.33,0.38,0.13,1.25,-1.856330558884523,64
+66,2335,"Rosch Kouassi,Stephon",Old Westbury,Skyline Conference,skyline_conference,19,19.63157894736842,3.68,4.32,1.37,0.53,0.68,1.5263157894736843,-1.9035566608805736,64
+67,2336,"Marinaccio,Daniel",Manhattanville,Skyline Conference,skyline_conference,26,20.384615384615383,4.92,2.31,0.88,0.85,0.04,0.6153846153846154,-1.9058965584603225,64
+68,2339,"McCahey,Aidan",Mount Saint Vincent,Skyline Conference,skyline_conference,15,30.0,4.27,2.93,4.13,0.4,0.0,2.066666666666667,-1.9095751694697984,64
+69,2357,"Reed,Derek",Farmingdale State,Skyline Conference,skyline_conference,17,20.352941176470587,5.53,1.94,2.0,0.47,0.12,1.1764705882352942,-1.933424425036395,64
+70,2372,"Monaco,Matt",Mount Saint Mary,Skyline Conference,skyline_conference,25,17.56,4.72,3.04,1.0,0.52,0.24,0.84,-1.9736070917593624,64
+71,2416,"Downes,Gabe",Sarah Lawrence,Skyline Conference,skyline_conference,27,17.0,5.04,3.0,1.04,0.67,0.04,0.925925925925926,-2.0322544442366928,63
+72,2492,"Balta,Yigit",Old Westbury,Skyline Conference,skyline_conference,27,18.37037037037037,3.74,3.0,1.33,0.44,0.37,0.925925925925926,-2.189127474212317,62
+73,2505,"Sommervil,Corey",St. Joseph's-Long Island,Skyline Conference,skyline_conference,25,13.12,3.56,2.16,1.04,0.92,0.48,1.0,-2.2220890372004076,62
+74,2554,"O'Sullivan,Matthew",Maritime,Skyline Conference,skyline_conference,23,14.73913043478261,2.35,2.13,1.39,1.3,0.09,0.6956521739130435,-2.2921743992718495,61
+75,2559,"Todd,Anthony",St. Joseph's-Long Island,Skyline Conference,skyline_conference,25,25.36,6.0,3.92,1.44,0.6,0.12,2.08,-2.2989174984498635,61
+76,2585,"Melillo,Andrew",Manhattanville,Skyline Conference,skyline_conference,26,15.153846153846152,2.5,2.96,1.42,0.69,0.15,0.6153846153846154,-2.3532205687196237,61
+77,2633,"Nazon,Justin",St. Joseph's-Brooklyn,Skyline Conference,skyline_conference,23,18.52173913043478,4.61,3.57,1.48,0.65,0.17,1.6956521739130437,-2.4365633239283433,60
+78,2690,"Jasaraj,Adam",St. Joseph's-Brooklyn,Skyline Conference,skyline_conference,25,18.36,2.76,3.6,1.64,0.4,0.12,0.92,-2.5397159595039276,59
+79,2750,"Jackson,Amar",Purchase,Skyline Conference,skyline_conference,10,12.1,2.9,3.7,0.5,0.7,0.2,0.8,-2.6751143644457156,58
+80,2766,"Griffin,Conor",Farmingdale State,Skyline Conference,skyline_conference,19,10.105263157894736,3.16,1.79,0.79,0.47,0.21,0.3157894736842105,-2.718948067746092,58
+81,2848,"Conlee,Tyler",Mount Saint Vincent,Skyline Conference,skyline_conference,20,13.4,4.7,2.45,0.55,0.55,0.05,1.0,-2.89462767406339,57
+82,2867,"Del Vescovo,Antonio",Manhattanville,Skyline Conference,skyline_conference,26,10.807692307692308,2.96,2.88,0.58,0.38,0.12,0.4615384615384615,-2.928836031570878,57
+83,2885,"Lynch,Liam",Mount Saint Mary,Skyline Conference,skyline_conference,25,13.4,4.44,2.2,0.68,0.92,0.04,1.28,-2.966355175112542,57
+84,2886,"Minton,Josh",Old Westbury,Skyline Conference,skyline_conference,21,10.952380952380953,6.52,0.62,0.24,0.19,0.05,0.6666666666666666,-2.9670397732474454,57
+85,2921,"Gemmill,Conor",Mount Saint Mary,Skyline Conference,skyline_conference,18,17.833333333333332,4.61,3.11,0.56,0.33,0.44,1.5555555555555556,-3.0326998911036043,56
+86,2923,"Furlong,Dean",Sarah Lawrence,Skyline Conference,skyline_conference,14,20.357142857142858,1.93,4.57,1.86,0.43,0.36,1.7857142857142858,-3.0354636800754085,56
+87,2932,"Novello,Gerard",Mount Saint Vincent,Skyline Conference,skyline_conference,18,23.333333333333332,5.78,1.56,2.06,0.22,0.06,1.8888888888888888,-3.0567473323366476,56
+88,2945,Colin Hart,Merchant Marine,Skyline Conference,skyline_conference,23,20.60869565217391,4.09,2.87,0.78,0.57,0.26,1.4782608695652173,-3.0968087819588175,56
+89,2951,"Maldonado,Nate",Purchase,Skyline Conference,skyline_conference,27,14.555555555555555,6.0,1.33,0.78,0.33,0.11,1.3333333333333333,-3.106372387833744,56
+90,2962,"Kivlan,Sean",Maritime,Skyline Conference,skyline_conference,23,11.91304347826087,4.39,2.22,0.65,0.35,0.13,1.0,-3.1366606172827423,56
+91,3009,"Wignall,Maxwell",St. Joseph's-Brooklyn,Skyline Conference,skyline_conference,11,11.0,3.27,1.55,0.73,0.55,0.09,0.6363636363636364,-3.2372765737807474,55
+92,3044,"Baldi,Brendan",Mount Saint Vincent,Skyline Conference,skyline_conference,23,15.217391304347826,1.96,1.83,0.96,0.35,0.3,0.5217391304347826,-3.3352432244396915,55
+93,3053,"Zaveckas,Chris",Maritime,Skyline Conference,skyline_conference,25,11.24,3.32,1.36,0.32,0.36,0.12,0.32,-3.3536783427988746,54
+94,3112,Latimer Taylor,Old Westbury,Skyline Conference,skyline_conference,20,14.5,4.4,0.95,0.55,0.1,0.1,0.6,-3.4891061373228087,54
+95,3185,"Warren,Nazareth",St. Joseph's-Brooklyn,Skyline Conference,skyline_conference,21,11.095238095238097,3.67,2.43,0.95,0.1,0.14,1.2857142857142858,-3.725011861644364,53
+96,3207,"Herzner,Daniel",Mount Saint Mary,Skyline Conference,skyline_conference,23,10.26086956521739,2.48,1.22,0.35,0.57,0.17,0.6086956521739131,-3.791713424203667,52
+97,3246,"Lang,Anthony",Maritime,Skyline Conference,skyline_conference,23,11.695652173913045,2.65,2.09,0.35,0.26,0.17,0.782608695652174,-3.9160511025304054,52
+98,3276,"O'Connell,James",Maritime,Skyline Conference,skyline_conference,10,13.0,3.3,1.1,1.1,0.9,0.0,1.6,-3.992986520778032,51
+99,3277,"Richardson,Timothy",St. Joseph's-Brooklyn,Skyline Conference,skyline_conference,22,10.0,2.95,2.0,0.27,0.45,0.0,0.8636363636363636,-3.997575414953901,51
+100,3300,Noah Brown,Merchant Marine,Skyline Conference,skyline_conference,25,16.44,3.4,1.24,1.08,0.16,0.0,1.08,-4.065303870435929,51
+101,3310,"Zabala,Guillermo",Purchase,Skyline Conference,skyline_conference,13,10.538461538461538,3.31,1.85,0.46,0.31,0.15,1.2307692307692308,-4.130586903313689,51
+102,3323,"Sackor,Ahmad",Old Westbury,Skyline Conference,skyline_conference,23,11.608695652173912,1.17,2.0,0.7,0.43,0.35,1.0,-4.181986147883021,51
+103,3327,"Spisto,Michael",Farmingdale State,Skyline Conference,skyline_conference,25,13.24,1.28,1.4,1.52,0.44,0.0,0.96,-4.194853911191934,51
+104,3336,Talan Dawkins,Merchant Marine,Skyline Conference,skyline_conference,23,10.91304347826087,2.09,1.04,0.43,0.52,0.22,0.8695652173913043,-4.2477080830474865,51
+105,3342,"Benbow,Elijah",Mount Saint Vincent,Skyline Conference,skyline_conference,13,10.0,2.85,0.92,0.62,0.15,0.0,0.6923076923076923,-4.294763625158674,51
+106,3353,"Marzziotti,Anthony",Mount Saint Mary,Skyline Conference,skyline_conference,22,10.045454545454543,1.82,0.55,0.95,0.59,0.05,0.9545454545454546,-4.432877904236243,50
+107,3356,"Brennan,Liam",Mount Saint Vincent,Skyline Conference,skyline_conference,13,13.846153846153848,2.0,2.69,0.23,0.15,0.15,1.0,-4.441019526160119,50

@@ -1,0 +1,91 @@
+rank,global_rank,player_name,team,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
+1,28,"Barr,Hunter",Transylvania,Heartland Collegiate Athletic Conference (HCAC),hcac,28,29.964285714285715,19.29,8.43,0.89,1.0,1.86,1.3928571428571428,8.017199437385246,95
+2,128,"McNair,Malachi",Hanover,Heartland Collegiate Athletic Conference (HCAC),hcac,24,28.0,16.58,11.04,1.21,0.33,1.0,1.8333333333333333,5.728234162792495,93
+3,136,"Lynas,Ty",Manchester,Heartland Collegiate Athletic Conference (HCAC),hcac,23,35.34782608695652,20.83,6.22,3.09,1.22,0.09,2.8260869565217392,5.666163244142631,93
+4,266,"Mattingly,Elijah",Anderson,Heartland Collegiate Athletic Conference (HCAC),hcac,26,30.076923076923077,11.27,9.85,2.65,1.04,1.23,2.230769230769231,4.5820328955291165,92
+5,273,"Robson,Nevin",Bluffton,Heartland Collegiate Athletic Conference (HCAC),hcac,24,34.583333333333336,16.63,8.54,2.5,1.54,0.21,3.0416666666666665,4.54450941579926,92
+6,309,"Riley,Bryce",Berea,Heartland Collegiate Athletic Conference (HCAC),hcac,26,33.84615384615385,16.08,7.08,1.81,1.23,0.12,1.8461538461538465,4.250610126374452,91
+7,343,"Williams,Bryce",Anderson,Heartland Collegiate Athletic Conference (HCAC),hcac,27,29.333333333333332,13.04,4.33,4.81,1.59,0.22,2.3333333333333335,3.9448374817268776,91
+8,354,"Matthews,Cooper",Franklin,Heartland Collegiate Athletic Conference (HCAC),hcac,27,28.48148148148148,15.96,4.15,3.11,1.89,0.11,2.5555555555555554,3.8766677706860575,90
+9,362,"McCorkle,Clay",Manchester,Heartland Collegiate Athletic Conference (HCAC),hcac,19,38.0,15.79,3.58,3.84,0.95,0.05,1.894736842105263,3.824721164777397,90
+10,366,"Pride,Cole",Rose-Hulman,Heartland Collegiate Athletic Conference (HCAC),hcac,22,27.545454545454547,12.86,5.09,1.64,0.86,1.18,1.181818181818182,3.819030485522828,90
+11,392,"Marshall,Drew",Transylvania,Heartland Collegiate Athletic Conference (HCAC),hcac,28,31.642857142857142,13.0,8.25,4.25,1.54,0.29,3.5,3.6680308121107967,90
+12,399,"Snelling,Ian",Bluffton,Heartland Collegiate Athletic Conference (HCAC),hcac,22,31.09090909090909,12.18,6.05,3.45,1.41,0.23,1.8636363636363635,3.6392809207298167,90
+13,584,"Swan,Nolan",Anderson,Heartland Collegiate Athletic Conference (HCAC),hcac,28,28.464285714285715,12.93,3.57,2.93,1.11,0.11,1.3928571428571428,2.7986806909216333,87
+14,586,"Schmitz,Joey",Rose-Hulman,Heartland Collegiate Athletic Conference (HCAC),hcac,27,30.666666666666668,15.19,3.04,1.7,1.7,0.07,1.8148148148148149,2.797918539628374,87
+15,660,"Walls,CJ",Hanover,Heartland Collegiate Athletic Conference (HCAC),hcac,26,32.03846153846154,13.0,5.35,3.27,0.69,0.08,2.0384615384615383,2.5032805697912917,86
+16,697,"Harrington,Justin",Franklin,Heartland Collegiate Athletic Conference (HCAC),hcac,26,24.73076923076923,14.46,3.31,1.42,1.27,0.12,1.5,2.3867014826671302,86
+17,734,"Troutman,Kenney",Anderson,Heartland Collegiate Athletic Conference (HCAC),hcac,27,26.925925925925927,15.78,1.52,1.44,1.26,0.0,1.4444444444444444,2.218854027309748,85
+18,740,"Beverly,Dylan",Franklin,Heartland Collegiate Athletic Conference (HCAC),hcac,25,26.36,8.52,3.2,1.76,1.08,1.52,1.04,2.20645765026572,85
+19,783,"Irvin,Andre",Bluffton,Heartland Collegiate Athletic Conference (HCAC),hcac,26,29.0,13.77,3.08,2.85,0.73,0.0,1.6923076923076923,2.064467015252464,85
+20,814,"Davis,Bud",Earlham,Heartland Collegiate Athletic Conference (HCAC),hcac,21,26.238095238095237,14.33,2.76,3.05,1.19,0.1,2.5238095238095237,1.971660358943537,84
+21,925,"Gist,Jae'dyn",Berea,Heartland Collegiate Athletic Conference (HCAC),hcac,26,27.192307692307693,9.96,6.23,1.65,0.81,0.08,1.1153846153846154,1.597465744510674,83
+22,927,"Robertson,Max",Manchester,Heartland Collegiate Athletic Conference (HCAC),hcac,23,30.08695652173913,10.7,4.17,2.0,0.96,0.3,1.3478260869565215,1.585903948982324,83
+23,939,"Gentile,Evan",Rose-Hulman,Heartland Collegiate Athletic Conference (HCAC),hcac,27,24.11111111111111,10.56,3.0,1.81,1.15,0.07,0.7407407407407407,1.5590989650063478,83
+24,964,"Davidson,Rob",Anderson,Heartland Collegiate Athletic Conference (HCAC),hcac,18,25.666666666666668,9.22,5.11,1.44,1.5,0.44,1.5,1.464312922727301,82
+25,980,"Stokes,JD",Bluffton,Heartland Collegiate Athletic Conference (HCAC),hcac,26,23.615384615384617,9.04,4.42,1.27,0.69,0.92,1.0,1.4069027529655151,82
+26,986,"Ollis,Cooper",Mount St. Joseph,Heartland Collegiate Athletic Conference (HCAC),hcac,26,27.5,10.73,5.0,1.85,0.96,0.08,1.4615384615384617,1.378730543329996,82
+27,1007,"Lavender,Jason",Mount St. Joseph,Heartland Collegiate Athletic Conference (HCAC),hcac,26,29.615384615384617,11.23,4.62,1.23,1.04,0.46,1.7307692307692308,1.3054978852218313,82
+28,1008,"Torres,Christian",Rose-Hulman,Heartland Collegiate Athletic Conference (HCAC),hcac,24,20.125,8.71,6.83,1.54,0.42,0.5,1.1666666666666667,1.3045141721885034,82
+29,1054,"Brand,Joe",Mount St. Joseph,Heartland Collegiate Athletic Conference (HCAC),hcac,26,26.73076923076923,10.27,3.77,1.69,0.69,0.15,0.8461538461538461,1.1543367729115166,81
+30,1114,"Reddick,Tommy",Earlham,Heartland Collegiate Athletic Conference (HCAC),hcac,22,25.40909090909091,9.95,3.41,1.59,1.23,0.59,1.681818181818182,0.9882218068327634,80
+31,1144,"Menninger,Mathew",Mount St. Joseph,Heartland Collegiate Athletic Conference (HCAC),hcac,25,32.4,9.56,4.0,1.8,0.52,0.56,1.24,0.9263722861266752,80
+32,1156,"Ferguson,DeMonte",Anderson,Heartland Collegiate Athletic Conference (HCAC),hcac,27,23.22222222222222,8.33,4.96,1.3,0.89,0.7,1.2962962962962965,0.8971225068906046,80
+33,1254,"Hudson,Zach",Berea,Heartland Collegiate Athletic Conference (HCAC),hcac,26,25.96153846153846,9.0,3.46,3.12,1.19,0.15,2.0,0.6646427656538011,78
+34,1311,"Alexander,Jeremiah",Hanover,Heartland Collegiate Athletic Conference (HCAC),hcac,24,28.833333333333332,9.5,3.0,2.96,0.71,0.17,1.6666666666666667,0.528088634391648,78
+35,1369,"Freeman,Cam",Hanover,Heartland Collegiate Athletic Conference (HCAC),hcac,26,29.46153846153846,6.15,2.23,4.65,1.04,0.12,1.5384615384615383,0.3836650224730503,77
+36,1371,"Savovic,Daniel",Rose-Hulman,Heartland Collegiate Athletic Conference (HCAC),hcac,25,28.8,10.0,3.52,2.32,0.56,0.0,1.44,0.3790673154246133,77
+37,1385,"Layfield,William",Bluffton,Heartland Collegiate Athletic Conference (HCAC),hcac,26,26.384615384615383,7.5,4.23,2.31,1.31,0.08,1.5,0.3504960657551648,77
+38,1407,"Smith,Nate",Rose-Hulman,Heartland Collegiate Athletic Conference (HCAC),hcac,23,23.0,6.39,2.43,3.09,1.83,0.22,1.6521739130434785,0.2939219865480844,76
+39,1438,"Wallace,Ladarius",Manchester,Heartland Collegiate Athletic Conference (HCAC),hcac,22,31.681818181818183,10.5,1.91,2.41,0.5,0.05,1.318181818181818,0.2206683425216097,76
+40,1455,"Idlett,Luke",Transylvania,Heartland Collegiate Athletic Conference (HCAC),hcac,28,22.964285714285715,9.21,1.89,1.04,1.0,0.07,0.5357142857142857,0.1521345286143933,76
+41,1483,"Smith,Jaxon",Transylvania,Heartland Collegiate Athletic Conference (HCAC),hcac,28,26.892857142857142,7.43,3.11,1.64,0.64,0.25,0.5714285714285714,0.0708509400300729,75
+42,1495,"Pearson,Rohan",Franklin,Heartland Collegiate Athletic Conference (HCAC),hcac,22,23.318181818181817,8.18,3.45,1.45,1.27,0.18,1.3636363636363635,0.0241306571700614,75
+43,1559,"Capps,Dakota",Transylvania,Heartland Collegiate Athletic Conference (HCAC),hcac,22,25.454545454545453,5.23,3.0,4.91,1.0,0.32,2.272727272727273,-0.1677520613060926,74
+44,1584,"Hardimon,Patrick",Earlham,Heartland Collegiate Athletic Conference (HCAC),hcac,23,22.652173913043477,9.0,4.52,0.65,0.83,0.39,1.608695652173913,-0.2311432685971435,74
+45,1588,"Black,Jaylen",Berea,Heartland Collegiate Athletic Conference (HCAC),hcac,10,22.9,6.6,2.2,2.9,2.1,0.0,2.0,-0.2370760257583818,74
+46,1674,"Laby,Axel",Anderson,Heartland Collegiate Athletic Conference (HCAC),hcac,13,22.615384615384617,6.0,3.62,1.08,1.0,0.77,1.2307692307692308,-0.4431851193349376,73
+47,1709,"Douglas,Zavian",Berea,Heartland Collegiate Athletic Conference (HCAC),hcac,26,21.5,7.65,4.69,1.12,0.23,0.35,1.1153846153846154,-0.5192743537472722,72
+48,1724,"Reesor,Ian",Transylvania,Heartland Collegiate Athletic Conference (HCAC),hcac,26,21.26923076923077,8.73,3.85,1.73,0.19,0.35,1.6153846153846154,-0.5544476262495176,72
+49,1740,"Miller,Jack",Hanover,Heartland Collegiate Athletic Conference (HCAC),hcac,25,24.48,6.72,3.72,0.96,0.76,0.16,0.68,-0.5921952804919485,72
+50,1757,"Smith,Connor",Earlham,Heartland Collegiate Athletic Conference (HCAC),hcac,21,25.428571428571427,7.05,4.81,1.05,0.38,0.1,0.8571428571428571,-0.6609628579728318,72
+51,1790,"Gathings,Noah",Earlham,Heartland Collegiate Athletic Conference (HCAC),hcac,18,16.666666666666668,6.5,3.33,1.0,1.17,0.28,1.1111111111111112,-0.7198290509263918,71
+52,1792,"Brace,Logan",Manchester,Heartland Collegiate Athletic Conference (HCAC),hcac,24,24.875,4.96,5.17,0.96,0.92,0.21,0.7916666666666666,-0.7233597148150317,71
+53,1831,"Jones,Andrew",Berea,Heartland Collegiate Athletic Conference (HCAC),hcac,26,18.192307692307693,6.85,3.31,1.46,0.5,0.19,0.8846153846153846,-0.7980491295757606,71
+54,1855,"Gatlin,Sheldon",Hanover,Heartland Collegiate Athletic Conference (HCAC),hcac,26,14.923076923076923,6.85,2.35,0.73,0.31,0.58,0.4615384615384615,-0.8379033946321264,70
+55,1924,"Faires,Jesse",Franklin,Heartland Collegiate Athletic Conference (HCAC),hcac,27,21.88888888888889,5.78,3.7,2.19,1.19,0.19,1.851851851851852,-1.0249103491301224,69
+56,1925,"Barrow,Nathaniel",Berea,Heartland Collegiate Athletic Conference (HCAC),hcac,21,26.61904761904762,8.48,2.52,1.86,0.81,0.1,1.8571428571428572,-1.0258140446062536,69
+57,1944,"Olson,Davis",Hanover,Heartland Collegiate Athletic Conference (HCAC),hcac,25,18.12,6.4,3.36,0.92,0.36,0.08,0.4,-1.07034036291358,69
+58,1989,"Herald,William",Hanover,Heartland Collegiate Athletic Conference (HCAC),hcac,26,18.5,8.15,1.81,0.77,0.31,0.04,0.4615384615384615,-1.153539668648815,69
+59,2049,"Loftis,Michael",Mount St. Joseph,Heartland Collegiate Athletic Conference (HCAC),hcac,24,22.791666666666668,7.71,2.71,2.33,0.71,0.08,2.0416666666666665,-1.3021245196220752,68
+60,2052,"Saunders,Avery",Franklin,Heartland Collegiate Athletic Conference (HCAC),hcac,24,16.125,5.58,4.33,0.38,0.33,0.29,0.5,-1.3074769237900346,68
+61,2092,"Hardy,Chris",Manchester,Heartland Collegiate Athletic Conference (HCAC),hcac,14,19.071428571428573,6.5,4.14,0.64,0.21,0.57,1.2142857142857142,-1.3738681983034084,67
+62,2130,"Jenniges,Jack",Rose-Hulman,Heartland Collegiate Athletic Conference (HCAC),hcac,16,18.5625,5.13,4.25,1.19,0.56,0.44,1.3125,-1.474627448200187,67
+63,2179,"Bennie-Powell,LeBron",Franklin,Heartland Collegiate Athletic Conference (HCAC),hcac,21,19.142857142857142,6.29,3.1,0.81,0.62,0.1,0.9047619047619048,-1.569563124723235,66
+64,2188,"Moore,Zaryen",Franklin,Heartland Collegiate Athletic Conference (HCAC),hcac,13,19.0,3.62,2.15,1.38,1.62,0.23,1.0,-1.5955019325037851,66
+65,2230,"Thompson,Justice",Bluffton,Heartland Collegiate Athletic Conference (HCAC),hcac,26,15.807692307692308,6.12,2.31,0.58,0.35,0.12,0.3461538461538461,-1.690481599285752,65
+66,2241,"Foster,Jaxon",Bluffton,Heartland Collegiate Athletic Conference (HCAC),hcac,26,18.0,5.88,1.46,0.54,0.46,0.42,0.4230769230769231,-1.7098034157739737,65
+67,2341,"Pruitt,Donovan",Earlham,Heartland Collegiate Athletic Conference (HCAC),hcac,23,19.347826086956523,7.22,1.91,2.0,0.61,0.09,1.8695652173913044,-1.910550370991634,64
+68,2422,"Lancaster,Cayden",Transylvania,Heartland Collegiate Athletic Conference (HCAC),hcac,28,15.0,5.39,2.75,0.75,0.43,0.14,0.7142857142857143,-2.039242408321291,63
+69,2427,"Stoudemire,Kobe",Rose-Hulman,Heartland Collegiate Athletic Conference (HCAC),hcac,25,21.44,4.68,1.88,1.76,0.44,0.0,0.64,-2.056330065159028,63
+70,2440,"Bilton,Jay",Mount St. Joseph,Heartland Collegiate Athletic Conference (HCAC),hcac,26,21.846153846153847,4.58,2.54,1.88,0.42,0.23,1.1538461538461535,-2.0850735482151004,63
+71,2443,"McElheney,Will",Rose-Hulman,Heartland Collegiate Athletic Conference (HCAC),hcac,26,14.153846153846152,4.42,3.54,1.15,0.31,0.0,0.6153846153846154,-2.088790477977872,63
+72,2548,"Sullivan,Jack",Earlham,Heartland Collegiate Athletic Conference (HCAC),hcac,22,16.454545454545453,4.91,2.5,0.59,0.41,0.09,0.5,-2.2826133518345224,61
+73,2601,"Russell,Braylon",Franklin,Heartland Collegiate Athletic Conference (HCAC),hcac,18,16.333333333333332,4.83,3.5,0.44,0.67,0.22,1.1666666666666667,-2.387022925358215,60
+74,2631,"Newton,Chase",Earlham,Heartland Collegiate Athletic Conference (HCAC),hcac,24,17.375,3.08,2.42,1.67,0.96,0.08,1.0416666666666667,-2.434382527595224,60
+75,2635,"McNabb,Connor",Franklin,Heartland Collegiate Athletic Conference (HCAC),hcac,25,15.52,3.44,3.12,0.72,0.32,0.16,0.36,-2.43799546359322,60
+76,2710,"Boehler,Talan",Manchester,Heartland Collegiate Athletic Conference (HCAC),hcac,24,17.791666666666668,5.42,1.63,0.5,0.33,0.0,0.4583333333333333,-2.5870875785423646,59
+77,2729,"Jamison,Will",Anderson,Heartland Collegiate Athletic Conference (HCAC),hcac,25,12.92,5.28,1.28,1.04,0.72,0.0,1.0,-2.6297761142417855,59
+78,2816,"Stone,Sam",Transylvania,Heartland Collegiate Athletic Conference (HCAC),hcac,27,12.592592592592592,3.07,3.11,0.67,0.26,0.19,0.5185185185185185,-2.8328180991628873,58
+79,2856,"Derry,Griffen",Mount St. Joseph,Heartland Collegiate Athletic Conference (HCAC),hcac,25,12.72,5.8,1.64,0.32,0.08,0.0,0.56,-2.9089093917114597,57
+80,2888,"Anderson,Cedric",Anderson,Heartland Collegiate Athletic Conference (HCAC),hcac,25,11.6,2.72,2.48,0.56,0.72,0.04,0.48,-2.971812834808679,57
+81,2891,"Kidwell,Landon",Mount St. Joseph,Heartland Collegiate Athletic Conference (HCAC),hcac,22,12.454545454545457,2.64,2.14,0.64,0.23,0.55,0.5454545454545454,-2.9742323604255514,57
+82,3100,"Miller,Braden",Mount St. Joseph,Heartland Collegiate Athletic Conference (HCAC),hcac,11,13.181818181818182,3.0,2.0,0.82,0.09,0.27,0.7272727272727273,-3.4594408301595245,54
+83,3115,"Hamm,Anthony",Berea,Heartland Collegiate Athletic Conference (HCAC),hcac,26,13.153846153846152,4.23,1.54,0.62,0.31,0.0,0.8461538461538461,-3.5021558454006785,54
+84,3210,"Moss,Tyler",Berea,Heartland Collegiate Athletic Conference (HCAC),hcac,26,12.423076923076923,2.08,1.62,1.27,0.88,0.04,1.2692307692307692,-3.8039581593222143,52
+85,3219,"Makabu,Travis",Earlham,Heartland Collegiate Athletic Conference (HCAC),hcac,25,16.68,2.2,1.64,1.0,0.32,0.08,0.72,-3.8144676408901494,52
+86,3231,"Walbert,J.C.",Transylvania,Heartland Collegiate Athletic Conference (HCAC),hcac,28,11.928571428571429,2.79,1.39,1.11,0.32,0.11,1.0,-3.856925224783189,52
+87,3279,"Kolbay,Jake",Earlham,Heartland Collegiate Athletic Conference (HCAC),hcac,21,12.142857142857142,3.48,0.71,0.33,0.19,0.05,0.5238095238095238,-4.002529687280424,51
+88,3346,"Murphy,Jack",Rose-Hulman,Heartland Collegiate Athletic Conference (HCAC),hcac,21,11.0,1.48,1.86,0.43,0.57,0.1,0.9047619047619048,-4.359882629602373,50
+89,3364,"Kobe,Jason",Manchester,Heartland Collegiate Athletic Conference (HCAC),hcac,18,10.833333333333334,1.89,1.33,0.5,0.11,0.06,0.7222222222222222,-4.632884443059423,50
+90,3373,"Paul,Marcos",Earlham,Heartland Collegiate Athletic Conference (HCAC),hcac,18,10.944444444444445,1.06,1.5,0.28,0.11,0.39,0.9444444444444444,-4.89584768728042,50
