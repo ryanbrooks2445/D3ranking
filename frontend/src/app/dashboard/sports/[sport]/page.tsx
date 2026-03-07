@@ -1,4 +1,4 @@
-import { readDataFileSafe, getSeason } from "@/lib/data";
+import { readDataFileSafe, getSeasonDisplay, getDataQualityNote } from "@/lib/data";
 import Link from "next/link";
 import { getSport } from "@/lib/sports";
 import { formatConferenceDisplayName } from "@/lib/conferences";
@@ -20,7 +20,8 @@ export default async function SportPage({
   const def = getSport(code);
 
   const indexPath = `sports/${code}/conferences/index.json`;
-  const season = await getSeason(code);
+  const { seasonLabel, note: seasonNote } = await getSeasonDisplay(code);
+  const dataQualityNote = getDataQualityNote(code);
 
   let conferences: ConfIndexRow[] = [];
   try {
@@ -53,8 +54,18 @@ export default async function SportPage({
           {sportLabel}
         </h1>
         <p className="mt-2 text-slate-400">
-          NCAA D3 composite rankings · {season} season
+          NCAA D3 composite rankings · {seasonLabel} season
         </p>
+        {seasonNote && (
+          <p className="mt-1 text-sm text-amber-400/90">
+            {seasonNote}
+          </p>
+        )}
+        {dataQualityNote && (
+          <p className="mt-1 text-sm text-slate-500 max-w-xl">
+            {dataQualityNote}
+          </p>
+        )}
       </header>
 
       <Link

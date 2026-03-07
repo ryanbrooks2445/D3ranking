@@ -41,6 +41,11 @@ export async function readDataFileSafe(relativePath: string): Promise<string | n
 
 const DEFAULT_SEASON = "2025-26";
 
+/** Sports whose current data is from the prior season (spring sports; next season not yet available). */
+const PRIOR_YEAR_DATA_SPORTS = ["baseball", "softball", "mlax", "wlax"];
+const PRIOR_YEAR_SEASON_LABEL = "2024-25";
+const PRIOR_YEAR_NOTE = "Last season's data. Current season rankings will update when available.";
+
 /**
  * Get the current season for a sport. Reads from sports/{code}/meta.json when present;
  * otherwise returns the default season (e.g. "2025-26").
@@ -55,4 +60,35 @@ export async function getSeason(sportCode: string): Promise<string> {
   } catch {
     return DEFAULT_SEASON;
   }
+}
+
+/**
+ * Get season label and optional note for display. For spring sports with prior-year data,
+ * returns 2024-25 and a note. Otherwise returns the season from meta and no note.
+ */
+export async function getSeasonDisplay(sportCode: string): Promise<{
+  seasonLabel: string;
+  note: string | null;
+}> {
+  const code = sportCode.toLowerCase();
+  const season = await getSeason(code);
+  if (PRIOR_YEAR_DATA_SPORTS.includes(code)) {
+    return { seasonLabel: PRIOR_YEAR_SEASON_LABEL, note: PRIOR_YEAR_NOTE };
+  }
+  return { seasonLabel: season, note: null };
+}
+
+/** Sports that show a data-quality disclaimer (e.g. hockey). */
+const DATA_QUALITY_NOTE_SPORTS: Record<string, string> = {
+  mhky:
+    "Hockey rankings use conference stats. Use Skaters vs Goalies tabs to filter. Some rows may show incomplete data.",
+  whky:
+    "Hockey rankings use conference stats. Use Skaters vs Goalies tabs to filter. Some rows may show incomplete data.",
+};
+
+/**
+ * Optional note about data quality or coverage for a sport (e.g. hockey).
+ */
+export function getDataQualityNote(sportCode: string): string | null {
+  return DATA_QUALITY_NOTE_SPORTS[sportCode.toLowerCase()] ?? null;
 }

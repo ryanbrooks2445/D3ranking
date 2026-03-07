@@ -1,6 +1,6 @@
 global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
 1,2025-26,"Chicone,Luke",John Carroll,G,North Coast Athletic Conference (NCAC),ncac,28,32.82142857142857,24.29,4.75,6.29,2.71,0.29,2.1785714285714284,11.25482382715206,99
-2,2025-26,"Kinney,Elijah",Endicott College,F,The Commonwealth Coast Conference (CCC),ccc,24,29.291666666666668,21.96,11.67,1.29,0.96,2.67,1.75,11.184582951074963,99
+2,2025-26,"Kinney,Elijah",Endicott College,F,Conference of New England (CCC),ccc,24,29.291666666666668,21.96,11.67,1.29,0.96,2.67,1.75,11.184582951074963,99
 3,2025-26,"Huguley,Tray",MUW,F,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,25,35.04,23.04,11.68,2.64,1.04,1.52,2.28,10.544145944525305,99
 4,2025-26,"Bigham,Fletcher",Sewanee,F,Southern Athletic Association (SAA),saa,25,32.4,19.36,11.04,2.36,1.08,2.72,2.12,10.345492856610168,98
 5,2025-26,Marquis Ratcliff,Moravian,f,Landmark Conference,landmark_conference,25,34.24,22.36,8.72,2.44,0.88,2.56,2.24,10.301415376027258,98
@@ -14,7 +14,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 13,2025-26,R Welch,Plattsburgh,,State University of New York Athletic Conference (SUNYAC),sunyac,25,37.6,26.1,8.2,4.2,1.6,0.2,3.5,9.118849682140876,95
 14,2025-26,Tyler Smith,Crown,*,Upper Midwest Athletic Conference (UMAC),umac,28,32.42857142857143,7.39,11.71,6.57,1.04,3.64,2.4642857142857144,9.114879761993166,95
 15,2025-26,E Madesko,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,25,34.8,20.1,6.0,5.7,2.5,0.3,2.4,9.076285498430137,95
-16,2025-26,"Montagnino,Marcus",Endicott College,F,The Commonwealth Coast Conference (CCC),ccc,27,33.148148148148145,22.26,7.85,4.41,1.7,0.19,2.2962962962962963,8.955894186448106,95
+16,2025-26,"Montagnino,Marcus",Endicott College,F,Conference of New England (CCC),ccc,27,33.148148148148145,22.26,7.85,4.41,1.7,0.19,2.2962962962962963,8.955894186448106,95
 17,2025-26,"Yarbrough,Jevon",Hood,G,Middle Atlantic Conferences (MAC),mac,27,35.74074074074074,25.56,6.3,6.3,1.89,0.11,4.296296296296297,8.902326457154778,95
 18,2025-26,"Overby,Tanner",Willamette,G,Northwest Conference (NWC),nwc,22,28.681818181818183,24.64,4.86,3.23,2.32,0.41,2.409090909090909,8.880209136538944,95
 19,2025-26,"Plesser,Jack",Union,F,Liberty League (LL),ll,25,31.52,22.64,7.6,1.48,1.0,1.48,1.6,8.813130749261461,95
@@ -84,7 +84,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 83,2025-26,"Dotson,Phil",Rhodes,G,Southern Athletic Association (SAA),saa,22,28.727272727272727,21.41,3.14,2.41,1.41,0.0,1.181818181818182,6.288623920226377,94
 84,2025-26,"Hurst,Camden",Lancaster Bible College,G,North Eastern Athletic Conference,north_eastern_athletic_c,27,28.14814814814815,21.07,3.67,2.81,2.0,0.56,2.6296296296296298,6.282256724611024,94
 85,2025-26,"Semanko,JJ",Augsburg,G,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,30.85185185185185,17.81,8.63,2.48,1.26,0.52,2.074074074074074,6.282140022012813,94
-86,2025-26,"Flowers-Smith,Javen",Nichols College,G,The Commonwealth Coast Conference (CCC),ccc,26,31.923076923076923,20.35,3.15,5.0,2.04,0.42,3.3846153846153846,6.274242162849619,94
+86,2025-26,"Flowers-Smith,Javen",Nichols College,G,Conference of New England (CCC),ccc,26,31.923076923076923,20.35,3.15,5.0,2.04,0.42,3.3846153846153846,6.274242162849619,94
 87,2025-26,A Coston,Cortland,,State University of New York Athletic Conference (SUNYAC),sunyac,27,30.4,14.9,7.9,3.3,0.9,1.1,1.6,6.2712882004274775,94
 88,2025-26,"Lovelace,Lamar",Keuka,G,Empire 8 (E8),e8,28,32.857142857142854,21.82,6.0,2.61,1.5,0.04,2.5,6.267632712956079,94
 89,2025-26,"May,Connor",Washington St. Louis,F,University Athletic Association (UAA),uaa,25,32.6,17.2,7.04,2.0,1.4,0.92,1.68,6.237693697171553,94
@@ -109,7 +109,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 108,2025-26,"Heckman,Julian",Otterbein,G,Ohio Athletic Conference (OAC),oac,27,34.370370370370374,13.44,4.74,5.44,2.7,0.33,2.3333333333333335,5.939204807848936,94
 109,2025-26,Will Householter,Claremont-Mudd-Scripps,g,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,33.72,18.92,3.04,3.52,1.88,0.2,1.84,5.93091242636001,94
 110,2025-26,"Rose,Anthony",Poly,F,Empire 8 (E8),e8,26,32.5,19.27,5.19,1.92,1.42,0.77,1.9615384615384617,5.908568828307754,94
-111,2025-26,"Vlajkovic,Luka",Western New England University,F,The Commonwealth Coast Conference (CCC),ccc,24,31.958333333333332,15.33,10.17,3.46,1.25,0.63,2.6666666666666665,5.903223913744833,94
+111,2025-26,"Vlajkovic,Luka",Western New England University,F,Conference of New England (CCC),ccc,24,31.958333333333332,15.33,10.17,3.46,1.25,0.63,2.6666666666666665,5.903223913744833,94
 112,2025-26,"Nelson,Charles",Webster,F,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,27,31.074074074074073,18.48,3.63,3.74,1.85,0.3,2.111111111111111,5.8963259717993965,94
 113,2025-26,"Monroe,Tye-Rell",Saint Elizabeth University,G,Atlantic East Conference (AEC),aec,21,30.61904761904762,21.19,5.29,1.24,1.1,0.48,1.7142857142857142,5.882727603976358,94
 114,2025-26,"Vuckovic,Mike",North Park,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,34.46153846153846,19.85,4.38,4.5,1.23,0.12,2.576923076923077,5.877635071274668,94
@@ -119,7 +119,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 118,2025-26,"Carnes,Jadon",Brevard,F,USA South Athletic Conference,usa_south_athletic_confe,25,34.36,18.2,4.28,3.92,1.08,0.2,1.56,5.8550624958461395,94
 119,2025-26,"Mason,Noah",Benedictine,F,Northern Athletics Collegiate Conference (NACC),nacc,25,27.88,16.64,7.8,2.44,1.36,0.88,2.24,5.8424946486112646,94
 120,2025-26,"R Ford, Jr.",Albertus Magnus,,Great Northeast Athletic Conference (GNAC),gnac,27,34.1,16.2,4.8,4.2,1.9,0.2,1.9,5.815894543577689,94
-121,2025-26,"Brooks,Ryan",Gordon College,F,The Commonwealth Coast Conference (CCC),ccc,18,31.166666666666668,13.94,7.78,3.61,0.72,0.83,1.3333333333333333,5.801571835837627,94
+121,2025-26,"Brooks,Ryan",Gordon College,F,Conference of New England (CCC),ccc,18,31.166666666666668,13.94,7.78,3.61,0.72,0.83,1.3333333333333333,5.801571835837627,94
 122,2025-26,"Mitchell,Qadir",Albright,G,Middle Atlantic Conferences (MAC),mac,26,31.46153846153846,21.42,3.65,2.15,1.23,0.35,1.8846153846153848,5.778389038415293,94
 123,2025-26,"Nailor,Cooper",Coe,G,American Rivers Conference (ARC),arc,27,36.74074074074074,15.52,6.33,5.44,2.11,0.22,3.111111111111111,5.775770172135242,94
 124,2025-26,"Davis,Duane",Muskingum,G,Ohio Athletic Conference (OAC),oac,26,32.0,18.92,4.15,1.96,2.04,0.46,1.8461538461538465,5.763731838875858,94
@@ -149,7 +149,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 148,2025-26,"Xavier,Lovenson",Chatham,G,Presidents Athletic Conference (PAC),pac,27,32.74074074074074,16.93,8.07,1.48,1.15,0.85,1.962962962962963,5.477940369768792,93
 149,2025-26,"McWhite,Chase",Albright,G,Middle Atlantic Conferences (MAC),mac,22,29.454545454545453,12.5,8.73,2.77,1.18,1.68,2.272727272727273,5.462848676935506,93
 150,2025-26,A Barry,Salem St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,32.4,15.2,5.2,2.3,2.1,0.8,1.7,5.456560566799174,93
-151,2025-26,"Torres,Adrian",University of New England,G,The Commonwealth Coast Conference (CCC),ccc,26,33.0,13.92,4.23,3.88,3.08,0.27,2.1153846153846154,5.455674016335621,93
+151,2025-26,"Torres,Adrian",University of New England,G,Conference of New England (CCC),ccc,26,33.0,13.92,4.23,3.88,3.08,0.27,2.1153846153846154,5.455674016335621,93
 152,2025-26,"Rose,Coco",Bethany,G,Presidents Athletic Conference (PAC),pac,24,30.208333333333332,18.67,2.58,4.17,2.0,0.33,2.6666666666666665,5.452984974073501,93
 153,2025-26,K Claar,Penn St.-Altoona,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,29.9,15.2,5.8,2.3,2.5,0.4,1.8,5.437486317841973,93
 154,2025-26,"Edwards,Ethan",Case Western Reserve,G,University Athletic Association (UAA),uaa,21,26.61904761904762,20.1,3.62,1.33,1.71,0.38,1.6666666666666667,5.419094680117124,93
@@ -284,12 +284,12 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 283,2025-26,"Pouye,Babacar",Bates,F,New England Small College Athletic Conference (NESCAC),nescac,23,24.52173913043478,14.48,7.91,1.96,0.7,1.26,2.260869565217391,4.4510897870171195,91
 284,2025-26,"Mendez,Xavier",Rhode Island College,F,Little East Conference (LEC),lec,26,27.153846153846153,16.92,9.04,1.96,1.19,0.38,2.9615384615384617,4.442786848384354,91
 285,2025-26,"Pieper,Kaden",Minnesota Morris,G,Upper Midwest Athletic Conference (UMAC),umac,27,31.185185185185187,17.67,6.56,2.19,1.22,0.19,2.407407407407407,4.442237710304886,91
-286,2025-26,"Miller,Finn",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,25,28.76,15.28,7.64,3.52,1.24,0.2,2.68,4.436203350009022,91
+286,2025-26,"Miller,Finn",Roger Williams University,G,Conference of New England (CCC),ccc,25,28.76,15.28,7.64,3.52,1.24,0.2,2.68,4.436203350009022,91
 287,2025-26,"Burns,Braeden",Clarkson,F,Liberty League (LL),ll,25,33.56,17.04,5.84,2.4,1.4,0.16,2.2,4.435707527270875,91
 288,2025-26,"John,Boluwasefe",Clark,F,New England Women's and Men's Athletic Conference (NEWMAC),newmac,23,31.130434782608695,14.74,6.83,1.52,1.35,1.3,2.391304347826087,4.433097638371513,91
 289,2025-26,"Boston,Jhace",Redlands,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,23.04,12.0,5.28,3.08,1.44,1.64,2.28,4.429216413945796,91
 290,2025-26,"Heitzman,Korbin",Alma,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,31.36,17.08,8.72,1.16,0.68,0.72,2.4,4.423664058925975,91
-291,2025-26,James Jones,Suffolk University,*,The Commonwealth Coast Conference (CCC),ccc,28,30.464285714285715,12.04,8.04,2.0,1.61,0.36,1.2142857142857142,4.4140207988095765,91
+291,2025-26,James Jones,Suffolk University,*,Conference of New England (CCC),ccc,28,30.464285714285715,12.04,8.04,2.0,1.61,0.36,1.2142857142857142,4.4140207988095765,91
 292,2025-26,"Koelling,Sam",Carleton,F,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,30.615384615384617,14.5,7.65,1.35,0.77,0.85,1.4615384615384617,4.396759915057805,91
 293,2025-26,D Kikuba,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,29.3,13.1,4.5,5.6,2.1,0.1,2.8,4.390355933016434,91
 294,2025-26,"Jones Jr.,Shawn",Rhodes,F,Southern Athletic Association (SAA),saa,26,29.03846153846154,11.19,6.19,3.38,1.08,0.96,1.3846153846153846,4.382777413784697,91
@@ -340,7 +340,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 339,2025-26,"Semega,Mohammed",VTSU Johnson,G,North Atlantic Conference (NAC),nac,25,29.24,10.08,7.56,2.4,2.68,0.44,2.0,3.965542574216117,91
 340,2025-26,"Golding,Jden",Keystone College,G,North Eastern Athletic Conference,north_eastern_athletic_c,27,34.03703703703704,17.19,6.15,3.07,1.3,0.15,3.074074074074074,3.9601519449664666,91
 341,2025-26,"Lynam,Jamison",Arcadia,F,Middle Atlantic Conferences (MAC),mac,26,33.19230769230769,17.69,2.65,3.0,1.65,0.08,2.3461538461538463,3.959593283112053,91
-342,2025-26,"St. Louis,Olivier",Nichols College,G,The Commonwealth Coast Conference (CCC),ccc,27,25.814814814814813,11.81,8.04,1.78,1.3,0.63,1.4444444444444444,3.948156631897816,91
+342,2025-26,"St. Louis,Olivier",Nichols College,G,Conference of New England (CCC),ccc,27,25.814814814814813,11.81,8.04,1.78,1.3,0.63,1.4444444444444444,3.948156631897816,91
 343,2025-26,"Williams,Bryce",Anderson,G,Heartland Collegiate Athletic Conference (HCAC),hcac,27,29.333333333333332,13.04,4.33,4.81,1.59,0.22,2.3333333333333335,3.9448374817268776,91
 344,2025-26,"Randle,Kyle",Grove City,G,Presidents Athletic Conference (PAC),pac,26,28.23076923076923,15.88,4.12,1.73,1.73,0.35,1.7692307692307692,3.941711058019151,91
 345,2025-26,"Flauto,Ryan",UMass Dartmouth,C,Little East Conference (LEC),lec,25,24.44,12.68,8.24,0.88,1.2,1.0,1.64,3.9401000608903822,91
@@ -387,7 +387,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 386,2025-26,"Kelly,JoJo",Penn State Abington,G,North Eastern Athletic Conference,north_eastern_athletic_c,25,36.04,19.92,5.84,2.2,0.92,0.28,3.52,3.704540381184255,90
 387,2025-26,"Nowoswiat,Kevin",Franklin & Marshall,G,Centennial Conference,centennial_conference,27,34.111111111111114,16.22,7.37,2.52,1.04,0.15,2.7777777777777777,3.687552515159135,90
 388,2025-26,"Tellez,Ben",Pacific Lutheran ,G,Northwest Conference (NWC),nwc,25,31.0,17.96,3.8,2.0,1.16,0.2,2.16,3.6855253594051383,90
-389,2025-26,"Lux,Adam",University of New England,F,The Commonwealth Coast Conference (CCC),ccc,26,31.884615384615383,16.15,6.15,1.42,0.88,0.15,1.5769230769230769,3.678926265590932,90
+389,2025-26,"Lux,Adam",University of New England,F,Conference of New England (CCC),ccc,26,31.884615384615383,16.15,6.15,1.42,0.88,0.15,1.5769230769230769,3.678926265590932,90
 390,2025-26,"Robinson,Kullen",Hood,G,Middle Atlantic Conferences (MAC),mac,27,30.40740740740741,16.56,5.63,2.11,0.67,0.33,2.0,3.678641741837369,90
 391,2025-26,S Jenkins,Mt. Aloysius,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,30.1,12.9,9.7,1.0,1.2,0.4,1.8,3.6744868862431455,90
 392,2025-26,"Marshall,Drew",Transylvania,G,Heartland Collegiate Athletic Conference (HCAC),hcac,28,31.642857142857142,13.0,8.25,4.25,1.54,0.29,3.5,3.6680308121107967,90
@@ -449,7 +449,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 448,2025-26,"Shephard,Tyler",MUW,G,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,27,30.74074074074074,14.67,4.7,2.07,1.33,0.63,2.1481481481481484,3.3998084870474403,89
 449,2025-26,"Diaz,Alejandro",North Central,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,31.807692307692307,12.46,5.15,4.0,1.58,0.35,2.5384615384615383,3.370649614710903,89
 450,2025-26,"DeJardin,Buckley",Carnegie Mellon,G,University Athletic Association (UAA),uaa,25,33.52,13.8,3.44,1.84,1.4,0.72,1.48,3.369072624589315,89
-451,2025-26,"Hammarlund,Ryan",Roger Williams University,F,The Commonwealth Coast Conference (CCC),ccc,23,29.695652173913043,13.04,4.7,2.09,1.65,0.22,1.391304347826087,3.365492361959375,89
+451,2025-26,"Hammarlund,Ryan",Roger Williams University,F,Conference of New England (CCC),ccc,23,29.695652173913043,13.04,4.7,2.09,1.65,0.22,1.391304347826087,3.365492361959375,89
 452,2025-26,"Cochran,Daniel",Chicago,F,University Athletic Association (UAA),uaa,25,26.68,10.48,7.52,2.04,0.68,0.88,1.2,3.3556407677775124,89
 453,2025-26,Noah Dowling,Southern Maine,0,Little East Conference (LEC),lec,26,25.576923076923077,11.5,6.04,1.5,1.31,0.77,1.2307692307692308,3.3478372139492674,89
 454,2025-26,"Schmitt,Jake",Gustavus,G,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,28.153846153846153,15.42,3.54,1.92,1.42,0.04,1.4230769230769231,3.3470561343040637,89
@@ -461,7 +461,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 460,2025-26,"Muhammad,Muhsin",RIT,G,Liberty League (LL),ll,20,27.0,13.2,4.95,1.5,1.5,0.7,1.65,3.30488698838398,89
 461,2025-26,"Bledsoe,Nathan",WPI,G,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,29.0,14.58,5.12,0.88,0.85,0.19,0.6923076923076923,3.3038128936265583,89
 462,2025-26,L Washington,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,35.1,9.4,5.6,4.2,2.7,0.0,2.3,3.3025685562797715,89
-463,2025-26,"Sullivan,Caden",Endicott College,G,The Commonwealth Coast Conference (CCC),ccc,27,29.03703703703704,11.63,3.63,2.19,1.33,0.52,0.7037037037037037,3.30132505416055,89
+463,2025-26,"Sullivan,Caden",Endicott College,G,Conference of New England (CCC),ccc,27,29.03703703703704,11.63,3.63,2.19,1.33,0.52,0.7037037037037037,3.30132505416055,89
 464,2025-26,"Cardello,Tyler",Elmira,F,Empire 8 (E8),e8,25,26.96,15.32,5.2,1.4,1.08,0.44,1.8,3.298594607450423,89
 465,2025-26,M Baskerville,Penn St.-Altoona,,Allegheny Mountain Collegiate Conference (AMCC),amcc,20,27.0,8.7,6.2,1.3,1.6,1.8,1.6,3.29196828289967,89
 466,2025-26,"Katoa,Higgy",La Verne,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,28.61904761904762,12.29,2.33,3.67,1.95,0.24,1.6666666666666667,3.28353441827298,89
@@ -517,9 +517,9 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 516,2025-26,"Beck,Brandon",UW-Oshkosh,F,Wisconsin Intercollegiate Athletic Conference (WIAC),wiac,20,19.85,15.85,3.35,0.95,1.05,0.9,1.85,3.070764238246714,88
 517,2025-26,Aedan Using,Brandeis,0,University Athletic Association (UAA),uaa,18,27.61111111111111,6.44,7.0,2.94,1.39,1.22,1.3333333333333333,3.0644741917996483,88
 518,2025-26,"Brown,Kenneth",Lyon,,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,27,28.814814814814813,10.41,5.26,1.41,1.63,0.78,1.0740740740740742,3.0565408232663547,88
-519,2025-26,"Mello,Dominic",Nichols College,G,The Commonwealth Coast Conference (CCC),ccc,27,35.96296296296296,15.93,4.19,3.07,0.85,0.26,2.5185185185185186,3.0482512278093985,88
+519,2025-26,"Mello,Dominic",Nichols College,G,Conference of New England (CCC),ccc,27,35.96296296296296,15.93,4.19,3.07,0.85,0.26,2.5185185185185186,3.0482512278093985,88
 520,2025-26,"Becker,Eli",Wilkes,F,Landmark Conference,landmark_conference,28,30.607142857142858,13.54,6.5,0.96,1.14,0.64,1.7857142857142858,3.045689419994535,88
-521,2025-26,Colin Mannke,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,24,26.708333333333332,14.17,7.92,1.13,1.0,0.25,2.0,3.0450606194062333,88
+521,2025-26,Colin Mannke,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,24,26.708333333333332,14.17,7.92,1.13,1.0,0.25,2.0,3.0450606194062333,88
 522,2025-26,"Moran,Dane",Dickinson,F,Centennial Conference,centennial_conference,25,25.72,14.92,8.2,0.84,0.64,1.12,2.88,3.0417427707944524,88
 523,2025-26,"Cain,Jordan",Utica,G,Empire 8 (E8),e8,26,28.923076923076923,14.46,4.08,1.77,2.38,0.08,2.3076923076923075,3.0412766877852686,88
 524,2025-26,"Wright,Ellis",Shenandoah,F,Old Dominion Athletic Conference (ODAC),odac,25,27.64,17.28,3.72,0.84,0.44,0.64,1.64,3.0252727021887784,88
@@ -588,7 +588,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 587,2025-26,Dylan Moore,Penn State Harrisburg,*,North Eastern Athletic Conference,north_eastern_athletic_c,28,23.75,12.07,4.46,1.36,1.39,0.71,1.3571428571428572,2.790508458580399,87
 588,2025-26,J Giannetta,Carlow,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,32.2,16.0,4.5,2.4,1.1,0.0,2.4,2.7821002883133055,87
 589,2025-26,"Redding,Antonio",Delaware Valley,G,Middle Atlantic Conferences (MAC),mac,25,35.04,17.48,2.96,2.88,0.96,0.04,2.68,2.7802077724460235,87
-590,2025-26,Greg Keane,Suffolk University,*,The Commonwealth Coast Conference (CCC),ccc,28,22.571428571428573,8.54,3.54,1.0,0.32,2.93,1.1428571428571428,2.778778857360124,87
+590,2025-26,Greg Keane,Suffolk University,*,Conference of New England (CCC),ccc,28,22.571428571428573,8.54,3.54,1.0,0.32,2.93,1.1428571428571428,2.778778857360124,87
 591,2025-26,"Carter,Anthony",Beloit,G,Midwest Conference (MWC),mwc,25,33.48,14.32,3.56,2.36,1.16,0.08,1.6,2.7764000128561306,87
 592,2025-26,"Lindert,Derek",Marian,G,Northern Athletics Collegiate Conference (NACC),nacc,28,28.107142857142858,14.93,2.43,1.36,1.18,0.14,0.9642857142857144,2.77418832313039,87
 593,2025-26,"Harper,Justin",Stockton,G,New Jersey Athletic Conference (NJAC),njac,27,27.185185185185187,15.63,5.26,2.44,0.74,0.33,2.592592592592593,2.7740897385091525,87
@@ -600,14 +600,14 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 599,2025-26,"Efe Isik,Ali",Whitman,,Northwest Conference (NWC),nwc,25,28.36,13.52,5.0,3.2,1.12,0.4,2.6,2.7618869264386205,87
 600,2025-26,A Foster,Oswego,,State University of New York Athletic Conference (SUNYAC),sunyac,28,29.0,10.5,6.6,2.6,1.8,0.3,2.1,2.7615233371112256,87
 601,2025-26,"Leifker,Jack",UW-River Falls,C,Wisconsin Intercollegiate Athletic Conference (WIAC),wiac,23,25.043478260869566,13.52,5.61,1.04,0.26,0.96,1.391304347826087,2.7563082210418797,87
-602,2025-26,"Winters,Kyle",University of Hartford,G,The Commonwealth Coast Conference (CCC),ccc,24,35.75,15.46,5.13,2.83,0.75,0.04,2.4166666666666665,2.751366364162127,87
+602,2025-26,"Winters,Kyle",University of Hartford,G,Conference of New England (CCC),ccc,24,35.75,15.46,5.13,2.83,0.75,0.04,2.4166666666666665,2.751366364162127,87
 603,2025-26,"Gott,Anthony",Central,F,American Rivers Conference (ARC),arc,24,23.375,11.08,5.71,1.42,0.33,1.75,1.7083333333333333,2.7509409219223184,87
 604,2025-26,"Harris,Aiden",Ohio Northern,F,Ohio Athletic Conference (OAC),oac,27,26.14814814814815,13.15,4.56,1.44,1.52,0.33,1.5555555555555556,2.7501058553448914,87
 605,2025-26,"Schramm,Cael",Wartburg,,American Rivers Conference (ARC),arc,26,26.576923076923077,11.62,7.08,0.77,0.15,1.15,1.1153846153846154,2.7411971662967365,87
 606,2025-26,"Thomas,Cameron",Monmouth (IL),G,Midwest Conference (MWC),mwc,27,30.555555555555557,16.07,3.04,1.11,0.89,0.44,1.5555555555555556,2.7372330117316728,87
 607,2025-26,"Lowman,Jake",Ohio Wesleyan,F,North Coast Athletic Conference (NCAC),ncac,25,27.56,8.8,5.24,3.24,1.72,0.36,1.44,2.7325063436867265,87
 608,2025-26,Evans Sterling,Southern Maine,*,Little East Conference (LEC),lec,26,31.53846153846154,12.08,5.23,2.27,1.27,0.73,2.1153846153846154,2.7318924625289545,87
-609,2025-26,Drew Brander,Gordon College,*,The Commonwealth Coast Conference (CCC),ccc,15,27.6,12.8,5.87,2.33,0.8,0.2,1.6,2.7310682736023346,87
+609,2025-26,Drew Brander,Gordon College,*,Conference of New England (CCC),ccc,15,27.6,12.8,5.87,2.33,0.8,0.2,1.6,2.7310682736023346,87
 610,2025-26,"Reed,Stephen",Lyon,,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,27,27.37037037037037,11.96,5.37,2.33,2.37,0.3,2.6296296296296298,2.730271330826465,87
 611,2025-26,"Oliff,Yogi",Washington St. Louis,G,University Athletic Association (UAA),uaa,22,24.454545454545453,7.77,7.18,4.64,1.09,0.09,1.6363636363636365,2.7302550984163787,87
 612,2025-26,"Dao,Dominick",Eastern Connecticut,G,Little East Conference (LEC),lec,27,30.11111111111111,13.3,3.85,2.3,1.3,0.44,1.851851851851852,2.729124524616842,87
@@ -705,13 +705,13 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 704,2025-26,"VanderWoude,Kyan",Wheaton,F,College Conference of Illinois and Wisconsin (CCIW),cciw,26,31.115384615384617,14.54,5.69,1.38,0.85,0.08,1.8846153846153848,2.335280707059695,86
 705,2025-26,"Mayes,Kameron",Albion,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,30.46153846153846,13.31,5.92,3.0,1.27,0.19,2.9615384615384617,2.3335961630967432,86
 706,2025-26,"Guerra-Howard,Jaiden",Marietta,G,Ohio Athletic Conference (OAC),oac,25,28.36,12.32,4.08,4.32,0.92,0.32,2.64,2.3319751425886723,86
-707,2025-26,Harrison Neil,Suffolk University,0,The Commonwealth Coast Conference (CCC),ccc,28,22.964285714285715,9.54,5.07,2.25,1.07,0.61,1.1428571428571428,2.3284236333852575,86
+707,2025-26,Harrison Neil,Suffolk University,0,Conference of New England (CCC),ccc,28,22.964285714285715,9.54,5.07,2.25,1.07,0.61,1.1428571428571428,2.3284236333852575,86
 708,2025-26,"Carter,Matthew",VTSU Johnson,G,North Atlantic Conference (NAC),nac,13,30.923076923076923,14.62,4.54,1.31,0.92,0.31,1.8461538461538465,2.324144467656339,86
 709,2025-26,J Walker,Salem St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,28.8,13.1,3.8,3.4,1.3,0.2,2.5,2.3239955439056983,86
 710,2025-26,"Painter,Adam",Webster,F,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,27,26.03703703703704,9.67,6.48,2.26,1.11,0.33,1.3703703703703705,2.3118700306092816,86
 711,2025-26,"Lawrence,Elijah",Mary Hardin-Baylor,G,American Southwest Conference (ASC),asc,27,27.03703703703704,12.44,3.96,3.0,1.22,0.0,1.7777777777777777,2.3084235285754535,86
 712,2025-26,"James,Davion",Millsaps,G,Southern Athletic Association (SAA),saa,26,27.923076923076923,11.81,4.38,2.65,2.27,0.19,2.6153846153846154,2.302883259407289,86
-713,2025-26,"Houde,Matt",Western New England University,G,The Commonwealth Coast Conference (CCC),ccc,26,32.42307692307692,12.23,3.19,3.65,1.15,0.08,1.8846153846153848,2.2968380680684746,86
+713,2025-26,"Houde,Matt",Western New England University,G,Conference of New England (CCC),ccc,26,32.42307692307692,12.23,3.19,3.65,1.15,0.08,1.8846153846153848,2.2968380680684746,86
 714,2025-26,"Hoefs,Jacob",Northwestern,G,Upper Midwest Athletic Conference (UMAC),umac,25,29.2,11.88,6.48,1.76,1.0,0.24,1.72,2.2892048449478812,86
 715,2025-26,"Lynch,Santana",Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,19,23.31578947368421,11.68,7.53,1.79,0.95,0.05,1.736842105263158,2.283170329491251,86
 716,2025-26,"Wisniewski,Mason",Marietta,F,Ohio Athletic Conference (OAC),oac,25,23.84,11.4,6.64,0.76,0.68,0.8,1.36,2.282270068796868,86
@@ -764,7 +764,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 763,2025-26,"Niles,DJ",Hiram,F,Presidents Athletic Conference (PAC),pac,24,21.583333333333332,8.67,5.75,1.04,0.54,1.54,1.0833333333333333,2.13029301923364,85
 764,2025-26,"Klaver,Andre",Augustana,G,College Conference of Illinois and Wisconsin (CCIW),cciw,25,21.48,13.12,4.24,3.04,1.32,0.32,2.76,2.1278081662000203,85
 765,2025-26,"Hepting,Charley",Catholic,F,Landmark Conference,landmark_conference,26,28.76923076923077,10.62,5.42,0.88,0.54,1.0,1.0,2.1246222362741376,85
-766,2025-26,Alex Daniel,Gordon College,*,The Commonwealth Coast Conference (CCC),ccc,24,30.833333333333332,16.5,2.83,2.04,0.96,0.13,2.4583333333333335,2.118300516515414,85
+766,2025-26,Alex Daniel,Gordon College,*,Conference of New England (CCC),ccc,24,30.833333333333332,16.5,2.83,2.04,0.96,0.13,2.4583333333333335,2.118300516515414,85
 767,2025-26,"Behne,Parker",Crown,G,Upper Midwest Athletic Conference (UMAC),umac,22,28.954545454545453,15.14,3.55,1.45,0.59,0.05,1.4090909090909092,2.113247844549713,85
 768,2025-26,"DeRegis,Steve",Clarkson,G,Liberty League (LL),ll,25,28.72,13.0,4.28,2.72,0.88,0.04,1.84,2.1126567323254193,85
 769,2025-26,"Tang,Kyle",Lebanon Valley,G,Middle Atlantic Conferences (MAC),mac,25,31.92,10.4,3.36,4.56,1.92,0.08,2.64,2.110396433108334,85
@@ -799,7 +799,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 798,2025-26,S Peterson,Colby-Sawyer,,Great Northeast Athletic Conference (GNAC),gnac,22,25.7,10.0,10.2,0.5,0.6,0.5,1.6,2.040797514543074,85
 799,2025-26,Tyson Clark,Houghton,0,Empire 8 (E8),e8,25,31.16,15.64,3.16,2.2,1.24,0.08,2.6,2.0337378065060507,85
 800,2025-26,"Sucarichi,Sean",Pfeiffer,G,USA South Athletic Conference,usa_south_athletic_confe,26,28.384615384615383,13.42,4.04,2.23,0.85,0.19,1.8461538461538465,2.032193977633838,84
-801,2025-26,"Thornton,Jayden",University of New England,G,The Commonwealth Coast Conference (CCC),ccc,25,27.2,14.96,2.4,1.12,1.4,0.0,1.52,2.022992605504293,84
+801,2025-26,"Thornton,Jayden",University of New England,G,Conference of New England (CCC),ccc,25,27.2,14.96,2.4,1.12,1.4,0.0,1.52,2.022992605504293,84
 802,2025-26,N Poplar,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,20.8,10.8,6.2,1.0,1.6,0.9,2.3,2.018480482741266,84
 803,2025-26,"Renta,Andre",UW-Eau Claire,G,Wisconsin Intercollegiate Athletic Conference (WIAC),wiac,25,25.56,13.64,3.24,3.28,0.8,0.16,2.24,2.014788340251254,84
 804,2025-26,"Fox,Andrew",Case Western Reserve,F,University Athletic Association (UAA),uaa,25,23.12,8.92,6.16,1.36,0.68,1.08,1.2,2.0089606482910587,84
@@ -836,9 +836,9 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 835,2025-26,"Cordelli,Carson",MSOE,F,Northern Athletics Collegiate Conference (NACC),nacc,27,27.74074074074074,10.19,5.15,3.04,0.67,0.15,1.3703703703703705,1.9113112152815912,84
 836,2025-26,M McDonough,Penn St.-Behrend,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,32.0,11.2,2.6,3.2,0.8,0.1,1.1,1.909518803755354,84
 837,2025-26,Charlie Houghton,UMaine-Farmington,*,North Atlantic Conference (NAC),nac,27,24.074074074074073,10.89,5.0,2.48,1.19,0.11,1.6666666666666667,1.90900590400664,84
-838,2025-26,Isaac Jarvis,Gordon College,*,The Commonwealth Coast Conference (CCC),ccc,21,26.047619047619047,11.62,6.81,0.9,0.43,0.9,1.8095238095238095,1.9019843989413237,84
+838,2025-26,Isaac Jarvis,Gordon College,*,Conference of New England (CCC),ccc,21,26.047619047619047,11.62,6.81,0.9,0.43,0.9,1.8095238095238095,1.9019843989413237,84
 839,2025-26,K Screen,Plattsburgh,,State University of New York Athletic Conference (SUNYAC),sunyac,25,28.0,9.8,8.0,1.2,0.5,0.6,1.4,1.900505612182805,84
-840,2025-26,Marquis White,Suffolk University,*,The Commonwealth Coast Conference (CCC),ccc,13,31.23076923076923,11.31,3.15,3.85,1.46,0.38,2.6153846153846154,1.899791327947676,84
+840,2025-26,Marquis White,Suffolk University,*,Conference of New England (CCC),ccc,13,31.23076923076923,11.31,3.15,3.85,1.46,0.38,2.6153846153846154,1.899791327947676,84
 841,2025-26,"Thomas,Christian",Old Westbury,F,Skyline Conference,skyline_conference,18,28.22222222222222,9.44,5.11,1.22,1.06,0.72,1.0,1.8990171220485528,84
 842,2025-26,"Tennathur,Anujan",Willamette,G,Northwest Conference (NWC),nwc,24,26.5,11.13,5.88,1.58,2.0,0.46,2.625,1.896465089703812,84
 843,2025-26,"Rhodes,Jackson",Waynesburg,F,Presidents Athletic Conference (PAC),pac,21,33.857142857142854,14.1,4.33,1.29,0.76,0.1,1.5714285714285714,1.8931823555846767,84
@@ -871,7 +871,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 870,2025-26,"Wahl,Nolan",Centre,F,Southern Athletic Association (SAA),saa,25,23.72,10.84,7.64,0.84,0.6,0.32,1.32,1.7968988797430414,84
 871,2025-26,"Hamilton,Trevon",Puget Sound,G,Northwest Conference (NWC),nwc,26,23.23076923076923,9.46,4.12,2.62,2.31,0.12,2.0384615384615383,1.794703438117382,84
 872,2025-26,"Williams,Tre'",Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,30.0,13.08,2.73,2.04,0.88,0.08,1.3076923076923077,1.7888644669108758,84
-873,2025-26,Nick Verdile,Suffolk University,*,The Commonwealth Coast Conference (CCC),ccc,28,33.035714285714285,13.57,2.89,2.5,0.89,0.04,1.7857142857142858,1.781550875161272,84
+873,2025-26,Nick Verdile,Suffolk University,*,Conference of New England (CCC),ccc,28,33.035714285714285,13.57,2.89,2.5,0.89,0.04,1.7857142857142858,1.781550875161272,84
 874,2025-26,A Grainger,Morrisville,,State University of New York Athletic Conference (SUNYAC),sunyac,26,22.2,10.5,4.2,1.7,1.1,1.2,2.1,1.7670777109517593,84
 875,2025-26,J Gladney,Plattsburgh,,State University of New York Athletic Conference (SUNYAC),sunyac,26,35.8,11.2,3.3,2.9,1.4,0.1,1.8,1.763960545291695,83
 876,2025-26,"Cargill,Brendan",Hope,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,27.925925925925927,13.04,3.67,1.11,1.33,0.04,1.4074074074074074,1.763889250537228,83
@@ -890,7 +890,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 889,2025-26,Aaron Zalescik,Merchant Marine,*,Skyline Conference,skyline_conference,25,30.76,8.84,7.96,1.52,1.76,0.32,2.16,1.730550973622972,83
 890,2025-26,"Godley,Isaiah",Thomas,G,North Atlantic Conference (NAC),nac,25,23.36,11.12,6.28,1.4,0.68,0.72,1.92,1.7295305315713383,83
 891,2025-26,E Sokolowski,Fredonia,,State University of New York Athletic Conference (SUNYAC),sunyac,20,27.3,8.3,5.5,4.0,1.4,0.1,2.1,1.7215831466715308,83
-892,2025-26,"Mallinson,Tommy",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,22,33.90909090909091,11.27,3.23,2.91,1.14,0.27,1.818181818181818,1.7158441265628894,83
+892,2025-26,"Mallinson,Tommy",Curry College,G,Conference of New England (CCC),ccc,22,33.90909090909091,11.27,3.23,2.91,1.14,0.27,1.818181818181818,1.7158441265628894,83
 893,2025-26,"Maag,Theo",Ohio Northern,F,Ohio Athletic Conference (OAC),oac,27,22.96296296296296,11.7,5.78,0.85,0.48,0.52,1.2592592592592593,1.7138486680210805,83
 894,2025-26,"Rowell,Cameron",W&J,G,Presidents Athletic Conference (PAC),pac,24,19.208333333333332,8.13,3.08,0.96,2.04,0.75,0.7916666666666666,1.6979307267869717,83
 895,2025-26,"Garner,Kolton",Westminster,G,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,24,26.541666666666668,12.5,3.54,1.5,0.92,0.83,2.0,1.6977120032029145,83
@@ -973,13 +973,13 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 972,2025-26,"Lyttle,Ben",Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,26,24.0,8.12,7.23,1.27,0.65,0.5,1.0,1.433013890703054,82
 973,2025-26,"Fox,Tyler",Penn State Abington,G,North Eastern Athletic Conference,north_eastern_athletic_c,25,30.36,13.12,3.56,1.88,0.96,0.12,1.92,1.4326029789229016,82
 974,2025-26,"McKenna,Peyton",Carroll,G,College Conference of Illinois and Wisconsin (CCIW),cciw,25,31.96,10.12,2.64,2.2,1.72,0.28,1.56,1.4227964326686795,82
-975,2025-26,"Hidalgo,Manny",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,25,29.92,11.2,5.2,2.52,1.44,0.04,2.44,1.4224619382523869,82
+975,2025-26,"Hidalgo,Manny",Curry College,G,Conference of New England (CCC),ccc,25,29.92,11.2,5.2,2.52,1.44,0.04,2.44,1.4224619382523869,82
 976,2025-26,"Pestello,AJ",Baldwin Wallace,F,Ohio Athletic Conference (OAC),oac,23,23.956521739130434,10.35,4.87,1.52,0.74,0.74,1.608695652173913,1.419272512253681,82
 977,2025-26,"Wourman,Marcus",Hope,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,29.074074074074073,10.81,3.04,1.63,1.56,0.0,1.148148148148148,1.4155916275984484,82
 978,2025-26,M Blankenberg,Penn St.-Behrend,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,30.7,10.3,3.9,2.4,1.2,0.2,1.6,1.414621982144266,82
 979,2025-26,"Hogarth,Rony",Mary Baldwin,F,USA South Athletic Conference,usa_south_athletic_confe,24,27.291666666666668,14.04,4.58,1.17,0.54,0.21,1.9166666666666667,1.4079854093731865,82
 980,2025-26,"Stokes,JD",Bluffton,F,Heartland Collegiate Athletic Conference (HCAC),hcac,26,23.615384615384617,9.04,4.42,1.27,0.69,0.92,1.0,1.4069027529655151,82
-981,2025-26,"Chijioke,Kaosi",University of Hartford,F,The Commonwealth Coast Conference (CCC),ccc,19,26.05263157894737,11.53,7.79,1.32,0.53,0.37,2.263157894736842,1.394824905569233,82
+981,2025-26,"Chijioke,Kaosi",University of Hartford,F,Conference of New England (CCC),ccc,19,26.05263157894737,11.53,7.79,1.32,0.53,0.37,2.263157894736842,1.394824905569233,82
 982,2025-26,Chase Bennett,Linfield,*,Northwest Conference (NWC),nwc,24,31.958333333333332,8.5,3.13,4.0,1.0,0.0,1.25,1.3934484082761789,82
 983,2025-26,"Bosma,Brady",Heidelberg,F,Ohio Athletic Conference (OAC),oac,27,31.59259259259259,10.59,4.22,1.04,0.63,0.3,0.6296296296296297,1.39154633172598,82
 984,2025-26,"Vance,Marquis",North Park,G,College Conference of Illinois and Wisconsin (CCIW),cciw,27,24.666666666666668,10.96,4.48,0.67,1.22,0.33,1.1851851851851851,1.3912716300526506,82
@@ -994,7 +994,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 993,2025-26,"Martin,Devin",Wheaton,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,31.23076923076923,9.27,3.0,4.73,0.73,0.23,2.0,1.3469766227416398,82
 994,2025-26,T Pavihi,Carlow,,Allegheny Mountain Collegiate Conference (AMCC),amcc,22,27.7,12.5,6.6,1.5,0.6,0.4,2.5,1.344469708799204,82
 995,2025-26,"Kent,Caleb",Millsaps,G,Southern Athletic Association (SAA),saa,26,20.346153846153847,11.23,5.04,1.08,1.04,0.15,1.3846153846153846,1.3429790048268644,82
-996,2025-26,"James,Kha Cao Ra",University of New England,F,The Commonwealth Coast Conference (CCC),ccc,26,24.03846153846154,7.85,6.65,1.38,1.12,0.96,1.8076923076923077,1.3391981105197976,82
+996,2025-26,"James,Kha Cao Ra",University of New England,F,Conference of New England (CCC),ccc,26,24.03846153846154,7.85,6.65,1.38,1.12,0.96,1.8076923076923077,1.3391981105197976,82
 997,2025-26,"Popoola,Akinlana",Keuka,G,Empire 8 (E8),e8,25,30.2,13.6,2.32,2.0,1.12,0.08,1.96,1.33777678750082,82
 998,2025-26,"Jones,James",N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,27,30.185185185185187,10.22,3.7,0.63,1.15,0.56,0.8888888888888888,1.3363011699043672,82
 999,2025-26,"Mordi,Allen",Hobart,F,Liberty League (LL),ll,25,24.64,10.68,6.52,1.04,0.6,0.36,1.48,1.3354724963046616,82
@@ -1007,7 +1007,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1006,2025-26,"Gouriotis,Nicholas",Lawrence,F,Midwest Conference (MWC),mwc,25,28.24,12.24,5.12,1.4,0.56,0.16,1.6,1.3056147462433136,82
 1007,2025-26,"Lavender,Jason",Mount St. Joseph,G,Heartland Collegiate Athletic Conference (HCAC),hcac,26,29.615384615384617,11.23,4.62,1.23,1.04,0.46,1.7307692307692308,1.3054978852218313,82
 1008,2025-26,"Torres,Christian",Rose-Hulman,F,Heartland Collegiate Athletic Conference (HCAC),hcac,24,20.125,8.71,6.83,1.54,0.42,0.5,1.1666666666666667,1.3045141721885034,82
-1009,2025-26,"Leclerc,Ashton",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,22,27.181818181818183,13.82,3.05,1.55,0.45,0.09,1.4545454545454546,1.3028296564771231,82
+1009,2025-26,"Leclerc,Ashton",Roger Williams University,G,Conference of New England (CCC),ccc,22,27.181818181818183,13.82,3.05,1.55,0.45,0.09,1.4545454545454546,1.3028296564771231,82
 1010,2025-26,"Davis,Tristan",Trinity,F,New England Small College Athletic Conference (NESCAC),nescac,25,20.44,7.16,4.92,0.68,1.28,0.96,0.76,1.302338225069064,82
 1011,2025-26,"Barlow,Elijah",Ramapo,G,New Jersey Athletic Conference (NJAC),njac,23,33.73913043478261,13.22,3.3,1.83,1.04,0.09,2.0,1.2989508855168737,82
 1012,2025-26,"Walsh,Matthew",Mount Saint Mary,G,Skyline Conference,skyline_conference,25,26.96,8.96,3.52,2.12,1.92,0.24,1.6,1.2930554060162358,82
@@ -1025,7 +1025,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1024,2025-26,"Giannoulias,Owen",Denison,G,North Coast Athletic Conference (NCAC),ncac,27,23.925925925925927,7.81,3.78,3.0,1.0,0.11,0.8518518518518519,1.250513001159774,82
 1025,2025-26,"Smith,Henry",Pacific Lutheran ,G,Northwest Conference (NWC),nwc,25,28.04,11.0,2.96,1.48,0.76,0.32,0.92,1.2406295481434642,81
 1026,2025-26,"Thornton,Charlie",Drew,F,Landmark Conference,landmark_conference,26,23.653846153846153,10.88,3.38,1.42,1.23,0.35,1.4230769230769231,1.238360801933717,81
-1027,2025-26,"Clemente,Nethaniel",Curry College,F,The Commonwealth Coast Conference (CCC),ccc,17,21.823529411764707,10.47,7.41,0.82,0.59,0.94,2.2941176470588234,1.237279281011071,81
+1027,2025-26,"Clemente,Nethaniel",Curry College,F,Conference of New England (CCC),ccc,17,21.823529411764707,10.47,7.41,0.82,0.59,0.94,2.2941176470588234,1.237279281011071,81
 1028,2025-26,"Koverman,Jake",St. Mary's (Md.),G,North Eastern Athletic Conference,north_eastern_athletic_c,24,29.958333333333332,11.63,5.17,1.38,1.04,0.5,2.25,1.2369691979535355,81
 1029,2025-26,"Naber,Jacob",Carroll,F,College Conference of Illinois and Wisconsin (CCIW),cciw,25,27.32,9.36,6.6,1.4,0.72,0.48,1.56,1.23240705108814,81
 1030,2025-26,"Cook,Payton",Blackburn,F,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,25,26.68,8.2,5.88,1.52,0.88,1.04,1.76,1.2256622032353288,81
@@ -1054,7 +1054,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1053,2025-26,A Jones,Hilbert,,Allegheny Mountain Collegiate Conference (AMCC),amcc,26,27.0,13.4,4.2,1.6,1.0,0.0,2.2,1.15761689948655,81
 1054,2025-26,"Brand,Joe",Mount St. Joseph,G,Heartland Collegiate Athletic Conference (HCAC),hcac,26,26.73076923076923,10.27,3.77,1.69,0.69,0.15,0.8461538461538461,1.1543367729115166,81
 1055,2025-26,"Moussako,Bryan",New York,G,University Athletic Association (UAA),uaa,25,32.88,10.88,2.48,2.32,0.64,0.08,0.92,1.1541630415850928,81
-1056,2025-26,"Sughrue,Philip",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,25,24.08,5.68,4.4,3.52,1.4,0.32,1.24,1.152478879224938,81
+1056,2025-26,"Sughrue,Philip",Roger Williams University,G,Conference of New England (CCC),ccc,25,24.08,5.68,4.4,3.52,1.4,0.32,1.24,1.152478879224938,81
 1057,2025-26,"Kong,Liech",Goucher,F,Landmark Conference,landmark_conference,23,28.869565217391305,12.57,6.7,1.22,0.7,0.78,3.0869565217391304,1.1500015365631244,81
 1058,2025-26,"Johncour,Austin",Grove City,C,Presidents Athletic Conference (PAC),pac,26,19.46153846153846,9.62,6.58,0.65,0.27,0.92,1.3846153846153846,1.1493097042271334,81
 1059,2025-26,"Field,Matthew",Ursinus,F,Centennial Conference,centennial_conference,27,21.703703703703702,7.41,5.59,1.04,0.85,0.96,1.037037037037037,1.1471240222605177,81
@@ -1087,7 +1087,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1086,2025-26,D Dalcour,Rivier,,Great Northeast Athletic Conference (GNAC),gnac,25,27.2,8.2,7.0,0.6,0.7,0.3,0.7,1.0619462640083164,81
 1087,2025-26,C Cobbins,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,20.0,9.4,4.8,1.1,1.3,0.4,1.4,1.0616732365594883,81
 1088,2025-26,"Akinwale,Imole",Old Westbury,G,Skyline Conference,skyline_conference,26,34.76923076923077,10.77,3.23,2.38,1.54,0.15,2.1153846153846154,1.0530921450903956,81
-1089,2025-26,"Predin,Jeremiah",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,24,24.458333333333332,11.46,5.92,1.29,1.38,0.21,2.5,1.05160027735705,81
+1089,2025-26,"Predin,Jeremiah",Curry College,G,Conference of New England (CCC),ccc,24,24.458333333333332,11.46,5.92,1.29,1.38,0.21,2.5,1.05160027735705,81
 1090,2025-26,"Williamson,Chase",Caltech,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,30.043478260869566,10.87,4.74,2.39,0.87,0.3,2.217391304347826,1.0504973242818527,81
 1091,2025-26,"Bedolla,Carlos",La Verne,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,13,21.23076923076923,10.08,4.15,1.0,0.46,1.23,1.6153846153846154,1.0457826122359597,81
 1092,2025-26,"Barker,Trey",Geneva,G,Presidents Athletic Conference (PAC),pac,26,32.88461538461539,13.27,4.5,0.88,0.38,0.08,1.4615384615384617,1.0430629699149834,81
@@ -1124,7 +1124,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1123,2025-26,"Aryee,Jacob",Widener,G,Middle Atlantic Conferences (MAC),mac,20,20.05,13.25,2.65,1.05,1.15,0.2,1.85,0.9755602253535172,80
 1124,2025-26,"Ayers,Kamdyn",Keystone College,G,North Eastern Athletic Conference,north_eastern_athletic_c,21,30.333333333333332,8.43,3.86,4.33,2.14,0.1,3.142857142857143,0.9740044688423848,80
 1125,2025-26,"Daun,Griffin",Carthage,G,College Conference of Illinois and Wisconsin (CCIW),cciw,26,24.653846153846153,6.85,5.12,2.23,1.12,0.31,1.0384615384615383,0.9694732600707294,80
-1126,2025-26,"Olewiler,Kent",University of Hartford,G,The Commonwealth Coast Conference (CCC),ccc,10,27.1,10.7,4.4,1.6,1.4,0.2,2.0,0.9693551830025569,80
+1126,2025-26,"Olewiler,Kent",University of Hartford,G,Conference of New England (CCC),ccc,10,27.1,10.7,4.4,1.6,1.4,0.2,2.0,0.9693551830025569,80
 1127,2025-2026,K Bates,Mary Washington,,Coast-To-Coast Athletic Conference (C2C),c2c,27,25.9,8.1,4.7,1.5,1.8,0.1,1.3,0.9678064044304432,80
 1128,2025-26,"Lawson,Jackson",Trinity,F,Southern Athletic Association (SAA),saa,27,23.03703703703704,14.11,3.0,0.56,0.44,0.07,1.2222222222222223,0.9661970280269436,80
 1129,2025-26,"Seapoe,Mandon",Immaculata,G,Atlantic East Conference (AEC),aec,24,24.458333333333332,11.54,3.29,2.63,1.71,0.21,2.875,0.95819288070676,80
@@ -1148,7 +1148,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1147,2025-26,"Eggemeyer,Luke",Concordia Wisconsin,F,Northern Athletics Collegiate Conference (NACC),nacc,25,25.64,7.2,5.2,1.28,0.84,0.92,1.12,0.9251464842095912,80
 1148,2025-26,C Quinn,MCLA,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,24.8,13.5,3.1,1.5,0.5,0.0,1.6,0.9194521846846072,80
 1149,2025-26,"Brown,Cam",Redlands,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,18.5,7.88,3.92,3.23,1.15,0.19,1.5769230769230769,0.9186698307387682,80
-1150,2025-26,"Higgins,Ryan",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,23,25.73913043478261,10.91,3.0,0.96,0.61,0.09,0.4782608695652174,0.916583609034775,80
+1150,2025-26,"Higgins,Ryan",Roger Williams University,G,Conference of New England (CCC),ccc,23,25.73913043478261,10.91,3.0,0.96,0.61,0.09,0.4782608695652174,0.916583609034775,80
 1151,2025-26,"Okocha,Jonathan",TCNJ,G,New Jersey Athletic Conference (NJAC),njac,27,29.40740740740741,10.52,3.56,1.11,1.0,0.04,0.8888888888888888,0.9122655796254532,80
 1152,2025-26,"Felli,Tanti",Johns Hopkins,G,Centennial Conference,centennial_conference,26,24.346153846153847,8.85,4.35,0.92,0.81,0.81,1.1153846153846154,0.9112351742847272,80
 1153,2025-26,"Williams,Darrian",Concordia Chicago,G,Northern Athletics Collegiate Conference (NACC),nacc,28,24.857142857142858,10.57,3.21,2.11,1.36,0.32,2.0357142857142856,0.909805763093388,80
@@ -1177,7 +1177,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1176,2025-26,"Tucker,Dallas",Capital,G,Ohio Athletic Conference (OAC),oac,23,26.08695652173913,11.13,2.57,2.0,1.13,0.17,1.6521739130434785,0.8541566866120993,79
 1177,2025-26,"Warren,Richie",UW-Whitewater,F,Wisconsin Intercollegiate Athletic Conference (WIAC),wiac,27,21.37037037037037,7.96,4.96,1.04,0.74,0.78,1.0,0.8538495486781704,79
 1178,2025-26,"Malvey,Domenic",Salve Regina,G,New England Women's and Men's Athletic Conference (NEWMAC),newmac,24,31.458333333333332,8.0,3.67,3.58,1.25,0.13,1.8333333333333333,0.8486328810471455,79
-1179,2025-26,"Boen,Matt",Endicott College,G,The Commonwealth Coast Conference (CCC),ccc,24,25.125,7.83,3.71,1.96,1.17,0.46,1.125,0.8469478364738623,79
+1179,2025-26,"Boen,Matt",Endicott College,G,Conference of New England (CCC),ccc,24,25.125,7.83,3.71,1.96,1.17,0.46,1.125,0.8469478364738623,79
 1180,2025-2026,L Wagner,UC Santa Cruz,,Coast-To-Coast Athletic Conference (C2C),c2c,26,21.3,11.7,4.4,1.5,0.3,0.5,1.8,0.8426677851898585,79
 1181,2025-26,"Comeaux,Tahj",Greenville,,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,26,16.653846153846153,6.77,5.42,1.27,1.65,0.85,1.7307692307692308,0.8418253424276215,79
 1182,2025-26,"Antinori,Theo",Randolph-Macon College,G,Old Dominion Athletic Conference (ODAC),odac,27,20.40740740740741,9.3,2.78,1.41,0.89,0.3,0.6296296296296297,0.8403746211083422,79
@@ -1192,7 +1192,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1191,2025-26,C Nogard,Norwich,,Great Northeast Athletic Conference (GNAC),gnac,20,24.5,9.4,6.3,0.8,1.3,0.3,1.8,0.8112639110535556,79
 1192,2025-26,"Harris,Zuri",Elizabethtown,G,Landmark Conference,landmark_conference,24,21.875,10.04,3.25,2.13,1.04,0.17,1.5,0.8042570642254274,79
 1193,2025-26,"Swartz,Parker",Calvin,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,28.703703703703702,8.96,4.15,1.59,0.56,0.78,1.3333333333333333,0.8035922690480036,79
-1194,2025-26,Russell Dolabany,Wentworth Institute of Technology,g,The Commonwealth Coast Conference (CCC),ccc,25,26.24,11.4,2.72,1.4,1.2,0.04,1.4,0.8033835729467933,79
+1194,2025-26,Russell Dolabany,Wentworth Institute of Technology,g,Conference of New England (CCC),ccc,25,26.24,11.4,2.72,1.4,1.2,0.04,1.4,0.8033835729467933,79
 1195,2025-26,"Driscoll,Kellen",RPI,G,Liberty League (LL),ll,27,28.555555555555557,7.96,3.81,2.15,0.93,0.3,0.9629629629629628,0.8017195882906705,79
 1196,2025-26,"Micanovic,Milun",Oberlin,C,North Coast Athletic Conference (NCAC),ncac,26,25.653846153846153,10.5,8.27,0.42,0.27,0.69,2.1538461538461537,0.8005005675615501,79
 1197,2025-26,"Santaniello,Daniel",Wilkes,G,Landmark Conference,landmark_conference,28,30.571428571428573,12.32,2.89,0.57,0.68,0.11,0.9285714285714286,0.7984295170285585,79
@@ -1205,7 +1205,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1204,2025-26,"Jessen,Grant",Mary Hardin-Baylor,F,American Southwest Conference (ASC),asc,26,16.96153846153846,6.65,5.69,1.65,1.0,0.77,1.3846153846153846,0.7819878386983036,79
 1205,2025-26,"Vasold,Benjamin",Martin Luther,G,Upper Midwest Athletic Conference (UMAC),umac,25,32.4,7.56,4.48,2.36,1.6,0.16,1.6,0.7796124508474565,79
 1206,2025-26,"Burgess Jr.,Steven",Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,12,25.75,11.0,2.75,2.5,1.5,0.08,2.25,0.7772108357281468,79
-1207,2025-26,"Petion,Joshua",University of Hartford,F,The Commonwealth Coast Conference (CCC),ccc,22,23.681818181818183,7.82,5.09,2.18,1.27,0.68,2.090909090909091,0.776010879260559,79
+1207,2025-26,"Petion,Joshua",University of Hartford,F,Conference of New England (CCC),ccc,22,23.681818181818183,7.82,5.09,2.18,1.27,0.68,2.090909090909091,0.776010879260559,79
 1208,2025-26,"Blake,Aiden",Waynesburg,G,Presidents Athletic Conference (PAC),pac,14,21.142857142857142,10.71,3.93,0.64,0.93,0.29,1.1428571428571428,0.7747182278171114,79
 1209,2025-26,"Campbell,Zachary",Springfield,G,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,22.32,9.8,3.6,0.84,0.92,0.56,1.12,0.772693686184668,79
 1210,2025-26,"Koch,Carson",Gustavus,G,Minnesota Intercollegiate Athletic Conference (MIAC),miac,21,25.952380952380953,6.0,6.52,1.0,1.33,0.33,0.8095238095238095,0.7722118068115831,79
@@ -1234,7 +1234,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1233,2025-26,"Wanguhu,Jeremy",UW-River Falls,G,Wisconsin Intercollegiate Athletic Conference (WIAC),wiac,14,28.857142857142858,10.29,2.93,3.21,1.14,0.21,2.357142857142857,0.7075300153756139,79
 1234,2025-26,"Van Wagener,Jackson",Susquehanna,G,Landmark Conference,landmark_conference,28,31.107142857142858,8.93,4.21,3.18,0.64,0.36,1.9642857142857144,0.7064442506325898,79
 1235,2025-26,"Salice-Mitchell,Blake",Mount Saint Vincent,,Skyline Conference,skyline_conference,19,22.05263157894737,9.95,5.05,1.32,0.53,0.42,1.4736842105263157,0.7056360227806108,79
-1236,2025-26,"Eberhardt,River",University of Hartford,F,The Commonwealth Coast Conference (CCC),ccc,19,23.210526315789473,8.79,6.32,1.16,0.79,0.47,1.631578947368421,0.704439327051221,79
+1236,2025-26,"Eberhardt,River",University of Hartford,F,Conference of New England (CCC),ccc,19,23.210526315789473,8.79,6.32,1.16,0.79,0.47,1.631578947368421,0.704439327051221,79
 1237,2025-26,"Fancher,Finnegan",Caltech,C,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,25,29.8,8.28,4.28,1.0,0.52,1.04,1.12,0.702144014341882,79
 1238,2025-26,"Ballstaedt,Jude",Southern Virginia,G,USA South Athletic Conference,usa_south_athletic_confe,27,26.14814814814815,11.67,2.67,2.67,1.3,0.22,2.6296296296296298,0.7000845745433792,79
 1239,2025-26,"Gilbert,Markquan",N.C. Wesleyan,F,USA South Athletic Conference,usa_south_athletic_confe,27,18.59259259259259,12.48,3.37,0.63,0.7,0.22,1.4074074074074074,0.6989635329913777,79
@@ -1342,7 +1342,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1341,2025-26,"Winkler,Ian",Millikin,G,College Conference of Illinois and Wisconsin (CCIW),cciw,19,24.526315789473685,11.68,1.84,2.58,1.0,0.21,2.263157894736842,0.4493893720336042,77
 1342,2025-26,"Williams,Kolby",Ripon,F,Midwest Conference (MWC),mwc,24,26.958333333333332,8.96,5.5,0.75,0.75,0.79,1.75,0.4488733867878711,77
 1343,2025-26,"Verkamp,Matthew",California Lutheran,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,26.76923076923077,11.38,5.23,1.65,0.77,0.04,2.269230769230769,0.4452059388193654,77
-1344,2025-26,"McCoy,Eddie",Western New England University,G,The Commonwealth Coast Conference (CCC),ccc,27,29.185185185185187,7.93,4.96,1.3,1.44,0.22,1.4814814814814814,0.4438480691682344,77
+1344,2025-26,"McCoy,Eddie",Western New England University,G,Conference of New England (CCC),ccc,27,29.185185185185187,7.93,4.96,1.3,1.44,0.22,1.4814814814814814,0.4438480691682344,77
 1345,2025-26,"Anderson,Paul",Virginia Wesleyan,G,Old Dominion Athletic Conference (ODAC),odac,27,28.296296296296298,6.96,4.15,0.89,1.22,0.59,0.8518518518518519,0.4398957175428962,77
 1346,2025-26,A Ciaglo,Elms,,Great Northeast Athletic Conference (GNAC),gnac,17,27.1,9.8,3.9,1.6,1.1,0.1,1.6,0.4319902084209517,77
 1347,2025-26,"Shanahan,Connor",Lycoming,G,Landmark Conference,landmark_conference,25,21.12,8.12,2.24,2.72,1.04,0.04,1.0,0.4248871391684512,77
@@ -1414,7 +1414,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1413,2025-26,I Austin,Cortland,,State University of New York Athletic Conference (SUNYAC),sunyac,26,23.4,10.4,2.7,1.3,1.0,0.0,1.2,0.2787742190340091,76
 1414,2025-26,"Hardyman,Hunter",Edgewood,G,Northern Athletics Collegiate Conference (NACC),nacc,27,23.62962962962963,9.19,2.3,1.07,0.74,0.52,0.8518518518518519,0.2771182517003249,76
 1415,2025-26,"Andera,Jeremy",Luther,G,American Rivers Conference (ARC),arc,24,27.208333333333332,8.25,2.96,1.5,1.38,0.13,1.0833333333333333,0.2751528671107504,76
-1416,2025-26,Dylan Olson,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,25,23.6,8.32,4.24,1.2,1.04,0.24,1.16,0.2749741660544631,76
+1416,2025-26,Dylan Olson,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,25,23.6,8.32,4.24,1.2,1.04,0.24,1.16,0.2749741660544631,76
 1417,2025-26,"Washington, Brandon",Gallaudet University,0,North Eastern Athletic Conference,north_eastern_athletic_c,18,26.444444444444443,7.89,6.5,1.83,1.61,0.5,2.888888888888889,0.2748590085633111,76
 1418,2025-26,"Tucker,Jordan",Farmingdale State,G,Skyline Conference,skyline_conference,28,18.607142857142858,9.43,3.64,1.11,0.89,0.25,1.2142857142857142,0.2727823743406039,76
 1419,2025-26,C Farley,Pitt.-Bradford,,Allegheny Mountain Collegiate Conference (AMCC),amcc,24,19.8,10.7,2.0,1.5,1.2,0.0,1.4,0.2650739546570853,76
@@ -1449,7 +1449,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1448,2025-26,"O'Leary,Sean",Bates,G,New England Small College Athletic Conference (NESCAC),nescac,26,25.384615384615383,8.0,4.27,2.58,0.77,0.12,1.5769230769230769,0.1843900718846787,76
 1449,2025-2026,D Clark,Regent,,Coast-To-Coast Athletic Conference (C2C),c2c,24,22.3,12.0,2.7,2.1,0.8,0.1,2.3,0.183036950211505,76
 1450,2025-26,S Williams,Fredonia,,State University of New York Athletic Conference (SUNYAC),sunyac,25,27.4,10.8,2.3,2.9,0.7,0.0,2.0,0.1812909199359823,76
-1451,2025-26,"Stack,Drew",University of Hartford,G,The Commonwealth Coast Conference (CCC),ccc,23,30.0,10.61,2.61,1.39,0.74,0.39,1.608695652173913,0.1808020369156769,76
+1451,2025-26,"Stack,Drew",University of Hartford,G,Conference of New England (CCC),ccc,23,30.0,10.61,2.61,1.39,0.74,0.39,1.608695652173913,0.1808020369156769,76
 1452,2025-26,"Hart,Daveion",Augsburg,G,Minnesota Intercollegiate Athletic Conference (MIAC),miac,16,18.4375,8.94,2.25,1.19,0.75,0.38,0.75,0.1776306747481124,76
 1453,2025-26,"Brooks,Rich",Wabash,G,North Coast Athletic Conference (NCAC),ncac,25,24.68,12.24,2.2,0.44,0.44,0.4,1.28,0.1695984257498148,76
 1454,2025-26,"Davis,Ashton",Southern Virginia,C,USA South Athletic Conference,usa_south_athletic_confe,26,15.76923076923077,11.19,3.73,0.58,0.38,0.35,1.3461538461538465,0.1644874110508338,76
@@ -1608,7 +1608,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1607,2025-26,"Howard,Jeremiah",Greensboro,F,USA South Athletic Conference,usa_south_athletic_confe,23,14.608695652173912,7.7,5.43,0.57,0.22,0.7,1.2173913043478262,-0.2763396517516717,74
 1608,2025-26,"Frei,Max",Bard,G,Liberty League (LL),ll,17,24.176470588235293,8.94,4.41,2.12,0.88,0.35,2.4705882352941178,-0.280350745792808,74
 1609,2025-26,"Hyde,Delani",William Paterson,F,New Jersey Athletic Conference (NJAC),njac,24,19.541666666666668,7.79,4.46,0.75,0.67,0.92,1.7083333333333333,-0.2825007348644803,74
-1610,2025-26,"Mickens,Avery",Western New England University,G,The Commonwealth Coast Conference (CCC),ccc,27,22.14814814814815,10.0,2.52,0.56,0.56,0.07,0.7407407407407407,-0.2841953073298328,74
+1610,2025-26,"Mickens,Avery",Western New England University,G,Conference of New England (CCC),ccc,27,22.14814814814815,10.0,2.52,0.56,0.56,0.07,0.7407407407407407,-0.2841953073298328,74
 1611,2025-26,Deavion Springsteen,Russell Sage,0,Empire 8 (E8),e8,13,18.076923076923077,6.54,2.0,2.31,1.31,0.08,1.0,-0.2863318427529595,74
 1612,2025-26,"Colin,Noah",SUNY Delhi,G,North Atlantic Conference (NAC),nac,23,28.956521739130434,7.48,3.74,2.13,1.13,0.17,1.7391304347826086,-0.2881028957452298,74
 1613,2025-26,"Heath,Nick",Denison,G,North Coast Athletic Conference (NCAC),ncac,27,22.96296296296296,11.33,2.59,0.52,0.67,0.19,1.4814814814814814,-0.2944578560183574,74
@@ -1617,9 +1617,9 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1616,2025-26,J Beaudet,Mitchell,,Great Northeast Athletic Conference (GNAC),gnac,23,14.6,5.2,5.2,0.5,0.3,1.0,0.6,-0.2978760937797798,74
 1617,2025-26,"Mills,Luke",Southwestern,F,Southern Athletic Association (SAA),saa,25,20.72,5.36,5.6,0.88,0.76,0.6,0.96,-0.297992159924925,74
 1618,2025-26,X Rubio,Dean,,Great Northeast Athletic Conference (GNAC),gnac,22,14.7,8.2,1.4,1.2,1.4,0.2,1.0,-0.2999127087444279,74
-1619,2025-26,Donovan Holway,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,22,21.727272727272727,6.86,4.45,0.82,0.77,0.64,1.181818181818182,-0.3012942672113883,74
+1619,2025-26,Donovan Holway,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,22,21.727272727272727,6.86,4.45,0.82,0.77,0.64,1.181818181818182,-0.3012942672113883,74
 1620,2025-26,L Talbot,Anna Maria,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,20.5,8.8,2.5,1.5,1.0,0.2,1.4,-0.3029558482602211,74
-1621,2025-26,Sean Quanico,Gordon College,*,The Commonwealth Coast Conference (CCC),ccc,24,23.416666666666668,7.21,2.42,3.5,0.63,0.0,1.4166666666666667,-0.303678606941609,74
+1621,2025-26,Sean Quanico,Gordon College,*,Conference of New England (CCC),ccc,24,23.416666666666668,7.21,2.42,3.5,0.63,0.0,1.4166666666666667,-0.303678606941609,74
 1622,2025-26,"Martin,Colton",Grove City,F,Presidents Athletic Conference (PAC),pac,26,23.076923076923077,7.38,4.54,1.08,0.96,0.27,1.3076923076923077,-0.3062033795166251,74
 1623,2025-26,"Smith,Kyren",Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,22,20.0,8.59,3.82,0.73,0.55,0.14,0.8181818181818182,-0.3107021204782709,74
 1624,2025-26,"Carlson, Wyatt",Gallaudet University,0,North Eastern Athletic Conference,north_eastern_athletic_c,19,20.473684210526315,7.68,4.26,0.79,0.63,0.84,1.5263157894736843,-0.3113982201529749,73
@@ -1637,12 +1637,12 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1636,2025-26,"McCaffrey,Jonathan",St. John Fisher,G,Empire 8 (E8),e8,27,24.814814814814813,6.96,5.11,1.15,0.59,0.56,1.4074074074074074,-0.3397741455392116,73
 1637,2025-26,"Aquino,Cody",La Verne,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,23.217391304347824,8.96,2.61,1.39,0.74,0.3,1.3478260869565215,-0.3410682865900202,73
 1638,2025-26,"Agee,Adrian",Rockford,G,Northern Athletics Collegiate Conference (NACC),nacc,20,23.8,9.75,3.55,1.3,0.35,0.35,1.6,-0.3417297515640311,73
-1639,2025-26,"Kasper,Nate",Western New England University,G,The Commonwealth Coast Conference (CCC),ccc,25,25.32,8.4,3.56,2.44,1.36,0.08,2.36,-0.3422883692261776,73
+1639,2025-26,"Kasper,Nate",Western New England University,G,Conference of New England (CCC),ccc,25,25.32,8.4,3.56,2.44,1.36,0.08,2.36,-0.3422883692261776,73
 1640,2025-26,"Visnjevac,Marko",Lake Forest,G,Midwest Conference (MWC),mwc,26,23.615384615384617,8.27,2.65,2.23,0.88,0.0,1.3846153846153846,-0.3436202312981261,73
 1641,2025-26,E Daleba,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,17.1,8.0,3.6,1.1,0.8,0.4,1.3,-0.3471945917073865,73
 1642,2025-26,"Domingo,Emanuel",DeSales,F,Middle Atlantic Conferences (MAC),mac,26,18.384615384615383,7.12,3.38,0.54,0.54,0.81,0.8076923076923077,-0.3473100277558818,73
 1643,2025-26,"Blachut,Sebastian",Elmhurst,G,College Conference of Illinois and Wisconsin (CCIW),cciw,27,24.88888888888889,8.63,2.7,2.44,0.74,0.3,1.8888888888888888,-0.3521006627802194,73
-1644,2025-26,"Miller,Ben",University of Hartford,G,The Commonwealth Coast Conference (CCC),ccc,23,18.347826086956523,11.83,1.26,1.35,0.65,0.04,1.608695652173913,-0.3548370047992685,73
+1644,2025-26,"Miller,Ben",University of Hartford,G,Conference of New England (CCC),ccc,23,18.347826086956523,11.83,1.26,1.35,0.65,0.04,1.608695652173913,-0.3548370047992685,73
 1645,2025-26,"Hettinger,Miles",UW-Platteville,F,Wisconsin Intercollegiate Athletic Conference (WIAC),wiac,26,15.73076923076923,7.46,4.0,0.73,0.85,0.62,1.3076923076923077,-0.3564906414590801,73
 1646,2025-26,"Coughlan,Brendan",Stevens,G,Middle Atlantic Conferences (MAC),mac,22,20.09090909090909,6.68,3.82,1.41,0.5,0.09,0.4545454545454545,-0.3651504028620509,73
 1647,2025-26,"Cronin,Kevin",Drew,F,Landmark Conference,landmark_conference,26,23.307692307692307,5.85,4.27,1.85,0.81,0.31,1.0769230769230769,-0.3683229816708863,73
@@ -1654,7 +1654,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1653,2025-26,"Smaller,Blue",Bethany Lutheran,F,Upper Midwest Athletic Conference (UMAC),umac,12,20.583333333333332,6.67,3.5,0.83,0.75,0.75,1.0,-0.3852591958741073,73
 1654,2025-26,M Kargo,Penn St.-Altoona,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,25.9,4.0,2.6,4.5,1.7,0.1,2.0,-0.3867337707456122,73
 1655,2025-26,"Graffeo - Jackson,Anthony",SUNY Delhi,F,North Atlantic Conference (NAC),nac,24,20.125,4.96,3.79,0.71,0.67,1.17,0.7916666666666666,-0.3869282284700488,73
-1656,2025-26,"Andino,Isaiah",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,24,24.958333333333332,11.54,2.54,1.79,0.71,0.33,2.5833333333333335,-0.3905374896700716,73
+1656,2025-26,"Andino,Isaiah",Curry College,G,Conference of New England (CCC),ccc,24,24.958333333333332,11.54,2.54,1.79,0.71,0.33,2.5833333333333335,-0.3905374896700716,73
 1657,2025-26,"Carter,Kamerin",Blackburn,G,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,24,24.041666666666668,11.08,2.83,1.75,0.88,0.0,2.25,-0.3908624823854979,73
 1658,2025-26,"Reed,Sebastian",Webster,F,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,27,18.25925925925926,9.07,3.48,1.11,0.59,0.07,1.148148148148148,-0.3960471636357272,73
 1659,2025-26,"Jenniges,Hudsen",Bethany Lutheran,F,Upper Midwest Athletic Conference (UMAC),umac,18,17.055555555555557,6.72,4.39,0.89,0.78,0.33,0.8888888888888888,-0.396058022479598,73
@@ -1747,7 +1747,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1746,2025-26,"Scott,Julian",Case Western Reserve,G,University Athletic Association (UAA),uaa,25,18.08,5.4,4.24,2.6,1.0,0.16,1.56,-0.6151011439847403,72
 1747,2025-26,Adam Myers,Russell Sage,0,Empire 8 (E8),e8,22,18.59090909090909,5.5,2.45,3.05,1.18,0.23,1.5454545454545454,-0.6197273267364892,72
 1748,2025-26,"Chilson,Ben",Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,25,26.68,7.6,3.0,0.96,0.64,0.28,0.84,-0.6207246654020827,72
-1749,2025-26,Hatcher Nordquist,Suffolk University,0,The Commonwealth Coast Conference (CCC),ccc,27,21.96296296296296,7.96,3.19,2.52,1.19,0.04,2.185185185185185,-0.6309917198334406,72
+1749,2025-26,Hatcher Nordquist,Suffolk University,0,Conference of New England (CCC),ccc,27,21.96296296296296,7.96,3.19,2.52,1.19,0.04,2.185185185185185,-0.6309917198334406,72
 1750,2025-26,Ben Aprilante,Russell Sage,f,Empire 8 (E8),e8,25,18.8,4.4,5.44,0.84,0.84,0.48,0.76,-0.639046068812537,72
 1751,2025-26,"Loscalzo,Anthony",Stevens,G,Middle Atlantic Conferences (MAC),mac,26,24.076923076923077,6.69,2.0,2.04,1.04,0.04,0.9230769230769232,-0.639940419201809,72
 1752,2025-26,"Walker,Nathan",Muskingum,G,Ohio Athletic Conference (OAC),oac,26,22.46153846153846,6.54,4.0,0.92,0.69,0.19,0.6923076923076923,-0.6406658261452243,72
@@ -1778,13 +1778,13 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1777,2025-26,Kohsuke Fujiwara,Linfield,0,Northwest Conference (NWC),nwc,24,28.416666666666668,6.33,4.33,1.5,0.58,0.29,1.125,-0.6900582564309776,71
 1778,2025-26,"Lazarevic,Djordje",Whitman,,Northwest Conference (NWC),nwc,20,26.25,7.9,3.25,1.8,1.05,0.1,1.75,-0.6908609666737442,71
 1779,2025-26,S Barnes,Rivier,,Great Northeast Athletic Conference (GNAC),gnac,24,34.4,6.8,2.5,3.0,0.9,0.2,1.8,-0.6910620029727939,71
-1780,2025-26,"Boudria,Owen",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,23,17.043478260869566,6.83,2.96,1.04,0.7,0.61,1.0869565217391304,-0.6984540593088688,71
+1780,2025-26,"Boudria,Owen",Roger Williams University,G,Conference of New England (CCC),ccc,23,17.043478260869566,6.83,2.96,1.04,0.7,0.61,1.0869565217391304,-0.6984540593088688,71
 1781,2025-26,"Dodson,Ethan",Widener,G,Middle Atlantic Conferences (MAC),mac,25,20.48,6.0,3.76,1.08,1.16,0.28,1.08,-0.6993660424051331,71
 1782,2025-26,N Charlot,Albertus Magnus,,Great Northeast Athletic Conference (GNAC),gnac,25,18.3,4.8,3.3,1.4,1.5,0.3,1.0,-0.7000201606226624,71
 1783,2025-26,"Beagle,J.J.",Lycoming,F,Landmark Conference,landmark_conference,25,21.36,6.16,3.92,0.64,0.28,0.88,0.84,-0.7000875079185486,71
 1784,2025-26,"Tostrud,Luther",St. Olaf,G,Minnesota Intercollegiate Athletic Conference (MIAC),miac,26,22.23076923076923,3.42,3.88,1.77,1.04,0.35,0.5384615384615384,-0.7012394324448996,71
 1785,2025-26,"Phelan,Aidan",St. Lawrence,,Liberty League (LL),ll,27,21.85185185185185,7.67,2.89,0.74,0.78,0.11,0.7037037037037037,-0.7055486911043386,71
-1786,2025-26,"Minarik,Ethan",Nichols College,G,The Commonwealth Coast Conference (CCC),ccc,27,23.51851851851852,9.33,2.04,1.04,0.52,0.07,0.9629629629629628,-0.7069998733877783,71
+1786,2025-26,"Minarik,Ethan",Nichols College,G,Conference of New England (CCC),ccc,27,23.51851851851852,9.33,2.04,1.04,0.52,0.07,0.9629629629629628,-0.7069998733877783,71
 1787,2025-26,"Zapolnik,Jack",John Carroll,G,North Coast Athletic Conference (NCAC),ncac,28,16.678571428571427,8.75,2.46,1.29,0.57,0.07,1.0714285714285714,-0.7072160567674071,71
 1788,2025-26,"Clevenger,Patrick",Roanoke College,F,Old Dominion Athletic Conference (ODAC),odac,28,24.821428571428573,4.96,5.43,1.21,0.36,0.29,0.6071428571428571,-0.7087400225039423,71
 1789,2025-26,"Cheney,Ty",Marywood,G,Atlantic East Conference (AEC),aec,23,20.130434782608695,3.83,4.22,2.43,0.87,0.3,1.0,-0.7174673224295394,71
@@ -1893,7 +1893,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1892,2025-26,"Diaz,Kareem",Alvernia,G,Middle Atlantic Conferences (MAC),mac,25,25.16,5.4,4.36,1.6,0.48,0.2,0.88,-0.946052947959446,70
 1893,2025-26,"Lind,Sam",Pomona-Pitzer,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,25.217391304347824,8.65,2.83,0.61,0.57,0.26,1.173913043478261,-0.9462169171851156,70
 1894,2025-26,"Surin,Tyler",North Central,G,College Conference of Illinois and Wisconsin (CCIW),cciw,17,21.294117647058822,6.76,3.53,1.12,0.76,0.12,1.0,-0.9491271528095158,70
-1895,2025-26,"Broomfield,Jaron",University of Hartford,G,The Commonwealth Coast Conference (CCC),ccc,25,22.32,6.68,4.8,0.68,0.84,0.24,1.32,-0.9536766847102998,70
+1895,2025-26,"Broomfield,Jaron",University of Hartford,G,Conference of New England (CCC),ccc,25,22.32,6.68,4.8,0.68,0.84,0.24,1.32,-0.9536766847102998,70
 1896,2025-26,"Venezia,Skyler",UMass Boston,G,Little East Conference (LEC),lec,23,16.26086956521739,6.3,3.13,0.65,0.57,0.35,0.5217391304347826,-0.9542305206377256,70
 1897,2025-26,"Mordi,Brian",Delaware Valley,F,Middle Atlantic Conferences (MAC),mac,24,17.583333333333332,4.13,4.96,0.38,0.58,0.96,0.8333333333333334,-0.9548332508021689,70
 1898,2025-26,"Cannady,Deric",Wabash,G,North Coast Athletic Conference (NCAC),ncac,26,20.23076923076923,5.58,2.58,1.58,0.96,0.0,0.5769230769230769,-0.9550122178477566,70
@@ -1904,15 +1904,15 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1903,2025-2026,T Ball,Salisbury,,Coast-To-Coast Athletic Conference (C2C),c2c,23,21.7,6.1,2.8,0.9,1.3,0.3,1.1,-0.97765596281372,70
 1904,2025-26,Gabe Hagar,Maine Maritime,0,North Atlantic Conference (NAC),nac,21,22.428571428571427,6.33,3.48,1.05,0.95,0.1,0.9523809523809524,-0.9788641244695389,70
 1905,2025-26,"Jurica,Wayne",Cornell College,G,Midwest Conference (MWC),mwc,25,21.88,9.24,2.08,1.44,1.04,0.0,1.8,-0.97931143837934,70
-1906,2025-26,Darrell Hardge,Nichols College,0,The Commonwealth Coast Conference (CCC),ccc,14,14.357142857142858,3.93,2.86,1.86,0.79,0.36,0.5,-0.9812453100423014,70
+1906,2025-26,Darrell Hardge,Nichols College,0,Conference of New England (CCC),ccc,14,14.357142857142858,3.93,2.86,1.86,0.79,0.36,0.5,-0.9812453100423014,70
 1907,2025-26,Jarrett Taylor,Mount Union,0,Ohio Athletic Conference (OAC),oac,19,14.842105263157896,2.16,4.74,0.89,1.05,0.84,0.631578947368421,-0.9824099515504964,70
 1908,2025-26,"Penders,Alex",Ithaca,F,Liberty League (LL),ll,26,17.846153846153847,5.73,3.08,1.27,0.54,0.31,0.6153846153846154,-0.9830537981085796,70
 1909,2025-26,"Dolphin,Ryan",Coe,G,American Rivers Conference (ARC),arc,27,23.703703703703702,6.78,2.04,2.67,0.93,0.04,1.5555555555555556,-0.9877991651933352,70
 1910,2025-26,"Ceesay,Alieu",Muskingum,G,Ohio Athletic Conference (OAC),oac,22,20.40909090909091,7.68,3.09,1.32,0.86,0.32,1.681818181818182,-0.9924846262770212,70
-1911,2025-26,"Forte,AJ",Endicott College,G,The Commonwealth Coast Conference (CCC),ccc,15,20.866666666666667,8.4,1.67,0.8,0.4,0.27,0.7333333333333333,-0.9959276089354876,70
+1911,2025-26,"Forte,AJ",Endicott College,G,Conference of New England (CCC),ccc,15,20.866666666666667,8.4,1.67,0.8,0.4,0.27,0.7333333333333333,-0.9959276089354876,70
 1912,2025-26,"Lilly,Anthony",Elizabethtown,F,Landmark Conference,landmark_conference,26,19.384615384615383,6.77,3.31,0.73,0.27,0.62,0.8846153846153846,-0.996374341350377,70
 1913,2025-26,"Acevedo,Cristian",Cornell College,F,Midwest Conference (MWC),mwc,23,14.652173913043478,5.48,3.78,0.48,0.52,0.57,0.5652173913043478,-0.9985411862233972,70
-1914,2025-26,"Teng,Kuany",Nichols College,F,The Commonwealth Coast Conference (CCC),ccc,27,19.37037037037037,6.67,3.22,0.74,0.63,0.3,0.7777777777777778,-0.9991348857554476,70
+1914,2025-26,"Teng,Kuany",Nichols College,F,Conference of New England (CCC),ccc,27,19.37037037037037,6.67,3.22,0.74,0.63,0.3,0.7777777777777778,-0.9991348857554476,70
 1915,2025-26,"Egeonu,Chima",Goucher,F,Landmark Conference,landmark_conference,25,17.96,4.44,4.96,0.28,0.36,1.12,0.92,-1.0009805668540626,70
 1916,2025-26,"LaPlant,Nathan",Benedictine,F,Northern Athletics Collegiate Conference (NACC),nacc,26,21.03846153846154,7.58,2.96,0.58,0.46,0.58,1.1153846153846154,-1.0020780711499668,70
 1917,2025-26,James Frye,Claremont-Mudd-Scripps,g,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,17.75,6.0,4.42,1.54,0.29,0.08,0.8333333333333334,-1.0036334549032482,70
@@ -1925,7 +1925,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1924,2025-26,"Faires,Jesse",Franklin,F,Heartland Collegiate Athletic Conference (HCAC),hcac,27,21.88888888888889,5.78,3.7,2.19,1.19,0.19,1.851851851851852,-1.0249103491301224,69
 1925,2025-26,"Barrow,Nathaniel",Berea,G,Heartland Collegiate Athletic Conference (HCAC),hcac,21,26.61904761904762,8.48,2.52,1.86,0.81,0.1,1.8571428571428572,-1.0258140446062536,69
 1926,2025-26,"Baker,Dezman",Puget Sound,F,Northwest Conference (NWC),nwc,21,26.0,6.95,3.81,1.52,0.86,0.05,1.4761904761904765,-1.028420363164915,69
-1927,2025-26,"Bernardo,Jake",Curry College,F,The Commonwealth Coast Conference (CCC),ccc,19,16.42105263157895,6.89,5.0,0.89,0.47,0.32,1.4210526315789471,-1.0316900085938143,69
+1927,2025-26,"Bernardo,Jake",Curry College,F,Conference of New England (CCC),ccc,19,16.42105263157895,6.89,5.0,0.89,0.47,0.32,1.4210526315789471,-1.0316900085938143,69
 1928,2025-26,"Hydara,Oumaru",Poly,G,Empire 8 (E8),e8,25,18.32,10.0,2.44,1.08,0.72,0.08,1.84,-1.0328516043438958,69
 1929,2025-2026,H Kennedy,UC Santa Cruz,,Coast-To-Coast Athletic Conference (C2C),c2c,21,20.3,6.6,2.8,2.8,0.8,0.1,1.8,-1.03398627274147,69
 1930,2025-26,"Kane,Emmett",Widener,G,Middle Atlantic Conferences (MAC),mac,25,14.56,3.84,4.08,0.6,0.96,0.52,0.48,-1.0350383704417765,69
@@ -1973,10 +1973,10 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 1972,2025-26,"Siechen,Robbie",Farmingdale State,G,Skyline Conference,skyline_conference,28,18.75,6.0,2.36,1.36,0.54,0.29,0.6428571428571429,-1.1215790398012362,69
 1973,2025-26,"Gentile,Colin",Geneseo,G,Empire 8 (E8),e8,26,24.076923076923077,7.69,2.62,0.77,0.65,0.23,1.0384615384615383,-1.1260938007066996,69
 1974,2025-26,"Covetta,Anthony",Franciscan,G,Presidents Athletic Conference (PAC),pac,27,15.62962962962963,8.81,1.96,0.44,0.41,0.11,0.7037037037037037,-1.1260996858622372,69
-1975,2025-26,Chiko Kalu,Gordon College,0,The Commonwealth Coast Conference (CCC),ccc,21,18.333333333333332,7.14,4.14,1.0,0.71,0.33,1.619047619047619,-1.1292324027443033,69
+1975,2025-26,Chiko Kalu,Gordon College,0,Conference of New England (CCC),ccc,21,18.333333333333332,7.14,4.14,1.0,0.71,0.33,1.619047619047619,-1.1292324027443033,69
 1976,2025-26,"Ndio,Will",Rutgers-Newark,C,New Jersey Athletic Conference (NJAC),njac,24,23.25,6.67,5.25,0.75,0.75,0.5,1.875,-1.1305029581588255,69
 1977,2025-26,"Brown,CJ",Ripon,G,Midwest Conference (MWC),mwc,25,27.4,7.32,2.04,1.64,1.2,0.12,1.6,-1.1309474216402329,69
-1978,2025-26,"Chapman,Luke",Nichols College,F,The Commonwealth Coast Conference (CCC),ccc,27,23.96296296296296,6.89,5.0,0.89,0.44,0.19,1.3333333333333333,-1.131318659134352,69
+1978,2025-26,"Chapman,Luke",Nichols College,F,Conference of New England (CCC),ccc,27,23.96296296296296,6.89,5.0,0.89,0.44,0.19,1.3333333333333333,-1.131318659134352,69
 1979,2025-26,"Fielding,Devon",UW-La Crosse,G,Wisconsin Intercollegiate Athletic Conference (WIAC),wiac,17,21.058823529411764,5.06,3.59,1.0,0.47,0.29,0.4117647058823529,-1.1333623962144477,69
 1980,2025-26,"Matonti,Thomas",Sarah Lawrence,G,Skyline Conference,skyline_conference,27,20.333333333333332,8.48,2.26,0.59,0.56,0.0,0.7777777777777778,-1.134623257102358,69
 1981,2025-26,"King,Truman",Albion,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,25.384615384615383,5.0,2.81,0.88,1.19,0.04,0.4230769230769231,-1.1359647251956784,69
@@ -2004,8 +2004,8 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2003,2025-26,"Kim,Josh",Washington St. Louis,G,University Athletic Association (UAA),uaa,25,15.2,6.2,2.08,2.24,0.6,0.2,1.16,-1.1844174913446008,68
 2004,2025-26,"Anderson,Jonah",Edgewood,G,Northern Athletics Collegiate Conference (NACC),nacc,25,18.44,3.48,3.04,3.08,1.52,0.2,1.76,-1.1881880309152295,68
 2005,2025-26,"Clar,Garrett",Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,25,22.16,5.64,2.64,1.84,0.88,0.04,0.96,-1.1941452467516411,68
-2006,2025-26,"Hill,Jeff",Endicott College,G,The Commonwealth Coast Conference (CCC),ccc,27,21.88888888888889,6.63,1.37,1.7,0.74,0.15,0.8518518518518519,-1.196202394676967,68
-2007,2025-26,"Mangual,Travis",Western New England University,G,The Commonwealth Coast Conference (CCC),ccc,26,18.076923076923077,5.54,3.04,0.62,1.0,0.27,0.6923076923076923,-1.1962759563282517,68
+2006,2025-26,"Hill,Jeff",Endicott College,G,Conference of New England (CCC),ccc,27,21.88888888888889,6.63,1.37,1.7,0.74,0.15,0.8518518518518519,-1.196202394676967,68
+2007,2025-26,"Mangual,Travis",Western New England University,G,Conference of New England (CCC),ccc,26,18.076923076923077,5.54,3.04,0.62,1.0,0.27,0.6923076923076923,-1.1962759563282517,68
 2008,2025-26,"Havlik,Owen",UW-River Falls,G,Wisconsin Intercollegiate Athletic Conference (WIAC),wiac,23,28.73913043478261,6.91,2.91,2.04,0.43,0.09,1.3043478260869563,-1.198491324144392,68
 2009,2025-26,"Kapral,Calvin",Washington St. Louis,C,University Athletic Association (UAA),uaa,25,15.64,7.0,3.76,0.76,0.16,0.4,0.96,-1.19919146935667,68
 2010,2025-26,"Walden,Connor",UMass Boston,F,Little East Conference (LEC),lec,24,16.083333333333332,3.46,4.25,0.63,0.42,0.96,0.5833333333333334,-1.2004729030993824,68
@@ -2065,7 +2065,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2064,2025-26,"Krolak,Harper",Marian,G,Northern Athletics Collegiate Conference (NACC),nacc,26,27.807692307692307,5.81,2.69,3.0,0.65,0.08,1.6923076923076923,-1.3274040966701333,68
 2065,2025-26,Owen Newcomer,Penn College,*,North Eastern Athletic Conference,north_eastern_athletic_c,23,24.043478260869566,6.35,2.09,1.17,0.65,0.0,0.5217391304347826,-1.32749763056849,68
 2066,2025-26,Jaiden Aze,Juniata,*,Landmark Conference,landmark_conference,25,18.32,5.56,5.36,0.52,0.88,0.04,1.12,-1.330836061415146,68
-2067,2025-26,Connor Strickland,Suffolk University,0,The Commonwealth Coast Conference (CCC),ccc,28,24.035714285714285,4.54,4.25,2.57,0.61,0.21,1.5714285714285714,-1.3346522304036197,68
+2067,2025-26,Connor Strickland,Suffolk University,0,Conference of New England (CCC),ccc,28,24.035714285714285,4.54,4.25,2.57,0.61,0.21,1.5714285714285714,-1.3346522304036197,68
 2068,2025-26,"Wells,DeAireus",Spalding,G,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,25,22.8,8.36,2.6,1.88,0.32,0.16,1.76,-1.3366474029074022,68
 2069,2025-26,"Skogen,Zach",Averett University,F,Old Dominion Athletic Conference (ODAC),odac,26,22.115384615384617,4.88,4.46,1.04,0.73,0.58,1.3846153846153846,-1.336902228183977,68
 2070,2025-26,"Williams,Noreon",Keuka,F,Empire 8 (E8),e8,12,11.666666666666666,5.75,2.67,0.75,0.42,0.33,0.4166666666666667,-1.3411717543377202,68
@@ -2127,7 +2127,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2126,2025-26,A Daguilh,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,18.2,6.9,2.3,0.5,0.6,0.2,0.7,-1.4637428966170507,67
 2127,2025-26,"May,Carter",Howard Payne,F,American Southwest Conference (ASC),asc,26,15.76923076923077,4.15,4.77,0.42,0.46,0.73,0.8846153846153846,-1.4640111574918564,67
 2128,2025-26,"Bladow,Cooper",Pomona-Pitzer,*,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,18.272727272727273,6.32,2.45,1.05,0.64,0.05,0.7272727272727273,-1.470588727938377,67
-2129,2025-26,"Wahdan,Zein",Western New England University,C,The Commonwealth Coast Conference (CCC),ccc,11,14.545454545454543,7.27,2.82,0.36,0.18,0.27,0.6363636363636364,-1.472732643809636,67
+2129,2025-26,"Wahdan,Zein",Western New England University,C,Conference of New England (CCC),ccc,11,14.545454545454543,7.27,2.82,0.36,0.18,0.27,0.6363636363636364,-1.472732643809636,67
 2130,2025-26,"Jenniges,Jack",Rose-Hulman,F,Heartland Collegiate Athletic Conference (HCAC),hcac,16,18.5625,5.13,4.25,1.19,0.56,0.44,1.3125,-1.474627448200187,67
 2131,2025-26,"Sommers,EJ",Williams,F,New England Small College Athletic Conference (NESCAC),nescac,20,14.95,6.8,3.35,0.65,0.5,0.5,1.35,-1.476253256758222,67
 2132,2025-26,Ryan Weiss,Brandeis,0,University Athletic Association (UAA),uaa,25,21.92,5.8,2.6,0.72,0.44,0.04,0.2,-1.476778291833576,67
@@ -2147,7 +2147,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2146,2025-26,"Schlatter,Dylan",Widener,G,Middle Atlantic Conferences (MAC),mac,21,16.571428571428573,4.14,2.95,1.1,0.95,0.33,0.7142857142857143,-1.4951067409065373,67
 2147,2025-26,Matt Christian,King's,0,Middle Atlantic Conferences (MAC),mac,25,16.0,7.2,1.52,0.96,0.32,0.04,0.44,-1.4973945495814462,67
 2148,2025-2026,G Worley,Regent,,Coast-To-Coast Athletic Conference (C2C),c2c,21,20.0,8.0,2.2,1.3,0.4,0.1,1.3,-1.5012212985124591,66
-2149,2025-26,"Flauto,Adam",Roger Williams University,F,The Commonwealth Coast Conference (CCC),ccc,21,15.19047619047619,3.24,2.48,1.05,1.0,0.9,0.9047619047619048,-1.503395646250108,66
+2149,2025-26,"Flauto,Adam",Roger Williams University,F,Conference of New England (CCC),ccc,21,15.19047619047619,3.24,2.48,1.05,1.0,0.9,0.9047619047619048,-1.503395646250108,66
 2150,2025-26,"Gurgel,Jackson",Greenville,,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,26,12.923076923076923,5.35,0.96,1.12,1.04,0.04,0.3076923076923077,-1.5045240143388596,66
 2151,2025-26,Sykes jr Richard,Merchant Marine,0,Skyline Conference,skyline_conference,23,21.652173913043477,7.22,1.96,1.22,1.0,0.26,1.608695652173913,-1.5135591122895116,66
 2152,2025-26,C Foster-Martez,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,26,17.6,4.0,3.1,1.0,0.8,0.3,0.5,-1.5149513971843165,66
@@ -2189,7 +2189,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2188,2025-26,"Moore,Zaryen",Franklin,G,Heartland Collegiate Athletic Conference (HCAC),hcac,13,19.0,3.62,2.15,1.38,1.62,0.23,1.0,-1.5955019325037851,66
 2189,2025-26,"Etienne,TJ",Hartwick,F,Empire 8 (E8),e8,23,15.478260869565217,6.96,3.87,0.78,0.65,0.52,1.9130434782608696,-1.5964671421686731,66
 2190,2025-26,"Kenney,Kyle",Wittenberg,G,North Coast Athletic Conference (NCAC),ncac,27,16.962962962962962,4.96,2.22,1.15,0.78,0.15,0.5555555555555556,-1.5979114845717848,66
-2191,2025-26,Bruce Mcguire,Gordon College,*,The Commonwealth Coast Conference (CCC),ccc,17,18.235294117647054,6.65,3.94,0.94,0.94,0.0,1.588235294117647,-1.613065999855962,66
+2191,2025-26,Bruce Mcguire,Gordon College,*,Conference of New England (CCC),ccc,17,18.235294117647054,6.65,3.94,0.94,0.94,0.0,1.588235294117647,-1.613065999855962,66
 2192,2025-26,Q Partee Jr.,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,25,13.4,6.7,3.5,0.4,0.4,0.2,0.9,-1.6145087346632143,66
 2193,2025-26,"Caruso,Sully",William Peace,C,USA South Athletic Conference,usa_south_athletic_confe,17,17.235294117647058,4.06,5.0,0.71,0.29,0.76,1.1176470588235294,-1.619011185078734,66
 2194,2025-26,"Sveiteris,Justin",North Central,F,College Conference of Illinois and Wisconsin (CCIW),cciw,26,16.26923076923077,4.96,3.69,0.73,0.38,0.54,0.8846153846153846,-1.622943593597103,66
@@ -2210,7 +2210,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2209,2025-26,"DeVore,Josh",California Lutheran,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,15.115384615384617,6.0,3.62,0.85,0.35,0.19,0.9230769230769232,-1.6538440924476785,66
 2210,2025-26,S Booth,Oneonta,,State University of New York Athletic Conference (SUNYAC),sunyac,26,17.3,6.6,2.8,0.3,0.3,0.0,0.3,-1.6548561934573485,66
 2211,2025-26,Charlie Theis,Saint John's,0,Minnesota Intercollegiate Athletic Conference (MIAC),miac,24,14.625,6.96,3.63,0.46,0.29,0.08,0.875,-1.6548779294009095,66
-2212,2025-26,Jayden Williams,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,25,16.04,6.52,2.28,1.12,0.96,0.4,1.64,-1.657542926776297,66
+2212,2025-26,Jayden Williams,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,25,16.04,6.52,2.28,1.12,0.96,0.4,1.64,-1.657542926776297,66
 2213,2025-26,"Buxton,Joe",VTSU Castleton,F,Little East Conference (LEC),lec,24,18.833333333333332,6.79,3.5,0.83,0.79,0.17,1.5416666666666667,-1.6612541648672268,66
 2214,2025-26,"Tiernan,Thomas",Minnesota Morris,G,Upper Midwest Athletic Conference (UMAC),umac,26,25.26923076923077,6.69,2.65,1.42,0.62,0.19,1.4615384615384617,-1.66152804204491,66
 2215,2025-26,Reed iv David,Penn State Harrisburg,0,North Eastern Athletic Conference,north_eastern_athletic_c,28,13.892857142857142,5.0,3.5,0.36,0.5,0.5,0.7142857142857143,-1.6629119566425183,66
@@ -2218,7 +2218,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2217,2025-26,"Wertz,Will",Skidmore,G,Liberty League (LL),ll,26,19.115384615384617,5.27,2.5,0.85,0.81,0.27,0.8076923076923077,-1.6686626142384589,66
 2218,2025-26,"Armstead,Canon",Berry,G,Southern Athletic Association (SAA),saa,25,17.4,6.52,2.08,0.8,0.68,0.2,0.92,-1.6698583280422188,66
 2219,2025-26,"Violan,Manuel Devora",Hiram,G,Presidents Athletic Conference (PAC),pac,26,14.73076923076923,6.04,2.31,1.08,0.88,0.23,1.1923076923076923,-1.671663245941922,66
-2220,2025-26,"Galarraga,Gabe",University of New England,F,The Commonwealth Coast Conference (CCC),ccc,26,18.192307692307693,7.19,2.77,0.58,0.19,0.15,0.7692307692307693,-1.6722341536825969,66
+2220,2025-26,"Galarraga,Gabe",University of New England,F,Conference of New England (CCC),ccc,26,18.192307692307693,7.19,2.77,0.58,0.19,0.15,0.7692307692307693,-1.6722341536825969,66
 2221,2025-26,"Livingston,Xoren",Springfield,G,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,19.36,6.4,2.16,0.84,0.56,0.04,0.64,-1.676147120520186,66
 2222,2025-26,"Radulovic,Kosta",Gettysburg,F,Centennial Conference,centennial_conference,27,15.592592592592592,6.19,3.48,0.74,0.33,0.74,1.5185185185185186,-1.6767989375538432,66
 2223,2025-26,"Davis,Jake",Washington St. Louis,F,University Athletic Association (UAA),uaa,19,16.157894736842106,5.11,3.79,0.53,0.42,0.32,0.6842105263157895,-1.6777780556653912,65
@@ -2238,13 +2238,13 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2237,2025-26,"LaRoche, Jr.,Brian",Minnesota Morris,G,Upper Midwest Athletic Conference (UMAC),umac,13,17.307692307692307,5.38,2.08,1.08,0.31,0.15,0.3076923076923077,-1.7062128971573445,65
 2238,2025-26,"Johnson,Devon",Stockton,G,New Jersey Athletic Conference (NJAC),njac,27,16.77777777777778,6.33,2.22,1.11,0.63,0.11,0.9629629629629628,-1.7066873755515617,65
 2239,2025-26,"Phillips Jr.,Rodney",Millsaps,F,Southern Athletic Association (SAA),saa,26,16.53846153846154,6.0,5.23,0.62,0.27,0.19,1.2692307692307692,-1.706796775473602,65
-2240,2025-26,Le plastrier Willem,Gordon College,0,The Commonwealth Coast Conference (CCC),ccc,13,14.384615384615383,4.38,4.54,0.77,0.15,0.62,0.9230769230769232,-1.7083941407099754,65
+2240,2025-26,Le plastrier Willem,Gordon College,0,Conference of New England (CCC),ccc,13,14.384615384615383,4.38,4.54,0.77,0.15,0.62,0.9230769230769232,-1.7083941407099754,65
 2241,2025-26,"Foster,Jaxon",Bluffton,G,Heartland Collegiate Athletic Conference (HCAC),hcac,26,18.0,5.88,1.46,0.54,0.46,0.42,0.4230769230769231,-1.7098034157739737,65
 2242,2025-26,"Acevedo,Newton",Greenville,,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,25,14.36,3.88,2.44,1.76,1.04,0.12,0.88,-1.7119571841241967,65
 2243,2025-26,"Chibuogwu,Onyeraluobu",Williams,G,New England Small College Athletic Conference (NESCAC),nescac,20,16.95,4.6,4.2,2.35,0.5,0.05,1.5,-1.7127039565272888,65
 2244,2025-26,"Salo,JD",St. Mary's (Md.),F,North Eastern Athletic Conference,north_eastern_athletic_c,24,18.166666666666668,5.58,5.29,0.75,0.38,0.79,2.0,-1.7133798995923963,65
 2245,2025-26,K Dunphe,Saint Joseph's (Maine),,Great Northeast Athletic Conference (GNAC),gnac,28,21.0,4.1,3.3,2.2,0.5,0.1,1.0,-1.7162726089878957,65
-2246,2025-26,"Rudman,Noah",Nichols College,F,The Commonwealth Coast Conference (CCC),ccc,13,12.23076923076923,4.92,2.46,0.08,0.54,1.0,0.8461538461538461,-1.716541172086517,65
+2246,2025-26,"Rudman,Noah",Nichols College,F,Conference of New England (CCC),ccc,13,12.23076923076923,4.92,2.46,0.08,0.54,1.0,0.8461538461538461,-1.716541172086517,65
 2247,2025-26,"Thomas,Xymier",Hartwick,F,Empire 8 (E8),e8,25,15.96,5.44,4.68,1.52,0.48,0.0,1.4,-1.717552184656255,65
 2248,2025-26,R Lewis,Hilbert,,Allegheny Mountain Collegiate Conference (AMCC),amcc,27,21.1,4.7,4.2,1.7,0.6,0.1,1.3,-1.7180655491096433,65
 2249,2025-26,"McNamara,Brendan",Emerson,G,New England Women's and Men's Athletic Conference (NEWMAC),newmac,25,23.12,4.88,1.72,2.52,0.36,0.04,0.8,-1.7241717160935135,65
@@ -2304,7 +2304,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2303,2025-26,"Fuller,Brogan",Simpson,G,American Rivers Conference (ARC),arc,25,16.56,2.76,2.96,1.2,0.48,0.8,0.68,-1.829938806763118,64
 2304,2025-26,"Fulmer,Easton",Chatham,G,Presidents Athletic Conference (PAC),pac,27,15.37037037037037,6.93,2.04,0.85,0.26,0.22,0.8888888888888888,-1.8350506441986565,64
 2305,2025-26,"Griffin,Brian",Goucher,G,Landmark Conference,landmark_conference,21,26.666666666666668,7.62,2.19,2.38,0.86,0.24,2.6666666666666665,-1.8416598766357088,64
-2306,2025-26,"Silva,Julius",University of New England,G,The Commonwealth Coast Conference (CCC),ccc,20,21.85,3.3,2.95,1.3,0.75,0.2,0.5,-1.842774226279765,64
+2306,2025-26,"Silva,Julius",University of New England,G,Conference of New England (CCC),ccc,20,21.85,3.3,2.95,1.3,0.75,0.2,0.5,-1.842774226279765,64
 2307,2025-26,"Matanmi,Malik",Clark,F,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,17.307692307692307,4.08,3.96,1.12,0.38,0.58,1.1153846153846154,-1.8458527527219168,64
 2308,2025-26,"Bell,James",Marymount (VA),F,Atlantic East Conference (AEC),aec,20,18.85,6.95,2.4,1.0,0.25,0.35,1.25,-1.8466602400109875,64
 2309,2025-26,"Umstead,Jalen",Bard,F,Liberty League (LL),ll,23,17.26086956521739,5.74,3.3,0.91,0.35,0.78,1.608695652173913,-1.8472270586497124,64
@@ -2335,7 +2335,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2334,2025-26,"Kuehl,Brady",Illinois Wesleyan,F,College Conference of Illinois and Wisconsin (CCIW),cciw,27,13.555555555555555,4.11,2.56,0.67,0.37,0.89,0.8148148148148148,-1.9034286628745267,64
 2335,2025-26,"Rosch Kouassi,Stephon",Old Westbury,F,Skyline Conference,skyline_conference,19,19.63157894736842,3.68,4.32,1.37,0.53,0.68,1.5263157894736843,-1.9035566608805736,64
 2336,2025-26,"Marinaccio,Daniel",Manhattanville,G,Skyline Conference,skyline_conference,26,20.384615384615383,4.92,2.31,0.88,0.85,0.04,0.6153846153846154,-1.9058965584603225,64
-2337,2025-26,"Keliher,Cam",Endicott College,G,The Commonwealth Coast Conference (CCC),ccc,27,22.11111111111111,3.74,2.56,2.19,0.56,0.04,0.7777777777777778,-1.906183297844144,64
+2337,2025-26,"Keliher,Cam",Endicott College,G,Conference of New England (CCC),ccc,27,22.11111111111111,3.74,2.56,2.19,0.56,0.04,0.7777777777777778,-1.906183297844144,64
 2338,2025-26,"Andreopoulos,Matt",Oberlin,G,North Coast Athletic Conference (NCAC),ncac,19,17.736842105263158,4.42,2.0,1.68,1.0,0.0,0.8947368421052632,-1.9064071672861087,64
 2339,2025-26,"McCahey,Aidan",Mount Saint Vincent,,Skyline Conference,skyline_conference,15,30.0,4.27,2.93,4.13,0.4,0.0,2.066666666666667,-1.9095751694697984,64
 2340,2025-26,"Askenazi,Martin",VTSU Johnson,G,North Atlantic Conference (NAC),nac,21,21.0,6.38,2.71,1.67,1.05,0.05,1.9523809523809523,-1.910454115291464,64
@@ -2344,7 +2344,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2343,2025-26,"WIlliams,Anthony",Eastern,F,Middle Atlantic Conferences (MAC),mac,18,11.38888888888889,4.5,2.44,0.61,0.67,0.17,0.3333333333333333,-1.911917660296412,64
 2344,2025-26,Sidney Wooten,Tufts,0,New England Small College Athletic Conference (NESCAC),nescac,25,18.68,5.32,1.64,1.48,0.56,0.16,0.8,-1.9127421630424104,64
 2345,2025-26,"Geiger,Owen",Beloit,,Midwest Conference (MWC),mwc,23,19.956521739130434,5.35,2.35,1.13,0.7,0.09,0.8695652173913043,-1.9129721317436843,64
-2346,2025-26,Declan Davis,Suffolk University,*,The Commonwealth Coast Conference (CCC),ccc,26,19.0,5.42,1.85,1.04,0.5,0.15,0.5769230769230769,-1.913126075201089,64
+2346,2025-26,Declan Davis,Suffolk University,*,Conference of New England (CCC),ccc,26,19.0,5.42,1.85,1.04,0.5,0.15,0.5769230769230769,-1.913126075201089,64
 2347,2025-26,"Bowers,Bennett",Lancaster Bible College,,North Eastern Athletic Conference,north_eastern_athletic_c,27,19.51851851851852,5.7,1.81,2.15,0.78,0.0,1.4074074074074074,-1.91374328143712,64
 2348,2025-26,"Toulson,Trevor",Ursinus,F,Centennial Conference,centennial_conference,26,16.03846153846154,3.38,2.65,0.85,0.65,0.88,0.9230769230769232,-1.915121118026976,64
 2349,2025-26,"Coleman,Nyle",Swarthmore,G,Centennial Conference,centennial_conference,26,19.23076923076923,5.73,1.38,2.38,0.65,0.0,1.3076923076923077,-1.916087631711158,64
@@ -2449,7 +2449,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2448,2025-26,"Norris,Samuel",Trinity,F,New England Small College Athletic Conference (NESCAC),nescac,25,12.96,3.8,3.12,0.28,0.56,0.52,0.56,-2.101131501958033,62
 2449,2025-26,"Moran,Jianni",William Paterson,G,New Jersey Athletic Conference (NJAC),njac,24,18.416666666666668,6.88,1.17,1.63,0.96,0.04,1.7083333333333333,-2.1013121300106943,62
 2450,2025-26,"Jendusa,Joey",MSOE,G,Northern Athletics Collegiate Conference (NACC),nacc,26,19.615384615384617,5.92,2.12,1.58,0.54,0.19,1.4230769230769231,-2.1056951711813325,62
-2451,2025-26,"Scali,James",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,19,14.842105263157896,6.95,1.05,0.21,0.26,0.11,0.3157894736842105,-2.1062768978413233,62
+2451,2025-26,"Scali,James",Curry College,G,Conference of New England (CCC),ccc,19,14.842105263157896,6.95,1.05,0.21,0.26,0.11,0.3157894736842105,-2.1062768978413233,62
 2452,2025-26,"Pedevillano,Sal",Wheaton,G,New England Women's and Men's Athletic Conference (NEWMAC),newmac,26,19.692307692307693,4.92,2.54,1.23,0.46,0.04,0.7307692307692307,-2.10792156172106,62
 2453,2025-26,"Boyle,Brendan",DeSales,G,Middle Atlantic Conferences (MAC),mac,16,17.5,6.25,2.63,1.13,0.5,0.0,1.1875,-2.107983844248496,62
 2454,2025-26,"McDonald,Trevor",Trinity,C,New England Small College Athletic Conference (NESCAC),nescac,23,17.043478260869566,2.78,3.35,0.78,0.83,0.17,0.391304347826087,-2.1080572436636165,62
@@ -2462,8 +2462,8 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2461,2025-26,"Sanchez,Avery",Hope,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,17.37037037037037,6.26,1.7,1.48,0.37,0.0,1.0,-2.1167135450999455,62
 2462,2025-26,"Moore,Brandon",Rosemont,F,North Eastern Athletic Conference,north_eastern_athletic_c,21,22.047619047619047,8.71,4.05,0.81,0.95,0.24,3.047619047619047,-2.1176437537220063,62
 2463,2025-26,"Philips,Roman",Westminster,C,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,24,12.5,5.0,3.71,0.33,0.42,0.38,0.9583333333333334,-2.1204725706025966,62
-2464,2025-26,"Agbaji,Ebube",Curry College,F,The Commonwealth Coast Conference (CCC),ccc,14,11.571428571428571,3.36,3.29,0.5,0.36,0.71,0.6428571428571429,-2.1254282194965657,62
-2465,2025-26,"Charles,Shawn",Curry College,F,The Commonwealth Coast Conference (CCC),ccc,20,12.5,3.15,2.9,0.9,0.5,0.75,0.85,-2.125951176511758,62
+2464,2025-26,"Agbaji,Ebube",Curry College,F,Conference of New England (CCC),ccc,14,11.571428571428571,3.36,3.29,0.5,0.36,0.71,0.6428571428571429,-2.1254282194965657,62
+2465,2025-26,"Charles,Shawn",Curry College,F,Conference of New England (CCC),ccc,20,12.5,3.15,2.9,0.9,0.5,0.75,0.85,-2.125951176511758,62
 2466,2025-26,"Clancy,Jack",Brockport,G,Empire 8 (E8),e8,27,18.62962962962963,4.48,2.59,1.3,0.78,0.04,0.925925925925926,-2.1305133347590814,62
 2467,2025-26,"Gardner,JD",Sewanee,G,Southern Athletic Association (SAA),saa,26,18.307692307692307,5.04,2.85,0.88,0.38,0.04,0.6153846153846154,-2.1322537316596577,62
 2468,2025-26,"Makeer,Deng",Loras,G,American Rivers Conference (ARC),arc,25,11.56,4.8,1.48,0.36,0.44,0.6,0.48,-2.1331389751532983,62
@@ -2519,7 +2519,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2518,2025-26,"Dyer,Seth",Bard,G,Liberty League (LL),ll,25,23.72,4.48,3.56,0.76,0.52,0.44,1.24,-2.2450422130758385,62
 2519,2025-26,"Tengblad,Reid",UW-River Falls,F,Wisconsin Intercollegiate Athletic Conference (WIAC),wiac,25,10.88,4.44,2.44,0.52,0.28,0.72,0.84,-2.2469424208970867,62
 2520,2025-26,A Thompson,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,12.4,4.3,2.4,0.6,0.8,0.3,0.8,-2.2471970309640334,62
-2521,2025-26,"Bonsu,Cassidy",Nichols College,F,The Commonwealth Coast Conference (CCC),ccc,21,10.333333333333334,3.14,3.57,0.24,0.43,0.38,0.2857142857142857,-2.249134371694205,62
+2521,2025-26,"Bonsu,Cassidy",Nichols College,F,Conference of New England (CCC),ccc,21,10.333333333333334,3.14,3.57,0.24,0.43,0.38,0.2857142857142857,-2.249134371694205,62
 2522,2025-26,"Reid,Lawrence",Saint Elizabeth University,F,Atlantic East Conference (AEC),aec,20,13.8,4.0,3.05,0.85,0.45,1.05,1.6,-2.254672703064693,61
 2523,2025-26,"Mansour,Dylan",Chapman,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,27,16.0,5.26,2.81,0.59,0.96,0.15,1.2592592592592593,-2.255163134638044,61
 2524,2025-26,"Parker,Lucas",Carroll,G,College Conference of Illinois and Wisconsin (CCIW),cciw,24,15.666666666666666,4.83,2.17,0.38,0.46,0.08,0.25,-2.256153116520285,61
@@ -2538,12 +2538,12 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2537,2025-26,"Casey,Jackson",Geneseo,G,Empire 8 (E8),e8,27,25.074074074074073,4.0,1.52,2.78,0.52,0.04,1.1851851851851851,-2.269383752558833,61
 2538,2025-26,"Johnston,Liam",Keene State,F,Little East Conference (LEC),lec,28,17.607142857142858,4.71,2.61,0.89,0.32,0.11,0.5714285714285714,-2.270412765692466,61
 2539,2025-26,"Benson,Devin",Gwynedd Mercy Univ.,G,Atlantic East Conference (AEC),aec,23,13.130434782608695,6.35,1.87,0.48,0.35,0.0,0.6086956521739131,-2.270538025316255,61
-2540,2025-26,Davis Lunn,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,25,18.6,5.16,2.28,2.4,0.76,0.0,1.8,-2.270779645008063,61
+2540,2025-26,Davis Lunn,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,25,18.6,5.16,2.28,2.4,0.76,0.0,1.8,-2.270779645008063,61
 2541,2025-26,"Desir,Jonathan",Cairn University,G,North Eastern Athletic Conference,north_eastern_athletic_c,28,15.321428571428571,3.39,3.07,0.79,0.54,0.11,0.3571428571428571,-2.2715424091990215,61
 2542,2025-26,"Herr,Josh",Gettysburg,G,Centennial Conference,centennial_conference,23,17.782608695652176,4.43,3.3,0.61,0.61,0.04,0.6956521739130435,-2.273947765771728,61
 2543,2025-26,"Fulton,Troy",Hood,G,Middle Atlantic Conferences (MAC),mac,27,13.851851851851851,5.93,1.67,0.48,0.19,0.04,0.2962962962962963,-2.2744539165930293,61
 2544,2025-26,J Nelson,Mt. Aloysius,,Allegheny Mountain Collegiate Conference (AMCC),amcc,25,24.1,4.2,1.9,1.9,0.6,0.1,1.0,-2.27592880468762,61
-2545,2025-26,"Higgins,Ty",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,25,18.72,5.8,1.76,1.08,0.6,0.04,1.0,-2.2788494029805815,61
+2545,2025-26,"Higgins,Ty",Roger Williams University,G,Conference of New England (CCC),ccc,25,18.72,5.8,1.76,1.08,0.6,0.04,1.0,-2.2788494029805815,61
 2546,2025-26,"Coleman,Raja",Haverford,G,Centennial Conference,centennial_conference,25,20.52,6.08,2.08,1.6,0.52,0.0,1.4,-2.2793293787966946,61
 2547,2025-26,"Kelly,Porter",Ursinus,G,Centennial Conference,centennial_conference,27,16.77777777777778,5.74,2.07,0.59,0.7,0.15,1.0,-2.281871014569095,61
 2548,2025-26,"Sullivan,Jack",Earlham,F,Heartland Collegiate Athletic Conference (HCAC),hcac,22,16.454545454545453,4.91,2.5,0.59,0.41,0.09,0.5,-2.2826133518345224,61
@@ -2593,7 +2593,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2592,2025-26,R Jones,Lasell,,Great Northeast Athletic Conference (GNAC),gnac,16,13.4,3.4,2.2,1.0,0.3,0.3,0.3,-2.3640983605572714,61
 2593,2025-26,"Pow,Theo",Colby,F,New England Small College Athletic Conference (NESCAC),nescac,22,13.181818181818182,5.55,3.18,0.77,0.45,0.14,1.2272727272727273,-2.3651764929729397,61
 2594,2025-26,"Godhania,Ahmaar",Penn State Brandywine,G,North Eastern Athletic Conference,north_eastern_athletic_c,27,16.74074074074074,6.41,1.67,0.67,0.52,0.04,0.9629629629629628,-2.3671464287778106,61
-2595,2025-26,"Laplante III,Will",Western New England University,G,The Commonwealth Coast Conference (CCC),ccc,21,13.761904761904765,5.76,1.71,0.52,0.52,0.14,0.7619047619047619,-2.37251315755723,61
+2595,2025-26,"Laplante III,Will",Western New England University,G,Conference of New England (CCC),ccc,21,13.761904761904765,5.76,1.71,0.52,0.52,0.14,0.7619047619047619,-2.37251315755723,61
 2596,2025-26,"Walser,Sean",Grinnell,G,Midwest Conference (MWC),mwc,25,11.04,2.36,2.24,0.88,0.92,0.08,0.16,-2.3798007657754594,61
 2597,2025-26,"Teklemariam,Nebiyu",St. Scholastica,G,Minnesota Intercollegiate Athletic Conference (MIAC),miac,22,13.363636363636363,4.68,1.68,0.73,0.36,0.32,0.5454545454545454,-2.380684567515799,60
 2598,2025-26,"Jack,Joe",Chapman,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,13.038461538461538,5.15,2.27,0.35,0.62,0.23,0.8076923076923077,-2.3813895583240887,60
@@ -2669,7 +2669,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2668,2025-26,"Norfleet IV,Sam",Chatham,G,Presidents Athletic Conference (PAC),pac,25,21.04,5.12,1.48,1.6,0.56,0.04,1.12,-2.491811583633634,60
 2669,2025-26,"Whittaker,Percy",La Verne,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,11.0,4.95,2.14,0.43,0.48,0.1,0.5714285714285714,-2.500032585112953,60
 2670,2025-26,"Diop,Moustapha",Bridgewater College,F,Old Dominion Athletic Conference (ODAC),odac,25,16.16,4.96,2.92,0.44,0.52,0.08,0.84,-2.500839317728262,60
-2671,2025-26,Chase Mello,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,24,20.75,7.63,1.04,2.33,0.29,0.0,2.0833333333333335,-2.502809278591924,60
+2671,2025-26,Chase Mello,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,24,20.75,7.63,1.04,2.33,0.29,0.0,2.0833333333333335,-2.502809278591924,60
 2672,2025-26,"Schreiber,Tao",WPI,G,New England Women's and Men's Athletic Conference (NEWMAC),newmac,22,12.227272727272728,4.27,2.05,1.05,0.82,0.41,1.318181818181818,-2.5044007895429736,59
 2673,2025-26,"Fitzgerald,Connor",Pomona-Pitzer,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,20,12.3,4.8,1.35,0.9,0.3,0.15,0.45,-2.505458361845484,59
 2674,2025-26,"Williams,Noah",Cornell College,F,Midwest Conference (MWC),mwc,13,10.461538461538462,3.0,3.46,0.31,0.23,0.46,0.3846153846153846,-2.5084479949295257,59
@@ -2852,7 +2852,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2851,2025-26,J Noelizaire,New Paltz,,State University of New York Athletic Conference (SUNYAC),sunyac,26,15.9,3.6,2.8,1.0,0.6,0.3,1.3,-2.8973107360736745,57
 2852,2025-26,"Klinzing,Cal",Ohio Wesleyan,C,North Coast Athletic Conference (NCAC),ncac,17,14.470588235294118,3.06,2.94,0.71,0.18,0.24,0.5294117647058824,-2.8980148033821393,57
 2853,2025-26,"BACON, Christian",Guilford College,0,Old Dominion Athletic Conference (ODAC),odac,25,19.88,2.0,2.16,1.8,1.0,0.08,1.08,-2.9010282213986383,57
-2854,2025-26,"Crowley,Dylan",University of New England,G,The Commonwealth Coast Conference (CCC),ccc,19,14.68421052631579,5.11,1.74,1.11,0.42,0.05,1.1578947368421053,-2.904249490228723,57
+2854,2025-26,"Crowley,Dylan",University of New England,G,Conference of New England (CCC),ccc,19,14.68421052631579,5.11,1.74,1.11,0.42,0.05,1.1578947368421053,-2.904249490228723,57
 2855,2025-26,"Martin,Chad",VTSU Lyndon,G,North Atlantic Conference (NAC),nac,22,19.454545454545453,1.55,3.59,1.91,1.0,0.18,1.5454545454545454,-2.904561394463526,57
 2856,2025-26,"Derry,Griffen",Mount St. Joseph,G,Heartland Collegiate Athletic Conference (HCAC),hcac,25,12.72,5.8,1.64,0.32,0.08,0.0,0.56,-2.9089093917114597,57
 2857,2025-26,"Schauman,Derek",Principia,G,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,25,18.68,4.08,2.28,0.72,0.64,0.2,1.08,-2.9091803971316814,57
@@ -2911,7 +2911,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2910,2025-26,"Morphy,Makaio",California Lutheran,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,26,14.461538461538462,4.38,1.31,1.0,0.5,0.15,0.9615384615384616,-3.0095305727938912,56
 2911,2025-26,"Sherman-Murphy,Elias",Muhlenberg,G,Centennial Conference,centennial_conference,17,15.058823529411764,5.29,1.59,0.94,0.29,0.0,1.0,-3.0124287760806174,56
 2912,2025-26,D Burton,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,17.7,5.9,1.6,1.6,0.6,0.0,1.9,-3.0129752391467046,56
-2913,2025-26,Brandon Swann,Gordon College,0,The Commonwealth Coast Conference (CCC),ccc,25,17.24,4.96,1.56,1.16,0.2,0.0,0.92,-3.013953140808919,56
+2913,2025-26,Brandon Swann,Gordon College,0,Conference of New England (CCC),ccc,25,17.24,4.96,1.56,1.16,0.2,0.0,0.92,-3.013953140808919,56
 2914,2025-26,Robby Fiore,Babson,0,New England Women's and Men's Athletic Conference (NEWMAC),newmac,27,12.666666666666666,4.89,1.33,0.81,0.26,0.0,0.6666666666666666,-3.015401560574566,56
 2915,2025-26,"Donaldson,Brock",Hamline,,Minnesota Intercollegiate Athletic Conference (MIAC),miac,23,12.608695652173912,3.83,1.39,1.26,0.3,0.09,0.6956521739130435,-3.015672369658891,56
 2916,2025-26,"George,Dallas",McDaniel,G,Centennial Conference,centennial_conference,26,16.153846153846153,2.5,1.65,1.54,0.73,0.04,0.7692307692307693,-3.0165396772997655,56
@@ -2927,7 +2927,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2926,2025-26,"Banks,Kamran",Monmouth (IL),F,Midwest Conference (MWC),mwc,26,12.76923076923077,4.27,2.27,0.85,0.62,0.08,1.1923076923076923,-3.0473575258343977,56
 2927,2025-26,"Wohlers,Josh",Saint Mary's,F,Minnesota Intercollegiate Athletic Conference (MIAC),miac,25,21.64,3.68,2.36,0.68,0.32,0.12,0.68,-3.0484983397655716,56
 2928,2025-26,"Fon,Brunley",Spalding,F,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,25,11.04,3.6,3.64,0.44,0.2,0.36,1.08,-3.0489333140335946,56
-2929,2025-26,"Dwyer,Joey",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,24,12.416666666666666,5.5,1.0,0.54,0.21,0.08,0.7083333333333334,-3.0498589183248264,56
+2929,2025-26,"Dwyer,Joey",Roger Williams University,G,Conference of New England (CCC),ccc,24,12.416666666666666,5.5,1.0,0.54,0.21,0.08,0.7083333333333334,-3.0498589183248264,56
 2930,2025-26,"Hussherr,Julien",Augsburg,G,Minnesota Intercollegiate Athletic Conference (MIAC),miac,27,16.25925925925926,3.41,1.3,1.44,0.48,0.0,0.7037037037037037,-3.050510130254799,56
 2931,2025-26,"Cain,Robert",Hamilton,G,New England Small College Athletic Conference (NESCAC),nescac,22,11.954545454545457,4.36,1.73,0.64,0.41,0.14,0.8181818181818182,-3.052122853929731,56
 2932,2025-26,"Novello,Gerard",Mount Saint Vincent,G,Skyline Conference,skyline_conference,18,23.333333333333332,5.78,1.56,2.06,0.22,0.06,1.8888888888888888,-3.0567473323366476,56
@@ -2945,7 +2945,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2944,2025-26,"Tengblad,Drew",UW-River Falls,F,Wisconsin Intercollegiate Athletic Conference (WIAC),wiac,24,11.833333333333334,3.75,1.54,0.33,0.5,0.21,0.5416666666666666,-3.0942411365343285,56
 2945,2025-26,Colin Hart,Merchant Marine,*,Skyline Conference,skyline_conference,23,20.60869565217391,4.09,2.87,0.78,0.57,0.26,1.4782608695652173,-3.0968087819588175,56
 2946,2025-26,"Wit,Isaac",MSOE,F,Northern Athletics Collegiate Conference (NACC),nacc,23,14.652173913043478,3.48,2.48,0.61,0.22,0.43,0.9130434782608696,-3.0988100342873657,56
-2947,2025-26,"Heneke,JD",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,25,21.36,6.16,0.6,0.64,0.48,0.0,1.08,-3.0996456591020687,56
+2947,2025-26,"Heneke,JD",Curry College,G,Conference of New England (CCC),ccc,25,21.36,6.16,0.6,0.64,0.48,0.0,1.08,-3.0996456591020687,56
 2948,2025-26,M Hills,New England College,,Great Northeast Athletic Conference (GNAC),gnac,21,13.6,5.6,1.5,1.0,0.4,0.0,1.3,-3.1020723612315386,56
 2949,2025-26,"Lubbers,Ben",Wisconsin Lutheran,F,Northern Athletics Collegiate Conference (NACC),nacc,25,15.32,3.08,2.4,0.36,0.28,0.32,0.52,-3.1040240165079687,56
 2950,2025-26,"Perry,Noah",Marywood,G,Atlantic East Conference (AEC),aec,25,20.2,6.28,1.68,1.56,0.36,0.04,1.96,-3.1060914595380975,56
@@ -2957,7 +2957,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2956,2025-26,"Carone,Roman",Centenary (NJ),F,Atlantic East Conference (AEC),aec,14,11.642857142857142,3.21,2.71,0.29,0.36,0.07,0.4285714285714285,-3.126966094136935,56
 2957,2025-26,"Tittelfitz,TJ",Chapman,F,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,21,12.095238095238097,4.14,2.43,0.43,0.33,0.0,0.6666666666666666,-3.128073047778701,56
 2958,2025-26,"Apiagyei,Andrew",Univ. of Dubuque,G,American Rivers Conference (ARC),arc,25,11.16,4.04,1.52,0.72,0.36,0.12,0.68,-3.1283330589329283,56
-2959,2025-26,Michael Nezaj,Gordon College,0,The Commonwealth Coast Conference (CCC),ccc,18,13.72222222222222,1.44,3.94,0.5,0.11,0.89,1.0,-3.128722899093482,56
+2959,2025-26,Michael Nezaj,Gordon College,0,Conference of New England (CCC),ccc,18,13.72222222222222,1.44,3.94,0.5,0.11,0.89,1.0,-3.128722899093482,56
 2960,2025-26,"Hind,Tyler",Alfred,G,Empire 8 (E8),e8,25,21.8,5.48,1.56,1.44,0.52,0.08,1.76,-3.131121025960264,56
 2961,2025-26,A Andrews,Fredonia,,State University of New York Athletic Conference (SUNYAC),sunyac,21,12.3,3.6,2.3,0.5,0.2,0.3,0.7,-3.1341684444054003,56
 2962,2025-26,"Kivlan,Sean",Maritime,F,Skyline Conference,skyline_conference,23,11.91304347826087,4.39,2.22,0.65,0.35,0.13,1.0,-3.1366606172827423,56
@@ -2982,9 +2982,9 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 2981,2025-26,"Lawal,Abba",Heidelberg,F,Ohio Athletic Conference (OAC),oac,20,10.9,2.7,2.85,0.4,0.2,0.65,0.9,-3.1590683626481595,55
 2982,2025-26,"Sandhu,Armaan",Western Connecticut,G,Little East Conference (LEC),lec,27,12.88888888888889,2.44,1.33,0.89,0.63,0.04,0.2962962962962963,-3.15990637938848,55
 2983,2025-26,"Lewis,Sharodd",La Verne,0,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,12,11.083333333333334,3.33,3.08,0.5,0.33,0.17,0.8333333333333334,-3.160428343552676,55
-2984,2025-26,Mike Yentin,Wentworth Institute of Technology,g,The Commonwealth Coast Conference (CCC),ccc,21,10.38095238095238,3.71,1.33,0.48,0.33,0.1,0.3333333333333333,-3.1618464771930066,55
+2984,2025-26,Mike Yentin,Wentworth Institute of Technology,g,Conference of New England (CCC),ccc,21,10.38095238095238,3.71,1.33,0.48,0.33,0.1,0.3333333333333333,-3.1618464771930066,55
 2985,2025-26,"Jones,Javontae",Eastern Connecticut,G,Little East Conference (LEC),lec,27,10.74074074074074,2.74,1.52,1.59,0.63,0.04,0.8888888888888888,-3.1627151061830117,55
-2986,2025-26,Jason Peters,Nichols College,0,The Commonwealth Coast Conference (CCC),ccc,10,10.8,4.3,0.8,0.9,0.3,0.0,0.5,-3.165365317531751,55
+2986,2025-26,Jason Peters,Nichols College,0,Conference of New England (CCC),ccc,10,10.8,4.3,0.8,0.9,0.3,0.0,0.5,-3.165365317531751,55
 2987,2025-26,"Skelton,Anderson",Grove City,G,Presidents Athletic Conference (PAC),pac,24,13.0,2.42,1.71,0.63,0.54,0.46,0.6666666666666666,-3.17197362417596,55
 2988,2025-26,"Grunloh,Donovan",Rockford,G,Northern Athletics Collegiate Conference (NACC),nacc,23,14.782608695652174,3.17,2.09,0.7,0.35,0.13,0.5652173913043478,-3.1748016477403675,55
 2989,2025-26,"White,Tyree",Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,27,14.148148148148149,3.89,2.59,1.19,0.52,0.04,1.3333333333333333,-3.17636900586328,55
@@ -3014,7 +3014,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 3013,2025-26,"Meeker,Will",DeSales,F,Middle Atlantic Conferences (MAC),mac,26,12.884615384615383,4.0,1.88,0.54,0.19,0.15,0.6538461538461539,-3.23988206241416,55
 3014,2025-26,"Perusek,Lucas",John Carroll,G,North Coast Athletic Conference (NCAC),ncac,18,10.055555555555555,1.22,1.61,1.11,0.94,0.22,0.6111111111111112,-3.2416725473058716,55
 3015,2025-26,"Geffen,Ido",Caltech,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,24,12.416666666666666,3.71,2.46,0.54,0.38,0.13,0.875,-3.2424524796547596,55
-3016,2025-26,Andy Weeman,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,24,13.916666666666666,4.33,3.0,0.54,0.29,0.13,1.2083333333333333,-3.254046983963878,55
+3016,2025-26,Andy Weeman,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,24,13.916666666666666,4.33,3.0,0.54,0.29,0.13,1.2083333333333333,-3.254046983963878,55
 3017,2025-26,"Cooley,Sammy",Williams,G,New England Small College Athletic Conference (NESCAC),nescac,21,19.904761904761905,2.05,1.9,1.29,0.62,0.14,0.7619047619047619,-3.258977405545457,55
 3018,2025-26,"Regev,Yoav",Ithaca,G,Liberty League (LL),ll,22,12.363636363636363,3.45,2.09,0.5,0.23,0.27,0.6818181818181818,-3.2611422177717855,55
 3019,2025-26,"Coleman,Hunter",Centre,G,Southern Athletic Association (SAA),saa,25,10.68,3.64,1.04,0.56,0.08,0.16,0.2,-3.261982868013096,55
@@ -3064,7 +3064,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 3063,2025-26,Nathan Noronha,Claremont-Mudd-Scripps,g,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,22,12.227272727272728,3.95,0.95,0.86,0.73,0.0,0.9545454545454546,-3.372075912140345,54
 3064,2025-26,"Crims,Payton",Monmouth (IL),F,Midwest Conference (MWC),mwc,27,10.592592592592592,2.67,1.78,0.48,0.26,0.11,0.2222222222222222,-3.3738952579492176,54
 3065,2025-26,"Neuhaus,Simon",Hope,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,13.076923076923077,2.96,1.85,0.77,0.35,0.15,0.6538461538461539,-3.3765772572631625,54
-3066,2025-26,"Lopez,Francisco",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,11,12.090909090909092,3.36,2.18,0.55,0.18,0.0,0.4545454545454545,-3.3770274692724067,54
+3066,2025-26,"Lopez,Francisco",Curry College,G,Conference of New England (CCC),ccc,11,12.090909090909092,3.36,2.18,0.55,0.18,0.0,0.4545454545454545,-3.3770274692724067,54
 3067,2025-26,"Lomax,AJ",Susquehanna,G,Landmark Conference,landmark_conference,21,13.857142857142858,4.0,0.95,0.86,0.43,0.0,0.7142857142857143,-3.378808843682043,54
 3068,2025-26,"Hayes,Ned",Buena Vista,G,American Rivers Conference (ARC),arc,25,12.56,3.72,1.24,0.68,0.32,0.16,0.68,-3.37904822395791,54
 3069,2025-26,"Grospe,Alex",Gettysburg,G,Centennial Conference,centennial_conference,25,13.24,3.0,0.96,2.08,0.44,0.0,1.08,-3.379354280465159,54
@@ -3076,7 +3076,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 3075,2025-26,"Mickelson,Sam",Augsburg,F,Minnesota Intercollegiate Athletic Conference (MIAC),miac,10,11.4,3.9,2.8,0.4,0.4,0.2,1.2,-3.3920838171776495,54
 3076,2025-26,"Cullinan,Pat",Union,G,Liberty League (LL),ll,22,10.409090909090908,3.36,1.32,0.64,0.5,0.05,0.5909090909090909,-3.392444513476772,54
 3077,2025-26,"Bauer,Carson",UW-La Crosse,G,Wisconsin Intercollegiate Athletic Conference (WIAC),wiac,27,17.925925925925927,3.56,2.0,0.15,0.33,0.15,0.5555555555555556,-3.396064136030031,54
-3078,2025-26,Nate Ashley,Gordon College,0,The Commonwealth Coast Conference (CCC),ccc,10,10.6,2.8,0.9,0.3,0.6,0.1,0.2,-3.4021472997400344,54
+3078,2025-26,Nate Ashley,Gordon College,0,Conference of New England (CCC),ccc,10,10.6,2.8,0.9,0.3,0.6,0.1,0.2,-3.4021472997400344,54
 3079,2025-26,"Smiley,Jayden",Adrian,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,22,14.545454545454543,3.18,2.64,0.36,0.23,0.09,0.5909090909090909,-3.4051284743583596,54
 3080,2025-26,"Alexander,Jeremiah",Immaculata,G,Atlantic East Conference (AEC),aec,20,14.95,4.15,2.45,0.3,0.35,0.25,1.15,-3.406808943388364,54
 3081,2025-26,"Hardinson,Cosmo",Hartwick,G,Empire 8 (E8),e8,23,13.782608695652174,3.78,1.87,0.61,0.39,0.13,0.9130434782608696,-3.4089742099679423,54
@@ -3091,13 +3091,13 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 3090,2025-26,"Sanchez,Carlitos",Westminster,G,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,23,16.434782608695652,2.52,1.48,2.04,0.78,0.0,1.391304347826087,-3.437080450896476,54
 3091,2025-26,G Pacheco,Cortland,,State University of New York Athletic Conference (SUNYAC),sunyac,23,11.9,4.0,1.3,0.6,0.5,0.1,0.9,-3.4399291350473513,54
 3092,2025-26,"Yarisci,Yigit",Luther,F,American Rivers Conference (ARC),arc,25,13.76,2.48,3.44,0.6,0.28,0.16,0.88,-3.440990369541046,54
-3093,2025-26,Aiden Flaherty,Wentworth Institute of Technology,f,The Commonwealth Coast Conference (CCC),ccc,21,14.904761904761903,2.86,3.29,0.67,0.38,0.19,1.1428571428571428,-3.444537854553493,54
+3093,2025-26,Aiden Flaherty,Wentworth Institute of Technology,f,Conference of New England (CCC),ccc,21,14.904761904761903,2.86,3.29,0.67,0.38,0.19,1.1428571428571428,-3.444537854553493,54
 3094,2025-26,J Lawson,Elms,,Great Northeast Athletic Conference (GNAC),gnac,24,13.5,3.8,2.7,1.0,0.5,0.0,1.4,-3.4511436410743173,54
 3095,2025-26,"Byron,Marlin",Spalding,G,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,22,17.318181818181817,3.09,1.64,2.23,0.41,0.0,1.4545454545454546,-3.4512540301590735,54
 3096,2025-26,"Owens,Bradley",Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,18,12.38888888888889,3.94,1.28,0.17,0.11,0.0,0.1666666666666666,-3.452752580083633,54
 3097,2025-26,"Guyton,Jaden",Concordia Wisconsin,G,Northern Athletics Collegiate Conference (NACC),nacc,25,10.92,3.48,1.4,0.52,0.56,0.0,0.64,-3.4546206391558396,54
 3098,2025-26,C Hanavan,Emmanuel,,Great Northeast Athletic Conference (GNAC),gnac,20,10.9,3.8,0.9,0.5,0.1,0.1,0.3,-3.455738163544049,54
-3099,2025-26,"Pelzer,Leonard",University of Hartford,C,The Commonwealth Coast Conference (CCC),ccc,22,10.727272727272728,3.23,3.14,0.41,0.09,0.73,1.4545454545454546,-3.457733270345553,54
+3099,2025-26,"Pelzer,Leonard",University of Hartford,C,Conference of New England (CCC),ccc,22,10.727272727272728,3.23,3.14,0.41,0.09,0.73,1.4545454545454546,-3.457733270345553,54
 3100,2025-26,"Miller,Braden",Mount St. Joseph,F,Heartland Collegiate Athletic Conference (HCAC),hcac,11,13.181818181818182,3.0,2.0,0.82,0.09,0.27,0.7272727272727273,-3.4594408301595245,54
 3101,2025-26,"Gray,Jahki",North Park,G,College Conference of Illinois and Wisconsin (CCIW),cciw,17,14.411764705882351,3.88,1.06,0.53,0.35,0.12,0.6470588235294118,-3.4613949928679326,54
 3102,2025-26,"Green,Isaiah",NJCU,G,New Jersey Athletic Conference (NJAC),njac,25,12.76,2.8,1.12,0.64,0.76,0.04,0.6,-3.4647795691768186,54
@@ -3156,7 +3156,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 3155,2025-26,"Prete,Kyle",Rhode Island College,G,Little East Conference (LEC),lec,26,10.384615384615383,4.12,1.12,0.15,0.23,0.19,0.6538461538461539,-3.631575677844412,53
 3156,2025-26,"Ford,Andrew",Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,18,12.055555555555555,3.89,1.44,0.33,0.28,0.0,0.6111111111111112,-3.641965003866486,53
 3157,2025-26,"Mittermeyer,Eddie",UW-Superior,G,Upper Midwest Athletic Conference (UMAC),umac,22,16.772727272727273,2.95,1.27,0.77,0.5,0.05,0.7272727272727273,-3.650813460693415,53
-3158,2025-26,Hunter Larson,Wentworth Institute of Technology,g,The Commonwealth Coast Conference (CCC),ccc,17,11.705882352941176,2.88,2.65,0.47,0.18,0.18,0.8235294117647058,-3.6509261272289866,53
+3158,2025-26,Hunter Larson,Wentworth Institute of Technology,g,Conference of New England (CCC),ccc,17,11.705882352941176,2.88,2.65,0.47,0.18,0.18,0.8235294117647058,-3.6509261272289866,53
 3159,2025-26,"Zhang,Eric",Vassar,G,Liberty League (LL),ll,26,10.0,2.62,1.12,0.46,0.5,0.12,0.4615384615384615,-3.662022391523873,53
 3160,2025-26,"Bernardo,Jackson",Chapman,G,Southern California Intercollegiate Athletic Conference (SCIAC),sciac,23,12.434782608695652,1.91,1.43,1.26,0.57,0.0,0.6956521739130435,-3.6632307811109337,53
 3161,2025-26,J Sidle,Canton,,State University of New York Athletic Conference (SUNYAC),sunyac,24,10.0,2.9,1.2,0.7,0.5,0.0,0.6,-3.665193442173434,53
@@ -3176,7 +3176,7 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 3175,2025-26,"Carlson,Cooper",St. Olaf,G,Minnesota Intercollegiate Athletic Conference (MIAC),miac,21,10.38095238095238,2.86,1.43,0.48,0.57,0.0,0.6190476190476191,-3.700344958685435,53
 3176,2025-26,T Edmonds,Colby-Sawyer,,Great Northeast Athletic Conference (GNAC),gnac,25,24.3,5.3,2.8,2.0,0.6,0.0,2.9,-3.7013547296981297,53
 3177,2025-26,"Norsman,George",Carleton,F,Minnesota Intercollegiate Athletic Conference (MIAC),miac,23,10.347826086956522,4.39,1.43,0.39,0.09,0.17,0.9130434782608696,-3.703646791012763,53
-3178,2025-26,"Mitchell,Andrew",Endicott College,G,The Commonwealth Coast Conference (CCC),ccc,17,11.0,3.47,0.82,0.65,0.35,0.12,0.7058823529411765,-3.706514570890563,53
+3178,2025-26,"Mitchell,Andrew",Endicott College,G,Conference of New England (CCC),ccc,17,11.0,3.47,0.82,0.65,0.35,0.12,0.7058823529411765,-3.706514570890563,53
 3179,2025-26,"MacKenzie,Kaden",UW-Platteville,G,Wisconsin Intercollegiate Athletic Conference (WIAC),wiac,16,19.375,3.31,1.88,1.44,0.25,0.13,1.375,-3.707015159298178,53
 3180,2025-26,"Johnson,Dalton",William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,24,11.416666666666666,3.46,0.75,1.08,0.42,0.08,0.9583333333333334,-3.712985201380689,53
 3181,2025-26,M Hayes,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,10.3,3.0,1.2,0.9,0.5,0.0,0.8,-3.714037212225672,53
@@ -3253,12 +3253,12 @@ global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,p
 3252,2025-26,"Morris,J.J.",Ohio Northern,F,Ohio Athletic Conference (OAC),oac,27,10.25925925925926,3.19,1.37,0.41,0.07,0.19,0.6666666666666666,-3.9358899086264167,52
 3253,2025-26,"Fessel,Alex",Stockton,G,New Jersey Athletic Conference (NJAC),njac,26,11.26923076923077,1.42,0.96,1.08,0.54,0.19,0.6923076923076923,-3.939741763535828,52
 3254,2025-26,"Andre,Ethan",Augustana,G,College Conference of Illinois and Wisconsin (CCIW),cciw,24,13.333333333333334,2.83,1.5,0.17,0.29,0.0,0.4166666666666667,-3.948391652317037,52
-3255,2025-26,Sean Racette,Wentworth Institute of Technology,g,The Commonwealth Coast Conference (CCC),ccc,15,12.066666666666666,3.8,1.8,1.07,0.2,0.0,1.3333333333333333,-3.949348119371288,52
+3255,2025-26,Sean Racette,Wentworth Institute of Technology,g,Conference of New England (CCC),ccc,15,12.066666666666666,3.8,1.8,1.07,0.2,0.0,1.3333333333333333,-3.949348119371288,52
 3256,2025-26,"Stevenson,Will",Johns Hopkins,F,Centennial Conference,centennial_conference,27,13.074074074074074,1.07,2.3,0.48,0.19,0.26,0.4074074074074074,-3.952117789453448,52
 3257,2025-26,"Harriott,Jaaron",Lyon,G,St. Louis Intercollegiate Athletic Conference (SLIAC),sliac,19,10.68421052631579,2.26,1.47,0.47,0.16,0.0,0.2631578947368421,-3.954492980137985,52
 3258,2025-26,"Foote,Aaron",Coe,F,American Rivers Conference (ARC),arc,24,11.666666666666666,1.79,2.67,0.29,0.13,0.0,0.3333333333333333,-3.956960903082053,52
 3259,2025-26,"Skehel,Klaudius",Bard,G,Liberty League (LL),ll,25,17.84,3.52,1.8,1.4,0.24,0.04,1.52,-3.964557898488223,52
-3260,2025-26,Tyler Nordstrom,Gordon College,0,The Commonwealth Coast Conference (CCC),ccc,25,14.44,1.36,1.64,2.16,0.48,0.0,1.28,-3.965150514411414,52
+3260,2025-26,Tyler Nordstrom,Gordon College,0,Conference of New England (CCC),ccc,25,14.44,1.36,1.64,2.16,0.48,0.0,1.28,-3.965150514411414,52
 3261,2025-26,"Fried,Ben",Whitworth,G,Northwest Conference (NWC),nwc,19,11.894736842105264,1.95,0.89,1.21,0.58,0.0,0.7894736842105263,-3.9688687309019466,52
 3262,2025-26,"Kolumber,JJ",Moravian,G,Landmark Conference,landmark_conference,16,10.5625,1.63,1.0,1.06,0.44,0.06,0.5625,-3.9718342063324057,52
 3263,2025-26,M Berete,Dean,,Great Northeast Athletic Conference (GNAC),gnac,20,13.2,2.9,2.2,0.3,0.2,0.1,0.8,-3.975141762958085,52

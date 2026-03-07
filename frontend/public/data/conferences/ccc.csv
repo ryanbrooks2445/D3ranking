@@ -1,95 +1,95 @@
 rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
-1,2,2025-26,"Kinney,Elijah",Endicott College,F,The Commonwealth Coast Conference (CCC),ccc,24,29.291666666666668,21.96,11.67,1.29,0.96,2.67,1.75,11.184582951074963,99
-2,16,2025-26,"Montagnino,Marcus",Endicott College,F,The Commonwealth Coast Conference (CCC),ccc,27,33.148148148148145,22.26,7.85,4.41,1.7,0.19,2.2962962962962963,8.955894186448106,95
-3,86,2025-26,"Flowers-Smith,Javen",Nichols College,G,The Commonwealth Coast Conference (CCC),ccc,26,31.923076923076923,20.35,3.15,5.0,2.04,0.42,3.3846153846153846,6.274242162849619,94
-4,111,2025-26,"Vlajkovic,Luka",Western New England University,F,The Commonwealth Coast Conference (CCC),ccc,24,31.958333333333332,15.33,10.17,3.46,1.25,0.63,2.6666666666666665,5.903223913744833,94
-5,121,2025-26,"Brooks,Ryan",Gordon College,F,The Commonwealth Coast Conference (CCC),ccc,18,31.166666666666668,13.94,7.78,3.61,0.72,0.83,1.3333333333333333,5.801571835837627,94
-6,151,2025-26,"Torres,Adrian",University of New England,G,The Commonwealth Coast Conference (CCC),ccc,26,33.0,13.92,4.23,3.88,3.08,0.27,2.1153846153846154,5.455674016335621,93
-7,286,2025-26,"Miller,Finn",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,25,28.76,15.28,7.64,3.52,1.24,0.2,2.68,4.436203350009022,91
-8,291,2025-26,James Jones,Suffolk University,*,The Commonwealth Coast Conference (CCC),ccc,28,30.464285714285715,12.04,8.04,2.0,1.61,0.36,1.2142857142857142,4.4140207988095765,91
-9,342,2025-26,"St. Louis,Olivier",Nichols College,G,The Commonwealth Coast Conference (CCC),ccc,27,25.814814814814813,11.81,8.04,1.78,1.3,0.63,1.4444444444444444,3.948156631897816,91
-10,389,2025-26,"Lux,Adam",University of New England,F,The Commonwealth Coast Conference (CCC),ccc,26,31.884615384615383,16.15,6.15,1.42,0.88,0.15,1.5769230769230769,3.678926265590932,90
-11,451,2025-26,"Hammarlund,Ryan",Roger Williams University,F,The Commonwealth Coast Conference (CCC),ccc,23,29.695652173913043,13.04,4.7,2.09,1.65,0.22,1.391304347826087,3.365492361959375,89
-12,463,2025-26,"Sullivan,Caden",Endicott College,G,The Commonwealth Coast Conference (CCC),ccc,27,29.03703703703704,11.63,3.63,2.19,1.33,0.52,0.7037037037037037,3.30132505416055,89
-13,519,2025-26,"Mello,Dominic",Nichols College,G,The Commonwealth Coast Conference (CCC),ccc,27,35.96296296296296,15.93,4.19,3.07,0.85,0.26,2.5185185185185186,3.0482512278093985,88
-14,521,2025-26,Colin Mannke,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,24,26.708333333333332,14.17,7.92,1.13,1.0,0.25,2.0,3.0450606194062333,88
-15,590,2025-26,Greg Keane,Suffolk University,*,The Commonwealth Coast Conference (CCC),ccc,28,22.571428571428573,8.54,3.54,1.0,0.32,2.93,1.1428571428571428,2.778778857360124,87
-16,602,2025-26,"Winters,Kyle",University of Hartford,G,The Commonwealth Coast Conference (CCC),ccc,24,35.75,15.46,5.13,2.83,0.75,0.04,2.4166666666666665,2.751366364162127,87
-17,609,2025-26,Drew Brander,Gordon College,*,The Commonwealth Coast Conference (CCC),ccc,15,27.6,12.8,5.87,2.33,0.8,0.2,1.6,2.7310682736023346,87
-18,707,2025-26,Harrison Neil,Suffolk University,0,The Commonwealth Coast Conference (CCC),ccc,28,22.964285714285715,9.54,5.07,2.25,1.07,0.61,1.1428571428571428,2.3284236333852575,86
-19,713,2025-26,"Houde,Matt",Western New England University,G,The Commonwealth Coast Conference (CCC),ccc,26,32.42307692307692,12.23,3.19,3.65,1.15,0.08,1.8846153846153848,2.2968380680684746,86
-20,766,2025-26,Alex Daniel,Gordon College,*,The Commonwealth Coast Conference (CCC),ccc,24,30.833333333333332,16.5,2.83,2.04,0.96,0.13,2.4583333333333335,2.118300516515414,85
-21,801,2025-26,"Thornton,Jayden",University of New England,G,The Commonwealth Coast Conference (CCC),ccc,25,27.2,14.96,2.4,1.12,1.4,0.0,1.52,2.022992605504293,84
-22,838,2025-26,Isaac Jarvis,Gordon College,*,The Commonwealth Coast Conference (CCC),ccc,21,26.047619047619047,11.62,6.81,0.9,0.43,0.9,1.8095238095238095,1.9019843989413237,84
-23,840,2025-26,Marquis White,Suffolk University,*,The Commonwealth Coast Conference (CCC),ccc,13,31.23076923076923,11.31,3.15,3.85,1.46,0.38,2.6153846153846154,1.899791327947676,84
-24,873,2025-26,Nick Verdile,Suffolk University,*,The Commonwealth Coast Conference (CCC),ccc,28,33.035714285714285,13.57,2.89,2.5,0.89,0.04,1.7857142857142858,1.781550875161272,84
-25,892,2025-26,"Mallinson,Tommy",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,22,33.90909090909091,11.27,3.23,2.91,1.14,0.27,1.818181818181818,1.7158441265628894,83
-26,975,2025-26,"Hidalgo,Manny",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,25,29.92,11.2,5.2,2.52,1.44,0.04,2.44,1.4224619382523869,82
-27,981,2025-26,"Chijioke,Kaosi",University of Hartford,F,The Commonwealth Coast Conference (CCC),ccc,19,26.05263157894737,11.53,7.79,1.32,0.53,0.37,2.263157894736842,1.394824905569233,82
-28,996,2025-26,"James,Kha Cao Ra",University of New England,F,The Commonwealth Coast Conference (CCC),ccc,26,24.03846153846154,7.85,6.65,1.38,1.12,0.96,1.8076923076923077,1.3391981105197976,82
-29,1009,2025-26,"Leclerc,Ashton",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,22,27.181818181818183,13.82,3.05,1.55,0.45,0.09,1.4545454545454546,1.3028296564771231,82
-30,1027,2025-26,"Clemente,Nethaniel",Curry College,F,The Commonwealth Coast Conference (CCC),ccc,17,21.823529411764707,10.47,7.41,0.82,0.59,0.94,2.2941176470588234,1.237279281011071,81
-31,1056,2025-26,"Sughrue,Philip",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,25,24.08,5.68,4.4,3.52,1.4,0.32,1.24,1.152478879224938,81
-32,1089,2025-26,"Predin,Jeremiah",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,24,24.458333333333332,11.46,5.92,1.29,1.38,0.21,2.5,1.05160027735705,81
-33,1126,2025-26,"Olewiler,Kent",University of Hartford,G,The Commonwealth Coast Conference (CCC),ccc,10,27.1,10.7,4.4,1.6,1.4,0.2,2.0,0.9693551830025569,80
-34,1150,2025-26,"Higgins,Ryan",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,23,25.73913043478261,10.91,3.0,0.96,0.61,0.09,0.4782608695652174,0.916583609034775,80
-35,1179,2025-26,"Boen,Matt",Endicott College,G,The Commonwealth Coast Conference (CCC),ccc,24,25.125,7.83,3.71,1.96,1.17,0.46,1.125,0.8469478364738623,79
-36,1194,2025-26,Russell Dolabany,Wentworth Institute of Technology,g,The Commonwealth Coast Conference (CCC),ccc,25,26.24,11.4,2.72,1.4,1.2,0.04,1.4,0.8033835729467933,79
-37,1207,2025-26,"Petion,Joshua",University of Hartford,F,The Commonwealth Coast Conference (CCC),ccc,22,23.681818181818183,7.82,5.09,2.18,1.27,0.68,2.090909090909091,0.776010879260559,79
-38,1236,2025-26,"Eberhardt,River",University of Hartford,F,The Commonwealth Coast Conference (CCC),ccc,19,23.210526315789473,8.79,6.32,1.16,0.79,0.47,1.631578947368421,0.704439327051221,79
-39,1344,2025-26,"McCoy,Eddie",Western New England University,G,The Commonwealth Coast Conference (CCC),ccc,27,29.185185185185187,7.93,4.96,1.3,1.44,0.22,1.4814814814814814,0.4438480691682344,77
-40,1416,2025-26,Dylan Olson,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,25,23.6,8.32,4.24,1.2,1.04,0.24,1.16,0.2749741660544631,76
-41,1451,2025-26,"Stack,Drew",University of Hartford,G,The Commonwealth Coast Conference (CCC),ccc,23,30.0,10.61,2.61,1.39,0.74,0.39,1.608695652173913,0.1808020369156769,76
-42,1610,2025-26,"Mickens,Avery",Western New England University,G,The Commonwealth Coast Conference (CCC),ccc,27,22.14814814814815,10.0,2.52,0.56,0.56,0.07,0.7407407407407407,-0.2841953073298328,74
-43,1619,2025-26,Donovan Holway,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,22,21.727272727272727,6.86,4.45,0.82,0.77,0.64,1.181818181818182,-0.3012942672113883,74
-44,1621,2025-26,Sean Quanico,Gordon College,*,The Commonwealth Coast Conference (CCC),ccc,24,23.416666666666668,7.21,2.42,3.5,0.63,0.0,1.4166666666666667,-0.303678606941609,74
-45,1639,2025-26,"Kasper,Nate",Western New England University,G,The Commonwealth Coast Conference (CCC),ccc,25,25.32,8.4,3.56,2.44,1.36,0.08,2.36,-0.3422883692261776,73
-46,1644,2025-26,"Miller,Ben",University of Hartford,G,The Commonwealth Coast Conference (CCC),ccc,23,18.347826086956523,11.83,1.26,1.35,0.65,0.04,1.608695652173913,-0.3548370047992685,73
-47,1656,2025-26,"Andino,Isaiah",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,24,24.958333333333332,11.54,2.54,1.79,0.71,0.33,2.5833333333333335,-0.3905374896700716,73
-48,1749,2025-26,Hatcher Nordquist,Suffolk University,0,The Commonwealth Coast Conference (CCC),ccc,27,21.96296296296296,7.96,3.19,2.52,1.19,0.04,2.185185185185185,-0.6309917198334406,72
-49,1780,2025-26,"Boudria,Owen",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,23,17.043478260869566,6.83,2.96,1.04,0.7,0.61,1.0869565217391304,-0.6984540593088688,71
-50,1786,2025-26,"Minarik,Ethan",Nichols College,G,The Commonwealth Coast Conference (CCC),ccc,27,23.51851851851852,9.33,2.04,1.04,0.52,0.07,0.9629629629629628,-0.7069998733877783,71
-51,1895,2025-26,"Broomfield,Jaron",University of Hartford,G,The Commonwealth Coast Conference (CCC),ccc,25,22.32,6.68,4.8,0.68,0.84,0.24,1.32,-0.9536766847102998,70
-52,1906,2025-26,Darrell Hardge,Nichols College,0,The Commonwealth Coast Conference (CCC),ccc,14,14.357142857142858,3.93,2.86,1.86,0.79,0.36,0.5,-0.9812453100423014,70
-53,1911,2025-26,"Forte,AJ",Endicott College,G,The Commonwealth Coast Conference (CCC),ccc,15,20.866666666666667,8.4,1.67,0.8,0.4,0.27,0.7333333333333333,-0.9959276089354876,70
-54,1914,2025-26,"Teng,Kuany",Nichols College,F,The Commonwealth Coast Conference (CCC),ccc,27,19.37037037037037,6.67,3.22,0.74,0.63,0.3,0.7777777777777778,-0.9991348857554476,70
-55,1927,2025-26,"Bernardo,Jake",Curry College,F,The Commonwealth Coast Conference (CCC),ccc,19,16.42105263157895,6.89,5.0,0.89,0.47,0.32,1.4210526315789471,-1.0316900085938143,69
-56,1975,2025-26,Chiko Kalu,Gordon College,0,The Commonwealth Coast Conference (CCC),ccc,21,18.333333333333332,7.14,4.14,1.0,0.71,0.33,1.619047619047619,-1.1292324027443033,69
-57,1978,2025-26,"Chapman,Luke",Nichols College,F,The Commonwealth Coast Conference (CCC),ccc,27,23.96296296296296,6.89,5.0,0.89,0.44,0.19,1.3333333333333333,-1.131318659134352,69
-58,2006,2025-26,"Hill,Jeff",Endicott College,G,The Commonwealth Coast Conference (CCC),ccc,27,21.88888888888889,6.63,1.37,1.7,0.74,0.15,0.8518518518518519,-1.196202394676967,68
-59,2007,2025-26,"Mangual,Travis",Western New England University,G,The Commonwealth Coast Conference (CCC),ccc,26,18.076923076923077,5.54,3.04,0.62,1.0,0.27,0.6923076923076923,-1.1962759563282517,68
-60,2067,2025-26,Connor Strickland,Suffolk University,0,The Commonwealth Coast Conference (CCC),ccc,28,24.035714285714285,4.54,4.25,2.57,0.61,0.21,1.5714285714285714,-1.3346522304036197,68
-61,2129,2025-26,"Wahdan,Zein",Western New England University,C,The Commonwealth Coast Conference (CCC),ccc,11,14.545454545454543,7.27,2.82,0.36,0.18,0.27,0.6363636363636364,-1.472732643809636,67
-62,2149,2025-26,"Flauto,Adam",Roger Williams University,F,The Commonwealth Coast Conference (CCC),ccc,21,15.19047619047619,3.24,2.48,1.05,1.0,0.9,0.9047619047619048,-1.503395646250108,66
-63,2191,2025-26,Bruce Mcguire,Gordon College,*,The Commonwealth Coast Conference (CCC),ccc,17,18.235294117647054,6.65,3.94,0.94,0.94,0.0,1.588235294117647,-1.613065999855962,66
-64,2212,2025-26,Jayden Williams,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,25,16.04,6.52,2.28,1.12,0.96,0.4,1.64,-1.657542926776297,66
-65,2220,2025-26,"Galarraga,Gabe",University of New England,F,The Commonwealth Coast Conference (CCC),ccc,26,18.192307692307693,7.19,2.77,0.58,0.19,0.15,0.7692307692307693,-1.6722341536825969,66
-66,2240,2025-26,Le plastrier Willem,Gordon College,0,The Commonwealth Coast Conference (CCC),ccc,13,14.384615384615383,4.38,4.54,0.77,0.15,0.62,0.9230769230769232,-1.7083941407099754,65
-67,2246,2025-26,"Rudman,Noah",Nichols College,F,The Commonwealth Coast Conference (CCC),ccc,13,12.23076923076923,4.92,2.46,0.08,0.54,1.0,0.8461538461538461,-1.716541172086517,65
-68,2306,2025-26,"Silva,Julius",University of New England,G,The Commonwealth Coast Conference (CCC),ccc,20,21.85,3.3,2.95,1.3,0.75,0.2,0.5,-1.842774226279765,64
-69,2337,2025-26,"Keliher,Cam",Endicott College,G,The Commonwealth Coast Conference (CCC),ccc,27,22.11111111111111,3.74,2.56,2.19,0.56,0.04,0.7777777777777778,-1.906183297844144,64
-70,2346,2025-26,Declan Davis,Suffolk University,*,The Commonwealth Coast Conference (CCC),ccc,26,19.0,5.42,1.85,1.04,0.5,0.15,0.5769230769230769,-1.913126075201089,64
-71,2451,2025-26,"Scali,James",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,19,14.842105263157896,6.95,1.05,0.21,0.26,0.11,0.3157894736842105,-2.1062768978413233,62
-72,2464,2025-26,"Agbaji,Ebube",Curry College,F,The Commonwealth Coast Conference (CCC),ccc,14,11.571428571428571,3.36,3.29,0.5,0.36,0.71,0.6428571428571429,-2.1254282194965657,62
-73,2465,2025-26,"Charles,Shawn",Curry College,F,The Commonwealth Coast Conference (CCC),ccc,20,12.5,3.15,2.9,0.9,0.5,0.75,0.85,-2.125951176511758,62
-74,2521,2025-26,"Bonsu,Cassidy",Nichols College,F,The Commonwealth Coast Conference (CCC),ccc,21,10.333333333333334,3.14,3.57,0.24,0.43,0.38,0.2857142857142857,-2.249134371694205,62
-75,2540,2025-26,Davis Lunn,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,25,18.6,5.16,2.28,2.4,0.76,0.0,1.8,-2.270779645008063,61
-76,2545,2025-26,"Higgins,Ty",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,25,18.72,5.8,1.76,1.08,0.6,0.04,1.0,-2.2788494029805815,61
-77,2595,2025-26,"Laplante III,Will",Western New England University,G,The Commonwealth Coast Conference (CCC),ccc,21,13.761904761904765,5.76,1.71,0.52,0.52,0.14,0.7619047619047619,-2.37251315755723,61
-78,2671,2025-26,Chase Mello,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,24,20.75,7.63,1.04,2.33,0.29,0.0,2.0833333333333335,-2.502809278591924,60
-79,2854,2025-26,"Crowley,Dylan",University of New England,G,The Commonwealth Coast Conference (CCC),ccc,19,14.68421052631579,5.11,1.74,1.11,0.42,0.05,1.1578947368421053,-2.904249490228723,57
-80,2913,2025-26,Brandon Swann,Gordon College,0,The Commonwealth Coast Conference (CCC),ccc,25,17.24,4.96,1.56,1.16,0.2,0.0,0.92,-3.013953140808919,56
-81,2929,2025-26,"Dwyer,Joey",Roger Williams University,G,The Commonwealth Coast Conference (CCC),ccc,24,12.416666666666666,5.5,1.0,0.54,0.21,0.08,0.7083333333333334,-3.0498589183248264,56
-82,2947,2025-26,"Heneke,JD",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,25,21.36,6.16,0.6,0.64,0.48,0.0,1.08,-3.0996456591020687,56
-83,2959,2025-26,Michael Nezaj,Gordon College,0,The Commonwealth Coast Conference (CCC),ccc,18,13.72222222222222,1.44,3.94,0.5,0.11,0.89,1.0,-3.128722899093482,56
-84,2984,2025-26,Mike Yentin,Wentworth Institute of Technology,g,The Commonwealth Coast Conference (CCC),ccc,21,10.38095238095238,3.71,1.33,0.48,0.33,0.1,0.3333333333333333,-3.1618464771930066,55
-85,2986,2025-26,Jason Peters,Nichols College,0,The Commonwealth Coast Conference (CCC),ccc,10,10.8,4.3,0.8,0.9,0.3,0.0,0.5,-3.165365317531751,55
-86,3016,2025-26,Andy Weeman,Wentworth Institute of Technology,0,The Commonwealth Coast Conference (CCC),ccc,24,13.916666666666666,4.33,3.0,0.54,0.29,0.13,1.2083333333333333,-3.254046983963878,55
-87,3066,2025-26,"Lopez,Francisco",Curry College,G,The Commonwealth Coast Conference (CCC),ccc,11,12.090909090909092,3.36,2.18,0.55,0.18,0.0,0.4545454545454545,-3.3770274692724067,54
-88,3078,2025-26,Nate Ashley,Gordon College,0,The Commonwealth Coast Conference (CCC),ccc,10,10.6,2.8,0.9,0.3,0.6,0.1,0.2,-3.4021472997400344,54
-89,3093,2025-26,Aiden Flaherty,Wentworth Institute of Technology,f,The Commonwealth Coast Conference (CCC),ccc,21,14.904761904761903,2.86,3.29,0.67,0.38,0.19,1.1428571428571428,-3.444537854553493,54
-90,3099,2025-26,"Pelzer,Leonard",University of Hartford,C,The Commonwealth Coast Conference (CCC),ccc,22,10.727272727272728,3.23,3.14,0.41,0.09,0.73,1.4545454545454546,-3.457733270345553,54
-91,3158,2025-26,Hunter Larson,Wentworth Institute of Technology,g,The Commonwealth Coast Conference (CCC),ccc,17,11.705882352941176,2.88,2.65,0.47,0.18,0.18,0.8235294117647058,-3.6509261272289866,53
-92,3178,2025-26,"Mitchell,Andrew",Endicott College,G,The Commonwealth Coast Conference (CCC),ccc,17,11.0,3.47,0.82,0.65,0.35,0.12,0.7058823529411765,-3.706514570890563,53
-93,3255,2025-26,Sean Racette,Wentworth Institute of Technology,g,The Commonwealth Coast Conference (CCC),ccc,15,12.066666666666666,3.8,1.8,1.07,0.2,0.0,1.3333333333333333,-3.949348119371288,52
-94,3260,2025-26,Tyler Nordstrom,Gordon College,0,The Commonwealth Coast Conference (CCC),ccc,25,14.44,1.36,1.64,2.16,0.48,0.0,1.28,-3.965150514411414,52
+1,2,2025-26,"Kinney,Elijah",Endicott College,F,Conference of New England (CCC),ccc,24,29.291666666666668,21.96,11.67,1.29,0.96,2.67,1.75,11.184582951074963,99
+2,16,2025-26,"Montagnino,Marcus",Endicott College,F,Conference of New England (CCC),ccc,27,33.148148148148145,22.26,7.85,4.41,1.7,0.19,2.2962962962962963,8.955894186448106,95
+3,86,2025-26,"Flowers-Smith,Javen",Nichols College,G,Conference of New England (CCC),ccc,26,31.923076923076923,20.35,3.15,5.0,2.04,0.42,3.3846153846153846,6.274242162849619,94
+4,111,2025-26,"Vlajkovic,Luka",Western New England University,F,Conference of New England (CCC),ccc,24,31.958333333333332,15.33,10.17,3.46,1.25,0.63,2.6666666666666665,5.903223913744833,94
+5,121,2025-26,"Brooks,Ryan",Gordon College,F,Conference of New England (CCC),ccc,18,31.166666666666668,13.94,7.78,3.61,0.72,0.83,1.3333333333333333,5.801571835837627,94
+6,151,2025-26,"Torres,Adrian",University of New England,G,Conference of New England (CCC),ccc,26,33.0,13.92,4.23,3.88,3.08,0.27,2.1153846153846154,5.455674016335621,93
+7,286,2025-26,"Miller,Finn",Roger Williams University,G,Conference of New England (CCC),ccc,25,28.76,15.28,7.64,3.52,1.24,0.2,2.68,4.436203350009022,91
+8,291,2025-26,James Jones,Suffolk University,*,Conference of New England (CCC),ccc,28,30.464285714285715,12.04,8.04,2.0,1.61,0.36,1.2142857142857142,4.4140207988095765,91
+9,342,2025-26,"St. Louis,Olivier",Nichols College,G,Conference of New England (CCC),ccc,27,25.814814814814813,11.81,8.04,1.78,1.3,0.63,1.4444444444444444,3.948156631897816,91
+10,389,2025-26,"Lux,Adam",University of New England,F,Conference of New England (CCC),ccc,26,31.884615384615383,16.15,6.15,1.42,0.88,0.15,1.5769230769230769,3.678926265590932,90
+11,451,2025-26,"Hammarlund,Ryan",Roger Williams University,F,Conference of New England (CCC),ccc,23,29.695652173913043,13.04,4.7,2.09,1.65,0.22,1.391304347826087,3.365492361959375,89
+12,463,2025-26,"Sullivan,Caden",Endicott College,G,Conference of New England (CCC),ccc,27,29.03703703703704,11.63,3.63,2.19,1.33,0.52,0.7037037037037037,3.30132505416055,89
+13,519,2025-26,"Mello,Dominic",Nichols College,G,Conference of New England (CCC),ccc,27,35.96296296296296,15.93,4.19,3.07,0.85,0.26,2.5185185185185186,3.0482512278093985,88
+14,521,2025-26,Colin Mannke,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,24,26.708333333333332,14.17,7.92,1.13,1.0,0.25,2.0,3.0450606194062333,88
+15,590,2025-26,Greg Keane,Suffolk University,*,Conference of New England (CCC),ccc,28,22.571428571428573,8.54,3.54,1.0,0.32,2.93,1.1428571428571428,2.778778857360124,87
+16,602,2025-26,"Winters,Kyle",University of Hartford,G,Conference of New England (CCC),ccc,24,35.75,15.46,5.13,2.83,0.75,0.04,2.4166666666666665,2.751366364162127,87
+17,609,2025-26,Drew Brander,Gordon College,*,Conference of New England (CCC),ccc,15,27.6,12.8,5.87,2.33,0.8,0.2,1.6,2.7310682736023346,87
+18,707,2025-26,Harrison Neil,Suffolk University,0,Conference of New England (CCC),ccc,28,22.964285714285715,9.54,5.07,2.25,1.07,0.61,1.1428571428571428,2.3284236333852575,86
+19,713,2025-26,"Houde,Matt",Western New England University,G,Conference of New England (CCC),ccc,26,32.42307692307692,12.23,3.19,3.65,1.15,0.08,1.8846153846153848,2.2968380680684746,86
+20,766,2025-26,Alex Daniel,Gordon College,*,Conference of New England (CCC),ccc,24,30.833333333333332,16.5,2.83,2.04,0.96,0.13,2.4583333333333335,2.118300516515414,85
+21,801,2025-26,"Thornton,Jayden",University of New England,G,Conference of New England (CCC),ccc,25,27.2,14.96,2.4,1.12,1.4,0.0,1.52,2.022992605504293,84
+22,838,2025-26,Isaac Jarvis,Gordon College,*,Conference of New England (CCC),ccc,21,26.047619047619047,11.62,6.81,0.9,0.43,0.9,1.8095238095238095,1.9019843989413237,84
+23,840,2025-26,Marquis White,Suffolk University,*,Conference of New England (CCC),ccc,13,31.23076923076923,11.31,3.15,3.85,1.46,0.38,2.6153846153846154,1.899791327947676,84
+24,873,2025-26,Nick Verdile,Suffolk University,*,Conference of New England (CCC),ccc,28,33.035714285714285,13.57,2.89,2.5,0.89,0.04,1.7857142857142858,1.781550875161272,84
+25,892,2025-26,"Mallinson,Tommy",Curry College,G,Conference of New England (CCC),ccc,22,33.90909090909091,11.27,3.23,2.91,1.14,0.27,1.818181818181818,1.7158441265628894,83
+26,975,2025-26,"Hidalgo,Manny",Curry College,G,Conference of New England (CCC),ccc,25,29.92,11.2,5.2,2.52,1.44,0.04,2.44,1.4224619382523869,82
+27,981,2025-26,"Chijioke,Kaosi",University of Hartford,F,Conference of New England (CCC),ccc,19,26.05263157894737,11.53,7.79,1.32,0.53,0.37,2.263157894736842,1.394824905569233,82
+28,996,2025-26,"James,Kha Cao Ra",University of New England,F,Conference of New England (CCC),ccc,26,24.03846153846154,7.85,6.65,1.38,1.12,0.96,1.8076923076923077,1.3391981105197976,82
+29,1009,2025-26,"Leclerc,Ashton",Roger Williams University,G,Conference of New England (CCC),ccc,22,27.181818181818183,13.82,3.05,1.55,0.45,0.09,1.4545454545454546,1.3028296564771231,82
+30,1027,2025-26,"Clemente,Nethaniel",Curry College,F,Conference of New England (CCC),ccc,17,21.823529411764707,10.47,7.41,0.82,0.59,0.94,2.2941176470588234,1.237279281011071,81
+31,1056,2025-26,"Sughrue,Philip",Roger Williams University,G,Conference of New England (CCC),ccc,25,24.08,5.68,4.4,3.52,1.4,0.32,1.24,1.152478879224938,81
+32,1089,2025-26,"Predin,Jeremiah",Curry College,G,Conference of New England (CCC),ccc,24,24.458333333333332,11.46,5.92,1.29,1.38,0.21,2.5,1.05160027735705,81
+33,1126,2025-26,"Olewiler,Kent",University of Hartford,G,Conference of New England (CCC),ccc,10,27.1,10.7,4.4,1.6,1.4,0.2,2.0,0.9693551830025569,80
+34,1150,2025-26,"Higgins,Ryan",Roger Williams University,G,Conference of New England (CCC),ccc,23,25.73913043478261,10.91,3.0,0.96,0.61,0.09,0.4782608695652174,0.916583609034775,80
+35,1179,2025-26,"Boen,Matt",Endicott College,G,Conference of New England (CCC),ccc,24,25.125,7.83,3.71,1.96,1.17,0.46,1.125,0.8469478364738623,79
+36,1194,2025-26,Russell Dolabany,Wentworth Institute of Technology,g,Conference of New England (CCC),ccc,25,26.24,11.4,2.72,1.4,1.2,0.04,1.4,0.8033835729467933,79
+37,1207,2025-26,"Petion,Joshua",University of Hartford,F,Conference of New England (CCC),ccc,22,23.681818181818183,7.82,5.09,2.18,1.27,0.68,2.090909090909091,0.776010879260559,79
+38,1236,2025-26,"Eberhardt,River",University of Hartford,F,Conference of New England (CCC),ccc,19,23.210526315789473,8.79,6.32,1.16,0.79,0.47,1.631578947368421,0.704439327051221,79
+39,1344,2025-26,"McCoy,Eddie",Western New England University,G,Conference of New England (CCC),ccc,27,29.185185185185187,7.93,4.96,1.3,1.44,0.22,1.4814814814814814,0.4438480691682344,77
+40,1416,2025-26,Dylan Olson,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,25,23.6,8.32,4.24,1.2,1.04,0.24,1.16,0.2749741660544631,76
+41,1451,2025-26,"Stack,Drew",University of Hartford,G,Conference of New England (CCC),ccc,23,30.0,10.61,2.61,1.39,0.74,0.39,1.608695652173913,0.1808020369156769,76
+42,1610,2025-26,"Mickens,Avery",Western New England University,G,Conference of New England (CCC),ccc,27,22.14814814814815,10.0,2.52,0.56,0.56,0.07,0.7407407407407407,-0.2841953073298328,74
+43,1619,2025-26,Donovan Holway,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,22,21.727272727272727,6.86,4.45,0.82,0.77,0.64,1.181818181818182,-0.3012942672113883,74
+44,1621,2025-26,Sean Quanico,Gordon College,*,Conference of New England (CCC),ccc,24,23.416666666666668,7.21,2.42,3.5,0.63,0.0,1.4166666666666667,-0.303678606941609,74
+45,1639,2025-26,"Kasper,Nate",Western New England University,G,Conference of New England (CCC),ccc,25,25.32,8.4,3.56,2.44,1.36,0.08,2.36,-0.3422883692261776,73
+46,1644,2025-26,"Miller,Ben",University of Hartford,G,Conference of New England (CCC),ccc,23,18.347826086956523,11.83,1.26,1.35,0.65,0.04,1.608695652173913,-0.3548370047992685,73
+47,1656,2025-26,"Andino,Isaiah",Curry College,G,Conference of New England (CCC),ccc,24,24.958333333333332,11.54,2.54,1.79,0.71,0.33,2.5833333333333335,-0.3905374896700716,73
+48,1749,2025-26,Hatcher Nordquist,Suffolk University,0,Conference of New England (CCC),ccc,27,21.96296296296296,7.96,3.19,2.52,1.19,0.04,2.185185185185185,-0.6309917198334406,72
+49,1780,2025-26,"Boudria,Owen",Roger Williams University,G,Conference of New England (CCC),ccc,23,17.043478260869566,6.83,2.96,1.04,0.7,0.61,1.0869565217391304,-0.6984540593088688,71
+50,1786,2025-26,"Minarik,Ethan",Nichols College,G,Conference of New England (CCC),ccc,27,23.51851851851852,9.33,2.04,1.04,0.52,0.07,0.9629629629629628,-0.7069998733877783,71
+51,1895,2025-26,"Broomfield,Jaron",University of Hartford,G,Conference of New England (CCC),ccc,25,22.32,6.68,4.8,0.68,0.84,0.24,1.32,-0.9536766847102998,70
+52,1906,2025-26,Darrell Hardge,Nichols College,0,Conference of New England (CCC),ccc,14,14.357142857142858,3.93,2.86,1.86,0.79,0.36,0.5,-0.9812453100423014,70
+53,1911,2025-26,"Forte,AJ",Endicott College,G,Conference of New England (CCC),ccc,15,20.866666666666667,8.4,1.67,0.8,0.4,0.27,0.7333333333333333,-0.9959276089354876,70
+54,1914,2025-26,"Teng,Kuany",Nichols College,F,Conference of New England (CCC),ccc,27,19.37037037037037,6.67,3.22,0.74,0.63,0.3,0.7777777777777778,-0.9991348857554476,70
+55,1927,2025-26,"Bernardo,Jake",Curry College,F,Conference of New England (CCC),ccc,19,16.42105263157895,6.89,5.0,0.89,0.47,0.32,1.4210526315789471,-1.0316900085938143,69
+56,1975,2025-26,Chiko Kalu,Gordon College,0,Conference of New England (CCC),ccc,21,18.333333333333332,7.14,4.14,1.0,0.71,0.33,1.619047619047619,-1.1292324027443033,69
+57,1978,2025-26,"Chapman,Luke",Nichols College,F,Conference of New England (CCC),ccc,27,23.96296296296296,6.89,5.0,0.89,0.44,0.19,1.3333333333333333,-1.131318659134352,69
+58,2006,2025-26,"Hill,Jeff",Endicott College,G,Conference of New England (CCC),ccc,27,21.88888888888889,6.63,1.37,1.7,0.74,0.15,0.8518518518518519,-1.196202394676967,68
+59,2007,2025-26,"Mangual,Travis",Western New England University,G,Conference of New England (CCC),ccc,26,18.076923076923077,5.54,3.04,0.62,1.0,0.27,0.6923076923076923,-1.1962759563282517,68
+60,2067,2025-26,Connor Strickland,Suffolk University,0,Conference of New England (CCC),ccc,28,24.035714285714285,4.54,4.25,2.57,0.61,0.21,1.5714285714285714,-1.3346522304036197,68
+61,2129,2025-26,"Wahdan,Zein",Western New England University,C,Conference of New England (CCC),ccc,11,14.545454545454543,7.27,2.82,0.36,0.18,0.27,0.6363636363636364,-1.472732643809636,67
+62,2149,2025-26,"Flauto,Adam",Roger Williams University,F,Conference of New England (CCC),ccc,21,15.19047619047619,3.24,2.48,1.05,1.0,0.9,0.9047619047619048,-1.503395646250108,66
+63,2191,2025-26,Bruce Mcguire,Gordon College,*,Conference of New England (CCC),ccc,17,18.235294117647054,6.65,3.94,0.94,0.94,0.0,1.588235294117647,-1.613065999855962,66
+64,2212,2025-26,Jayden Williams,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,25,16.04,6.52,2.28,1.12,0.96,0.4,1.64,-1.657542926776297,66
+65,2220,2025-26,"Galarraga,Gabe",University of New England,F,Conference of New England (CCC),ccc,26,18.192307692307693,7.19,2.77,0.58,0.19,0.15,0.7692307692307693,-1.6722341536825969,66
+66,2240,2025-26,Le plastrier Willem,Gordon College,0,Conference of New England (CCC),ccc,13,14.384615384615383,4.38,4.54,0.77,0.15,0.62,0.9230769230769232,-1.7083941407099754,65
+67,2246,2025-26,"Rudman,Noah",Nichols College,F,Conference of New England (CCC),ccc,13,12.23076923076923,4.92,2.46,0.08,0.54,1.0,0.8461538461538461,-1.716541172086517,65
+68,2306,2025-26,"Silva,Julius",University of New England,G,Conference of New England (CCC),ccc,20,21.85,3.3,2.95,1.3,0.75,0.2,0.5,-1.842774226279765,64
+69,2337,2025-26,"Keliher,Cam",Endicott College,G,Conference of New England (CCC),ccc,27,22.11111111111111,3.74,2.56,2.19,0.56,0.04,0.7777777777777778,-1.906183297844144,64
+70,2346,2025-26,Declan Davis,Suffolk University,*,Conference of New England (CCC),ccc,26,19.0,5.42,1.85,1.04,0.5,0.15,0.5769230769230769,-1.913126075201089,64
+71,2451,2025-26,"Scali,James",Curry College,G,Conference of New England (CCC),ccc,19,14.842105263157896,6.95,1.05,0.21,0.26,0.11,0.3157894736842105,-2.1062768978413233,62
+72,2464,2025-26,"Agbaji,Ebube",Curry College,F,Conference of New England (CCC),ccc,14,11.571428571428571,3.36,3.29,0.5,0.36,0.71,0.6428571428571429,-2.1254282194965657,62
+73,2465,2025-26,"Charles,Shawn",Curry College,F,Conference of New England (CCC),ccc,20,12.5,3.15,2.9,0.9,0.5,0.75,0.85,-2.125951176511758,62
+74,2521,2025-26,"Bonsu,Cassidy",Nichols College,F,Conference of New England (CCC),ccc,21,10.333333333333334,3.14,3.57,0.24,0.43,0.38,0.2857142857142857,-2.249134371694205,62
+75,2540,2025-26,Davis Lunn,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,25,18.6,5.16,2.28,2.4,0.76,0.0,1.8,-2.270779645008063,61
+76,2545,2025-26,"Higgins,Ty",Roger Williams University,G,Conference of New England (CCC),ccc,25,18.72,5.8,1.76,1.08,0.6,0.04,1.0,-2.2788494029805815,61
+77,2595,2025-26,"Laplante III,Will",Western New England University,G,Conference of New England (CCC),ccc,21,13.761904761904765,5.76,1.71,0.52,0.52,0.14,0.7619047619047619,-2.37251315755723,61
+78,2671,2025-26,Chase Mello,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,24,20.75,7.63,1.04,2.33,0.29,0.0,2.0833333333333335,-2.502809278591924,60
+79,2854,2025-26,"Crowley,Dylan",University of New England,G,Conference of New England (CCC),ccc,19,14.68421052631579,5.11,1.74,1.11,0.42,0.05,1.1578947368421053,-2.904249490228723,57
+80,2913,2025-26,Brandon Swann,Gordon College,0,Conference of New England (CCC),ccc,25,17.24,4.96,1.56,1.16,0.2,0.0,0.92,-3.013953140808919,56
+81,2929,2025-26,"Dwyer,Joey",Roger Williams University,G,Conference of New England (CCC),ccc,24,12.416666666666666,5.5,1.0,0.54,0.21,0.08,0.7083333333333334,-3.0498589183248264,56
+82,2947,2025-26,"Heneke,JD",Curry College,G,Conference of New England (CCC),ccc,25,21.36,6.16,0.6,0.64,0.48,0.0,1.08,-3.0996456591020687,56
+83,2959,2025-26,Michael Nezaj,Gordon College,0,Conference of New England (CCC),ccc,18,13.72222222222222,1.44,3.94,0.5,0.11,0.89,1.0,-3.128722899093482,56
+84,2984,2025-26,Mike Yentin,Wentworth Institute of Technology,g,Conference of New England (CCC),ccc,21,10.38095238095238,3.71,1.33,0.48,0.33,0.1,0.3333333333333333,-3.1618464771930066,55
+85,2986,2025-26,Jason Peters,Nichols College,0,Conference of New England (CCC),ccc,10,10.8,4.3,0.8,0.9,0.3,0.0,0.5,-3.165365317531751,55
+86,3016,2025-26,Andy Weeman,Wentworth Institute of Technology,0,Conference of New England (CCC),ccc,24,13.916666666666666,4.33,3.0,0.54,0.29,0.13,1.2083333333333333,-3.254046983963878,55
+87,3066,2025-26,"Lopez,Francisco",Curry College,G,Conference of New England (CCC),ccc,11,12.090909090909092,3.36,2.18,0.55,0.18,0.0,0.4545454545454545,-3.3770274692724067,54
+88,3078,2025-26,Nate Ashley,Gordon College,0,Conference of New England (CCC),ccc,10,10.6,2.8,0.9,0.3,0.6,0.1,0.2,-3.4021472997400344,54
+89,3093,2025-26,Aiden Flaherty,Wentworth Institute of Technology,f,Conference of New England (CCC),ccc,21,14.904761904761903,2.86,3.29,0.67,0.38,0.19,1.1428571428571428,-3.444537854553493,54
+90,3099,2025-26,"Pelzer,Leonard",University of Hartford,C,Conference of New England (CCC),ccc,22,10.727272727272728,3.23,3.14,0.41,0.09,0.73,1.4545454545454546,-3.457733270345553,54
+91,3158,2025-26,Hunter Larson,Wentworth Institute of Technology,g,Conference of New England (CCC),ccc,17,11.705882352941176,2.88,2.65,0.47,0.18,0.18,0.8235294117647058,-3.6509261272289866,53
+92,3178,2025-26,"Mitchell,Andrew",Endicott College,G,Conference of New England (CCC),ccc,17,11.0,3.47,0.82,0.65,0.35,0.12,0.7058823529411765,-3.706514570890563,53
+93,3255,2025-26,Sean Racette,Wentworth Institute of Technology,g,Conference of New England (CCC),ccc,15,12.066666666666666,3.8,1.8,1.07,0.2,0.0,1.3333333333333333,-3.949348119371288,52
+94,3260,2025-26,Tyler Nordstrom,Gordon College,0,Conference of New England (CCC),ccc,25,14.44,1.36,1.64,2.16,0.48,0.0,1.28,-3.965150514411414,52

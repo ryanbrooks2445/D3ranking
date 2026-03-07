@@ -96,3 +96,26 @@ If you keep the default (no `DATA_BASE_URL`), the app will keep loading from **r
 2. Redeploy on Vercel so it fetches the updated files from GitHub (cache may take a minute).
 
 Either way, the data on GitHub must include the **new** export (with `season`, `position`, `composite_score`, and `sports/mbb/meta.json`). Re-run `export_frontend_data.py` and push the updated `frontend/public/data` to the repo that `DATA_BASE_URL` points to (or to D3ranking if you don’t set it).
+
+---
+
+## 6. How to preview the Pro experience (before launch)
+
+**Option A – Local dev with env flag (easiest)**
+
+1. In `frontend/.env` add:
+   ```
+   NEXT_PUBLIC_PREVIEW_PRO=true
+   ```
+2. Restart the dev server (`npm run dev`).
+3. Open the site locally. You’ll see the full Pro experience: full rankings list, OVR and Rank visible, search, no paywall.
+
+**Option B – Cookie on the live site**
+
+1. Open your deployed site (e.g. d3ranking.vercel.app).
+2. Open DevTools (F12) → **Application** (Chrome) or **Storage** (Firefox).
+3. **Cookies** → select your site’s domain.
+4. Add a cookie: **Name** `d3_pro`, **Value** `true`.
+5. Refresh the page. The site will treat you as Pro until the cookie is removed or expires.
+
+Use this to check what paying users see (full lists, OVR, Score, search) before you launch.

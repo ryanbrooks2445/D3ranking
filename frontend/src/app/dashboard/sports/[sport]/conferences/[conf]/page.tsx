@@ -1,4 +1,4 @@
-import { readDataFileSafe, getSeason } from "@/lib/data";
+import { readDataFileSafe, getSeasonDisplay, getDataQualityNote } from "@/lib/data";
 import Link from "next/link";
 import { getSport, getSportSegmentColumns, filterRowsBySegment } from "@/lib/sports";
 import { isPro } from "@/lib/auth";
@@ -92,7 +92,8 @@ export default async function ConferenceRankingsPage({
   }
 
   const segments = def?.segments ?? [];
-  const season = await getSeason(code);
+  const { seasonLabel, note: seasonNote } = await getSeasonDisplay(code);
+  const dataQualityNote = getDataQualityNote(code);
 
   return (
     <div className="space-y-8">
@@ -115,8 +116,14 @@ export default async function ConferenceRankingsPage({
           {conferenceName}
         </h1>
         <p className="mt-2 text-slate-400">
-          {sportLabel} · {season} · Top 5 free; full list with Pro
+          {sportLabel} · {seasonLabel} · Top 5 free; full list with Pro
         </p>
+        {seasonNote && (
+          <p className="mt-1 text-sm text-amber-400/90">{seasonNote}</p>
+        )}
+        {dataQualityNote && (
+          <p className="mt-1 text-sm text-slate-500 max-w-xl">{dataQualityNote}</p>
+        )}
       </header>
 
       {segments.length > 0 && (

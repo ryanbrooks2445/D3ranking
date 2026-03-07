@@ -9,6 +9,7 @@ export const CONFERENCE_DISPLAY_NAMES: Record<string, string> = {
   centennial_conference: "Centennial Conference",
   cciw: "College Conference of Illinois and Wisconsin (CCIW)",
   c2c: "Coast-To-Coast Athletic Conference (C2C)",
+  ccc: "Conference of New England (CCC)",
   cne: "Conference of New England (CNE)",
   e8: "Empire 8 (E8)",
   gnac: "Great Northeast Athletic Conference (GNAC)",

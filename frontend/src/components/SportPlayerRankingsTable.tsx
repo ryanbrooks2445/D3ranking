@@ -192,11 +192,14 @@ export function SportPlayerRankingsTable({
                       const isOvr = col.key === "rating";
                       const isScore = col.key === "composite_score";
                       const isPlayerName = col.key === "player_name";
+                      const isPosition = col.key === "position";
                       const displayVal = isPlayerName
                         ? formatPlayerName(row)
                         : isScore
                           ? formatScore(val)
-                          : formatVal(val, col.pct);
+                          : isPosition && (val === "0" || val === 0)
+                            ? "—"
+                            : formatVal(val, col.pct);
                       const ovrBadgeClass = isOvr ? getOvrBadgeClasses(val) : null;
                       const isLockedMetric = !isPro && (isRank || isOvr);
                       const cellContent = isLockedMetric ? (

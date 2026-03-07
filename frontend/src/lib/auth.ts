@@ -9,6 +9,7 @@ export async function getSessionForHeader() {
 
 /** True if the current user has an active Pro subscription (from account or legacy cookie). */
 export async function isPro(): Promise<boolean> {
+  if (process.env.NEXT_PUBLIC_PREVIEW_PRO === "true") return true;
   const session = await auth();
   if (session?.user?.id) {
     const user = await prisma.user.findUnique({
