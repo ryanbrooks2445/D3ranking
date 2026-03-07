@@ -150,7 +150,7 @@ export function SportPlayerRankingsTable({
         </div>
         {!isPro && (
           <p className="hidden text-xs text-slate-500 sm:inline">
-            OVR, Rank, and Score are Pro-only.{" "}
+            OVR, Rank, and Score in search results are Pro-only.{" "}
             <a
               href="/#pricing"
               className="font-semibold text-blue-400 hover:text-blue-300 underline"
@@ -209,7 +209,8 @@ export function SportPlayerRankingsTable({
                             ? "—"
                             : formatVal(val, col.pct, col.key);
                       const ovrBadgeClass = isOvr ? getOvrBadgeClasses(val) : null;
-                      const isLockedMetric = !isPro && (isRank || isOvr || isScore);
+                      // Free preview (top N rows): show real Rank, OVR, Score. Search results: show locked look.
+                      const isLockedMetric = !isPro && hasSearch && (isRank || isOvr || isScore);
                       const lockedLabel = isOvr ? "Get OVR" : isScore ? "Get score" : "Unlock";
                       const cellContent = isLockedMetric ? (
                         <a
