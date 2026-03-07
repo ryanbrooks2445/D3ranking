@@ -1,18 +1,28 @@
+/**
+ * Base URL for /data/* files. In production (Vercel) we don't deploy public/data
+ * (see .vercelignore), so we fetch from GitHub Raw. Set DATA_BASE_URL to override
+ * (e.g. your own CDN). Local dev uses the running app.
+ */
 function getDataBaseUrl(): string {
-  const envUrl = process.env.NEXT_PUBLIC_APP_URL || process.env.VERCEL_URL;
-  if (envUrl) return envUrl.startsWith("http") ? envUrl : `https://${envUrl}`;
-  // Fallback for local dev
+  if (process.env.DATA_BASE_URL) return process.env.DATA_BASE_URL;
+  if (process.env.VERCEL) {
+    return "https://raw.githubusercontent.com/ryanbrooks2445/D3ranking/main/frontend/public/data";
+  }
+  const appUrl = process.env.NEXT_PUBLIC_APP_URL || process.env.VERCEL_URL;
+  if (appUrl) return appUrl.startsWith("http") ? appUrl : `https://${appUrl}`;
   return "http://localhost:3000";
 }
 
 /**
- * Read a JSON or CSV file that lives under /public/data by fetching it from the app itself.
- * This keeps the huge data folder out of the serverless bundle on Vercel while still working
- * locally (Next dev serves /public at /).
+ * Read a data file. On Vercel we fetch from DATA_BASE_URL (default: GitHub Raw);
+ * locally we fetch from the running app so /public/data is never in the serverless bundle.
  */
 export async function readDataFile(relativePath: string): Promise<string> {
-  const baseUrl = getDataBaseUrl();
-  const url = `${baseUrl}/data/${relativePath.replace(/^\/+/, "")}`;
+  const baseUrl = getDataBaseUrl().replace(/\/$/, "");
+  const path = relativePath.replace(/^\/+/, "");
+  const url = baseUrl.includes("raw.githubusercontent.com")
+    ? `${baseUrl}/${path}`
+    : `${baseUrl}/data/${path}`;
   const res = await fetch(url, { next: { revalidate: 60 } });
   if (!res.ok) {
     throw new Error(`Data file not found: ${relativePath}`);

@@ -1,0 +1,3 @@
+# Exclude 443 MB data folder from deployment so serverless stays under 250 MB.
+# Data is loaded in production from GitHub Raw (see src/lib/data.ts).
+public/data
