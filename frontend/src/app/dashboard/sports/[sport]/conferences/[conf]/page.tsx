@@ -5,6 +5,7 @@ import { isPro } from "@/lib/auth";
 import { formatConferenceDisplayName } from "@/lib/conferences";
 import { SportPlayerRankingsTable } from "@/components/SportPlayerRankingsTable";
 import { SegmentTabs } from "@/components/SegmentTabs";
+import { CompositeScoreExplainer } from "@/components/CompositeScoreExplainer";
 import type { Metadata } from "next";
 
 export async function generateMetadata({
@@ -134,6 +135,8 @@ export default async function ConferenceRankingsPage({
           baseHref={`/dashboard/sports/${code}/conferences/${confCode}`}
         />
       )}
+
+      <CompositeScoreExplainer sportCode={code} />
 
       <SportPlayerRankingsTable
         rows={segmentRows}

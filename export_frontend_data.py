@@ -311,6 +311,7 @@ def main() -> None:
 
     # Export other sports from data/d3_{code}_player_rankings_2025_26.csv -> sports/{code}/rankings_2025-26.json
     data_dir = Path("data")
+    HOCKEY_CODES = ("mhky", "whky")
     for code in OTHER_SPORT_CODES:
         csv_path = data_dir / f"d3_{code}_player_rankings_2025_26.csv"
         if not csv_path.exists():
@@ -323,7 +324,16 @@ def main() -> None:
             df = df.rename(columns={"rank": "global_rank"})
         if "global_rank" not in df.columns:
             continue
-        df = df.sort_values("global_rank", ascending=True).reset_index(drop=True)
+        # Hockey: backend often has composite_score only for some players; rest are NaN and end up in conference order.
+        # Re-rank by composite_score (best first), then by player name so the list is not grouped by conference.
+        if code in HOCKEY_CODES and "composite_score" in df.columns:
+            df = df.sort_values(
+                ["composite_score", "player_name"],
+                ascending=[False, True],
+                na_position="last",
+            ).reset_index(drop=True)
+        else:
+            df = df.sort_values("global_rank", ascending=True).reset_index(drop=True)
         df["global_rank"] = range(1, len(df) + 1)
         # Ensure rating (OVR) exists
         if "rating" not in df.columns:

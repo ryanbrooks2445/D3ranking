@@ -42,6 +42,12 @@
     "ranked_count": 80
   },
   {
+    "conference_code": "ccc",
+    "conference": "Conference of New England (CCC)",
+    "player_count": 199,
+    "ranked_count": 94
+  },
+  {
     "conference_code": "e8",
     "conference": "Empire 8 (E8)",
     "player_count": 229,
@@ -202,12 +208,6 @@
     "conference": "State University of New York Athletic Conference (SUNYAC)",
     "player_count": 103,
     "ranked_count": 86
-  },
-  {
-    "conference_code": "ccc",
-    "conference": "Conference of New England (CCC)",
-    "player_count": 199,
-    "ranked_count": 94
   },
   {
     "conference_code": "usa_south_athletic_confe",

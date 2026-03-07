@@ -4,6 +4,7 @@ import { getSport, getSportSegmentColumns, filterRowsBySegment } from "@/lib/spo
 import { isPro } from "@/lib/auth";
 import { SportPlayerRankingsTable } from "@/components/SportPlayerRankingsTable";
 import { SegmentTabs } from "@/components/SegmentTabs";
+import { CompositeScoreExplainer } from "@/components/CompositeScoreExplainer";
 import type { Metadata } from "next";
 
 export async function generateMetadata({
@@ -132,6 +133,8 @@ export default async function GlobalRankingsPage({
           currentSegmentId={segmentId}
         />
       )}
+
+      <CompositeScoreExplainer sportCode={code} />
 
       <SportPlayerRankingsTable
         rows={segmentRows}

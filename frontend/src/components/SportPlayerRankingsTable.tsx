@@ -4,9 +4,9 @@ import { useState, useMemo } from "react";
 
 type ColDef = { key: string; label: string; pct?: boolean };
 
-/** Tooltip explaining how OVR relates to rank and composite stats. */
+/** Tooltip explaining OVR and Score. */
 const OVR_TOOLTIP =
-  "OVR is derived from rank (e.g. top 3 = 99). Score is the stat-based composite used to rank. Table stats show why each player is rated that way.";
+  "OVR is derived from rank (e.g. top players = 99). Score is the stat-based composite used to rank players.";
 
 function formatVal(val: unknown, pct?: boolean): string {
   if (val == null) return "—";
