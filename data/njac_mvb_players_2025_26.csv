@@ -1,0 +1,77 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,attack_stats_hitting_pct,attack_stats_attempts,attack_stats_errors,attack_stats_kills,set_stats_assists,set_stats_errors,set_stats_attempts,set_stats_set_pct,serve_stats_aces,serve_stats_errors,serve_stats_attempts,serve_stats_serve_pct,defense_stats_defense_pct,defense_stats_attempts,defense_stats_receptions,defense_stats_digs,block_stats_total,block_stats_errors,block_stats_assists,block_stats_solos,misc_stats_points,misc_stats_ball_handling_errors,per_set_stats_kills,per_set_stats_assists,per_set_stats_digs,per_set_stats_blocks,per_set_stats_aces,per_set_stats_points
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Apito, Aidan",0,,11,73,18,.177,215,46,84,15,2,48,0,5,18,231,0,0,286,16,67,12,2,10,2,96,0,1.15,0.21,0.92,0.16,0.07,1.32
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Au, Derek",0,,14,112,32,.238,248,42,101,1100,22,2417,0,38,71,514,0,0,9,2,192,51,7,46,5,167,4,0.90,9.82,1.71,0.46,0.34,1.49
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Spring, Sean",0,,6,30,6,.233,129,30,60,4,0,12,0,7,32,92,0,0,163,8,26,5,2,4,1,70,0,2.00,0.13,0.87,0.17,0.23,2.33
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Gomes, Yann",0,,10,71,0,.000,1,0,0,2,1,7,0,24,45,232,0,0,0,0,23,1,0,1,0,24.5,0,0.00,0.03,0.32,0.01,0.34,0.35
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Paredes, Fernando",0,,2,99,0,.000,12,2,2,57,1,189,0,0,0,0,0,0,558,27,262,0,0,0,0,2,0,0.02,0.58,2.65,0.00,0.00,0.02
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Lopez, Vincent",0,,3,99,29,.297,283,47,131,4,2,18,0,10,30,190,0,0,5,1,33,65,2,61,4,175.5,3,1.32,0.04,0.33,0.66,0.10,1.77
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Johnson, Amir",0,,7,32,6,.328,67,9,31,2,0,9,0,0,1,2,0,0,1,0,7,19,5,16,3,42,0,0.97,0.06,0.22,0.59,0.00,1.31
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Jazmin, Evan",0,,8,26,0,.000,0,0,0,6,0,19,0,2,1,4,0,0,31,2,32,0,0,0,0,2,0,0.00,0.23,1.23,0.00,0.08,0.08
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Silva, Juan",0,,15,29,3,.147,109,27,43,1,1,9,0,9,20,84,0,0,0,0,31,15,2,15,0,59.5,0,1.48,0.03,1.07,0.52,0.31,2.05
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Kolodziej, Aleks",0,,16,102,30,.251,710,116,294,10,2,57,0,34,75,369,0,0,5,3,148,49,1,48,1,353,2,2.88,0.10,1.45,0.48,0.33,3.46
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Walker-Mason, Gavin",0,,12,62,0,.333,3,0,1,10,1,30,0,0,0,0,0,0,129,2,31,0,0,0,0,1,0,0.02,0.16,0.50,0.00,0.00,0.02
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Komine, Kaden",0,,18,89,2,.000,17,4,4,85,1,204,0,18,31,286,0,0,0,0,25,3,0,2,1,24,0,0.04,0.96,0.28,0.03,0.20,0.27
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Herrington, Benjamin",0,,1,29,4,.162,117,30,49,2,0,13,0,7,28,61,0,0,127,6,30,12,3,12,0,62,0,1.69,0.07,1.03,0.41,0.24,2.14
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Joyce, Justin",0,,4,9,0,.000,3,1,1,24,0,69,0,0,7,12,0,0,2,1,3,1,0,1,0,1.5,0,0.11,2.67,0.33,0.11,0.00,0.17
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Solodky, Alex",0,,20,63,16,.160,381,102,163,10,2,37,0,12,24,200,0,0,262,9,74,22,2,21,1,186.5,0,2.59,0.16,1.17,0.35,0.19,2.96
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Roco, Massimo",0,,21,119,32,.391,463,80,261,5,1,35,0,44,107,315,0,0,12,2,39,106,6,88,18,367,1,2.19,0.04,0.33,0.89,0.37,3.08
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Suarez, Michael",0,,23,93,26,.180,646,151,267,14,1,52,0,13,64,224,0,0,501,21,100,36,4,32,4,300,1,2.87,0.15,1.08,0.39,0.14,3.23
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Rutgers-Newark,"Correia, Gabriel",0,,17,1,0,1.000,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1.0,0,1.00,0.00,0.00,0.00,0.00,1.00
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Kirchofer, Reece",0,,4,96,30,.259,975,137,390,14,2,82,0,34,78,355,0,0,585,28,174,41,9,26,15,452,1,4.06,0.15,1.81,0.43,0.35,4.71
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Meyer, JoJo",0,,19,96,30,.273,132,11,47,991,13,2271,0,18,20,441,0,0,7,3,187,38,6,35,3,85.5,2,0.49,10.32,1.95,0.40,0.19,0.89
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"McNally, Sean",0,,9,93,0,.000,10,1,1,30,3,141,0,0,1,3,0,0,453,26,224,0,0,0,0,1,0,0.01,0.32,2.41,0.00,0.00,0.01
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Barrett, Josh",0,,11,37,6,.115,156,31,49,4,0,18,0,5,11,61,0,0,6,1,30,5,0,3,2,57.5,0,1.32,0.11,0.81,0.14,0.14,1.55
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Ford, Caleb",0,,15,96,30,.320,284,33,124,12,1,57,0,18,28,242,0,0,4,1,43,67,12,49,18,184.5,0,1.29,0.13,0.45,0.70,0.19,1.92
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Duca, Joseph",0,,7,34,0,.000,15,3,3,48,0,125,0,6,18,102,0,0,14,1,37,0,0,0,0,9,0,0.09,1.41,1.09,0.00,0.18,0.26
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Westrich, Ryan",0,,5,80,10,-.083,12,2,1,15,2,51,0,35,66,256,0,0,81,5,105,0,0,0,0,36,0,0.01,0.19,1.31,0.00,0.44,0.45
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Amon Pulla, Christopher",0,,13,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Brown, Mekkhai",0,,8,49,12,.243,144,23,58,4,0,24,0,2,7,24,0,0,0,0,26,24,6,20,4,74,0,1.18,0.08,0.53,0.49,0.04,1.51
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Capers, Jonah",0,,10,4,0,.125,16,4,6,0,0,0,0,1,1,6,0,0,1,0,1,0,0,0,0,7,0,1.50,0.00,0.25,0.00,0.25,1.75
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Cascone, Brady",0,,17,89,27,.200,689,147,285,12,2,69,0,16,65,271,0,0,428,15,116,15,4,8,7,312,0,3.20,0.13,1.30,0.17,0.18,3.51
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Lindstrom, Logan",0,,2,13,0,.211,19,4,8,1,0,9,0,3,4,40,0,0,0,0,5,3,1,0,3,14,0,0.62,0.08,0.38,0.23,0.23,1.08
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Roman, Mateo",0,,14,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Tracz, Jan",0,,1,99,30,.391,363,41,183,4,2,37,0,47,91,408,0,0,5,1,66,64,12,48,16,270,0,1.85,0.04,0.67,0.65,0.47,2.73
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Van Valkenburgh, Trevor",0,,21,26,2,.289,83,17,41,2,1,10,0,3,12,52,0,0,50,2,34,2,1,1,1,45.5,0,1.58,0.08,1.31,0.08,0.12,1.75
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Yap, Abraham",0,,3,8,0,.000,0,0,0,2,1,9,0,0,0,5,0,0,28,0,7,0,0,0,0,0,0,0.00,0.25,0.88,0.00,0.00,0.00
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Council, Chris",0,,6,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Hidalgo, Justin",0,,20,7,0,.306,36,5,16,0,1,6,0,3,7,18,0,0,22,2,7,0,0,0,0,19,0,2.29,0.00,1.00,0.00,0.43,2.71
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Ramapo,"Mamood Nasher, Shah",0,,12,11,3,.000,23,8,8,0,0,2,0,0,0,2,0,0,0,0,3,4,1,4,0,10,0,0.73,0.00,0.27,0.36,0.00,0.91
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"McGehee, Mike",0,,23,58,8,.054,149,42,50,5,0,30,0,8,16,170,0,0,1,1,62,16,6,16,0,66,0,0.86,0.09,1.07,0.28,0.14,1.14
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Aguilar, Nate",0,,21,60,16,.302,189,29,86,7,0,24,0,4,25,111,0,0,2,1,21,31,4,28,3,107,0,1.43,0.12,0.35,0.52,0.07,1.78
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"De Souza, Victor",0,,9,93,29,.292,373,61,170,13,2,49,0,19,39,300,0,0,9,0,45,71,13,54,17,233,1,1.83,0.14,0.48,0.76,0.20,2.51
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Casais, Alex",0,,22,97,31,.119,135,21,37,992,21,2148,0,24,36,421,0,0,4,1,157,30,2,27,3,77.5,5,0.38,10.23,1.62,0.31,0.25,0.80
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Perales, Amaru",0,,20,24,7,.304,56,9,26,3,1,14,0,0,13,42,0,0,1,0,8,12,0,11,1,32.5,0,1.08,0.13,0.33,0.50,0.00,1.35
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Bhatti, Faraz",0,,5,36,0,.000,12,2,2,141,2,242,0,8,11,90,0,0,2,0,18,4,2,2,2,13,0,0.06,3.92,0.50,0.11,0.22,0.36
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Pardasie, Marcus",0,,10,103,29,.313,998,140,452,32,4,128,0,33,44,420,0,0,580,14,223,34,1,22,12,508,2,4.39,0.31,2.17,0.33,0.32,4.93
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Walker, Justin",0,,1,61,14,.238,261,48,110,3,1,22,0,3,10,57,0,0,1,1,42,24,4,21,3,126.5,1,1.80,0.05,0.69,0.39,0.05,2.07
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Paige, Nas",0,,2,31,6,.136,118,27,43,5,0,13,0,8,14,84,0,0,118,9,26,4,4,1,3,54.5,0,1.39,0.16,0.84,0.13,0.26,1.76
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Harte, Mikey",0,,3,37,3,.210,62,11,24,2,1,6,0,11,16,76,0,0,62,5,31,2,0,2,0,36,0,0.65,0.05,0.84,0.05,0.30,0.97
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Matute, Anthony",0,,4,92,0,.250,12,1,4,36,2,143,0,0,0,1,0,0,501,34,231,0,0,0,0,4,0,0.04,0.39,2.51,0.00,0.00,0.04
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Peralta, Matt",0,,6,84,25,.245,554,114,250,20,1,81,0,27,72,239,0,0,352,36,151,23,0,18,5,291,0,2.98,0.24,1.80,0.27,0.32,3.46
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Phan, Kevin",0,,7,31,0,.125,8,1,2,6,0,23,0,0,2,16,0,0,69,4,43,0,0,0,0,2,0,0.06,0.19,1.39,0.00,0.00,0.06
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Bacuilima, Erick",0,,8,59,3,-.077,13,4,3,52,4,131,0,3,8,145,0,0,88,7,93,0,0,0,0,6,0,0.05,0.88,1.58,0.00,0.05,0.10
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Vaidyan, Johan",0,,11,47,11,.272,114,20,51,2,0,7,0,12,20,117,0,0,0,0,16,30,0,22,8,82,0,1.09,0.04,0.34,0.64,0.26,1.74
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Domingues, Yuri",0,,12,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"McSorley, Matthew",0,,14,25,4,.342,79,8,35,1,1,13,0,6,7,58,0,0,3,0,19,12,2,8,4,49,0,1.40,0.04,0.76,0.48,0.24,1.96
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Ayllon, Robert",0,,18,11,2,.255,47,9,21,1,0,5,0,8,4,31,0,0,29,1,12,1,2,1,0,29.5,0,1.91,0.09,1.09,0.09,0.73,2.68
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"LaSalle, Damon",0,,19,29,7,.111,54,14,20,1,0,7,0,6,5,47,0,0,3,0,5,12,1,10,2,33,0,0.69,0.03,0.17,0.41,0.21,1.14
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,NJCU,"Brown, Solomon",0,,13,14,3,.405,42,5,22,0,0,2,0,0,2,10,0,0,2,0,14,7,2,6,1,26,0,1.57,0.00,1.00,0.50,0.00,1.86
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Millias, Brandon",0,,23,49,14,.239,67,4,20,457,10,1119,0,8,11,227,0,0,6,3,85,10,2,10,0,33,2,0.41,9.33,1.73,0.20,0.16,0.67
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Garcia, Jonathan",0,,3,17,0,-.500,2,1,0,1,0,5,0,1,5,21,0,0,18,1,14,0,0,0,0,1,0,0.00,0.06,0.82,0.00,0.06,0.06
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Flores, David",0,,6,66,11,-.114,35,9,5,385,7,933,0,4,16,235,0,0,2,0,89,4,1,4,0,11,0,0.08,5.83,1.35,0.06,0.06,0.17
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Flinn, Aidan",0,,8,81,24,.173,510,92,180,12,4,76,0,12,46,310,0,0,493,19,152,22,3,16,6,206,0,2.22,0.15,1.88,0.27,0.15,2.54
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"McSorley, Michael",0,,4,48,3,.080,88,14,21,4,3,12,0,1,5,90,0,0,1,1,22,13,2,12,1,29,0,0.44,0.08,0.46,0.27,0.02,0.60
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Mitchell, Chris",0,,12,78,24,.284,749,102,315,8,1,46,0,14,37,259,0,0,13,0,122,39,3,31,8,352.5,0,4.04,0.10,1.56,0.50,0.18,4.52
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Pugliano, Danny",0,,15,84,24,.343,388,67,200,10,2,36,0,17,47,249,0,0,17,0,42,52,2,48,4,245,1,2.38,0.12,0.50,0.62,0.20,2.92
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Marcheschi, Zach",0,,25,18,0,-.056,18,4,3,0,0,3,0,1,7,34,0,0,0,0,5,1,0,1,0,4.5,0,0.17,0.00,0.28,0.06,0.06,0.25
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Quinn, Tyler",0,,22,87,0,.000,21,4,4,51,0,179,0,0,0,2,0,0,525,19,251,0,0,0,0,4,1,0.05,0.59,2.89,0.00,0.00,0.05
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"String, Owen",0,,2,10,0,.302,43,8,21,1,0,4,0,0,3,7,0,0,0,0,2,1,1,1,0,21.5,0,2.10,0.10,0.20,0.10,0.00,2.15
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"St. Foi, Dan",0,,1,7,0,.412,17,2,9,0,0,3,0,1,3,15,0,0,14,1,8,1,0,0,1,11,0,1.29,0.00,1.14,0.14,0.14,1.57
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Duran, Wady",0,,5,8,0,.000,2,0,0,31,0,74,0,1,6,19,0,0,0,0,5,1,1,1,0,1.5,1,0.00,3.88,0.63,0.13,0.13,0.19
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Fregenti, Armen",0,,9,4,0,.000,0,0,0,1,0,2,0,2,2,16,0,0,3,0,2,0,0,0,0,2,0,0.00,0.25,0.50,0.00,0.50,0.50
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Murphy, Sean",0,,11,67,22,.099,304,76,106,10,2,43,0,13,40,211,0,0,290,13,82,18,6,14,4,130,0,1.58,0.15,1.22,0.27,0.19,1.94
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Huzar, Nick",0,,21,78,23,.327,220,33,105,4,1,17,0,2,6,86,0,0,7,0,27,45,10,36,9,134,0,1.35,0.05,0.35,0.58,0.03,1.72
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Iozzi, Tyler",0,,20,40,4,.128,109,22,36,5,0,28,0,1,15,92,0,0,159,8,40,13,8,10,3,45,0,0.90,0.13,1.00,0.33,0.03,1.13
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Shearn, Machi",0,,18,8,1,.462,13,2,8,0,0,1,0,1,4,13,0,0,0,0,1,7,1,5,2,13.5,0,1.00,0.00,0.13,0.88,0.13,1.69
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Danville, Ro",0,,17,8,0,.048,21,6,7,0,0,2,0,1,4,13,0,0,10,0,0,1,0,1,0,8.5,0,0.88,0.00,0.00,0.13,0.13,1.06
+njac,New Jersey Athletic Conference (NJAC),2025-26,mvball,Kean,"Conte, Samir",0,,16,4,0,.000,6,2,2,0,0,0,0,0,1,5,0,0,0,0,1,2,0,2,0,3,0,0.50,0.00,0.25,0.50,0.00,0.75

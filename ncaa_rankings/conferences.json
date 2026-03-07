@@ -1,0 +1,236 @@
+[
+  {
+    "code": "amcc",
+    "name": "Allegheny Mountain Collegiate Conference (AMCC)",
+    "base_url": "http://www.amccsports.org",
+    "platform": "presto"
+  },
+  {
+    "code": "arc",
+    "name": "American Rivers Conference (ARC)",
+    "base_url": "http://www.iowaconference.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "aec",
+    "name": "Atlantic East Conference (AEC)",
+    "base_url": "https://atlanticeast.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "asc",
+    "name": "American Southwest Conference (ASC)",
+    "base_url": "http://www.ascsports.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "centennial_conference",
+    "name": "Centennial Conference",
+    "base_url": "http://www.centennial.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "cciw",
+    "name": "College Conference of Illinois and Wisconsin (CCIW)",
+    "base_url": "http://www.cciw.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "ccc",
+    "name": "The Commonwealth Coast Conference (CCC)",
+    "base_url": "http://www.cccathletics.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "e8",
+    "name": "Empire 8 (E8)",
+    "base_url": "http://www.empire8.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "gnac",
+    "name": "Great Northeast Athletic Conference (GNAC)",
+    "base_url": "http://www.thegnac.com",
+    "platform": "presto"
+  },
+  {
+    "code": "hcac",
+    "name": "Heartland Collegiate Athletic Conference (HCAC)",
+    "base_url": "http://www.heartlandconf.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "landmark_conference",
+    "name": "Landmark Conference",
+    "base_url": "http://www.landmarkconference.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "ll",
+    "name": "Liberty League (LL)",
+    "base_url": "http://www.libertyleagueathletics.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "lec",
+    "name": "Little East Conference (LEC)",
+    "base_url": "http://www.littleeast.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "mascac",
+    "name": "Massachusetts State Collegiate Athletic Conference (MASCAC)",
+    "base_url": "http://www.mascac.com",
+    "platform": "presto"
+  },
+  {
+    "code": "miaa",
+    "name": "Michigan Intercollegiate Athletic Association (MIAA)",
+    "base_url": "http://www.miaa.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "mac",
+    "name": "Middle Atlantic Conferences (MAC)",
+    "base_url": "http://www.gomacsports.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "mwc",
+    "name": "Midwest Conference (MWC)",
+    "base_url": "http://www.midwestconference.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "miac",
+    "name": "Minnesota Intercollegiate Athletic Conference (MIAC)",
+    "base_url": "http://www.miacathletics.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "nescac",
+    "name": "New England Small College Athletic Conference (NESCAC)",
+    "base_url": "http://www.nescac.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "newmac",
+    "name": "New England Women's and Men's Athletic Conference (NEWMAC)",
+    "base_url": "http://www.newmacsports.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "njac",
+    "name": "New Jersey Athletic Conference (NJAC)",
+    "base_url": "http://www.njacsports.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "nac",
+    "name": "North Atlantic Conference (NAC)",
+    "base_url": "http://www.nacathletics.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "ncac",
+    "name": "North Coast Athletic Conference (NCAC)",
+    "base_url": "http://www.northcoast.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "north_eastern_athletic_c",
+    "name": "North Eastern Athletic Conference",
+    "base_url": "http://www.neacsports.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "nacc",
+    "name": "Northern Athletics Collegiate Conference (NACC)",
+    "base_url": "http://www.naccsports.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "nwc",
+    "name": "Northwest Conference (NWC)",
+    "base_url": "http://www.nwcsports.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "oac",
+    "name": "Ohio Athletic Conference (OAC)",
+    "base_url": "http://www.oac.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "odac",
+    "name": "Old Dominion Athletic Conference (ODAC)",
+    "base_url": "http://www.odaconline.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "pac",
+    "name": "Presidents Athletic Conference (PAC)",
+    "base_url": "http://www.pacathletics.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "sliac",
+    "name": "St. Louis Intercollegiate Athletic Conference (SLIAC)",
+    "base_url": "http://www.sliac.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "skyline_conference",
+    "name": "Skyline Conference",
+    "base_url": "http://www.skylineconference.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "sciac",
+    "name": "Southern California Intercollegiate Athletic Conference (SCIAC)",
+    "base_url": "http://www.thesciac.org",
+    "platform": "sidearm"
+  },
+  {
+    "code": "saa",
+    "name": "Southern Athletic Association (SAA)",
+    "base_url": "http://www.saa-sports.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "sunyac",
+    "name": "State University of New York Athletic Conference (SUNYAC)",
+    "base_url": "http://www.sunyacsports.com",
+    "platform": "presto"
+  },
+  {
+    "code": "uaa",
+    "name": "University Athletic Association (UAA)",
+    "base_url": "http://www.uaasports.info",
+    "platform": "sidearm"
+  },
+  {
+    "code": "umac",
+    "name": "Upper Midwest Athletic Conference (UMAC)",
+    "base_url": "http://www.umacathletics.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "usa_south_athletic_confe",
+    "name": "USA South Athletic Conference",
+    "base_url": "http://www.usasouth.net",
+    "platform": "sidearm"
+  },
+  {
+    "code": "wiac",
+    "name": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
+    "base_url": "http://www.wiacsports.com",
+    "platform": "sidearm"
+  },
+  {
+    "code": "c2c",
+    "name": "Coast-To-Coast Athletic Conference (C2C)",
+    "base_url": "https://www.c2csports.com",
+    "platform": "c2c"
+  }
+]

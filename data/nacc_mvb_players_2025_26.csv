@@ -1,0 +1,243 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,attack_stats_hitting_pct,attack_stats_attempts,attack_stats_errors,attack_stats_kills,set_stats_assists,set_stats_errors,set_stats_attempts,set_stats_set_pct,serve_stats_aces,serve_stats_errors,serve_stats_attempts,serve_stats_serve_pct,defense_stats_defense_pct,defense_stats_attempts,defense_stats_receptions,defense_stats_digs,block_stats_total,block_stats_errors,block_stats_assists,block_stats_solos,misc_stats_points,misc_stats_ball_handling_errors,per_set_stats_kills,per_set_stats_assists,per_set_stats_digs,per_set_stats_blocks,per_set_stats_aces,per_set_stats_points
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Meier, Lucas",0,,13,40,7,.281,203,30,87,3,0,7,0,0,2,2,0,0,50,5,18,17,1,16,1,96,0,2.18,0.08,0.45,0.43,0.00,2.40
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Anderson, Nathan",0,,2,64,0,.250,4,0,1,8,1,24,0,3,5,93,0,0,55,2,52,0,0,0,0,4,0,0.02,0.13,0.81,0.00,0.05,0.06
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Dail, Solomon",0,,17,59,21,.203,251,45,96,4,0,14,0,2,4,29,0,0,1,0,24,32,2,26,6,117,0,1.63,0.07,0.41,0.54,0.03,1.98
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Maglaya, Ayden",0,,10,8,2,-.200,5,2,1,0,0,0,0,0,5,7,0,0,10,2,3,0,0,0,0,1,0,0.13,0.00,0.38,0.00,0.00,0.13
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"McKee, Martin",0,,14,27,5,.250,80,14,34,1,0,6,0,5,7,44,0,0,2,0,5,21,1,17,4,51.5,0,1.26,0.04,0.19,0.78,0.19,1.91
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Nonhof, Alex",0,,4,99,0,.143,21,0,3,60,2,216,0,0,0,0,0,0,446,19,295,0,0,0,0,3,0,0.03,0.61,2.98,0.00,0.00,0.03
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Rodarte, Gunner",0,,27,12,4,.125,48,10,16,0,0,0,0,0,3,12,0,0,2,2,5,12,0,12,0,22,0,1.33,0.00,0.42,1.00,0.00,1.83
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Vescova, AJ",0,,11,7,0,.500,4,0,2,20,0,47,0,0,4,18,0,0,0,0,3,0,0,0,0,2,0,0.29,2.86,0.43,0.00,0.00,0.29
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Wiatrowski, Reece",0,,21,71,0,-.500,2,1,0,3,0,12,0,8,21,166,0,0,0,0,13,0,0,0,0,8,0,0.00,0.04,0.18,0.00,0.11,0.11
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Gobetz, Conor",0,,1,3,0,.000,0,0,0,0,0,1,0,1,0,6,0,0,0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.33,0.33
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Kane, Ethan",0,,23,14,5,.367,49,10,28,0,0,3,0,1,3,33,0,0,1,0,2,8,0,8,0,33,0,2.00,0.00,0.14,0.57,0.07,2.36
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Scharosch, Mateo",0,,25,64,23,.174,293,63,114,7,0,33,0,27,44,282,0,0,344,9,75,16,6,15,1,149.5,0,1.78,0.11,1.17,0.25,0.42,2.34
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Schober, Derek",0,,5,9,0,.000,0,0,0,0,0,0,0,0,7,14,0,0,1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Brouwer, Logan",0,,24,103,47,.265,136,17,53,1020,12,2434,0,43,92,419,0,0,6,0,182,64,4,57,7,131.5,2,0.51,9.90,1.77,0.62,0.42,1.28
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"McLellan, Josh",0,,7,101,43,.308,930,127,413,6,4,59,0,18,49,323,0,0,368,23,139,42,1,38,4,454,0,4.09,0.06,1.38,0.42,0.18,4.50
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Carroll, Connor",0,,12,85,24,.178,304,50,104,22,0,52,0,20,48,248,0,0,287,9,141,16,1,15,1,132.5,0,1.22,0.26,1.66,0.19,0.24,1.56
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Ciszewski, Sebastian",0,,16,100,45,.330,348,51,166,7,1,21,0,18,53,331,0,0,9,2,51,90,0,73,17,237.5,0,1.66,0.07,0.51,0.90,0.18,2.38
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Pfeil, Stuart",0,,18,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Zukley, Xavier",0,,19,2,0,-.222,9,3,1,1,0,1,0,0,0,2,0,0,4,1,1,0,1,0,0,1,0,0.50,0.50,0.50,0.00,0.00,0.50
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Dwyer, Luke",0,,22,17,0,.500,6,0,3,68,0,158,0,4,12,42,0,0,0,0,13,0,0,0,0,7,0,0.18,4.00,0.76,0.00,0.24,0.41
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Kirwan, Nathan",0,,6,84,9,.036,83,14,17,16,0,42,0,23,48,280,0,0,275,14,134,8,0,8,0,44,1,0.20,0.19,1.60,0.10,0.27,0.52
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Chlebek, Nathan",0,,9,5,0,.000,1,0,0,0,0,0,0,0,0,7,0,0,0,0,1,0,0,0,0,0,0,0.00,0.00,0.20,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Nelson, SJ",0,,15,49,10,.261,272,33,104,2,0,16,0,10,16,79,0,0,2,1,57,17,2,14,3,124,0,2.12,0.04,1.16,0.35,0.20,2.53
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Aurora,"Brzovic, Ammar",0,,20,81,37,.348,273,35,130,3,1,25,0,7,26,130,0,0,3,1,22,81,6,69,12,183.5,0,1.60,0.04,0.27,1.00,0.09,2.27
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Armstrong, Cooper",0,,10,81,34,.285,565,86,247,34,1,98,0,18,39,306,0,0,356,20,172,66,5,57,9,302.5,0,3.05,0.42,2.12,0.81,0.22,3.73
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Thomas, Jacob",0,,15,83,31,.363,267,26,123,1,1,23,0,0,6,38,0,0,8,1,20,89,10,86,3,169,1,1.48,0.01,0.24,1.07,0.00,2.04
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Feudner, Zander",0,,4,98,22,-.091,11,1,0,49,1,127,0,8,19,261,0,0,392,13,169,0,0,0,0,8,0,0.00,0.50,1.72,0.00,0.08,0.08
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Samaras, Trace",0,,7,85,9,.142,310,51,95,6,1,43,0,0,3,104,0,0,42,0,43,25,3,21,4,109.5,0,1.12,0.07,0.51,0.29,0.00,1.29
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Cardenas, Jordan",0,,1,102,3,.106,47,12,17,62,1,174,0,0,3,26,0,0,516,21,237,3,0,2,1,19,0,0.17,0.61,2.32,0.03,0.00,0.19
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"O'Toole, Eoin",0,,17,96,39,.270,311,38,122,5,1,38,0,15,33,341,0,0,5,1,45,114,5,101,13,200.5,2,1.27,0.05,0.47,1.19,0.16,2.09
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"VanEngen, Spencer",0,,3,103,41,.269,283,24,100,956,25,2372,0,17,83,372,0,0,5,2,197,94,3,80,14,171,2,0.97,9.28,1.91,0.91,0.17,1.66
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Sullivan, Shawn",0,,6,29,12,.253,95,14,38,3,1,18,0,1,6,26,0,0,0,0,14,33,3,26,7,59,0,1.31,0.10,0.48,1.14,0.03,2.03
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Radomski, Chris",0,,9,98,39,.248,820,143,346,25,0,113,0,20,60,381,0,0,450,25,183,46,4,43,3,390.5,0,3.53,0.26,1.87,0.47,0.20,3.98
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Vlahos, Tommy",0,,22,1,0,.000,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.0,0,0.00,0.00,0.00,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Lambert, Tucker",0,,18,54,14,.255,326,53,136,5,2,26,0,17,33,166,0,0,37,4,46,33,0,24,9,174,0,2.52,0.09,0.85,0.61,0.31,3.22
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Dmochowski, Connor",0,,2,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Iglesias Grahn, Fausto",0,,5,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Radi, Will",0,,8,4,0,.000,0,0,0,0,0,0,0,0,1,18,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Herre, Connor",0,,12,82,0,1.000,1,0,1,7,2,21,0,5,18,281,0,0,46,2,42,0,0,0,0,6,0,0.01,0.09,0.51,0.00,0.06,0.07
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Pontarelli, Christian",0,,13,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Urtel, Jackson",0,,16,4,1,.000,21,6,6,0,0,0,0,0,0,0,0,0,0,0,3,4,1,4,0,8.0,0,1.50,0.00,0.75,1.00,0.00,2.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Steuck, Matthew",0,,8,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Lindsay, Jaron",0,,10,5,1,.175,40,6,13,1,0,2,0,0,4,13,0,0,0,0,3,4,0,3,1,15.5,0,2.60,0.20,0.60,0.80,0.00,3.10
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Vedder, Hunter",0,,13,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Cartagena Jr., Andre",0,,14,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Supanich, Zach",0,,16,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Benedictine,"Sioco, Tyler",0,,24,2,0,.000,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0.0,0,0.00,0.00,0.00,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Shavitz, Carter",0,,10,1,0,.000,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Clausz, Tommy",0,,12,92,43,.340,376,53,181,11,1,69,0,19,55,340,0,0,28,0,76,98,8,74,24,261,0,1.97,0.12,0.83,1.07,0.21,2.84
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Glashagel, Ian",0,,23,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Chavez, Matthew",0,,7,13,2,.000,6,1,1,47,1,125,0,0,0,11,0,0,2,0,14,0,0,0,0,1,0,0.08,3.62,1.08,0.00,0.00,0.08
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Zippay, James",0,,15,85,15,.160,231,31,68,37,1,136,0,5,16,124,0,0,525,21,212,7,1,6,1,77,0,0.80,0.44,2.49,0.08,0.06,0.91
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Wolf, John",0,,17,6,0,.176,17,2,5,1,0,4,0,0,2,13,0,0,0,0,2,3,0,3,0,6.5,0,0.83,0.17,0.33,0.50,0.00,1.08
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Thomas, Seth",0,,1,84,39,.186,636,97,215,15,1,84,0,32,55,321,0,0,432,18,157,31,4,27,4,264.5,1,2.56,0.18,1.87,0.37,0.38,3.15
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Harris, Callan",0,,2,87,39,.221,813,154,334,15,3,86,0,23,66,295,0,0,7,0,205,52,2,44,8,387,0,3.84,0.17,2.36,0.60,0.26,4.45
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Llona Baez, Antonio",0,,9,49,13,.092,271,50,75,5,0,39,0,10,31,159,0,0,189,2,93,8,1,6,2,90,0,1.53,0.10,1.90,0.16,0.20,1.84
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Schultz, Matthew",0,,11,96,44,.351,373,37,168,18,3,69,0,16,53,297,0,0,13,4,69,82,3,71,11,230.5,0,1.75,0.19,0.72,0.85,0.17,2.40
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Rings, Parker",0,,16,96,42,.166,151,16,41,924,16,2301,0,12,17,451,0,0,1,1,186,53,2,48,5,82,2,0.43,9.63,1.94,0.55,0.13,0.85
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Topor, Filip",0,,14,1,0,.000,1,0,0,0,0,1,0,0,1,2,0,0,0,0,0,1,0,1,0,0.5,0,0.00,0.00,0.00,1.00,0.00,0.50
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Phillips, Jackson",0,,21,56,0,.000,11,0,0,26,2,128,0,0,2,8,0,0,342,14,138,0,0,0,0,0,0,0.00,0.46,2.46,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Nesemann, Brendan",0,,22,10,0,.027,37,9,10,0,0,2,0,0,0,0,0,0,0,0,5,5,0,5,0,12.5,0,1.00,0.00,0.50,0.50,0.00,1.25
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Kubon, Gregory",0,,3,42,21,.107,233,46,71,3,2,39,0,12,29,145,0,0,208,6,72,17,2,16,1,92,0,1.69,0.07,1.71,0.40,0.29,2.19
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Carroll, Hunter",0,,5,8,1,.125,8,1,2,0,0,2,0,0,4,12,0,0,1,0,4,3,0,3,0,3.5,1,0.25,0.00,0.50,0.38,0.00,0.44
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"O'Reggio, Sol",0,,20,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,MSOE,"Kozak, Quinn",0,,16,11,5,.063,64,15,19,1,0,11,0,1,5,31,0,0,0,0,15,6,1,5,1,23.5,0,1.73,0.09,1.36,0.55,0.09,2.14
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Barnett, Ryan",0,,2,47,1,.250,4,0,1,3,0,14,0,2,13,119,0,0,13,0,13,0,0,0,0,3,0,0.02,0.06,0.28,0.00,0.04,0.06
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Morrow, Owen",0,,3,69,22,.304,79,4,28,573,22,1365,0,10,13,253,0,0,6,0,122,9,1,8,1,43,2,0.41,8.30,1.77,0.13,0.14,0.62
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Cossyleon, Nathaniel",0,,4,49,15,.227,211,40,88,3,1,28,0,15,48,142,0,0,1,0,51,11,0,11,0,108.5,1,1.80,0.06,1.04,0.22,0.31,2.21
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Marrs, Aaron",0,,9,61,12,.205,176,30,66,5,1,28,0,10,22,139,0,0,168,11,62,14,0,11,3,84.5,0,1.08,0.08,1.02,0.23,0.16,1.39
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Dahman, Tanner",0,,10,76,32,.247,421,66,170,10,2,78,0,29,65,241,0,0,349,19,118,23,4,20,3,212,0,2.24,0.13,1.55,0.30,0.38,2.79
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Van Assen, Kade",0,,19,26,2,.000,2,0,0,13,0,25,0,1,0,1,0,0,0,0,3,4,1,4,0,3,0,0.00,0.50,0.12,0.15,0.04,0.12
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Kougan, Jason",0,,17,50,19,.278,90,12,37,4,2,21,0,6,21,192,0,0,6,0,40,34,1,31,3,61.5,0,0.74,0.08,0.80,0.68,0.12,1.23
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Vrska, Tyler",0,,8,69,0,-.100,10,2,1,26,2,82,0,0,0,0,0,0,248,20,112,0,0,0,0,1,0,0.01,0.38,1.62,0.00,0.00,0.01
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Greco, Michael",0,,12,51,26,.352,145,12,63,7,1,22,0,0,3,7,0,0,2,0,7,44,2,31,13,91.5,0,1.24,0.14,0.14,0.86,0.00,1.79
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Valdez, David",0,,16,2,0,.000,0,0,0,4,0,18,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0.00,2.00,0.50,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Goss, Casey",0,,20,57,18,.226,412,72,165,8,4,41,0,21,47,211,0,0,5,1,98,22,0,20,2,198,0,2.89,0.14,1.72,0.39,0.37,3.47
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Geschke, Ty",0,,7,76,33,.287,613,99,275,14,11,86,0,15,56,241,0,0,365,8,99,38,1,34,4,311,0,3.62,0.18,1.30,0.50,0.20,4.09
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Johnson, Richie",0,,5,3,0,.278,18,1,6,0,0,0,0,0,1,4,0,0,7,0,1,1,0,1,0,6.5,0,2.00,0.00,0.33,0.33,0.00,2.17
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Henderson, Grant",0,,11,64,0,.111,9,1,2,27,1,97,0,0,0,0,0,0,289,7,126,0,0,0,0,2,0,0.03,0.42,1.97,0.00,0.00,0.03
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Hirsch, Thomas",0,,15,67,28,.338,204,27,96,4,0,44,0,4,18,215,0,0,7,0,44,41,1,32,9,125,0,1.43,0.06,0.66,0.61,0.06,1.87
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Diaz, Landon",0,,6,24,8,.302,53,7,23,4,1,14,0,2,4,61,0,0,0,0,17,31,1,26,5,43,0,0.96,0.17,0.71,1.29,0.08,1.79
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Kassulke, Landon",0,,13,55,17,.085,59,8,13,308,9,715,0,3,14,102,0,0,1,0,48,10,0,9,1,21.5,0,0.24,5.60,0.87,0.18,0.05,0.39
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Dominican,"Esparza, Kendall",0,,14,41,13,.314,175,27,82,4,1,28,0,9,23,119,0,0,122,5,45,6,0,4,2,95,1,2.00,0.10,1.10,0.15,0.22,2.32
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Holubek, Tyler",0,,9,79,34,.198,803,164,323,15,3,70,0,14,38,290,0,0,259,10,173,39,1,30,9,361,0,4.09,0.19,2.19,0.49,0.18,4.57
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Mosher, Elijah",0,,11,104,43,.344,157,18,72,1002,21,2502,0,13,44,353,0,0,9,1,262,45,3,41,4,109.5,5,0.69,9.63,2.52,0.43,0.13,1.05
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Gaetto, Van",0,,15,104,0,-.063,16,2,1,56,3,219,0,0,0,0,0,0,447,30,289,0,0,0,0,1,0,0.01,0.54,2.78,0.00,0.00,0.01
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Arif, Ayaaz",0,,5,50,2,.286,21,1,7,1,0,7,0,9,17,151,0,0,2,1,17,4,0,3,1,18.5,0,0.14,0.02,0.34,0.08,0.18,0.37
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Hoffman, Marcin",0,,10,97,41,.192,635,93,215,26,0,86,0,8,52,291,0,0,668,31,198,35,2,32,3,242,0,2.22,0.27,2.04,0.36,0.08,2.49
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Stella, Jackson",0,,17,88,30,.155,579,91,181,4,0,34,0,26,59,262,0,0,5,0,92,41,0,37,4,229.5,0,2.06,0.05,1.05,0.47,0.30,2.61
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Gudzovski, Leon",0,,18,92,41,.238,273,47,112,3,1,35,0,19,40,233,0,0,6,0,25,74,1,65,9,172.5,0,1.22,0.03,0.27,0.80,0.21,1.88
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Beckman, Sean",0,,19,4,1,.125,32,6,10,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,10,0,2.50,0.00,1.00,0.00,0.00,2.50
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Caminar, Tristan",0,,1,28,10,.176,165,26,55,5,0,20,0,1,6,39,0,0,67,3,35,7,0,6,1,60,0,1.96,0.18,1.25,0.25,0.04,2.14
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Cardines, Michael",0,,4,92,2,.000,8,1,1,26,1,68,0,10,27,195,0,0,309,15,110,0,0,0,0,11,0,0.01,0.28,1.20,0.00,0.11,0.12
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Armstrong, Tyrise",0,,7,31,8,.084,167,38,52,1,0,14,0,0,10,32,0,0,63,3,23,7,1,7,0,55.5,0,1.68,0.03,0.74,0.23,0.00,1.79
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Ford, Alexander",0,,8,90,39,.267,408,55,164,6,4,37,0,10,49,237,0,0,8,0,43,80,4,68,12,220,0,1.82,0.07,0.48,0.89,0.11,2.44
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Johnson, Tate",0,,12,20,7,.067,75,18,23,1,1,13,0,1,15,49,0,0,49,5,20,4,1,4,0,26,0,1.15,0.05,1.00,0.20,0.05,1.30
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Damasceno, Ildeu",0,,21,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Chicago,"Ekstrom, Avery",0,,23,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Stube, John",0,,17,15,3,.111,18,3,5,1,0,5,0,2,1,21,0,0,0,0,3,2,0,1,1,8.5,0,0.33,0.07,0.20,0.13,0.13,0.57
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Peck, Boston",0,,16,59,4,.000,3,0,0,9,2,40,0,6,29,130,0,0,30,4,25,0,0,0,0,6,0,0.00,0.15,0.42,0.00,0.10,0.10
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Knezevich, Owen",0,,18,66,23,.091,285,76,102,5,2,34,0,5,3,82,0,0,144,5,32,14,1,11,3,115.5,0,1.55,0.08,0.48,0.21,0.08,1.75
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Nelson, Kade",0,,6,84,32,.340,288,32,130,4,2,31,0,30,53,321,0,0,4,1,48,61,4,43,18,199.5,1,1.55,0.05,0.57,0.73,0.36,2.38
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Kornaus, Kaden",0,,8,82,34,.186,597,121,232,15,1,74,0,10,38,275,0,0,524,20,124,20,2,15,5,254.5,0,2.83,0.18,1.51,0.24,0.12,3.10
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Perhach, Jack",0,,15,14,1,.000,0,0,0,1,0,4,0,4,5,26,0,0,10,2,8,0,0,0,0,4,0,0.00,0.07,0.57,0.00,0.29,0.29
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Conway, Ryan",0,,5,87,0,-.107,28,4,1,33,3,119,0,0,0,0,0,0,402,20,160,0,0,0,0,1,0,0.01,0.38,1.84,0.00,0.00,0.01
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Zlatkovic, Nikola",0,,14,9,4,.095,21,6,8,0,0,3,0,2,3,21,0,0,1,0,3,3,1,3,0,11.5,0,0.89,0.00,0.33,0.33,0.22,1.28
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Whitney, Michael",0,,20,83,33,.170,165,26,54,747,15,1725,0,26,80,268,0,0,4,1,134,31,7,22,9,100,2,0.65,9.00,1.61,0.37,0.31,1.20
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Applewhite, Barry",0,,3,84,31,.307,277,47,132,7,1,42,0,3,18,82,0,0,8,4,32,44,5,37,7,160.5,0,1.57,0.08,0.38,0.52,0.04,1.91
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Fleming, Tommy",0,,2,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Bettag, Grant",0,,4,10,5,.563,16,0,9,1,0,2,0,5,4,27,0,0,0,0,8,5,1,5,0,16.5,0,0.90,0.10,0.80,0.50,0.50,1.65
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"La Blanc, Wade",0,,10,20,2,.132,53,13,20,2,0,10,0,0,3,10,0,0,0,0,9,11,1,9,2,26.5,0,1.00,0.10,0.45,0.55,0.00,1.33
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Van Ooyen, Jacob",0,,11,60,8,.068,207,49,63,12,1,38,0,10,18,191,0,0,215,12,64,7,0,5,2,77.5,0,1.05,0.20,1.07,0.12,0.17,1.29
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Werner, Mason",0,,13,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Grassl, Ethan",0,,21,23,3,.000,22,6,6,87,1,224,0,5,11,52,0,0,0,0,17,1,0,0,1,12,0,0.26,3.78,0.74,0.04,0.22,0.52
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Kornaus, Bennett",0,,22,82,31,.256,578,91,239,21,1,68,0,16,19,260,0,0,95,12,191,28,1,27,1,269.5,0,2.91,0.26,2.33,0.34,0.20,3.29
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Doty, Cam",0,,24,44,4,.239,109,19,45,5,1,14,0,12,32,121,0,0,95,12,28,3,0,3,0,58.5,0,1.02,0.11,0.64,0.07,0.27,1.33
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Hanse, Zach",0,,25,59,4,.143,7,0,1,12,1,39,0,2,11,45,0,0,94,8,86,0,0,0,0,3,0,0.02,0.20,1.46,0.00,0.03,0.05
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,St. Norbert,"Budziszewski, Buddy",0,,1,8,0,.000,1,0,0,19,1,41,0,0,2,9,0,0,0,0,0,0,0,0,0,0,0,0.00,2.38,0.00,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Biedenbender, James",0,,17,87,41,.130,131,17,34,627,14,1778,0,14,29,286,0,0,12,0,152,23,2,19,4,61.5,3,0.39,7.21,1.75,0.26,0.16,0.71
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Thammavongsa, Jay",0,,16,50,4,.000,11,2,2,143,4,392,0,14,15,152,0,0,0,0,52,0,0,0,0,16,0,0.04,2.86,1.04,0.00,0.28,0.32
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Salutric, Trevor",0,,3,83,0,.154,13,2,4,8,0,79,0,0,1,5,0,0,494,24,227,1,0,1,0,4.5,0,0.05,0.10,2.73,0.01,0.00,0.05
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Lor, Tshabmoo",0,,6,12,0,-1.000,1,1,0,0,0,2,0,0,11,30,0,0,4,0,1,0,0,0,0,0,0,0.00,0.00,0.08,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Dudor, Samuel",0,,7,71,2,.000,2,0,0,1,1,14,0,4,29,126,0,0,80,7,28,0,0,0,0,4,0,0.00,0.01,0.39,0.00,0.06,0.06
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Haeuser, Connor",0,,11,96,36,.035,286,66,76,44,0,156,0,22,44,284,0,0,474,18,125,14,1,11,3,106.5,0,0.79,0.46,1.30,0.15,0.23,1.11
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Wempner, Drew",0,,15,99,47,.287,453,61,191,9,3,66,0,24,59,288,0,0,2,0,52,74,5,44,30,267,0,1.93,0.09,0.53,0.75,0.24,2.70
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Smith, Will",0,,5,26,8,.194,72,13,27,1,1,11,0,1,4,13,0,0,2,0,5,11,1,9,2,34.5,0,1.04,0.04,0.19,0.42,0.04,1.33
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Kane, Sean",0,,12,24,3,.179,78,21,35,1,0,4,0,5,12,33,0,0,0,0,15,4,0,3,1,42.5,0,1.46,0.04,0.63,0.17,0.21,1.77
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Ward, Josh",0,,20,67,30,.157,159,24,49,4,1,21,0,0,9,33,0,0,3,0,11,53,7,37,16,83.5,0,0.73,0.06,0.16,0.79,0.00,1.25
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Kern, Noah",0,,1,95,45,.142,600,129,214,46,1,174,0,24,63,336,0,0,619,23,172,19,4,14,5,250,3,2.25,0.48,1.81,0.20,0.25,2.63
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Dryier, Ray",0,,2,41,9,.135,141,30,49,10,3,39,0,7,30,92,0,0,146,8,41,9,0,7,2,61.5,0,1.20,0.24,1.00,0.22,0.17,1.50
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Pichler, Brady",0,,8,100,44,.235,947,149,372,16,4,102,0,35,72,342,0,0,5,0,169,58,1,42,16,444,1,3.72,0.16,1.69,0.58,0.35,4.44
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Rau, Carson",0,,9,22,2,-.037,54,14,12,4,0,22,0,5,11,53,0,0,71,7,15,2,0,2,0,18,0,0.55,0.18,0.68,0.09,0.23,0.82
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Geboy, Jacob",0,,14,28,11,.254,67,10,27,2,0,3,0,7,7,69,0,0,0,0,10,12,2,9,3,41.5,0,0.96,0.07,0.36,0.43,0.25,1.48
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Davies, Logan",0,,4,3,0,.000,3,1,1,1,0,3,0,1,0,7,0,0,0,0,0,1,0,1,0,2.5,0,0.33,0.33,0.00,0.33,0.33,0.83
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"O'Connor, Goerge",0,,5,1,0,.500,6,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.0,0,3.00,0.00,0.00,0.00,0.00,3.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Bedalov, Adam",0,,6,13,5,.214,14,1,4,56,1,148,0,0,0,0,0,0,0,0,4,3,0,3,0,5.5,0,0.31,4.31,0.31,0.23,0.00,0.42
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Vogt, Ryder",0,,7,4,0,.000,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0.0,0,0.00,0.00,1.50,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Meloy, Michael",0,,10,1,0,.200,5,1,2,0,0,0,0,0,2,2,0,0,7,2,1,0,0,0,0,2.0,0,2.00,0.00,1.00,0.00,0.00,2.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Hilton, Adonis",0,,13,12,6,.258,93,16,40,4,0,16,0,8,13,45,0,0,59,3,10,4,0,4,0,50,0,3.33,0.33,0.83,0.33,0.67,4.17
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Malaythong, Martin",0,,16,1,0,.000,0,0,0,3,1,10,0,0,0,2,0,0,0,0,1,0,0,0,0,0.0,0,0.00,3.00,1.00,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Wisconsin Lutheran,"Warren, David",0,,18,14,1,.333,3,0,1,81,1,146,0,6,4,72,0,0,0,0,23,0,0,0,0,7,0,0.07,5.79,1.64,0.00,0.43,0.50
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Kebisek, Logan",0,,13,82,25,.320,75,8,32,474,13,1321,0,15,12,251,0,0,2,0,80,8,3,8,0,51,2,0.39,5.78,0.98,0.10,0.18,0.62
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Beres, Lucas",0,,15,85,31,.294,299,47,135,4,1,27,0,22,54,294,0,0,18,0,36,90,9,68,22,213,1,1.59,0.05,0.42,1.06,0.26,2.51
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Gonzales, Kellen",0,,17,42,15,.102,196,41,61,12,2,49,0,7,9,133,0,0,204,4,69,11,3,11,0,73.5,0,1.45,0.29,1.64,0.26,0.17,1.75
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Groll, Benjamin",0,,19,3,0,.200,5,0,1,6,0,13,0,0,0,1,0,0,0,0,1,0,0,0,0,1,2,0.33,2.00,0.33,0.00,0.00,0.33
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Pearson, Parker",0,,8,88,0,.000,10,1,1,23,1,99,0,0,0,0,0,0,524,23,219,0,0,0,0,1,0,0.01,0.26,2.49,0.00,0.00,0.01
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Miller, Tate",0,,10,85,33,.229,510,75,192,25,3,138,0,5,71,295,0,0,460,15,182,45,2,43,2,220.5,1,2.26,0.29,2.14,0.53,0.06,2.59
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Wood, Will",0,,21,33,0,.171,82,18,32,0,1,11,0,0,0,6,0,0,0,0,3,9,0,9,0,36.5,0,0.97,0.00,0.09,0.27,0.00,1.11
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Ammons, Chase",0,,24,83,33,.339,221,29,104,2,0,28,0,10,25,234,0,0,2,1,27,74,2,64,10,156,0,1.25,0.02,0.33,0.89,0.12,1.88
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Hinderberger, Matthew",0,,9,7,0,.000,0,0,0,1,0,6,0,0,0,0,0,0,8,1,4,0,0,0,0,0,0,0.00,0.14,0.57,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Koeferl, Zach",0,,18,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Burris, Ryan",0,,1,2,0,.000,3,0,0,0,0,0,0,0,0,1,0,0,7,0,0,1,0,1,0,0.5,0,0.00,0.00,0.00,0.50,0.00,0.25
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Rauter, Logan",0,,2,2,0,.000,0,0,0,0,0,4,0,1,0,3,0,0,0,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.50,0.50
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Hildebrandt, Tate",0,,6,3,0,-.250,8,3,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,1,0,0.33,0.00,0.00,0.00,0.00,0.33
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Hurley, Hayden",0,,7,62,8,.200,20,2,6,289,13,814,0,5,15,190,0,0,2,0,62,7,4,7,0,14.5,2,0.10,4.66,1.00,0.11,0.08,0.23
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Scott, Reid",0,,11,85,33,.163,737,129,249,7,2,64,0,15,22,208,0,0,17,4,130,36,4,35,1,282.5,3,2.93,0.08,1.53,0.42,0.18,3.32
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Wagner, Elliot",0,,12,1,0,-1.000,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Kolozsy, Owen",0,,14,57,18,.126,357,73,118,25,1,94,0,11,49,186,0,0,378,22,107,28,3,25,3,144.5,0,2.07,0.44,1.88,0.49,0.19,2.54
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Butterfass, Parker",0,,20,28,2,.278,54,7,22,2,0,6,0,2,6,24,0,0,0,0,6,17,1,17,0,32.5,0,0.79,0.07,0.21,0.61,0.07,1.16
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Concordia Wisconsin,"Evans, Antonio",0,,22,29,0,-.333,6,2,0,0,0,1,0,1,8,61,0,0,8,0,4,0,0,0,0,1,0,0.00,0.00,0.14,0.00,0.03,0.03
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Bruns, Jacob",0,,3,61,3,-.300,10,3,0,11,0,36,0,5,14,66,0,0,147,11,67,0,0,0,0,5,0,0.00,0.18,1.10,0.00,0.08,0.08
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Patterson, Gavin",0,,4,78,38,.126,470,89,148,7,2,61,0,25,50,271,0,0,493,19,146,27,3,20,7,190,1,1.90,0.09,1.87,0.35,0.32,2.44
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Hicks, Dazerien",0,,5,43,8,.212,52,9,20,4,0,9,0,6,9,120,0,0,0,0,15,17,0,14,3,36,0,0.47,0.09,0.35,0.40,0.14,0.84
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Dermody, Max",0,,13,72,8,-.041,147,47,41,7,2,30,0,4,32,153,0,0,167,13,59,0,1,0,0,45,1,0.57,0.10,0.82,0.00,0.06,0.63
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Nettesheim, Kevin",0,,16,8,1,.211,19,3,7,0,0,0,0,0,1,4,0,0,0,0,2,4,0,4,0,9,1,0.88,0.00,0.25,0.50,0.00,1.13
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Gehrke, Will",0,,8,77,37,.173,104,12,30,646,19,1702,0,12,31,251,0,0,11,0,116,37,0,31,6,63.5,3,0.39,8.39,1.51,0.48,0.16,0.82
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Hartjes, Owen",0,,18,66,30,.290,290,43,127,2,0,29,0,3,11,79,0,0,3,0,26,43,2,31,12,157.5,1,1.92,0.03,0.39,0.65,0.05,2.39
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Hill-Zastrow, Ryder",0,,12,65,25,.167,412,64,133,7,1,29,0,1,11,41,0,0,56,4,38,26,2,18,8,151,0,2.05,0.11,0.58,0.40,0.02,2.32
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Wrobel, Bryce",0,,17,8,1,.400,5,0,2,36,5,87,0,0,5,17,0,0,1,0,7,4,0,3,1,4.5,0,0.25,4.50,0.88,0.50,0.00,0.56
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Mullane, Jack",0,,11,80,0,.063,16,2,3,43,2,158,0,2,4,16,0,0,490,20,212,0,0,0,0,5,0,0.04,0.54,2.65,0.00,0.03,0.06
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"LaBarbera, Josh",0,,15,29,7,-.011,91,22,21,1,1,8,0,6,14,83,0,0,40,1,23,5,0,4,1,30,0,0.72,0.03,0.79,0.17,0.21,1.03
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Sheridan, Landon",0,,1,36,3,-.094,32,10,7,1,0,8,0,1,16,48,0,0,59,4,22,1,0,1,0,8.5,0,0.19,0.03,0.61,0.03,0.03,0.24
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Roman, Ian",0,,9,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Stringfellow, Carsyn",0,,10,72,26,.170,405,96,165,4,1,37,0,10,39,143,0,0,2,0,88,27,1,18,9,193,2,2.29,0.06,1.22,0.38,0.14,2.68
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Keesling, Jack",0,,14,36,17,.198,167,37,70,5,0,17,0,17,13,127,0,0,1,0,18,24,0,22,2,100,0,1.94,0.14,0.50,0.67,0.47,2.78
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Edgewood,"Voigt, Owen",0,,23,52,24,.289,166,30,78,4,0,24,0,13,39,166,0,0,12,2,30,35,2,31,4,110.5,0,1.50,0.08,0.58,0.67,0.25,2.13
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Donald, Alec",0,,4,101,4,.122,74,10,19,42,1,142,0,1,6,36,0,0,572,17,271,0,0,0,0,20,1,0.19,0.42,2.68,0.00,0.01,0.20
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Evans, Bryan",0,,10,25,5,.205,122,27,52,1,0,21,0,7,11,79,0,0,117,10,25,5,0,5,0,61.5,0,2.08,0.04,1.00,0.20,0.28,2.46
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Sherman, Eli",0,,11,76,11,.230,87,13,33,271,5,692,0,3,6,106,0,0,1,0,40,18,2,16,2,46,0,0.43,3.57,0.53,0.24,0.04,0.61
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Laite, Riley",0,,14,72,26,.179,492,98,186,16,4,66,0,34,49,218,0,0,283,11,130,16,1,13,3,229.5,0,2.58,0.22,1.81,0.22,0.47,3.19
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Johnson, Elijah",0,,2,93,34,.143,126,15,33,635,10,1525,0,32,39,327,0,0,3,1,184,17,1,15,2,74.5,2,0.35,6.83,1.98,0.18,0.34,0.80
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Henderson, Paul",0,,6,97,37,.153,503,86,163,18,0,73,0,18,41,277,0,0,202,8,172,10,0,10,0,186,1,1.68,0.19,1.77,0.10,0.19,1.92
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Kimoto, Jelani",0,,24,97,43,.287,293,34,118,8,2,39,0,9,3,241,0,0,5,0,35,53,4,39,14,160.5,0,1.22,0.08,0.36,0.55,0.09,1.65
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Baus, Zachary",0,,5,56,0,.000,6,1,1,19,0,58,0,0,4,16,0,0,98,10,95,0,0,0,0,1,1,0.02,0.34,1.70,0.00,0.00,0.02
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Hanny, Aaron",0,,8,75,12,.174,339,62,121,3,4,28,0,12,19,148,0,0,2,1,59,6,3,5,1,136.5,0,1.61,0.04,0.79,0.08,0.16,1.82
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Farrell, Colten",0,,25,71,32,.343,239,21,103,2,0,15,0,3,14,85,0,0,2,1,14,59,5,48,11,141,0,1.45,0.03,0.20,0.83,0.04,1.99
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Jones, Erik",0,,7,28,11,.253,75,17,36,0,1,3,0,2,10,35,0,0,0,0,4,7,1,6,1,42,0,1.29,0.00,0.14,0.25,0.07,1.50
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Matos, Raul",0,,9,57,19,.114,334,61,99,6,4,45,0,5,13,147,0,0,242,15,115,15,2,15,0,111.5,1,1.74,0.11,2.02,0.26,0.09,1.96
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Russell, Kyler",0,,12,4,0,-.105,19,6,4,1,0,2,0,1,2,10,0,0,0,0,9,5,0,5,0,7.5,0,1.00,0.25,2.25,1.25,0.25,1.88
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Michler, Matthew",0,,13,12,2,.556,9,0,5,60,1,170,0,0,3,20,0,0,1,0,10,2,0,2,0,6,0,0.42,5.00,0.83,0.17,0.00,0.50
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Franks, Andrew",0,,15,39,2,.000,49,12,12,2,1,12,0,5,21,85,0,0,50,6,23,3,0,2,1,19,0,0.31,0.05,0.59,0.08,0.13,0.49
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Dominguez, Sebastian",0,,18,26,8,.122,82,16,26,3,1,15,0,4,2,71,0,0,1,0,21,17,1,15,2,39.5,0,1.00,0.12,0.81,0.65,0.15,1.52
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Illinois Tech,"Dowling, Maximo",0,,20,84,36,.117,522,117,178,13,7,78,0,14,53,226,0,0,316,16,114,30,1,24,6,210,1,2.12,0.15,1.36,0.36,0.17,2.50
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Kendrick,CJ",0,,2,73,4,-.167,6,1,0,16,1,44,0,2,5,66,0,0,294,22,113,0,0,0,0,2,1,0.00,0.22,1.55,0.00,0.03,0.03
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Calderon,Adrian",0,,9,89,32,.199,597,123,242,15,0,46,0,16,56,118,0,0,311,19,141,31,3,23,8,277.5,0,2.72,0.17,1.58,0.35,0.18,3.12
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Wills,Derek",0,,7,94,36,.224,883,122,320,20,2,54,0,12,51,184,0,0,488,15,165,32,4,25,7,351.5,0,3.40,0.21,1.76,0.34,0.13,3.74
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Goo Sun,Trent",0,,3,91,29,.172,209,42,78,516,6,714,0,12,51,161,0,0,39,2,135,22,3,21,1,101.5,0,0.86,5.67,1.48,0.24,0.13,1.12
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Bou,Giancarlo",0,,25,89,14,-.040,25,6,5,475,5,655,0,16,55,104,0,0,1,0,109,3,1,3,0,22.5,2,0.06,5.34,1.22,0.03,0.18,0.25
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Velasco,Javean",0,,12,26,5,.059,135,35,43,0,0,1,0,0,5,2,0,0,0,0,14,9,3,8,1,48,0,1.65,0.00,0.54,0.35,0.00,1.85
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Velasco,Aaron",0,,1,89,7,.186,215,45,85,32,0,71,0,6,28,40,0,0,416,19,222,7,1,5,2,95.5,0,0.96,0.36,2.49,0.08,0.07,1.07
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Shogren,Carter",0,,10,51,24,.233,86,16,36,3,0,7,0,4,20,93,0,0,3,0,33,26,4,25,1,53.5,0,0.71,0.06,0.65,0.51,0.08,1.05
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Bassett,Abel",0,,4,59,20,.348,112,12,51,2,1,5,0,7,31,53,0,0,0,0,15,34,5,26,8,79,0,0.86,0.03,0.25,0.58,0.12,1.34
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Gomez,Juan",0,,21,8,0,.250,4,1,2,0,0,0,0,0,4,2,0,0,2,1,3,0,0,0,0,2,0,0.25,0.00,0.38,0.00,0.00,0.25
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Ouranitsas-Hayes,Kea",0,,17,94,35,.244,246,44,104,5,0,17,0,15,28,150,0,0,3,0,35,55,4,49,6,149.5,0,1.11,0.05,0.37,0.59,0.16,1.59
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Sapita,Robbie",0,,19,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Gutierrez,Fer",0,,13,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Badua,Rudy",0,,16,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Pulphus,Dante",0,,23,69,10,-.125,8,1,0,13,1,28,0,5,7,63,0,0,189,19,118,0,0,0,0,5,0,0.00,0.19,1.71,0.00,0.07,0.07
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Briones,Andrew",0,,24,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Scully,Ghreysen",0,,26,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Dreifuerst,Isaac",0,,11,87,26,.161,528,98,183,7,1,18,0,12,16,47,0,0,133,6,56,33,5,30,3,213,0,2.10,0.08,0.64,0.38,0.14,2.45
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Marian,"Ross,JJ",0,,8,19,4,.000,60,17,17,2,0,8,0,0,1,14,0,0,2,0,10,3,3,2,1,19,0,0.89,0.11,0.53,0.16,0.00,1.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Lewis, Connor",0,,1,34,0,.160,25,5,9,3,0,12,0,2,3,44,0,0,53,4,15,1,1,1,0,11.5,0,0.26,0.09,0.44,0.03,0.06,0.34
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Schleihs, Drake",0,,3,14,0,.000,2,0,0,1,0,4,0,0,3,26,0,0,16,2,10,0,0,0,0,0,0,0.00,0.07,0.71,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Everts, Levi",0,,4,81,27,.063,381,88,112,23,1,103,0,12,31,164,0,0,351,16,152,16,0,9,7,135.5,1,1.38,0.28,1.88,0.20,0.15,1.67
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Weinrich, Eli",0,,5,84,26,.104,298,66,97,26,1,125,0,13,38,167,0,0,413,27,166,8,0,8,0,114,0,1.15,0.31,1.98,0.10,0.15,1.36
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Busalacchi, Ben",0,,6,82,40,.118,536,147,210,27,1,117,0,26,95,262,0,0,533,39,149,38,4,26,12,261,0,2.56,0.33,1.82,0.46,0.32,3.18
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Caho, Morgan",0,,7,1,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Hesselink, Wade",0,,8,1,0,.000,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Toledo, Caden",0,,9,1,0,.000,0,0,0,0,0,0,0,0,0,3,0,0,0,0,1,0,0,0,0,0,0,0.00,0.00,1.00,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Kenney, Nolan",0,,10,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Xiong, Sage",0,,11,82,30,.121,388,79,126,10,0,62,0,11,42,232,0,0,48,3,123,11,3,8,3,144,0,1.54,0.12,1.50,0.13,0.13,1.76
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Green, Drew",0,,12,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Donohue, Jakob",0,,13,83,42,.330,273,33,123,9,1,33,0,8,27,254,0,0,16,0,42,47,6,35,12,160.5,0,1.48,0.11,0.51,0.57,0.10,1.93
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Butterfield, Joe",0,,15,8,3,.300,10,1,4,1,0,2,0,1,2,9,0,0,2,1,3,1,0,1,0,5.5,0,0.50,0.13,0.38,0.13,0.13,0.69
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Davis-Troller,Jordan",0,,18,83,39,.223,242,42,96,11,2,37,0,12,32,185,0,0,22,1,41,59,3,48,11,143,0,1.16,0.13,0.49,0.71,0.14,1.72
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Anderson, Chase",0,,19,84,42,.190,158,17,47,691,25,1950,0,13,25,300,0,0,4,0,137,36,2,32,4,80,2,0.56,8.23,1.63,0.43,0.15,0.95
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Kenney, Colin",0,,20,34,2,-.010,99,28,27,2,1,12,0,5,9,40,0,0,51,6,27,1,0,0,1,33,0,0.79,0.06,0.79,0.03,0.15,0.97
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Bieganski, Joe",0,,22,45,1,.190,58,12,23,1,0,13,0,5,24,104,0,0,4,3,22,4,0,4,0,30,0,0.51,0.02,0.49,0.09,0.11,0.67
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Brunner, Jonah",0,,23,8,0,1.000,1,0,1,17,1,43,0,2,5,13,0,0,0,0,4,0,0,0,0,3,0,0.13,2.13,0.50,0.00,0.25,0.38
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Lakeland,"Sauvage, Roger",0,,2,2,0,.000,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,0,0.00,0.00,0.50,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Rockford,"Bates, Da'Quan",0,,5,92,0,-.065,31,2,0,52,3,259,0,0,3,23,0,0,607,53,223,0,0,0,0,0,1,0.00,0.57,2.42,0.00,0.00,0.00
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Rockford,"Karpenko, Danny",0,,1,74,34,.314,331,34,138,10,1,33,0,31,63,264,0,0,12,0,50,54,3,36,18,205,2,1.86,0.14,0.68,0.73,0.42,2.77
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Rockford,"Albers, Josh",0,,2,90,34,.149,336,72,122,355,17,991,0,14,33,225,0,0,5,0,115,23,1,15,8,151.5,3,1.36,3.94,1.28,0.26,0.16,1.68
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Rockford,"Peden, PJ",0,,21,11,0,-.111,9,3,2,0,0,0,0,1,3,11,0,0,0,0,1,0,0,0,0,3,0,0.18,0.00,0.09,0.00,0.09,0.27
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Rockford,"Simons, Nathan",0,,22,65,15,.022,269,80,86,5,1,35,0,4,17,66,0,0,162,8,51,6,1,3,3,94.5,1,1.32,0.08,0.78,0.09,0.06,1.45
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Rockford,"Bowling, Josh",0,,19,88,43,.118,237,51,79,7,0,33,0,7,57,230,0,0,10,2,38,39,5,25,14,112.5,0,0.90,0.08,0.43,0.44,0.08,1.28
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Rockford,"Namai, Tsubasa",0,,23,92,34,.097,72,17,24,380,12,1037,0,21,56,327,0,0,7,0,134,5,0,4,1,48,4,0.26,4.13,1.46,0.05,0.23,0.52
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Rockford,"Dixon, Joseis",0,,4,61,24,.073,327,80,104,6,1,49,0,6,38,143,0,0,345,33,74,7,0,6,1,114,0,1.70,0.10,1.21,0.11,0.10,1.87
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Rockford,"Hurst, Jordan",0,,11,78,26,.102,236,52,76,3,0,33,0,0,24,37,0,0,4,3,20,23,1,17,6,90.5,0,0.97,0.04,0.26,0.29,0.00,1.16
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Rockford,"Brewster, Jacob",0,,8,91,10,.000,12,1,1,7,0,43,0,4,28,158,0,0,259,25,94,0,0,0,0,5,0,0.01,0.08,1.03,0.00,0.04,0.05
+nacc,Northern Athletics Collegiate Conference (NACC),2025-26,mvball,Rockford,"Dixon, Isaiah",0,,3,92,44,.168,738,142,266,9,2,70,0,32,86,293,0,0,369,40,94,30,6,19,11,318.5,1,2.89,0.10,1.02,0.33,0.35,3.46

@@ -1,0 +1,268 @@
+from __future__ import annotations
+
+import json
+import sys
+from pathlib import Path
+
+# Ensure project root is on path so ncaa_rankings can be imported when running this script directly
+_project_root = Path(__file__).resolve().parent
+if str(_project_root) not in sys.path:
+    sys.path.insert(0, str(_project_root))
+
+import pandas as pd
+
+from ncaa_rankings.basketball import rank_mbb_players
+from ncaa_rankings.conferences import load_conferences
+
+
+def _json_safe(df: pd.DataFrame) -> pd.DataFrame:
+    out = df.copy().astype(object)
+    out = out.replace([float("inf"), float("-inf")], None)
+    out = out.where(pd.notna(out), None)
+    return out
+
+
+def main() -> None:
+    data_csv = Path("data/d3_mbb_player_rankings_2025_26.csv")
+    players_csv = Path("data/d3_mbb_players_2025_26.csv")
+    if not data_csv.exists():
+        # Build it from existing per-conference CSVs (fast; no re-scrape).
+        parts = sorted(Path("data").glob("*_mbb_players_2025_26.csv"))
+        parts = [p for p in parts if not p.name.startswith("d3_")]
+        if not parts:
+            raise SystemExit(
+                "Missing data/*.csv inputs. Run: python generate_d3_conferences.py && python run_basketball_rankings.py"
+            )
+
+        players = pd.concat([pd.read_csv(p) for p in parts], ignore_index=True)
+        # Normalize and dedupe so we don't export duplicate names
+        if "player_name" in players.columns:
+            players["player_name"] = (
+                players["player_name"].astype(str).str.strip().str.replace(r"\s+", " ", regex=True)
+            )
+        for key in [["season", "conference_code", "team", "player_name"], ["season", "team", "player_name"]]:
+            key = [c for c in key if c in players.columns]
+            if key:
+                players = players.drop_duplicates(subset=key, keep="first").copy()
+        rankings = rank_mbb_players(players, min_gp=10, min_mpg=10.0)
+        Path("data").mkdir(parents=True, exist_ok=True)
+        players.to_csv(players_csv, index=False)
+        rankings.to_csv(data_csv, index=False)
+
+    if not players_csv.exists():
+        raise SystemExit("Missing data/d3_mbb_players_2025_26.csv. Run: python run_basketball_rankings.py")
+
+    # Global rankings (already computed across all D3 players).
+    global_rankings = pd.read_csv(data_csv).copy()
+    global_rankings = global_rankings.rename(columns={"rank": "global_rank"})
+
+    players = pd.read_csv(players_csv).copy()
+    # Normalize and dedupe so exported data has 0 duplicate names (same player+team = one row)
+    if "player_name" in players.columns:
+        players["player_name"] = (
+            players["player_name"].astype(str).str.strip().str.replace(r"\s+", " ", regex=True)
+        )
+    for key in [["season", "conference_code", "team", "player_name"], ["season", "team", "player_name"]]:
+        key = [c for c in key if c in players.columns]
+        if key:
+            players = players.drop_duplicates(subset=key, keep="first").copy()
+    # Dedupe rankings so one row per player (by team + player_name)
+    rank_dedupe = [c for c in ["team", "player_name"] if c in global_rankings.columns]
+    if rank_dedupe:
+        global_rankings = global_rankings.drop_duplicates(subset=rank_dedupe, keep="first").copy()
+    # Ensure global order: best first (rank 1, 2, 3...) and renumber after dedupe
+    global_rankings = global_rankings.sort_values("global_rank", ascending=True).reset_index(drop=True)
+    global_rankings["global_rank"] = range(1, len(global_rankings) + 1)
+
+    # Rating (OVR): 3×99, 3×98, 3×97, 3×96, then scale 95 down to 50 for the rest
+    def _rating_from_rank(rank_series: pd.Series) -> pd.Series:
+        n = len(rank_series)
+        out = pd.Series(index=rank_series.index, dtype=float)
+        for idx in rank_series.index:
+            r = int(rank_series.loc[idx])
+            if r <= 3:
+                out.loc[idx] = 99
+            elif r <= 6:
+                out.loc[idx] = 98
+            elif r <= 9:
+                out.loc[idx] = 97
+            elif r <= 12:
+                out.loc[idx] = 96
+            else:
+                rest_count = max(1, n - 12)
+                progress = (r - 13) / rest_count
+                out.loc[idx] = round(95 - progress * (95 - 50))
+        return out
+
+    global_rankings["rating"] = _rating_from_rank(global_rankings["global_rank"]).astype(int)
+
+    out_dir = Path("frontend/public/data")
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    # Build global payload for /dashboard/players
+    global_keep = [
+        "global_rank",
+        "player_name",
+        "team",
+        "conference",
+        "conference_code",
+        "gp",
+        "mpg",
+        "ppg",
+        "rpg",
+        "apg",
+        "spg",
+        "bpg",
+        "tov_pg",
+        "composite_score",
+        "rating",
+    ]
+    global_keep = [c for c in global_keep if c in global_rankings.columns]
+    global_payload = global_rankings[global_keep].copy()
+
+    out_json = out_dir / "d3_mbb_player_rankings_2025_26.json"
+    out_json.write_text(
+        json.dumps(_json_safe(global_payload).to_dict(orient="records"), allow_nan=False),
+        encoding="utf-8",
+    )
+
+    out_csv = out_dir / "d3_mbb_player_rankings_2025_26.csv"
+    global_payload.to_csv(out_csv, index=False)
+
+    # Also write global rankings to sports/mbb path so global page has correct conference per player
+    sports_mbb_dir = out_dir / "sports" / "mbb"
+    sports_mbb_dir.mkdir(parents=True, exist_ok=True)
+    mbb_sports_payload = global_payload.copy()
+    renames = {
+        "ppg": "points_per_game",
+        "rpg": "rebounds_per_game",
+        "apg": "assists_per_game",
+        "tov_pg": "turnovers_per_game",
+        "spg": "steals_per_game",
+        "bpg": "blocked_shots_per_game",
+    }
+    mbb_sports_payload = mbb_sports_payload.rename(
+        columns={k: v for k, v in renames.items() if k in mbb_sports_payload.columns}
+    )
+    # rating already set from global_rankings (3×99, 3×98, 3×97, 3×96, rest 95→50)
+    mbb_keep = [
+        "global_rank", "player_name", "team", "conference", "conference_code",
+        "points_per_game", "rebounds_per_game", "assists_per_game", "turnovers_per_game",
+        "steals_per_game", "blocked_shots_per_game", "gp", "mpg", "composite_score", "rating",
+    ]
+    mbb_keep = [c for c in mbb_keep if c in mbb_sports_payload.columns]
+    mbb_records = _json_safe(mbb_sports_payload[mbb_keep]).to_dict(orient="records")
+    (sports_mbb_dir / "rankings_2025-26.json").write_text(
+        json.dumps(mbb_records, allow_nan=False),
+        encoding="utf-8",
+    )
+    print(f"Wrote {sports_mbb_dir / 'rankings_2025-26.json'}")
+
+    # Build per-conference payloads: same order as global (best in conference = #1 = highest in global order)
+    # Include every conference from conferences.json so C2C etc. appear even with no data yet.
+    conf_dir = out_dir / "conferences"
+    conf_dir.mkdir(parents=True, exist_ok=True)
+    all_conferences = load_conferences()
+    conf_name_by_code = {c.code: c.name for c in all_conferences}
+    has_data = set(players["conference_code"].dropna().astype(str).unique()) if "conference_code" in players.columns else set()
+
+    index_rows: list[dict[str, object]] = []
+
+    for conf_code, group in players.groupby("conference_code", dropna=True):
+        conf_code = str(conf_code)
+        conf_name = str(group["conference"].iloc[0]) if "conference" in group.columns and len(group) else conf_name_by_code.get(conf_code, conf_code)
+
+        # Conference rankings = global rankings filtered to this conference, with rank 1..n (reflects global order)
+        conf_rankings = global_rankings[global_rankings["conference_code"] == conf_code].copy()
+        conf_rankings = conf_rankings.sort_values("global_rank", ascending=True).reset_index(drop=True)
+        conf_rankings["rank"] = range(1, len(conf_rankings) + 1)
+
+        conf_keep = [
+            "rank",
+            "global_rank",
+            "player_name",
+            "team",
+            "conference",
+            "conference_code",
+            "gp",
+            "mpg",
+            "ppg",
+            "rpg",
+            "apg",
+            "spg",
+            "bpg",
+            "tov_pg",
+            "composite_score",
+            "rating",
+        ]
+        conf_keep = [c for c in conf_keep if c in conf_rankings.columns]
+        conf_payload = conf_rankings[conf_keep].copy()
+
+        (conf_dir / f"{conf_code}.json").write_text(
+            json.dumps(_json_safe(conf_payload).to_dict(orient="records"), allow_nan=False),
+            encoding="utf-8",
+        )
+        conf_payload.to_csv(conf_dir / f"{conf_code}.csv", index=False)
+
+        index_rows.append(
+            {
+                "conference_code": conf_code,
+                "conference": conf_name,
+                "player_count": int(len(group)),
+                "ranked_count": int(len(conf_payload)),
+            }
+        )
+
+    # Add conferences that have no player data yet (e.g. C2C when scraper hasn't run or site was down)
+    empty_payload_json = "[]"
+    for conf in all_conferences:
+        if conf.code in has_data:
+            continue
+        index_rows.append(
+            {
+                "conference_code": conf.code,
+                "conference": conf.name,
+                "player_count": 0,
+                "ranked_count": 0,
+            }
+        )
+        (conf_dir / f"{conf.code}.json").write_text(empty_payload_json, encoding="utf-8")
+
+    index_rows = sorted(index_rows, key=lambda r: str(r["conference"]))
+    (conf_dir / "index.json").write_text(
+        json.dumps(index_rows, allow_nan=False, indent=2), encoding="utf-8"
+    )
+
+    # Also write conference index and payloads under sports/mbb so sport page finds them
+    sports_mbb_conf_dir = out_dir / "sports" / "mbb" / "conferences"
+    sports_mbb_conf_dir.mkdir(parents=True, exist_ok=True)
+    (sports_mbb_conf_dir / "index.json").write_text(
+        json.dumps(index_rows, allow_nan=False, indent=2), encoding="utf-8"
+    )
+    for conf_code, group in players.groupby("conference_code", dropna=True):
+        conf_code = str(conf_code)
+        conf_rankings = global_rankings[global_rankings["conference_code"] == conf_code].copy()
+        conf_rankings = conf_rankings.sort_values("global_rank", ascending=True).reset_index(drop=True)
+        conf_rankings["rank"] = range(1, len(conf_rankings) + 1)
+        conf_keep = [
+            "rank", "global_rank", "player_name", "team", "conference", "conference_code",
+            "gp", "mpg", "ppg", "rpg", "apg", "spg", "bpg", "tov_pg", "composite_score", "rating",
+        ]
+        conf_keep = [c for c in conf_keep if c in conf_rankings.columns]
+        conf_payload = conf_rankings[conf_keep].copy()
+        (sports_mbb_conf_dir / f"{conf_code}.json").write_text(
+            json.dumps(_json_safe(conf_payload).to_dict(orient="records"), allow_nan=False),
+            encoding="utf-8",
+        )
+    for conf in all_conferences:
+        if conf.code not in has_data:
+            (sports_mbb_conf_dir / f"{conf.code}.json").write_text("[]", encoding="utf-8")
+
+    print(f"Wrote {out_json}")
+    print(f"Wrote {out_csv}")
+    print(f"Wrote {conf_dir/'index.json'}")
+
+
+if __name__ == "__main__":
+    main()
+

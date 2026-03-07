@@ -1,0 +1,326 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,goal_stats_shootout_goals,goal_stats_free_positiong_goals,goal_stats_game_tying_goals,goal_stats_empty_net_goals,goal_stats_overtime_goals,goal_stats_first_goals,goal_stats_unassisted_goals,goal_stats_short_handed_goals,goal_stats_power_play_goals,goal_stats_game_winning_goals,penalty_stats_number,penalty_stats_minutes,penalty_stats_fouls,penalty_stats_green_cards,penalty_stats_yellow_cards,penalty_stats_red_cards,penalty_stats_match,penalty_stats_major,penalty_stats_minor,misc_stats_powerplay_opps,misc_stats_powerplay_goals,misc_stats_faceoffs_won,misc_stats_faceoffs_lost,misc_stats_ground_balls,misc_stats_draw_controls,misc_stats_turnovers,misc_stats_caused_turnovers,misc_stats_minutes_played,misc_stats_seconds,misc_stats_faceoffs_taken,misc_stats_penalty_killing_pct,goalie_stats_games_played,goalie_stats_minutes,goalie_stats_goals_allowed,goalie_stats_saves,goalie_stats_shutouts,goalie_stats_win,goalie_stats_loss,goalie_stats_tie,goalie_stats_powerplay_goals_allowed,goalie_stats_shorthanded_goals_allowed,goalie_stats_emptynet_goals_allowed,goalie_stats_shots_faced,goalie_stats_goals_against_avg,goalie_stats_save_pct,shot_stats_shots_on_goal,shot_stats_shots,shot_stats_free_position_shots,shot_stats_points,shot_stats_assists,shot_stats_goals,shot_stats_shots_on_goal_pct
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Samuel LoPiccolo,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,48,0,18,11,1019:00,47,0,1.000,17,824:27,153,148,0,11,5,0,2,0,0,521,11.13,.492,1,1,0,1,1,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Carson Grizovic,,,,7,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,7,2,00:00,0,0,1.000,,,,,,,,,,,,,,,11,19,0,15,7,8,.579
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Dillon Dlugosielski,,,,4,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,5,8,0,3,1,2,.625
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Owen Makar,,,,4,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,4,2,00:00,0,0,1.000,,,,,,,,,,,,,,,8,17,0,6,0,6,.471
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Noah Dodgion,,,,18,18,0,0,0,0,0,2,22,0,5,3,0,0,0,0,0,0,0,1,3,0,0,0,0,39,0,22,2,1079:00,47,0,1.000,,,,,,,,,,,,,,,90,136,0,71,15,56,.662
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Keyan Moser,,,,18,15,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,10,0,899:00,47,0,1.000,,,,,,,,,,,,,,,18,38,0,21,11,10,.474
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Bennet Trout,,,,18,18,0,0,0,0,0,1,36,0,4,2,0,0,0,0,0,0,0,2,0,0,0,0,0,52,0,35,15,1035:00,62,0,1.000,,,,,,,,,,,,,,,84,135,0,96,43,53,.622
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Justin Diniz,,,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,5,0,41:00,6,0,1.000,,,,,,,,,,,,,,,11,21,0,8,4,4,.524
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Carter Oschman,,,,7,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,4,1,00:00,0,0,1.000,,,,,,,,,,,,,,,8,14,0,7,0,7,.571
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Gavin Flak,,,,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,14,4,16,0,10,9,43:00,45,18,1.000,,,,,,,,,,,,,,,1,7,0,3,2,1,.143
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Owen Tafe,,,,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,15,0,2,4,60:00,0,0,1.000,,,,,,,,,,,,,,,1,2,0,2,2,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Nate Hoover,,,,15,3,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,13,0,4,0,180:00,0,0,1.000,,,,,,,,,,,,,,,21,33,0,15,2,13,.636
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Tommy Orsini,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,2,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Micah Moser,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Edyn Haueter,,,,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,2,2,0,1,0,1,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Mitchell Gregory,,,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,9,0,3,3,00:00,0,0,1.000,,,,,,,,,,,,,,,1,3,0,2,2,0,.333
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Ryan Frankovic,,,,15,0,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,1,2,0,0,0,0,22,0,9,5,00:00,0,0,1.000,,,,,,,,,,,,,,,3,3,0,4,2,2,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Logan Lafler,,,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,5,00:00,0,0,1.000,,,,,,,,,,,,,,,0,2,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Elden Korber,,,,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,27,0,3,7,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Louden Peters,,,,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,20,0,4,17,899:00,47,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Paxton Allison,,,,17,17,0,0,0,0,0,2,15,0,1,1,0,0,0,0,0,0,0,3,6,0,0,0,0,35,0,16,12,1019:00,47,0,1.000,,,,,,,,,,,,,,,62,110,0,59,25,34,.564
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Zach Zoul,,,,18,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,75,65,37,0,3,3,60:00,0,140,1.000,,,,,,,,,,,,,,,3,5,0,5,3,2,.600
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Ryan Yanssens,,,,7,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,8,0,60:00,0,0,1.000,,,,,,,,,,,,,,,8,11,0,6,1,5,.727
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Benjamin Glover,,,,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,12,0,5,7,359:00,47,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Ian Shealy,,,,18,2,0,0,0,0,0,1,2,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,0,8,0,8,4,160:00,48,0,1.000,,,,,,,,,,,,,,,38,78,0,32,13,19,.487
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Ethan Hingson,,,,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,6,16,00:00,0,0,1.000,,,,,,,,,,,,,,,2,3,0,2,0,2,.667
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Gavin Pate,,,,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,52,0,14,28,1079:00,47,0,1.000,,,,,,,,,,,,,,,2,2,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Nathan Prosowski,,,,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,12,0,4,8,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Eli Armstrong,,,,7,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,00:00,0,0,1.000,,,,,,,,,,,,,,,5,16,0,5,2,3,.313
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Evan Vetter,,,,18,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,233,157,105,0,14,1,00:00,0,390,1.000,,,,,,,,,,,,,,,3,8,0,7,6,1,.375
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Jake Koonmen,,,,17,15,0,0,0,0,0,0,5,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,11,5,899:00,47,0,1.000,,,,,,,,,,,,,,,31,59,0,28,8,20,.525
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,AJ Schultz,,,,8,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,1,60:00,0,0,1.000,8,179:21,12,31,0,1,0,0,0,0,0,79,4.01,.721,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Aidan Malone,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,00:00,0,0,1.000,4,44:09,2,8,0,0,0,0,0,0,0,17,2.72,.800,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Luke Matelski,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Devon Ambrus,,,,10,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,18,0,3,4,00:00,0,0,1.000,,,,,,,,,,,,,,,7,9,0,6,3,3,.778
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Tremel Dunkin II,,,,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,2,5,240:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Ben Matesic,,,,15,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,0,4,9,660:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Parker Edell,,,,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,7,0,6,7,00:00,0,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Reichen Geiselhart,,,,18,17,0,0,0,0,0,2,11,1,7,4,0,0,0,0,0,0,0,0,1,0,0,0,0,20,0,18,1,1019:00,47,0,1.000,,,,,,,,,,,,,,,66,117,0,57,11,46,.564
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Caleb Fox,,,,17,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,4,1,0,0,0,0,42,0,6,16,00:00,0,0,1.000,,,,,,,,,,,,,,,11,18,0,8,2,6,.611
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Ryan Holcomb,,,,9,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,8,4,00:00,0,0,1.000,,,,,,,,,,,,,,,16,36,0,8,3,5,.444
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Paul Lopez,,,,18,0,0,0,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,3,0,10,1,00:00,0,0,1.000,,,,,,,,,,,,,,,15,29,0,12,3,9,.517
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Baldwin Wallace,Liam Liskey,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,00:00,0,0,1.000,3,31:30,1,5,0,0,0,0,0,0,0,12,1.90,.833,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Tyler Carney,,,,9,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,16,0,390:00,0,0,1.000,9,390:49,68,81,0,2,4,0,0,0,0,300,10.44,.544,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Kaison Durham,,,,13,2,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,9,0,120:00,0,0,1.000,,,,,,,,,,,,,,,7,19,0,12,7,5,.368
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Ty Chase,,,,13,10,0,0,0,0,0,2,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,15,0,600:00,0,0,1.000,,,,,,,,,,,,,,,40,69,0,20,8,12,.580
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Jackson Hart,,,,6,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,3,1,240:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Noah Musick,,,,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,4,0,0,6,0,6,0,1,3,00:00,0,6,1.000,,,,,,,,,,,,,,,2,2,0,1,0,1,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Zen Kropp,,,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,1,00:00,0,0,1.000,,,,,,,,,,,,,,,1,2,0,3,3,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Nate Hubler,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,2,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Ian Zaletel,,,,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,15,0,7,2,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,1,1,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Wes Millman,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,2,00:00,0,0,1.000,,,,,,,,,,,,,,,1,2,0,0,0,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Logan Byers,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Jackson Gantz,,,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,4,0,2,3,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Devin Flynn,,,,11,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,12,0,2,8,120:00,0,0,1.000,,,,,,,,,,,,,,,1,2,0,0,0,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Leelan Durham,,,,15,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,0,0,19,0,8,10,660:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Rob Smith,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1,3,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Jacob Poole,,,,15,14,0,0,0,0,0,0,14,1,0,3,0,0,0,0,0,0,0,0,1,0,0,0,0,35,0,28,4,840:00,0,0,1.000,,,,,,,,,,,,,,,51,93,0,27,8,19,.548
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Elliott Rhoton,,,,10,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,8,1,60:00,0,0,1.000,,,,,,,,,,,,,,,7,9,0,5,0,5,.778
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Mason Spaulding,,,,15,14,0,0,0,0,0,3,16,0,3,1,0,0,0,0,0,0,0,1,0,0,0,0,0,38,0,41,15,840:00,0,0,1.000,,,,,,,,,,,,,,,78,117,0,55,12,43,.667
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Jonathan Hart,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,00:00,0,0,1.000,,,,,,,,,,,,,,,2,4,0,0,0,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Freddy Noday,,,,15,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,156,74,89,0,13,3,540:00,0,230,1.000,,,,,,,,,,,,,,,0,0,0,1,1,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Landon Weihl,,,,6,1,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,7,2,60:00,0,0,1.000,,,,,,,,,,,,,,,8,13,0,4,0,4,.615
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Mason Patrick,,,,12,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,8,0,4,2,360:00,0,0,1.000,,,,,,,,,,,,,,,1,2,0,0,0,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Dylan Christopherson,,,,14,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,21,0,8,10,180:00,0,0,1.000,,,,,,,,,,,,,,,2,3,0,1,1,0,.667
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Max Schillig,,,,12,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,17,0,10,5,180:00,0,0,1.000,,,,,,,,,,,,,,,9,13,0,9,3,6,.692
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Wyatt Stemler,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,15:00,50,0,1.000,3,45:00,6,6,0,0,0,0,0,0,0,26,8.00,.500,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Tyler Lieu,,,,15,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83,51,46,0,5,0,00:00,0,134,1.000,,,,,,,,,,,,,,,8,10,0,2,0,2,.800
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Jordan Marty,,,,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,6,0,7,6,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Mason Ridgway,,,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Colton Woods,,,,12,8,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,1,2,0,0,0,0,0,11,0,13,4,480:00,0,0,1.000,,,,,,,,,,,,,,,24,43,0,18,5,13,.558
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Christian Akins,,,,6,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,00:00,0,0,1.000,,,,,,,,,,,,,,,6,8,0,4,1,3,.750
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Mason Miller,,,,8,4,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,8,0,12,1,240:00,0,0,1.000,,,,,,,,,,,,,,,16,22,0,18,6,12,.727
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Luc Kadlic,,,,13,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,18,0,10,0,480:00,0,0,1.000,13,449:11,95,87,0,3,5,0,1,0,0,309,12.69,.478,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Anthony Carusone,,,,12,3,0,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,15,0,18,6,180:00,0,0,1.000,,,,,,,,,,,,,,,19,43,0,15,7,8,.442
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Parker Leitelt,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,00:00,0,1,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Gino Nave,,,,15,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,56,0,16,27,720:00,0,0,1.000,,,,,,,,,,,,,,,4,9,0,0,0,0,.444
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Eric Patterson,,,,15,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,26,0,12,16,660:00,0,0,1.000,,,,,,,,,,,,,,,2,4,0,2,2,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Jay Schmoldt,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Preston Garibay,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,14,10,0,1.000,1,15:00,0,2,0,0,0,0,0,0,0,7,.00,1.000,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Aaron Waltman,,,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,5,1,00:00,0,0,1.000,,,,,,,,,,,,,,,3,6,0,1,0,1,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Logan Ensign,,,,13,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,2,5,300:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,1,0,1,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Charlie Howenstine,,,,11,11,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,16,1,660:00,0,0,1.000,,,,,,,,,,,,,,,26,49,0,21,10,11,.531
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Capital,Evan Legner,,,,10,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,13,1,00:00,0,0,1.000,,,,,,,,,,,,,,,8,16,0,9,4,5,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Sonny Varrati,,,,15,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,38,0,20,14,830:00,145,0,1.000,,,,,,,,,,,,,,,3,5,0,0,0,0,.600
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Charles Barker,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,1,00:00,0,1,1.000,4,28:10,10,8,0,0,0,0,0,0,0,26,21.30,.444,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Tyler Alexander,,,,15,4,0,0,0,0,0,1,10,0,2,1,0,0,0,0,0,0,0,0,1,0,0,0,0,19,0,22,1,238:00,59,0,1.000,,,,,,,,,,,,,,,44,82,0,22,5,17,.537
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Ethan Lommerse,,,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,9,0,17,2,00:00,0,1,1.000,,,,,,,,,,,,,,,9,11,0,4,1,3,.818
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Ian Lewis,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,2,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Jacob Morgan,,,,15,15,0,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,2,4,0,0,9,17,27,0,24,6,890:00,145,26,1.000,,,,,,,,,,,,,,,13,26,0,15,9,6,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Matthew Torres,,,,12,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,9,1,00:00,0,0,1.000,,,,,,,,,,,,,,,9,17,0,7,3,4,.529
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Aiden Carpenter,,,,15,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,13,0,8,6,830:00,145,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Jonathan Marty,,,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,3,0,0,0,0,8,0,10,6,00:00,0,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Matt Robeson,,,,15,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,2,26,0,11,8,236:00,50,2,1.000,,,,,,,,,,,,,,,0,0,0,2,2,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Jonathon Brickman,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Trevor Ley,,,,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,199,7,0,1,2,890:00,145,273,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Jaxon Howard,,,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,16,44,6,0,2,0,00:00,0,60,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Zach Macdonald,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Braxton Hammond,,,,12,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,46,0,12,11,596:00,36,0,1.000,,,,,,,,,,,,,,,1,2,0,0,0,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Colin Parker,,,,15,12,0,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,2,2,0,0,0,0,22,0,41,4,712:00,86,0,1.000,,,,,,,,,,,,,,,14,31,0,7,4,3,.452
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Rayce Septer,,,,15,14,0,0,0,0,0,0,8,1,1,0,0,0,0,0,0,0,0,0,3,0,0,4,5,21,0,35,4,830:00,145,9,1.000,,,,,,,,,,,,,,,41,66,0,23,4,19,.621
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Mark Scherger,,,,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,12,0,4,5,00:00,0,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Mario Manzardo,,,,15,0,0,0,0,0,0,0,5,0,2,1,0,0,0,0,0,0,0,4,4,0,0,0,0,11,0,23,6,00:00,0,0,1.000,,,,,,,,,,,,,,,37,68,0,13,3,10,.544
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Jayden Slaughter,,,,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,14,0,19,2,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Mason Lambert,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,4,0,6,1,00:00,0,0,1.000,,,,,,,,,,,,,,,4,8,0,0,0,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Kevin Smith,,,,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,42,0,20,14,890:00,145,0,1.000,,,,,,,,,,,,,,,2,3,0,2,2,0,.667
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Nick Ciccone,,,,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,4,0,7,5,120:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Benjamin Evans,,,,15,15,0,0,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,2,2,0,0,0,0,29,0,28,5,890:00,145,0,1.000,,,,,,,,,,,,,,,58,119,0,31,12,19,.487
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Wilson Runnette,,,,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,33,1,890:00,145,0,1.000,15,864:15,234,218,0,4,11,0,4,1,0,787,16.25,.482,0,3,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Heidelberg,Ty Sadowy,,,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Ben Millard,,,,11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,7,4,332:00,132,0,1.000,11,364:29,69,77,0,2,3,0,1,0,0,250,11.36,.527,0,1,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Nate Neal,,,,16,15,0,0,0,0,0,1,24,0,12,1,0,0,0,0,0,0,0,2,0,0,0,43,49,47,0,27,3,898:00,95,92,1.000,,,,,,,,,,,,,,,87,147,0,60,14,46,.592
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Chase Franklin,,,,16,16,0,0,0,0,0,3,9,0,4,4,0,0,0,0,0,0,0,1,2,0,0,0,0,34,0,45,12,958:00,95,0,1.000,,,,,,,,,,,,,,,65,104,0,54,19,35,.625
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Josh Walters,,,,16,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,15,0,20,3,60:00,0,0,1.000,,,,,,,,,,,,,,,27,43,0,24,13,11,.628
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Caden Alkire,,,,16,14,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,2,0,0,2,3,87,0,13,27,838:00,95,5,1.000,,,,,,,,,,,,,,,4,4,0,9,6,3,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Nathan Hamilton,,,,14,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,14,0,21,1,00:00,0,0,1.000,,,,,,,,,,,,,,,18,33,0,10,4,6,.545
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Jason Mach,,,,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,62,21,0,2,0,00:00,0,128,1.000,,,,,,,,,,,,,,,2,3,0,0,0,0,.667
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Alec Anderson,,,,16,9,0,0,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,31,0,22,5,539:00,57,0,1.000,,,,,,,,,,,,,,,19,33,0,18,9,9,.576
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Cal Henthorne,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,59:00,68,0,1.000,3,60:08,8,3,0,0,0,0,1,0,0,14,7.98,.273,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Bret Dickerson,,,,16,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,111,79,39,0,11,2,659:00,38,190,1.000,,,,,,,,,,,,,,,3,7,0,4,2,2,.429
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Jacob Grube,,,,11,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,15,0,2,4,00:00,0,1,1.000,,,,,,,,,,,,,,,2,2,0,1,0,1,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Tommy Imhof,,,,15,1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,5,2,0,0,0,0,20,0,4,2,60:00,0,0,1.000,,,,,,,,,,,,,,,15,30,0,17,7,10,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Sam Leininger,,,,16,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,18,0,25,0,00:00,0,0,1.000,,,,,,,,,,,,,,,29,42,0,32,12,20,.690
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Logan Podgorski,,,,16,11,0,0,0,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,10,0,16,2,658:00,95,1,1.000,,,,,,,,,,,,,,,23,31,0,20,7,13,.742
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Jake Stern,,,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,1,15,0,3,3,120:00,0,1,1.000,,,,,,,,,,,,,,,2,8,0,2,1,1,.250
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Brett Rick,,,,6,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,4,0,5,0,00:00,0,0,1.000,,,,,,,,,,,,,,,8,12,0,4,2,2,.667
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Thomas Zerman,,,,15,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,9,0,00:00,0,0,1.000,,,,,,,,,,,,,,,8,23,0,8,4,4,.348
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Aiden Evans,,,,15,15,0,0,0,0,0,3,18,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,27,0,22,3,898:00,95,0,1.000,,,,,,,,,,,,,,,58,92,0,40,9,31,.630
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Aiden Lundgren,,,,10,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12,0,3,6,00:00,0,0,1.000,,,,,,,,,,,,,,,2,2,0,2,1,1,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,James Cippollone,,,,6,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,4,0,268:00,35,0,1.000,6,268:35,37,66,0,3,3,0,2,0,0,155,8.27,.641,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Barrett Lindell,,,,16,16,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,56,0,16,32,958:00,95,0,1.000,,,,,,,,,,,,,,,2,2,0,1,0,1,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Joshua Nyland,,,,11,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,3,2,00:00,0,0,1.000,,,,,,,,,,,,,,,7,11,0,7,2,5,.636
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Alan Schwab,,,,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,16,0,3,13,958:00,95,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Garrett Schweiner,,,,16,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,31,0,19,11,839:00,38,0,1.000,,,,,,,,,,,,,,,0,1,0,2,2,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Justin Collings,,,,16,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,22,0,11,4,60:00,0,0,1.000,,,,,,,,,,,,,,,5,7,0,3,3,0,.714
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Danner Dorothy,,,,7,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,11,0,13,1,00:00,0,0,1.000,,,,,,,,,,,,,,,24,30,0,14,3,11,.800
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Carson Meckler,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,60:00,0,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Conner Alsing,,,,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,0,3,0,2,4,59:00,57,0,1.000,,,,,,,,,,,,,,,0,0,0,1,1,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,Tyler Reich,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,1,2,0,1,1,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Marietta,James Cipollone,,,,5,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0,9,0,295:00,100,0,1.000,5,266:23,36,58,0,3,2,0,2,0,0,197,8.11,.617,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Aiden Mays,,,,14,0,0,0,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,7,3,00:00,0,0,1.000,,,,,,,,,,,,,,,15,22,0,14,5,9,.682
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Alex Nicholas,,,,27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,78,49,47,0,4,5,00:00,0,127,1.000,,,,,,,,,,,,,,,3,4,0,2,1,1,.750
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Noah Grigson,,,,17,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,28,0,15,4,00:00,0,0,1.000,,,,,,,,,,,,,,,20,43,0,19,8,11,.465
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Brendon Kovinchick,,,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,5,00:00,0,0,1.000,,,,,,,,,,,,,,,1,2,0,0,0,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Spencer Logsdon,,,,17,17,0,0,0,0,0,2,18,1,0,4,0,0,0,0,0,0,0,0,4,0,0,0,0,23,0,33,4,1007:00,110,0,1.000,,,,,,,,,,,,,,,57,81,0,60,24,36,.704
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Josh Pasco,,,,19,8,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,8,0,471:00,60,0,1.000,3,35:31,2,8,0,0,0,0,0,0,0,18,3.38,.800,13,24,0,12,6,6,.542
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Mark Zusman,,,,17,17,0,0,0,0,0,0,13,0,2,2,0,0,0,0,0,0,0,0,1,0,0,1,0,18,0,21,3,1007:00,110,1,1.000,,,,,,,,,,,,,,,49,89,0,36,8,28,.551
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Talen Osmun,,,,17,17,0,0,0,0,0,2,26,2,0,4,0,0,0,0,0,0,0,3,4,0,0,0,0,23,0,24,8,1007:00,110,0,1.000,,,,,,,,,,,,,,,104,150,0,83,12,71,.693
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Liam Erwin,,,,17,17,0,0,0,0,0,2,16,1,1,1,0,0,0,0,0,0,0,2,0,0,0,0,0,23,0,16,14,1007:00,110,0,1.000,,,,,,,,,,,,,,,52,68,0,47,15,32,.765
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Cole Niemann,,,,11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,22,0,3,7,296:00,50,0,1.000,,,,,,,,,,,,,,,1,2,0,1,1,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Grant Dunmire,,,,17,17,0,0,0,0,0,0,16,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,10,3,1007:00,110,0,1.000,,,,,,,,,,,,,,,55,117,0,41,17,24,.470
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Braylon Li,,,,16,8,0,0,0,0,0,1,21,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,8,0,12,4,476:00,50,1,1.000,,,,,,,,,,,,,,,52,99,0,39,10,29,.525
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Josh Mccawley,,,,17,17,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,34,0,9,20,1007:00,110,0,1.000,,,,,,,,,,,,,,,3,4,0,3,1,2,.750
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Alec Feigel,,,,17,0,0,0,0,0,0,0,4,0,3,0,0,0,0,0,0,0,0,1,2,0,0,0,1,14,0,13,7,00:00,0,1,1.000,,,,,,,,,,,,,,,27,37,0,18,5,13,.730
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Vinny Marszalek,,,,16,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,10,0,7,2,60:00,0,0,1.000,,,,,,,,,,,,,,,16,35,0,11,3,8,.457
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Todd Siford,,,,10,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,7,0,11,3,00:00,0,0,1.000,,,,,,,,,,,,,,,15,21,0,13,5,8,.714
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Gunerman,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,60,0,0,1.000,1,60:00,11,15,0,0,0,0,0,0,0,45,11.00,.577,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Evan Bulvin,,,,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,9,0,4,9,651:00,60,0,1.000,,,,,,,,,,,,,,,0,0,0,1,1,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Dane Matuscin,,,,16,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,64,0,19,12,00:00,0,1,1.000,,,,,,,,,,,,,,,6,9,0,16,11,5,.667
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Liam Shields,,,,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,6,0,0,0,0,15,0,7,5,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,1,1,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Sean Hanson,,,,15,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,2,42,0,6,16,00:00,0,2,1.000,,,,,,,,,,,,,,,3,5,0,5,2,3,.600
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Hunter Morris,,,,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,00:00,0,0,1.000,,,,,,,,,,,,,,,4,6,0,0,0,0,.667
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Pasco,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Alec Blazer,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,1,0,0,2,5,33,0,6,22,1007:00,110,7,1.000,,,,,,,,,,,,,,,3,5,0,0,0,0,.600
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Logan North,,,,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,211,134,83,0,6,2,00:00,0,345,1.000,,,,,,,,,,,,,,,2,6,0,4,4,0,.333
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Aj Green,,,,13,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,4,0,0,0,0,11,0,5,5,60:00,0,0,1.000,,,,,,,,,,,,,,,2,2,0,1,0,1,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Sly Sundown,,,,16,0,0,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,4,0,7,1,00:00,0,0,1.000,,,,,,,,,,,,,,,17,31,0,18,5,13,.548
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,William Entner,,,,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,2,0,00:00,0,0,1.000,10,132:03,15,18,0,0,0,0,0,0,0,63,6.82,.545,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Braydon Tichy,,,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Henry Schenk,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,2,2,00:00,0,0,1.000,,,,,,,,,,,,,,,3,8,0,3,2,1,.375
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Aiden Kraus,,,,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,5,3,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Dylan Lulow,,,,16,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,18,0,7,0,00:00,0,0,1.000,,,,,,,,,,,,,,,9,13,0,9,6,3,.692
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Logan Gunderman,,,,16,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,0,8,4,947:00,110,0,1.000,16,714:57,139,116,0,10,4,0,2,0,0,461,11.67,.455,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Nikolai Lopatka,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,12,8,0,2,0,00:00,0,45,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Dylan Rondeau,,,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,00:00,0,0,1.000,4,66:19,3,5,0,0,0,0,0,0,0,16,2.71,.625,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Jack Miller,,,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,00:00,0,0,1.000,,,,,,,,,,,,,,,2,5,0,0,0,0,.400
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Gavin Loughrie,,,,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,18,0,7,8,00:00,0,0,1.000,,,,,,,,,,,,,,,3,3,0,2,1,1,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Mount Union,Gabe Gannelli,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Gavin Rayney,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Sam Bolen,,,,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,12,0,4,2,00:00,0,0,1.000,,,,,,,,,,,,,,,3,3,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Marky Aponte,,,,7,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,8,14,0,7,2,5,.571
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,William Swift,,,,15,2,0,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,0,17,0,15,2,120:00,0,0,1.000,,,,,,,,,,,,,,,28,56,0,14,3,11,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Liam Manning,,,,15,13,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,3,3,0,0,0,0,21,0,5,4,780:00,0,0,1.000,,,,,,,,,,,,,,,4,6,0,3,1,2,.667
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Kacy Perry,,,,13,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,17,0,4,12,300:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Jaeden Klimkowski,,,,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,5,1,75:00,0,0,1.000,7,151:40,28,31,0,0,1,0,0,0,0,100,11.08,.525,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Calvin Warner,,,,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,3,0,0,0,0,30,0,13,13,900:00,0,0,1.000,,,,,,,,,,,,,,,0,2,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Adin Mondul,,,,15,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,14,1,00:00,0,0,1.000,,,,,,,,,,,,,,,13,37,0,8,4,4,.351
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Dillon Caudill,,,,13,3,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,0,15,0,17,5,180:00,0,0,1.000,,,,,,,,,,,,,,,13,21,0,10,6,4,.619
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Ethan Kline,,,,15,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,2,0,0,27,38,21,0,9,0,00:00,0,65,1.000,,,,,,,,,,,,,,,13,35,0,7,2,5,.371
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Liam Cameron,,,,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,5,8,0,2,0,2,.625
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Evan Cosgrove,,,,14,14,0,0,0,0,0,2,12,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,44,0,34,5,840:00,0,0,1.000,,,,,,,,,,,,,,,32,82,0,33,19,14,.390
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Tyler Workman,,,,10,2,0,0,0,0,0,0,9,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,14,0,10,1,120:00,0,0,1.000,,,,,,,,,,,,,,,38,66,0,22,1,21,.576
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Jackson D'Amico,,,,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1,11,0,13,6,60:00,0,1,1.000,,,,,,,,,,,,,,,2,5,0,0,0,0,.400
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Chipper Iacobucci,,,,15,1,0,0,0,0,0,1,9,0,4,1,0,0,0,0,0,0,0,0,0,0,0,1,0,13,0,11,3,60:00,0,1,1.000,,,,,,,,,,,,,,,36,50,0,23,3,20,.720
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Nick Cannon,,,,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,19,0,6,8,600:00,0,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Grant Webster,,,,12,12,0,0,0,0,0,2,6,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,23,0,23,5,720:00,0,0,1.000,,,,,,,,,,,,,,,36,58,0,27,10,17,.621
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Owen Winkler,,,,15,13,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,145,145,66,0,8,1,780:00,0,290,1.000,,,,,,,,,,,,,,,1,6,0,4,3,1,.167
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Ethan Kmieske,,,,13,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,3,0,0,0,0,11,0,12,2,00:00,0,0,1.000,,,,,,,,,,,,,,,17,36,0,10,3,7,.472
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Colin Horley,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Jack Pecar,,,,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,00:00,0,0,1.000,,,,,,,,,,,,,,,2,3,0,3,1,2,.667
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Dominic McJunkin,,,,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,2,1,00:00,0,0,1.000,,,,,,,,,,,,,,,1,2,0,0,0,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Zach Wise,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,00:00,0,0,1.000,3,45:00,5,5,0,0,0,0,0,0,0,12,6.67,.500,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Kaleb Lyons,,,,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,5,11,0,2,0,2,.455
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Skylar Deaton,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Jacob McDermott,,,,15,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,46,0,4,8,840:00,0,0,1.000,,,,,,,,,,,,,,,3,5,0,2,1,1,.600
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Justin White,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,00:00,0,0,1.000,4,52:30,3,9,0,0,0,0,0,0,0,32,3.43,.750,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Jacob Sega,,,,15,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,0,20,3,60:00,0,0,1.000,,,,,,,,,,,,,,,8,10,0,7,4,3,.800
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Scott Van Iderstine,,,,11,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,12,8,0,0,1,60:00,0,20,1.000,,,,,,,,,,,,,,,3,4,0,1,0,1,.750
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Tyler Webber,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Grant Smith,,,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,2,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Tyler Heilbrunn,,,,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,10,0,11,10,900:00,0,0,1.000,,,,,,,,,,,,,,,0,1,0,1,1,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Drew Davis,,,,13,13,0,0,0,0,0,0,10,0,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,15,0,27,2,780:00,0,0,1.000,,,,,,,,,,,,,,,48,80,0,33,11,22,.600
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Muskingum,Jeremy Hollow,,,,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,21,5,825:00,0,0,1.000,14,650:50,150,144,0,4,9,0,2,0,0,471,13.83,.490,2,4,0,0,0,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Rudy DeFilippis,,,,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,7,7,0,2,2,00:00,0,8,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Cooper Mulligan,,,,21,6,0,0,0,0,0,1,13,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,19,5,345:00,47,0,1.000,,,,,,,,,,,,,,,45,71,0,30,6,24,.634
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Ridge Trimble,,,,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,1,0,3,0,1,2,00:00,0,1,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Brady Vette,,,,17,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,1,8,00:00,0,0,1.000,,,,,,,,,,,,,,,4,8,0,4,2,2,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Carter Colfack,,,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,00:00,0,0,1.000,,,,,,,,,,,,,,,5,7,0,4,2,2,.714
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Devin Halliday,,,,21,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,78,64,33,0,4,1,00:00,0,142,1.000,,,,,,,,,,,,,,,5,9,0,4,0,4,.556
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Noah Chomout,,,,16,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,24,0,2,2,00:00,0,1,1.000,,,,,,,,,,,,,,,5,5,0,1,0,1,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Davis Rice,,,,20,0,0,0,0,0,0,0,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,19,0,10,3,00:00,0,0,1.000,,,,,,,,,,,,,,,16,30,0,10,4,6,.533
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Ian Roy,,,,21,19,0,0,0,0,0,0,9,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,11,0,23,2,1124:00,104,1,1.000,,,,,,,,,,,,,,,37,76,0,33,18,15,.487
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Brydan Pitman,,,,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,00:00,0,0,1.000,,,,,,,,,,,,,,,11,18,0,2,1,1,.611
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Alex Reimer,,,,20,12,0,0,0,0,0,0,6,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,19,0,719:00,57,0,1.000,,,,,,,,,,,,,,,35,66,0,19,3,16,.530
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Matt Wilder,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,1,3,0,0,0,0,.333
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Jacob Verbanic,,,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,00:00,0,0,1.000,,,,,,,,,,,,,,,2,4,0,1,1,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Ryan Baum,,,,17,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,7,2,00:00,0,0,1.000,,,,,,,,,,,,,,,7,11,0,5,3,2,.636
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Chris Ballentine,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,1,1,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Drew Elfers,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Griffin Bartos,,,,8,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,1,00:00,0,0,1.000,,,,,,,,,,,,,,,4,7,0,4,1,3,.571
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Caleb Bennett,,,,21,21,0,0,0,0,0,2,10,0,3,3,0,0,0,0,0,0,0,1,0,0,0,0,0,49,0,41,7,1244:00,104,0,1.000,,,,,,,,,,,,,,,53,76,0,61,31,30,.697
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Noah Reynolds,,,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,15,13,0,2,2,00:00,0,44,1.000,,,,,,,,,,,,,,,1,3,0,0,0,0,.333
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Carson Yackey,,,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,30:00,132,1,1.000,6,39:41,0,2,0,0,0,0,0,0,0,9,.00,1.000,0,2,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Peyton Lich,,,,20,15,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,0,12,4,828:00,211,0,1.000,20,884:02,111,163,0,11,3,0,2,0,0,461,7.53,.595,2,4,0,1,0,1,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Luke Dittus,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,1,0,00:00,0,2,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Mitchel Luck,,,,21,20,0,0,0,0,0,4,9,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,44,0,22,7,1184:00,104,0,1.000,,,,,,,,,,,,,,,57,98,0,62,25,37,.582
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Canon Pfaff,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Robert Brunner,,,,16,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,4,1,361:00,193,0,1.000,16,302:03,42,42,0,4,1,0,0,0,0,165,8.34,.500,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Trey Bradford,,,,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,6,0,0,4,00:00,0,0,1.000,,,,,,,,,,,,,,,2,3,0,1,0,1,.667
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Jack Chaney,,,,20,6,0,0,0,0,0,0,12,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,26,4,360:00,0,0,1.000,,,,,,,,,,,,,,,36,85,0,33,18,15,.424
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Chad Calderwood,,,,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,176,130,80,0,6,1,00:00,0,306,1.000,,,,,,,,,,,,,,,0,1,0,1,1,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Ryan Frech,,,,21,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,0,11,32,00:00,0,0,1.000,,,,,,,,,,,,,,,9,16,0,9,3,6,.563
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Mark Mintzlaff,,,,20,6,0,0,0,0,0,1,10,0,0,2,0,0,0,0,0,0,0,2,1,0,0,1,0,30,0,14,5,345:00,47,1,1.000,,,,,,,,,,,,,,,42,76,0,23,4,19,.553
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,John Copes IV,,,,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,10,0,11,2,00:00,0,0,1.000,,,,,,,,,,,,,,,1,4,0,0,0,0,.250
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Nathan Flynn,,,,21,15,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,44,0,18,7,899:00,57,0,1.000,,,,,,,,,,,,,,,21,42,0,25,12,13,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Dylan Freyer,,,,20,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,6,0,4,5,00:00,0,0,1.000,,,,,,,,,,,,,,,1,2,0,1,0,1,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Joe Keeley,,,,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,26,0,6,15,1244:00,104,0,1.000,,,,,,,,,,,,,,,1,2,0,0,0,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,J.D. Hale,,,,16,0,0,0,0,0,0,0,4,0,8,2,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,9,4,00:00,0,0,1.000,,,,,,,,,,,,,,,24,48,0,15,2,13,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Eli Ferguson,,,,20,0,0,0,0,0,0,0,4,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,5,1,00:00,0,0,1.000,,,,,,,,,,,,,,,13,21,0,15,8,7,.619
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Jack Wasik,,,,17,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,23,0,6,6,00:00,0,0,1.000,,,,,,,,,,,,,,,4,6,0,2,0,2,.667
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Lance Stevenson,,,,10,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,2,00:00,0,0,1.000,,,,,,,,,,,,,,,3,6,0,2,0,2,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Ian Phillips,,,,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,3,9,1244:00,104,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Xavier Jankord,,,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,7,0,0,2,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Luke Ferro,,,,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,24,0,8,6,00:00,0,0,1.000,,,,,,,,,,,,,,,0,4,0,2,2,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Colin Willits,,,,21,21,0,0,0,0,0,4,18,0,9,1,0,0,0,0,0,0,0,1,2,0,0,0,0,52,0,27,20,1244:00,104,0,1.000,,,,,,,,,,,,,,,81,125,0,68,13,55,.648
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Phil Newcomer,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,17:00,48,0,1.000,5,19:58,2,4,0,0,0,0,0,0,0,7,6.01,.667,0,1,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Ohio Northern,Alex Bergeron,,,,21,21,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,45,0,14,26,1244:00,104,0,1.000,,,,,,,,,,,,,,,5,7,0,5,2,3,.714
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Marcus Wright,,,,14,0,0,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,9,1,00:00,0,0,1.000,,,,,,,,,,,,,,,14,31,0,8,1,7,.452
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Sam Becker,,,,14,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,47,67,26,0,2,0,60:00,0,114,1.000,,,,,,,,,,,,,,,1,2,0,1,1,0,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Aidan Moore,,,,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,120:00,0,0,1.000,,,,,,,,,,,,,,,5,7,0,2,1,1,.714
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Zach Mulligan,,,,14,13,0,0,0,0,0,1,14,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,17,4,780:00,0,0,1.000,,,,,,,,,,,,,,,43,61,0,30,9,21,.705
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Max Luther,,,,13,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,9,5,00:00,0,0,1.000,,,,,,,,,,,,,,,18,26,0,12,3,9,.692
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Anthony Flores,,,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,1,0,13,0,5,7,00:00,0,1,1.000,,,,,,,,,,,,,,,0,1,0,3,3,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Isaiah Smith,,,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,6,0,3,4,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Noah Sutton,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,4,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,3,0,1,1,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Evan Crowe,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,2,0,00:00,0,0,1.000,,,,,,,,,,,,,,,2,6,0,0,0,0,.333
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Dom Dean,,,,13,12,0,0,0,0,0,1,9,0,1,2,0,0,0,0,0,0,0,6,3,0,0,0,0,19,0,30,5,720:00,0,0,1.000,,,,,,,,,,,,,,,53,81,0,44,17,27,.654
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Matthew Reader,,,,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,6,3,60:00,0,0,1.000,,,,,,,,,,,,,,,2,4,0,1,0,1,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Andrew Lewis,,,,14,0,0,0,0,0,0,1,7,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,10,0,19,6,00:00,0,0,1.000,,,,,,,,,,,,,,,32,42,0,30,15,15,.762
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Noah West,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Zach Merrill,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,00:00,0,0,1.000,,,,,,,,,,,,,,,5,5,0,4,0,4,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Will Hoschak,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,60:00,0,0,1.000,2,50:30,3,4,0,1,0,0,0,0,0,20,3.56,.571,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Jackson Jerdonek,,,,13,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,11,0,5,5,60:00,0,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Luke Farthing,,,,11,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,16,2,624:00,51,0,1.000,11,581:08,141,103,0,6,5,0,2,0,0,403,14.56,.422,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Tyler Bussard,,,,14,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,142,84,83,0,9,0,00:00,0,226,1.000,,,,,,,,,,,,,,,2,2,0,4,2,2,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Chase Lagore,,,,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,42,10,0,0,0,00:00,0,68,1.000,,,,,,,,,,,,,,,0,2,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Gabe Thayer,,,,12,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,8,0,5,1,00:00,0,1,1.000,,,,,,,,,,,,,,,5,11,0,3,1,2,.455
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,EJ Buggs,,,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,0,0,00:00,0,1,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Dylan Rosser,,,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,7,0,1,8,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,1,1,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Mitchell Kleman,,,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,2,4,00:00,0,1,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Nathan Lewis,,,,14,13,0,0,0,0,0,2,10,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14,0,15,2,780:00,0,0,1.000,,,,,,,,,,,,,,,39,58,0,31,16,15,.672
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Nate Hemeryck,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Dominick Duncan,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Miguel Need,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Alex Glackin,,,,12,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,1,0,5,0,2,3,660:00,0,1,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Max Esque,,,,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,12,0,6,9,780:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Nick Miller,,,,13,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,13,0,1,9,120:00,0,2,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Max Graham,,,,14,13,0,0,0,0,0,2,18,0,3,1,0,0,0,0,0,0,0,1,2,0,0,0,0,36,0,17,6,780:00,0,0,1.000,,,,,,,,,,,,,,,81,136,0,54,10,44,.596
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Carson Rainone,,,,14,12,0,0,0,0,0,0,13,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,0,9,0,14,1,720:00,0,0,1.000,,,,,,,,,,,,,,,42,79,0,26,6,20,.532
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Elliot Christlieb,,,,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,60:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Louis Griese,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Chase Belding,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,1,0,1,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Jacob Snyder,,,,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,00:00,0,0,1.000,,,,,,,,,,,,,,,3,5,0,3,1,2,.600
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Zach Courie,,,,7,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,0,3,1,155:00,9,1,1.000,6,208:22,46,31,0,1,1,0,3,0,0,139,13.25,.403,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Theron Cable,,,,6,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3,0,2,1,180:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Tyler Pruden,,,,11,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,5,0,00:00,0,0,1.000,,,,,,,,,,,,,,,3,4,0,1,0,1,.750
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Cayden Rohe,,,,14,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,1,48,0,11,5,60:00,0,6,1.000,,,,,,,,,,,,,,,2,5,0,4,2,2,.400
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Jack Kennedy,,,,5,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,00:00,0,0,1.000,,,,,,,,,,,,,,,3,6,0,4,1,3,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Jack Regruth,,,,14,14,0,0,0,0,0,1,4,0,3,1,0,0,0,0,0,0,0,2,1,0,0,0,0,21,0,29,0,840:00,0,0,1.000,,,,,,,,,,,,,,,38,61,0,30,11,19,.623
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Owen Opp,,,,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,12,0,7,7,780:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Otterbein,Luke Isaac,,,,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,3,7,0,1,0,00:00,0,12,1.000,,,,,,,,,,,,,,,2,4,0,1,0,1,.500
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Angus Cripe,,,,10,6,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,3,0,6,2,360:00,0,1,1.000,,,,,,,,,,,,,,,1,1,0,2,1,1,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Ely Hatten,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,01:00,41,0,1.000,3,16:16,4,2,0,0,0,0,0,0,0,10,14.75,.333,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Zach Swearingen,,,,15,6,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,3,3,0,0,6,28,32,0,25,9,307:00,54,34,1.000,,,,,,,,,,,,,,,9,16,0,5,3,2,.563
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Nick Roca,,,,16,15,0,0,0,0,0,0,20,0,2,1,0,0,0,0,0,0,0,0,3,0,0,0,1,25,0,43,7,894:00,68,1,1.000,,,,,,,,,,,,,,,51,104,0,33,9,24,.490
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Drew Rausch,,,,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,6,8,0,11,2,00:00,0,6,1.000,,,,,,,,,,,,,,,6,11,0,2,1,1,.545
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Brock Fugate,,,,15,3,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,10,0,14,5,226:00,74,0,1.000,,,,,,,,,,,,,,,7,7,0,6,2,4,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Garrett Reigelsperge,,,,16,16,0,0,0,0,0,2,9,1,6,1,0,0,0,0,0,0,0,2,0,0,0,0,0,21,0,33,4,954:00,68,0,1.000,,,,,,,,,,,,,,,62,125,0,37,4,33,.496
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Brody Parsley,,,,13,2,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,2,16,0,13,0,118:00,10,2,1.000,,,,,,,,,,,,,,,5,6,0,3,1,2,.833
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Ben Parke,,,,15,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,19,21,0,19,6,767:00,84,20,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Kegan Campbell,,,,16,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,0,1,27,0,29,11,894:00,68,1,1.000,,,,,,,,,,,,,,,3,7,0,0,0,0,.429
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Colin McLaughlin,,,,16,16,0,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,5,3,0,0,0,1,34,0,20,16,902:00,102,1,1.000,,,,,,,,,,,,,,,5,13,0,6,2,4,.385
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Tyler Cunningham,,,,16,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,5,0,11,4,120:00,0,0,1.000,,,,,,,,,,,,,,,7,18,0,6,5,1,.389
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Brody Whitaker,,,,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,0,3,1,00:00,0,6,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Caleb Mann,,,,16,14,0,0,0,0,0,4,19,0,7,0,0,0,0,0,0,0,0,1,3,0,0,0,0,16,0,39,2,834:00,68,0,1.000,,,,,,,,,,,,,,,61,110,0,36,8,28,.555
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Noah Pressman,,,,16,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,145,201,69,0,16,0,478:00,10,346,1.000,,,,,,,,,,,,,,,4,9,0,0,0,0,.444
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Damian Dean,,,,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,6,2,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Manny Castillo,,,,16,10,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,12,0,20,0,600:00,0,0,1.000,,,,,,,,,,,,,,,10,16,0,7,4,3,.625
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Cody Everly,,,,16,12,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,0,0,0,1,19,0,20,5,669:00,118,1,1.000,5,194:00,70,52,0,0,4,0,0,0,0,179,21.65,.426,8,22,0,4,1,3,.364
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Paul Bailey,,,,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,2,0,4,0,2,4,60:00,0,2,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Jayden Kruse,,,,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,4,1,60:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Peyton Thompson,,,,14,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,13,0,788:00,87,0,1.000,14,744:52,208,180,0,3,7,0,0,0,0,633,16.75,.464,0,0,0,1,1,0,.000
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Elijah Loux,,,,16,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,5,19,0,15,4,414:00,68,5,1.000,,,,,,,,,,,,,,,3,4,0,1,0,1,.750
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Jelani Hunter,,,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,4,9,22,0,14,4,00:00,0,13,1.000,,,,,,,,,,,,,,,2,7,0,2,2,0,.286
+oac,Ohio Athletic Conference (OAC),2025-26,mlax,Wilmington,Nathan Duerk,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,00:00,0,0,1.000,,,,,,,,,,,,,,,1,2,0,0,0,0,.500

@@ -1,0 +1,128 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,field_goals_made,field_goals_attempted,three_points_made,three_points_attempted,free_throws_attempted,free_throws_made,points_scored,blocked_shots,steals,assists,minutes_played,offensive_rebounds,defensive_rebounds,total_rebounds,personal_fouls,technical_fouls,turnovers,disqualifications,deadballs,field_goals_pct,three_points_pct,free_throws_pct,points_per_game,rebounds_per_game,assists_per_game,steals_per_game,blocked_shots_per_game
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Williamson,Eden",0,G,00,25,25,30,60,1,12,43,26,87,1,51,46,552,31,58,89,38,0,17,0,0,0.50,0.08,0.60,3.48,3.56,1.84,2.04,0.04
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"McNair,Serenity",0,G,02,10,0,6,15,0,1,8,4,16,0,11,8,63,2,8,10,1,0,7,0,0,0.40,0.00,0.50,1.60,1.00,0.80,1.10,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Batch,Olive",0,F,03,9,0,7,19,3,9,6,5,22,4,2,6,45,3,14,17,3,0,3,0,0,0.37,0.33,0.83,2.44,1.89,0.67,0.22,0.44
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Munson,Josie",0,F,05,12,0,18,30,2,4,6,3,41,0,6,6,83,9,16,25,11,0,6,0,0,0.60,0.50,0.50,3.42,2.08,0.50,0.50,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Albanese,Aizlyn",0,G,07,14,0,8,23,5,16,4,3,24,3,5,2,66,5,14,19,5,0,2,0,0,0.35,0.31,0.75,1.71,1.36,0.14,0.36,0.21
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Alexander,Zahra",0,G,10,25,1,124,226,15,34,64,43,306,9,32,44,537,34,27,61,25,0,29,0,0,0.55,0.44,0.67,12.24,2.44,1.76,1.28,0.36
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Peper,Caroline",0,G,11,24,24,155,382,94,257,51,41,445,9,68,80,708,16,52,68,37,0,41,1,0,0.41,0.37,0.80,18.54,2.83,3.33,2.83,0.38
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Ding,Jolyn",0,G,12,14,0,9,22,3,8,3,1,22,0,11,8,83,9,5,14,11,0,9,0,0,0.41,0.38,0.33,1.57,1.00,0.57,0.79,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Van Der Maas,Paika",0,F,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Lagao,Olivia",0,G,14,24,1,62,182,44,124,41,36,204,1,27,40,348,6,14,20,27,0,29,0,0,0.34,0.35,0.88,8.50,0.83,1.67,1.13,0.04
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Batchelor,Brooke",0,G,20,25,25,133,278,33,91,38,32,331,13,74,63,702,41,109,150,41,0,41,0,0,0.48,0.36,0.84,13.24,6.00,2.52,2.96,0.52
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Clark,Yasmene",0,F,21,25,16,66,142,0,3,88,44,176,14,43,37,515,140,120,260,42,0,32,0,0,0.46,0.00,0.50,7.04,10.40,1.48,1.72,0.56
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Ohonde,Megan",0,F,22,19,9,29,61,1,2,29,20,79,1,19,22,190,11,29,40,31,0,25,1,0,0.48,0.50,0.69,4.16,2.11,1.16,1.00,0.05
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Goodhart,Madison",0,F,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Kenney,Caitlin",0,F,30,25,0,43,101,14,43,13,7,107,23,36,29,342,30,70,100,39,0,20,0,0,0.43,0.33,0.54,4.28,4.00,1.16,1.44,0.92
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Corral,Sofia",0,G,33,20,0,26,43,2,4,15,11,65,1,18,30,195,12,12,24,22,0,18,0,0,0.60,0.50,0.73,3.25,1.20,1.50,0.90,0.05
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Mousouroulis,Alexia",0,G,34,14,0,5,17,1,7,4,3,14,3,5,7,66,5,6,11,5,0,2,0,0,0.29,0.14,0.75,1.00,0.79,0.50,0.36,0.21
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"DuBois,Kelsey",0,C,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,New York,"Kaibara,Aila",0,G,47,25,24,98,227,51,131,27,20,267,3,29,84,506,32,38,70,34,0,70,0,0,0.43,0.39,0.74,10.68,2.80,3.36,1.16,0.12
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Psarros,Christina",0,F,01,12,0,3,17,2,11,5,4,12,0,4,5,60,3,10,13,4,0,3,0,0,0.18,0.18,0.80,1.00,1.08,0.42,0.33,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Kennedy,Lily",0,G,02,25,4,48,122,6,31,26,20,122,13,17,18,496,38,72,110,29,0,22,0,0,0.39,0.19,0.77,4.88,4.40,0.72,0.68,0.52
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Walsh,Lauren",0,G,03,23,0,25,59,10,28,19,11,71,0,25,8,194,4,15,19,22,0,12,0,0,0.42,0.36,0.58,3.09,0.83,0.35,1.09,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Allen,Riley",0,G,05,12,0,38,98,29,80,8,5,110,5,3,9,196,6,42,48,12,0,10,0,0,0.39,0.36,0.63,9.17,4.00,0.75,0.25,0.42
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Mullinax,Mary",0,G,11,25,24,87,206,15,55,47,37,226,6,18,51,648,32,125,157,41,0,49,0,0,0.42,0.27,0.79,9.04,6.28,2.04,0.72,0.24
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Starr,Emma",0,G,12,25,0,19,57,7,27,19,16,61,2,9,63,321,4,28,32,21,0,37,0,0,0.33,0.26,0.84,2.44,1.28,2.52,0.36,0.08
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Seawell,Savannah",0,F,13,13,0,14,33,0,0,8,3,31,5,1,8,71,11,13,24,19,0,6,0,0,0.42,0.00,0.38,2.38,1.85,0.62,0.08,0.38
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Cummings,Sydney",0,G,14,11,0,5,18,4,17,2,1,15,0,1,2,51,1,5,6,2,0,3,0,0,0.28,0.24,0.50,1.36,0.55,0.18,0.09,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Kreusser,Chloe",0,G,15,25,1,57,95,0,1,29,15,129,14,34,25,452,51,76,127,36,0,12,0,0,0.60,0.00,0.52,5.16,5.08,1.00,1.36,0.56
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Olson,Tatum",0,G,21,25,24,153,351,60,138,45,36,402,3,38,29,703,42,68,110,60,0,56,0,0,0.44,0.43,0.80,16.08,4.40,1.16,1.52,0.12
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Martini,Katherine",0,F,22,11,1,9,25,0,0,2,1,19,5,2,0,87,5,8,13,15,0,7,0,0,0.36,0.00,0.50,1.73,1.18,0.00,0.18,0.45
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Strazza,Mia",0,G,25,25,25,58,141,20,61,43,26,162,4,28,71,634,7,56,63,46,0,55,1,0,0.41,0.33,0.60,6.48,2.52,2.84,1.12,0.16
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Loucopoulos,Alexandra",0,G,32,24,22,121,294,37,106,61,45,324,19,39,43,643,29,65,94,48,0,63,0,0,0.41,0.35,0.74,13.50,3.92,1.79,1.63,0.79
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Connelly,Caroline",0,F,44,25,24,48,97,0,1,20,15,111,25,10,24,429,48,67,115,46,0,31,0,0,0.49,0.00,0.75,4.44,4.60,0.96,0.40,1.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Emory,"Exalant,Serene",0,G,10,5,0,4,5,0,1,1,1,9,1,1,2,16,0,2,2,4,0,2,0,0,0.80,0.00,1.00,1.80,0.40,0.40,0.20,0.20
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Hughes,Alyssa",0,G,03,25,25,91,232,60,148,25,23,265,5,26,23,729,4,68,72,53,0,27,0,0,0.39,0.41,0.92,10.60,2.88,0.92,1.04,0.20
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Friesen,Molly",0,F,04,13,0,6,17,1,9,12,8,21,0,0,3,50,3,8,11,6,0,5,0,0,0.35,0.11,0.67,1.62,0.85,0.23,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Blagojevich,Ava",0,G,11,24,0,21,55,2,13,9,6,50,1,7,22,295,17,27,44,26,0,14,0,0,0.38,0.15,0.67,2.08,1.83,0.92,0.29,0.04
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Goodwin,Catherine",0,G,12,25,25,66,160,9,35,54,38,179,2,19,80,638,10,61,71,51,0,51,0,0,0.41,0.26,0.70,7.16,2.84,3.20,0.76,0.08
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Drake,Hope",0,G,14,11,0,15,32,8,14,4,4,42,0,1,4,69,7,7,14,0,0,2,0,0,0.47,0.57,1.00,3.82,1.27,0.36,0.09,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Rogers,Sidney",0,G,15,25,25,111,267,46,134,47,39,307,2,28,84,853,14,82,96,46,0,54,0,0,0.42,0.34,0.83,12.28,3.84,3.36,1.12,0.08
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Seddelmeyer,Reid",0,G,20,7,0,3,4,0,0,2,1,7,0,0,3,27,1,5,6,2,0,4,0,0,0.75,0.00,0.50,1.00,0.86,0.43,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Rich,Jordan",0,F,21,23,23,72,181,27,79,43,25,196,17,48,51,719,22,103,125,41,0,46,0,0,0.40,0.34,0.58,8.52,5.43,2.22,2.09,0.74
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Rosin,Amelia",0,F,22,25,0,44,78,0,2,35,25,113,4,3,12,363,42,55,97,20,0,17,0,0,0.56,0.00,0.71,4.52,3.88,0.48,0.12,0.16
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Travnicek,Emilee",0,F,23,8,0,2,4,0,0,2,0,4,2,1,1,24,0,6,6,4,0,1,0,0,0.50,0.00,0.00,0.50,0.75,0.13,0.13,0.25
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Starks,Sydney",0,G,24,22,2,26,78,12,42,21,16,80,6,17,23,378,11,57,68,15,0,20,0,0,0.33,0.29,0.76,3.64,3.09,1.05,0.77,0.27
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Murphy,Tara",0,F,25,7,0,2,4,0,0,0,0,4,1,0,0,16,1,4,5,0,0,1,0,0,0.50,0.00,0.00,0.57,0.71,0.00,0.00,0.14
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Helms,Maggie",0,F,30,9,0,3,7,0,1,2,0,6,0,2,4,24,3,4,7,3,0,2,0,0,0.43,0.00,0.00,0.67,0.78,0.44,0.22,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"Harris,Lexy",0,C,33,25,25,198,325,0,1,88,70,466,35,17,23,606,71,161,232,81,1,60,0,0,0.61,0.00,0.80,18.64,9.28,0.92,0.68,1.40
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"O'Grady,Cecilia",0,F,34,10,0,4,11,0,0,4,2,10,3,0,2,26,3,8,11,2,0,1,0,0,0.36,0.00,0.50,1.00,1.10,0.20,0.00,0.30
+uaa,University Athletic Association (UAA),2025-26,wbball,Washington St. Louis,"McBeth,Nailah",0,F,44,14,0,8,26,0,0,3,2,18,3,7,8,183,14,19,33,11,0,8,0,0,0.31,0.00,0.67,1.29,2.36,0.57,0.50,0.21
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Plachta,Emily",0,G,02,25,25,127,329,41,124,142,98,393,32,29,32,823,53,122,175,41,0,43,0,0,0.39,0.33,0.69,15.72,7.00,1.28,1.16,1.28
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Roberts,Maya",0,G,03,18,16,28,85,3,14,28,13,72,6,14,17,418,14,27,41,19,0,19,0,0,0.33,0.21,0.46,4.00,2.28,0.94,0.78,0.33
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Banks,Christen",0,G,04,17,0,11,24,0,0,13,9,31,0,3,3,108,10,9,19,13,0,7,0,0,0.46,0.00,0.69,1.82,1.12,0.18,0.18,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Swanson,Clara",0,F,05,6,0,1,2,0,1,0,0,2,0,1,0,22,0,4,4,2,0,1,0,0,0.50,0.00,0.00,0.33,0.67,0.00,0.17,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Rossini,Mila",0,G,10,23,0,6,37,2,22,6,5,19,1,8,15,212,18,18,36,11,0,15,0,0,0.16,0.09,0.83,0.83,1.57,0.65,0.35,0.04
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Sirois,Abby",0,G,12,6,0,1,11,0,7,2,1,3,0,2,2,26,0,2,2,1,0,4,0,0,0.09,0.00,0.50,0.50,0.33,0.33,0.33,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Hutter-DeMarco,Emi",0,G,13,25,1,3,16,1,4,8,5,12,0,13,18,170,7,17,24,22,0,26,0,0,0.19,0.25,0.63,0.48,0.96,0.72,0.52,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Ludwig,Lauren",0,G,14,15,0,13,31,9,22,4,2,37,0,3,1,83,5,6,11,6,0,3,0,0,0.42,0.41,0.50,2.47,0.73,0.07,0.20,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Hartjes,Mya",0,G,20,25,25,144,341,55,134,54,46,389,1,30,99,826,33,131,164,43,0,69,0,0,0.42,0.41,0.85,15.56,6.56,3.96,1.20,0.04
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Call,Jordyn",0,G,22,25,24,66,233,34,155,20,14,180,9,19,22,646,17,31,48,34,0,30,0,0,0.28,0.22,0.70,7.20,1.92,0.88,0.76,0.36
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Schorr,Maura",0,F,30,25,25,114,259,8,38,66,44,280,25,48,21,655,87,99,186,78,0,66,0,0,0.44,0.21,0.67,11.20,7.44,0.84,1.92,1.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Jordan,Ava",0,G,33,9,0,4,9,0,1,5,5,13,1,3,1,36,1,4,5,3,0,2,0,0,0.44,0.00,1.00,1.44,0.56,0.11,0.33,0.11
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Angielski,Taylor",0,G,34,24,0,34,104,33,94,4,4,105,3,13,7,434,10,31,41,28,0,14,0,0,0.33,0.35,1.00,4.38,1.71,0.29,0.54,0.13
+uaa,University Athletic Association (UAA),2025-26,wbball,Case Western Reserve,"Watson,Biz",0,F,35,25,9,34,147,4,24,33,18,90,21,39,35,566,50,100,150,39,0,39,0,0,0.23,0.17,0.55,3.60,6.00,1.40,1.56,0.84
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Zoey Seymour,0,0,02,17,0,9,26,0,1,3,1,19,0,7,5,94,5,22,27,11,0,7,0,0,0.35,0.00,0.33,1.12,1.59,0.29,0.41,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Franki Gomez,0,0,03,23,23,65,153,15,55,27,20,165,6,18,45,554,24,66,90,24,0,60,0,0,0.42,0.27,0.74,7.17,3.91,1.96,0.78,0.26
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Peyton Jones,0,0,04,22,0,12,23,3,4,6,6,33,3,1,11,113,6,15,21,10,0,11,0,0,0.52,0.75,1.00,1.50,0.95,0.50,0.05,0.14
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Rylee Drahos,0,0,05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Macy Bacon,0,0,10,24,0,33,74,13,34,13,9,88,4,2,5,231,8,24,32,21,0,16,0,0,0.45,0.38,0.69,3.67,1.33,0.21,0.08,0.17
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Melis Alparslan,0,0,11,22,0,33,107,8,45,25,11,85,11,20,30,376,10,51,61,28,0,25,1,0,0.31,0.18,0.44,3.86,2.77,1.36,0.91,0.50
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Allison Dauer,0,0,12,9,0,2,8,0,6,2,1,5,1,1,1,26,2,1,3,5,0,5,0,0,0.25,0.00,0.50,0.56,0.33,0.11,0.11,0.11
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Ava Sandroni,0,0,13,8,0,2,7,0,1,0,0,4,1,2,3,48,1,1,2,4,0,7,0,0,0.29,0.00,0.00,0.50,0.25,0.38,0.25,0.13
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Tia Poulakidas,0,*,14,23,19,59,159,5,21,43,29,152,10,14,25,455,31,74,105,28,0,30,0,0,0.37,0.24,0.67,6.61,4.57,1.09,0.61,0.43
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Grace Corelli,0,*,15,25,25,84,251,37,134,52,37,242,8,19,44,682,30,102,132,41,0,61,1,0,0.33,0.28,0.71,9.68,5.28,1.76,0.76,0.32
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Claire Groenewoud,0,*,20,22,22,56,158,17,66,29,22,151,5,22,59,555,12,51,63,37,0,36,0,0,0.35,0.26,0.76,6.86,2.86,2.68,1.00,0.23
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Annelise Dexter,0,0,21,25,8,70,178,10,40,47,38,188,22,16,22,509,36,64,100,38,0,28,0,0,0.39,0.25,0.81,7.52,4.00,0.88,0.64,0.88
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Alex Sullivan,0,0,22,1,0,1,1,0,0,0,0,2,0,0,0,2,0,1,1,0,0,0,0,0,1.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Deniz Alparslan,0,*,23,25,5,60,130,2,7,42,25,147,9,41,35,480,44,61,105,45,0,24,1,0,0.46,0.29,0.60,5.88,4.20,1.40,1.64,0.36
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Hazell Nickerson,0,0,25,25,0,50,115,8,19,29,19,127,15,16,26,410,23,57,80,25,0,29,0,0,0.43,0.42,0.66,5.08,3.20,1.04,0.64,0.60
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Bridget Miller,0,*,33,23,23,64,167,6,35,46,27,161,15,26,27,439,29,68,97,49,0,33,2,0,0.38,0.17,0.59,7.00,4.22,1.17,1.13,0.65
+uaa,University Athletic Association (UAA),2025-26,wbball,Rochester,Juliet Schwartz,0,0,34,7,0,0,6,0,4,2,1,1,1,2,0,26,3,0,3,3,0,3,0,0,0.00,0.00,0.50,0.14,0.43,0.00,0.29,0.14
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Sanders,Chris",0,G,00,24,23,84,204,30,89,49,41,239,6,33,44,756,6,71,77,34,0,45,0,0,0.41,0.34,0.84,9.96,3.21,1.83,1.38,0.25
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Burrell,Zora",0,G,02,10,0,8,15,0,2,7,2,18,0,2,4,69,3,11,14,7,0,5,0,0,0.53,0.00,0.29,1.80,1.40,0.40,0.20,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Strifling,Lauren",0,F,03,6,0,3,10,1,7,0,0,7,0,2,1,36,3,7,10,1,0,0,0,0,0.30,0.14,0.00,1.17,1.67,0.17,0.33,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Clark,Alexis",0,F,04,24,11,73,140,0,0,27,20,166,14,15,12,372,39,69,108,55,0,32,2,0,0.52,0.00,0.74,6.92,4.50,0.50,0.63,0.58
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Samuda,Kasi",0,F,05,23,13,57,129,0,3,60,39,153,18,14,35,520,66,126,192,41,0,30,1,0,0.44,0.00,0.65,6.65,8.35,1.52,0.61,0.78
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Miller,Lauren",0,G,11,8,0,3,6,0,2,4,3,9,0,2,1,26,3,3,6,2,0,1,0,0,0.50,0.00,0.75,1.13,0.75,0.13,0.25,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Spotts,Annabelle",0,F,14,24,21,102,248,15,41,81,63,282,14,21,31,719,42,98,140,43,0,68,1,0,0.41,0.37,0.78,11.75,5.83,1.29,0.88,0.58
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Gross,Kate",0,G,21,24,19,64,174,18,63,25,17,163,15,18,57,705,8,43,51,35,0,38,0,0,0.37,0.29,0.68,6.79,2.13,2.38,0.75,0.63
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Simpson,Bri",0,G,23,23,11,83,179,13,41,30,21,200,5,29,31,512,32,61,93,51,1,64,0,0,0.46,0.32,0.70,8.70,4.04,1.35,1.26,0.22
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Liu,Ruiqi",0,G,24,19,0,14,52,5,30,10,9,42,3,4,13,208,4,13,17,4,0,14,0,0,0.27,0.17,0.90,2.21,0.89,0.68,0.21,0.16
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Xin,Karen",0,G,30,24,0,24,74,17,47,4,1,66,0,8,9,228,1,17,18,16,0,20,0,0,0.32,0.36,0.25,2.75,0.75,0.38,0.33,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Carter,Lindsey",0,F,32,6,1,10,15,0,0,2,2,22,2,2,4,66,1,13,14,4,0,8,0,0,0.67,0.00,1.00,3.67,2.33,0.67,0.33,0.33
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Workman,Caroline",0,F,33,24,20,47,100,13,46,17,10,117,22,23,41,631,23,82,105,31,0,28,0,0,0.47,0.28,0.59,4.88,4.38,1.71,0.96,0.92
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Braaten,Kendall",0,G,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Lim,Paige",0,G,12,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Chicago,"Williams,Amber",0,F,22,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,"Perez,Jazzy",0,G,01,25,0,40,153,10,28,40,26,116,0,18,9,390,9,30,39,30,0,37,0,0,0.26,0.36,0.65,4.64,1.56,0.36,0.72,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,"Skladanowski,Ava",0,G,02,5,0,3,18,2,9,10,7,15,0,1,2,52,0,3,3,4,0,1,0,0,0.17,0.22,0.70,3.00,0.60,0.40,0.20,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,"Williams,Maya",0,F,04,25,18,38,84,1,3,17,9,86,27,20,19,520,45,82,127,59,1,22,2,0,0.45,0.33,0.53,3.44,5.08,0.76,0.80,1.08
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,"Candela,Claire",0,G,05,24,22,39,103,21,57,15,12,111,4,20,25,534,17,34,51,30,0,37,0,0,0.38,0.37,0.80,4.63,2.13,1.04,0.83,0.17
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,"Fifield,Amaya",0,G,12,6,0,0,3,0,1,0,0,0,0,0,0,21,0,0,0,0,0,2,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,"Berisha,Sofia",0,G,15,25,3,81,207,1,27,58,41,204,12,28,71,566,22,77,99,25,0,61,0,0,0.39,0.04,0.71,8.16,3.96,2.84,1.12,0.48
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,"Reed,Brooke",0,F,20,19,1,37,68,0,0,31,16,90,8,10,7,311,38,48,86,32,0,14,0,0,0.54,0.00,0.52,4.74,4.53,0.37,0.53,0.42
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,"Shabazz,Saviah",0,G,30,25,24,60,185,16,42,78,55,191,4,38,70,799,19,69,88,30,0,60,0,0,0.32,0.38,0.71,7.64,3.52,2.80,1.52,0.16
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,"Marrella,Carlie",0,G,32,20,0,8,28,2,13,6,2,20,0,2,3,131,3,11,14,13,0,8,0,0,0.29,0.15,0.33,1.00,0.70,0.15,0.10,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,"Kennedy,Abby",0,G,35,24,24,136,362,54,156,80,65,391,8,22,22,697,19,71,90,38,0,62,1,0,0.38,0.35,0.81,16.29,3.75,0.92,0.92,0.33
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,"Vaughan,Katherine",0,F,40,25,25,77,172,0,4,108,71,225,42,18,23,590,67,115,182,56,0,25,0,0,0.45,0.00,0.66,9.00,7.28,0.92,0.72,1.68
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,Molly James,0,0,34,8,1,2,8,1,3,7,5,10,1,2,2,32,1,3,4,5,0,0,0,0,0.25,0.33,0.71,1.25,0.50,0.25,0.25,0.13
+uaa,University Athletic Association (UAA),2025-26,wbball,Brandeis,Elena Delicado,0,0,41,17,7,33,85,1,4,24,11,78,9,11,20,357,36,57,93,31,0,29,0,0,0.39,0.25,0.46,4.59,5.47,1.18,0.65,0.53
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Katz,Justine",0,G,02,4,0,1,7,1,6,1,1,4,0,1,2,17,1,1,2,0,0,0,0,0,0.14,0.17,1.00,1.00,0.50,0.50,0.25,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Gibbs,Savannah",0,F,04,25,25,86,176,13,22,77,42,227,14,21,37,695,51,89,140,41,0,42,0,0,0.49,0.59,0.55,9.08,5.60,1.48,0.84,0.56
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Heyer,Allie",0,G,05,25,12,38,123,17,54,16,11,104,4,14,11,446,10,34,44,19,0,23,0,0,0.31,0.31,0.69,4.16,1.76,0.44,0.56,0.16
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Dinker,Aleena",0,G,10,25,25,81,216,31,100,49,28,221,7,44,81,759,14,45,59,58,0,72,1,0,0.38,0.31,0.57,8.84,2.36,3.24,1.76,0.28
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Prouty,Anna",0,F,11,5,0,3,8,0,3,2,2,8,0,1,4,22,2,6,8,3,0,4,0,0,0.38,0.00,1.00,1.60,1.60,0.80,0.20,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Musunuri,Nisha",0,G,13,24,0,25,71,4,28,13,9,63,11,19,23,358,25,32,57,42,0,11,2,0,0.35,0.14,0.69,2.63,2.38,0.96,0.79,0.46
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Peper,Anya",0,G,14,20,0,24,71,13,39,8,8,69,2,4,7,260,3,17,20,15,0,12,0,0,0.34,0.33,1.00,3.45,1.00,0.35,0.20,0.10
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Baney,Payton",0,F,15,25,24,84,164,0,6,46,24,192,30,28,26,683,31,118,149,49,0,44,0,0,0.51,0.00,0.52,7.68,5.96,1.04,1.12,1.20
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Lewis,Shelby",0,F,21,23,0,40,86,1,1,42,27,108,3,12,7,287,23,45,68,31,0,19,1,0,0.47,1.00,0.64,4.70,2.96,0.30,0.52,0.13
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Arias,Ava",0,G,23,24,13,18,64,3,28,17,6,45,3,7,16,262,23,22,45,26,0,22,0,0,0.28,0.11,0.35,1.88,1.88,0.67,0.29,0.13
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Timko,Nicole",0,G,24,25,25,136,337,50,147,81,69,391,12,38,42,786,30,118,148,41,0,62,0,0,0.40,0.34,0.85,15.64,5.92,1.68,1.52,0.48
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Bangalore,Niyati",0,G,30,25,0,19,51,11,32,8,7,56,1,10,28,296,4,28,32,19,0,22,0,0,0.37,0.34,0.88,2.24,1.28,1.12,0.40,0.04
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Bennett,Danica",0,G,33,3,0,1,4,0,1,0,0,2,0,0,1,13,1,4,5,0,0,0,0,0,0.25,0.00,0.00,0.67,1.67,0.33,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"LaFond,Liv",0,G,43,11,1,5,12,0,0,0,0,10,1,2,2,43,4,3,7,4,0,5,0,0,0.42,0.00,0.00,0.91,0.64,0.18,0.18,0.09
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Rahman,Anya",0,G,03,16,0,4,22,1,10,4,3,12,2,3,2,61,1,9,10,8,0,8,0,0,0.18,0.10,0.75,0.75,0.63,0.13,0.19,0.13
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Robertson,Eva",0,C,20,3,0,3,5,0,0,0,0,6,0,0,0,12,1,0,1,1,0,1,0,0,0.60,0.00,0.00,2.00,0.33,0.00,0.00,0.00
+uaa,University Athletic Association (UAA),2025-26,wbball,Carnegie Mellon,"Black,Ava",0,F,01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00

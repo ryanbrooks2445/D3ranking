@@ -1,0 +1,155 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,attack_stats_hitting_pct,attack_stats_attempts,attack_stats_errors,attack_stats_kills,set_stats_assists,set_stats_errors,set_stats_attempts,set_stats_set_pct,serve_stats_aces,serve_stats_errors,serve_stats_attempts,serve_stats_serve_pct,defense_stats_defense_pct,defense_stats_attempts,defense_stats_receptions,defense_stats_digs,block_stats_total,block_stats_errors,block_stats_assists,block_stats_solos,misc_stats_points,misc_stats_ball_handling_errors,per_set_stats_kills,per_set_stats_assists,per_set_stats_digs,per_set_stats_blocks,per_set_stats_aces,per_set_stats_points
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Dohogne, Madeline",0,,10,117,0,.167,42,3,10,91,2,313,0,72,42,523,0,0,544,29,450,0,0,0,0,82,0,0.09,0.78,3.85,0.00,0.62,0.70
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"O'Brien, Aspen",0,,13,119,46,.330,200,6,72,1262,21,3002,0,52,23,458,0,0,10,1,231,21,1,21,0,134.5,2,0.61,10.61,1.94,0.18,0.44,1.13
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Adams, Aubre",0,,18,100,38,.341,422,41,185,7,3,57,0,16,19,286,0,0,7,1,61,51,5,39,12,232.5,1,1.85,0.07,0.61,0.51,0.16,2.33
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Stem, Bella",0,,19,85,28,.214,388,53,136,2,3,30,0,1,3,15,0,0,3,0,31,39,5,38,1,157,0,1.60,0.02,0.36,0.46,0.01,1.85
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Kowalewski, Alison",0,,23,79,28,.121,364,68,112,16,1,68,0,34,29,321,0,0,372,22,191,11,0,9,2,152.5,0,1.42,0.20,2.42,0.14,0.43,1.93
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Latino, Victoria",0,,22,109,34,.192,765,117,264,10,3,41,0,17,23,175,0,0,223,24,116,44,2,42,2,304,1,2.42,0.09,1.06,0.40,0.16,2.79
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Suter, Danielle",0,,14,14,3,.000,12,2,2,112,5,318,0,5,3,50,0,0,0,0,26,2,0,2,0,8,0,0.14,8.00,1.86,0.14,0.36,0.57
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Valencia, Annabelle",0,,2,125,3,.000,19,2,2,32,2,120,0,44,75,476,0,0,396,28,309,0,0,0,0,46,0,0.02,0.26,2.47,0.00,0.35,0.37
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Morrison, Cayley Elena",0,,24,117,43,.396,793,105,419,5,4,29,0,2,9,17,0,0,8,0,38,125,17,79,46,506.5,2,3.58,0.04,0.32,1.07,0.02,4.33
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Sanjurjo Mercado, Alondra",0,,4,43,13,.211,95,13,33,2,1,10,0,1,4,20,0,0,10,3,9,38,2,28,10,58,3,0.77,0.05,0.21,0.88,0.02,1.35
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Vargas, Arianna",0,,25,76,3,.000,2,0,0,1,2,19,0,21,6,245,0,0,87,12,70,0,0,0,0,21,0,0.00,0.01,0.92,0.00,0.28,0.28
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Hopkins, Madison",0,,5,24,4,.051,99,24,29,1,1,8,0,1,10,39,0,0,50,6,20,2,1,2,0,31,0,1.21,0.04,0.83,0.08,0.04,1.29
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Manko, Mia",0,,6,21,0,.000,1,0,0,0,0,3,0,7,9,42,0,0,30,7,24,0,0,0,0,7,0,0.00,0.00,1.14,0.00,0.33,0.33
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Ohler, Skylee",0,,7,10,4,.091,22,4,6,9,1,33,0,2,3,20,0,0,0,0,6,3,0,3,0,9.5,0,0.60,0.90,0.60,0.30,0.20,0.95
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Torok, Ashley",0,,9,121,45,.213,1106,220,456,24,5,103,0,52,89,381,0,0,626,82,254,32,4,30,2,525,1,3.77,0.20,2.10,0.26,0.43,4.34
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Kean,"Hardesty, Penney",0,,8,10,2,.308,13,2,6,0,0,2,0,0,0,1,0,0,0,0,1,1,0,1,0,6.5,0,0.60,0.00,0.10,0.10,0.00,0.65
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Hutchinson, Vanessa",0,,19,105,0,.031,32,1,2,110,2,359,0,40,16,345,0,0,465,39,420,0,0,0,0,42,2,0.02,1.05,4.00,0.00,0.38,0.40
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Kaul, Jena",0,,15,84,40,.183,690,103,229,5,5,49,0,39,42,227,0,0,119,16,107,24,5,20,4,282,0,2.73,0.06,1.27,0.29,0.46,3.36
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Chadwick, Abigail",0,,7,92,42,.275,549,90,241,22,5,124,0,36,33,318,0,0,252,27,109,31,2,30,1,293,1,2.62,0.24,1.18,0.34,0.39,3.18
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Vires, Evalyn",0,,9,12,0,.000,1,0,0,0,1,1,0,9,1,31,0,0,9,0,2,0,0,0,0,9,0,0.00,0.00,0.17,0.00,0.75,0.75
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Kelleher, Alexa",0,,18,49,11,.220,304,46,113,0,2,12,0,0,2,4,0,0,15,1,19,19,5,18,1,123,0,2.31,0.00,0.39,0.39,0.00,2.51
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Ipeker, Nia",0,,25,101,3,.000,7,1,1,8,0,44,0,11,6,68,0,0,318,35,131,0,0,0,0,12,0,0.01,0.08,1.30,0.00,0.11,0.12
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Bradley, Ciara",0,,21,96,47,.160,382,69,130,8,1,40,0,53,50,342,0,0,8,1,50,57,3,45,12,217.5,0,1.35,0.08,0.52,0.59,0.55,2.27
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Best, Ava",0,,1,70,39,.242,219,38,91,3,0,21,0,0,0,0,0,0,5,0,16,34,3,27,7,111.5,0,1.30,0.04,0.23,0.49,0.00,1.59
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Cooper, Gabriella",0,,4,105,9,.000,19,3,3,21,0,96,0,48,17,451,0,0,272,19,227,0,0,0,0,51,0,0.03,0.20,2.16,0.00,0.46,0.49
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Cordrey, Hutton",0,,8,98,4,.023,171,33,37,6,0,43,0,18,8,101,0,0,187,13,141,6,1,6,0,58,1,0.38,0.06,1.44,0.06,0.18,0.59
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Stawicki, Blakely",0,,13,2,0,.286,7,2,4,0,0,1,0,0,0,0,0,0,0,0,1,2,0,2,0,5,0,2.00,0.00,0.50,1.00,0.00,2.50
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Ward, Aubrey",0,,2,7,0,.143,7,0,1,19,0,53,0,3,2,14,0,0,1,0,3,0,0,0,0,4,0,0.14,2.71,0.43,0.00,0.43,0.57
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Bivona, Abigail",0,,3,46,12,.331,145,18,66,2,0,12,0,5,3,31,0,0,1,0,8,38,3,23,15,97.5,0,1.43,0.04,0.17,0.83,0.11,2.12
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Albrecht, Raven",0,,5,105,49,.103,97,8,18,978,26,2553,0,78,26,529,0,0,9,1,227,0,2,0,0,96,3,0.17,9.31,2.16,0.00,0.74,0.91
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Smart, Jessica",0,,11,94,38,.290,756,120,339,1,3,47,0,0,0,0,0,0,40,4,53,25,4,19,6,354.5,2,3.61,0.01,0.56,0.27,0.00,3.77
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Johnson, Natalie",0,,29,2,0,-.250,4,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.00,0.00,0.00,0.00,0.00,0.00
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rowan,"Hoyer, Alexis",0,,23,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Cameron Lowe,0,,01,8,0,.214,28,4,10,0,0,3,0,0,0,0,0,0,0,0,2,1,0,1,0,10.5,0,1.25,0.00,0.25,0.13,0.00,1.31
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Laila Newborn,0,,02,102,57,.257,183,22,69,7,1,24,0,23,24,306,0,0,4,0,38,102,10,86,17,152,0,0.68,0.07,0.37,1.00,0.23,1.49
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Ashley Genau,0,,03,25,0,-.333,3,1,0,7,0,14,0,1,0,33,0,0,40,4,25,0,0,0,0,1,0,0.00,0.28,1.00,0.00,0.04,0.04
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Calli Miller,0,,04,12,3,.167,18,4,7,0,1,3,0,1,0,10,0,0,2,0,5,8,0,7,1,12.5,0,0.58,0.00,0.42,0.67,0.08,1.04
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Helen Murray,0,,05,105,0,.091,11,2,3,60,1,174,0,36,24,294,0,0,454,23,249,0,0,0,0,39,0,0.03,0.57,2.37,0.00,0.34,0.37
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Lauren Sommer,0,,06,87,0,.200,5,0,1,15,0,40,0,34,14,298,0,0,204,15,121,0,0,0,0,35,0,0.01,0.17,1.39,0.00,0.39,0.40
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Nicole Palmer,0,,07,80,38,.232,585,111,247,50,3,140,0,27,22,178,0,0,303,20,137,35,5,31,4,293.5,0,3.09,0.63,1.71,0.44,0.34,3.67
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,McKenna Ritchie,0,,08,96,5,.000,12,2,2,19,2,70,0,14,14,170,0,0,131,11,221,0,0,0,0,16,0,0.02,0.20,2.30,0.00,0.15,0.17
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Kate Louer,0,,09,103,56,.285,912,126,386,28,5,139,0,26,12,306,0,0,476,22,200,37,2,32,5,433,0,3.75,0.27,1.94,0.36,0.25,4.20
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Naomi Neher,0,,10,10,0,-.250,8,2,0,30,0,58,0,1,2,14,0,0,1,0,13,0,0,0,0,1,0,0.00,3.00,1.30,0.00,0.10,0.10
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Alexys Bland,0,,12,21,4,.297,37,7,18,1,0,6,0,0,1,5,0,0,0,0,4,11,1,9,2,24.5,1,0.86,0.05,0.19,0.52,0.00,1.17
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Jadyn Sawyer,0,,13,15,0,.182,33,8,14,3,1,4,0,0,0,1,0,0,0,0,1,2,0,2,0,15,0,0.93,0.20,0.07,0.13,0.00,1.00
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Kristen Burton,0,,14,98,4,.034,29,6,7,418,8,1098,0,35,28,330,0,0,2,0,123,2,0,2,0,43,3,0.07,4.27,1.26,0.02,0.36,0.44
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Rileigh Wilson,0,,15,90,39,.248,475,85,203,6,2,29,0,0,0,0,0,0,1,0,28,49,4,46,3,229,1,2.26,0.07,0.31,0.54,0.00,2.54
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Maya Brainard,0,,16,10,0,.000,1,0,0,12,0,28,0,2,2,16,0,0,0,0,7,0,0,0,0,2,0,0.00,1.20,0.70,0.00,0.20,0.20
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Jalynn Grant,0,,17,89,50,.267,247,43,109,3,1,19,0,0,3,5,0,0,5,1,16,60,18,41,18,147.5,5,1.22,0.03,0.18,0.67,0.00,1.66
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,De la torre Camille,0,,18,74,11,.122,361,61,105,4,0,21,0,4,1,26,0,0,52,5,40,20,0,20,2,121,0,1.42,0.05,0.54,0.27,0.05,1.64
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Regan Mendick,0,,23,106,53,.302,126,4,42,560,16,1251,0,41,36,391,0,0,9,1,137,0,0,0,0,83,3,0.40,5.28,1.29,0.00,0.39,0.78
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Stockton,Olivia Magro,0,,27,79,22,.131,352,60,106,3,1,37,0,5,5,46,0,0,137,23,61,16,5,14,2,120,0,1.34,0.04,0.77,0.20,0.06,1.52
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Capriglione, Mia",0,,28,22,2,.185,54,8,18,0,0,4,0,1,1,2,0,0,0,0,8,9,1,9,0,23.5,0,0.82,0.00,0.36,0.41,0.05,1.07
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Carcich, Emily",0,,13,7,0,1.000,1,0,1,34,0,86,0,5,0,34,0,0,0,0,10,0,0,0,0,6,0,0.14,4.86,1.43,0.00,0.71,0.86
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Hatcher, Emma",0,,6,112,0,.075,53,3,7,94,4,331,0,71,45,477,0,0,595,57,445,0,0,0,0,78,1,0.06,0.84,3.97,0.00,0.63,0.70
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Corso, Emerson",0,,9,12,3,1.000,1,0,1,1,0,5,0,0,5,36,0,0,14,1,10,0,0,0,0,1,0,0.08,0.08,0.83,0.00,0.00,0.08
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"DiProfio, Sofia",0,,33,96,41,.236,416,50,148,2,1,33,0,0,0,1,0,0,2,0,37,38,5,34,4,169,0,1.54,0.02,0.39,0.40,0.00,1.76
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Horn, Zoey",0,,11,21,3,.303,33,4,14,1,0,6,0,0,0,0,0,0,0,0,5,14,3,12,2,22,0,0.67,0.05,0.24,0.67,0.00,1.05
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Thomas, Lily",0,,14,111,53,.230,369,61,146,4,3,38,0,0,0,0,0,0,3,0,19,93,2,78,15,200,1,1.32,0.04,0.17,0.84,0.00,1.80
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Craig, Breanna",0,,8,95,50,.355,400,49,191,4,2,33,0,7,22,100,0,0,6,2,17,62,1,49,13,235.5,0,2.01,0.04,0.18,0.65,0.07,2.48
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Bautista, Bryn",0,,4,111,53,.205,921,134,323,28,2,185,0,47,14,472,0,0,464,31,337,19,1,18,1,380,0,2.91,0.25,3.04,0.17,0.42,3.42
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Muuss, Camryn",0,,16,111,51,.194,1064,168,374,27,7,108,0,33,37,282,0,0,500,40,247,39,1,37,2,427.5,1,3.37,0.24,2.23,0.35,0.30,3.85
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Trzaska, Kasey",0,,21,97,8,.007,141,25,26,16,3,55,0,43,24,364,0,0,269,25,169,2,0,2,0,70,0,0.27,0.16,1.74,0.02,0.44,0.72
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Cornelius, Lucy",0,,3,110,53,.246,224,12,67,1025,17,2779,0,54,34,427,0,0,8,1,260,38,13,34,4,142,6,0.61,9.32,2.36,0.35,0.49,1.29
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Langehammer, Nikki",0,,1,5,0,.143,7,0,1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0.20,0.00,0.00,0.00,0.00,0.20
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Mizak, Sammy",0,,20,48,1,.079,76,16,22,5,1,19,0,13,6,121,0,0,116,15,66,2,0,2,0,36,0,0.46,0.10,1.38,0.04,0.27,0.75
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Sherman, Rylee",0,,5,16,0,.367,30,3,14,0,0,4,0,0,0,1,0,0,0,0,5,7,0,7,0,17.5,0,0.88,0.00,0.31,0.44,0.00,1.09
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Montclair State,"Neuhaus, Hayden",0,,2,88,0,-1.000,3,3,0,7,2,21,0,21,30,254,0,0,13,0,52,0,0,0,0,21,0,0.00,0.08,0.59,0.00,0.24,0.24
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Hayth, Abigail",0,,16,110,37,.053,227,32,44,22,0,86,0,35,29,337,0,0,376,33,242,1,1,0,1,80,0,0.40,0.20,2.20,0.01,0.32,0.73
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Grady, Taylor",0,,2,17,0,.048,21,5,6,95,9,273,0,6,10,47,0,0,0,0,25,2,0,2,0,13,1,0.35,5.59,1.47,0.12,0.35,0.76
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Miller, Cecilia",0,,1,100,21,.204,894,127,309,15,1,59,0,15,18,134,0,0,360,41,180,22,1,21,1,335.5,0,3.09,0.15,1.80,0.22,0.15,3.36
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Zablackis, Sofia",0,,8,52,31,.242,165,25,65,8,4,41,0,1,1,3,0,0,6,0,10,45,2,35,10,93.5,0,1.25,0.15,0.19,0.87,0.02,1.80
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Molnar, Leah",0,,3,71,9,-.125,8,2,1,8,0,50,0,20,25,210,0,0,140,16,124,0,0,0,0,21,0,0.01,0.11,1.75,0.00,0.28,0.30
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Houpt, Abby",0,,15,106,57,.266,222,24,83,920,32,2686,0,54,46,506,0,0,7,0,218,30,3,29,1,152.5,5,0.78,8.68,2.06,0.28,0.51,1.44
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Gruener, Laura",0,,22,111,54,.232,448,52,156,8,4,55,0,7,15,115,0,0,9,0,45,81,3,60,21,214,0,1.41,0.07,0.41,0.73,0.06,1.93
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Glenn, Kristian",0,,29,105,39,.301,591,57,235,7,0,34,0,0,0,0,0,0,1,0,28,49,5,45,4,261.5,1,2.24,0.07,0.27,0.47,0.00,2.49
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Demers, Bella",0,,7,113,0,.000,18,4,4,93,3,420,0,42,36,414,0,0,534,40,572,0,0,0,0,46,2,0.04,0.82,5.06,0.00,0.37,0.41
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Hitt, Jillian",0,,11,88,13,.000,2,0,0,24,2,72,0,22,17,289,0,0,165,19,104,0,0,0,0,22,0,0.00,0.27,1.18,0.00,0.25,0.25
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Pak, Dilara",0,,21,73,0,.000,11,2,2,11,0,40,0,3,3,36,0,0,199,17,111,0,0,0,0,5,0,0.03,0.15,1.52,0.00,0.04,0.07
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Magura, Tinashe",0,,19,5,0,-.091,11,3,2,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0.40,0.00,0.20,0.00,0.00,0.40
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Bakken, Korinne",0,,14,27,0,.137,161,21,43,2,0,9,0,0,0,2,0,0,30,1,11,4,0,3,1,45.5,0,1.59,0.07,0.41,0.15,0.00,1.69
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Giesler, Emeli",0,,13,79,37,.115,305,57,92,6,2,35,0,4,11,64,0,0,18,4,32,45,3,33,12,124.5,1,1.16,0.08,0.41,0.57,0.05,1.58
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,William Paterson,"Elliott, Riley",0,,12,103,44,.162,856,160,299,8,3,60,0,53,33,352,0,0,194,19,142,18,5,16,2,362,1,2.90,0.08,1.38,0.17,0.51,3.51
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Davis, Kristen",0,,3,52,18,.098,61,10,16,0,2,4,0,5,2,87,0,0,0,0,13,20,2,19,1,31.5,0,0.31,0.00,0.25,0.38,0.10,0.61
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Jurcisin, Kiley",0,,8,75,24,.028,248,43,50,7,0,36,0,13,8,132,0,0,219,17,100,3,0,3,0,64.5,0,0.67,0.09,1.33,0.04,0.17,0.86
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Melanson, Brianna",0,,18,77,40,.215,181,28,67,0,1,14,0,0,0,0,0,0,2,2,14,39,6,32,7,90,0,0.87,0.00,0.18,0.51,0.00,1.17
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Pichardo, Jenilsa",0,,6,77,1,.071,14,3,4,4,1,20,0,22,10,232,0,0,29,7,60,0,0,0,0,26,0,0.05,0.05,0.78,0.00,0.29,0.34
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Hibbard, Genesis",0,,0,49,2,-.333,9,3,0,22,0,109,0,21,22,162,0,0,221,20,165,0,0,0,0,21,1,0.00,0.45,3.37,0.00,0.43,0.43
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Riccio, Taylor",0,,9,37,25,.066,137,26,35,1,0,14,0,0,2,13,0,0,3,0,22,4,5,4,0,37,1,0.95,0.03,0.59,0.11,0.00,1.00
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Overstreet, Keyanni",0,,15,5,0,1.000,1,0,1,22,1,55,0,3,3,22,0,0,0,0,2,0,0,0,0,4,0,0.20,4.40,0.40,0.00,0.60,0.80
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Brito, Elisabeth",0,,2,95,1,-.095,21,4,2,54,5,196,0,34,36,349,0,0,431,50,258,0,0,0,0,36,0,0.02,0.57,2.72,0.00,0.36,0.38
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Fitzpatrick, Kai",0,,1,97,50,.212,1191,234,486,24,7,141,0,43,54,324,0,0,554,55,305,23,3,18,5,543,2,5.01,0.25,3.14,0.24,0.44,5.60
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Nwobu, Munachim",0,,10,89,45,.140,157,36,58,4,4,28,0,4,15,54,0,0,2,0,20,46,14,39,7,88.5,0,0.65,0.04,0.22,0.52,0.04,0.99
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Marrero, Rae",0,,11,97,50,.145,200,29,58,875,48,2496,0,51,60,377,0,0,3,0,214,28,7,22,6,126,1,0.60,9.02,2.21,0.29,0.53,1.30
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Pugay, Diane",0,,14,97,44,.159,930,181,329,16,3,118,0,42,61,303,0,0,330,28,245,38,6,37,1,390.5,1,3.39,0.16,2.53,0.39,0.43,4.03
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Yager, Emma",0,,16,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,NJCU,"Albino, Alexis",0,,17,12,0,.333,6,1,3,0,0,0,0,0,3,25,0,0,1,0,5,1,0,0,1,4,0,0.25,0.00,0.42,0.08,0.00,0.33
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Bishop, Katie",0,,10,92,51,.241,187,18,63,790,25,2330,0,58,27,428,0,0,5,0,194,17,4,14,3,131,2,0.68,8.59,2.11,0.18,0.63,1.42
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Price, Kayla",0,,3,1,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.00,0.00,0.00,0.00,0.00,0.00
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Garcia, Emma",0,,1,95,0,-.037,27,4,3,84,5,310,0,4,10,82,0,0,473,34,364,1,0,0,1,8,0,0.03,0.88,3.83,0.01,0.04,0.08
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Price, Krista",0,,4,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Edmond, Alyssa",0,,15,87,4,-.333,3,1,0,64,1,174,0,24,32,253,0,0,3,1,50,0,0,0,0,24,1,0.00,0.74,0.57,0.00,0.28,0.28
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Scillia, Gianna",0,,9,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Bardzell, Catherine",0,,16,3,2,.000,0,0,0,0,0,0,0,0,0,0,0,0,4,1,2,0,0,0,0,0,0,0.00,0.00,0.67,0.00,0.00,0.00
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Rolle, Jasmine",0,,25,96,54,.230,491,80,193,5,5,40,0,13,17,136,0,0,6,1,39,45,5,21,24,240.5,0,2.01,0.05,0.41,0.47,0.14,2.51
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Agcaoili, Aubrey",0,,13,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Akar, Asya",0,,17,96,55,.215,893,150,342,13,5,102,0,59,65,371,0,0,506,71,234,19,3,11,8,414.5,0,3.56,0.14,2.44,0.20,0.61,4.32
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Lacy, Jalen",0,,11,52,27,.048,125,28,34,4,0,14,0,0,0,0,0,0,1,0,14,18,6,13,5,45.5,0,0.65,0.08,0.27,0.35,0.00,0.88
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Cosme, Claudia",0,,6,59,7,.120,83,11,21,5,0,32,0,9,5,92,0,0,138,13,109,0,1,0,0,30,0,0.36,0.08,1.85,0.00,0.15,0.51
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Melick, Scarlett",0,,8,69,22,.063,367,73,96,5,2,52,0,1,2,11,0,0,7,0,87,14,8,10,4,106,0,1.39,0.07,1.26,0.20,0.01,1.54
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Neira, Jaclyn",0,,7,7,0,-1.000,1,1,0,12,4,39,0,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0.00,1.71,0.29,0.00,0.00,0.00
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Palaguachi, Wendy",0,,18,71,12,-.040,25,2,1,16,2,65,0,23,25,227,0,0,120,10,154,0,0,0,0,24,0,0.01,0.23,2.17,0.00,0.32,0.34
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Palen, Valentina",0,,21,93,46,.195,759,114,262,11,4,76,0,27,22,239,0,0,327,56,161,15,2,12,3,298,0,2.82,0.12,1.73,0.16,0.29,3.20
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Polkowski, Natalya",0,,2,70,10,.045,112,27,32,2,1,17,0,23,31,208,0,0,5,0,44,5,2,4,1,58,0,0.46,0.03,0.63,0.07,0.33,0.83
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Ristevska, Emilia",0,,14,66,40,.061,179,37,48,3,3,22,0,2,6,14,0,0,21,1,28,27,9,21,6,66.5,0,0.73,0.05,0.42,0.41,0.03,1.01
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Tepale, Emily",0,,5,48,0,.222,36,4,12,7,1,38,0,2,6,31,0,0,214,20,60,1,1,1,0,14.5,0,0.25,0.15,1.25,0.02,0.04,0.30
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Ramapo,"Van Zile, Kaitlyn",0,,12,4,0,-.222,9,3,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,1.5,0,0.25,0.00,0.00,0.25,0.00,0.38
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"Ang, Avery",0,,2,113,72,.089,551,91,140,422,19,1326,0,49,66,407,0,0,97,4,307,21,7,18,3,201,2,1.24,3.73,2.72,0.19,0.43,1.78
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"Owens, Mia",0,,1,120,1,.094,32,2,5,71,1,367,0,56,32,439,0,0,721,36,536,0,0,0,0,61,0,0.04,0.59,4.47,0.00,0.47,0.51
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"Snelgrove, Madison",0,,4,109,2,-.031,32,5,4,13,1,81,0,37,9,412,0,0,339,36,168,0,0,0,0,41,0,0.04,0.12,1.54,0.00,0.34,0.38
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"Andrews, JoAnna",0,,25,105,63,.269,93,3,28,425,16,1372,0,37,34,366,0,0,10,0,232,0,0,0,0,65,1,0.27,4.05,2.21,0.00,0.35,0.62
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"Gbolahan, Gabby",0,,11,121,86,.259,560,69,214,14,12,98,0,46,25,377,0,0,7,1,89,62,11,41,21,301.5,0,1.77,0.12,0.74,0.51,0.38,2.49
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"White, Taylor",0,,33,65,67,.145,399,62,120,2,0,18,0,1,0,3,0,0,117,14,33,8,3,6,2,126,0,1.85,0.03,0.51,0.12,0.02,1.94
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"Truitt, Ella Carmen",0,,8,115,28,.047,426,95,115,11,6,74,0,30,48,269,0,0,476,48,190,3,1,3,0,146.5,0,1.00,0.10,1.65,0.03,0.26,1.27
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"Guim, Cassie",0,,15,50,15,.060,83,18,23,133,6,462,0,3,11,53,0,0,1,0,42,7,2,6,1,30,0,0.46,2.66,0.84,0.14,0.06,0.60
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"Pensa Johnson, Asha",0,,22,119,20,.145,807,162,279,5,3,47,0,0,2,2,0,0,19,2,75,55,14,41,14,313.5,0,2.34,0.04,0.63,0.46,0.00,2.63
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"Jovanovic, Jana",0,,24,121,86,.141,333,65,112,7,3,47,0,0,1,3,0,0,4,1,19,63,25,40,23,155,0,0.93,0.06,0.16,0.52,0.00,1.28
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"LaPorta, Sophia",0,,9,51,0,-.250,8,3,1,3,0,20,0,10,15,147,0,0,162,19,88,0,0,0,0,11,0,0.02,0.06,1.73,0.00,0.20,0.22
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"Granieri, Sofia",0,,10,109,75,.124,777,106,202,6,3,72,0,6,2,48,0,0,277,15,84,12,2,9,3,215.5,0,1.85,0.06,0.77,0.11,0.06,1.98
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"Rich, Lauren",0,,3,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Camden,"Theruviparambil, Maria",0,,18,9,1,-.125,32,13,9,0,1,3,0,0,0,0,0,0,4,1,3,1,1,0,1,10,0,1.00,0.00,0.33,0.11,0.00,1.11
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Rodrigues, Yasmin",0,,22,12,1,.000,22,4,4,0,0,1,0,2,2,10,0,0,12,1,4,5,0,5,0,8.5,0,0.33,0.00,0.33,0.42,0.17,0.71
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Sanchez, Aliyah",0,,14,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Suquinagua, Sabrina",0,,3,55,39,.061,147,29,38,3,3,28,0,15,19,132,0,0,4,1,32,9,2,4,5,60,0,0.69,0.05,0.58,0.16,0.27,1.09
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Orellana, Angelyse",0,,2,89,54,-.013,78,7,6,418,24,1573,0,35,47,281,0,0,8,1,158,1,0,1,0,41.5,0,0.07,4.70,1.78,0.01,0.39,0.47
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Espinoza, Mia",0,,20,86,53,.176,313,48,103,4,0,34,0,3,4,29,0,0,1,0,13,45,4,26,19,138,1,1.20,0.05,0.15,0.52,0.03,1.60
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Moody, Shayla",0,,5,105,66,.146,610,106,195,3,6,77,0,15,13,182,0,0,9,0,47,37,7,25,12,234.5,1,1.86,0.03,0.45,0.35,0.14,2.23
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Ayala, Fabiana",0,,26,46,9,.113,71,12,20,2,1,17,0,7,9,54,0,0,12,3,21,2,1,0,2,29,0,0.43,0.04,0.46,0.04,0.15,0.63
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Ilderis, Tracey",0,,24,96,32,.113,646,115,188,2,3,56,0,14,15,132,0,0,160,23,93,19,6,9,10,216.5,0,1.96,0.02,0.97,0.20,0.15,2.26
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Simba-Malasarte, Jaedyn",0,,6,103,40,.085,684,100,158,39,8,275,0,38,23,285,0,0,618,45,350,13,1,8,5,205,0,1.53,0.38,3.40,0.13,0.37,1.99
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Sullivan, Nicole",0,,18,82,13,.044,68,4,7,253,17,1058,0,13,14,149,0,0,3,0,120,5,3,5,0,22.5,2,0.09,3.09,1.46,0.06,0.16,0.27
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Allen, Yvonne",0,,1,3,0,.000,0,0,0,0,0,0,0,0,1,7,0,0,4,0,1,0,0,0,0,0,0,0.00,0.00,0.33,0.00,0.00,0.00
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Clenaghan, Miley",0,,4,87,4,-.176,17,4,1,18,2,100,0,17,14,176,0,0,293,27,173,0,0,0,0,18,0,0.01,0.21,1.99,0.00,0.20,0.21
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Walters, Brianna",0,,7,65,21,-.033,90,17,14,1,0,12,0,2,0,5,0,0,0,0,20,15,0,15,0,23.5,0,0.22,0.02,0.31,0.23,0.03,0.36
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Koo, Katelyn",0,,8,33,0,.000,1,0,0,0,0,10,0,6,6,41,0,0,23,2,18,0,0,0,0,6,0,0.00,0.00,0.55,0.00,0.18,0.18
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Perez, Kelly",0,,9,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Long, Cyan",0,,12,103,40,.059,495,85,114,32,4,244,0,44,36,361,0,0,662,50,339,2,1,2,0,159,1,1.11,0.31,3.29,0.02,0.43,1.54
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Carino, Cameron",0,,13,5,0,.000,1,0,0,16,2,40,0,1,0,10,0,0,0,0,8,0,0,0,0,1,0,0.00,3.20,1.60,0.00,0.20,0.20
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Neff, Olivia",0,,15,20,3,.023,44,8,9,0,1,11,0,3,2,19,0,0,1,0,7,5,1,2,3,16,0,0.45,0.00,0.35,0.25,0.15,0.80
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Bilomasur, Helen",0,,16,84,37,.068,336,47,70,8,4,91,0,35,30,289,0,0,256,24,154,6,1,6,0,108,2,0.83,0.10,1.83,0.07,0.42,1.29
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Corino, Cameron",0,,13,12,2,-.087,23,2,0,59,5,255,0,1,0,20,0,0,1,0,26,1,0,1,0,1.5,1,0.00,4.92,2.17,0.08,0.08,0.13
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,",",0,,21,2,0,.250,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1.5,0,0.50,0.00,0.00,0.50,0.00,0.75
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Dosouki Mohamed, Miriam",0,,21,1,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0.00,0.00,0.00,0.00,0.00,0.00
+njac,New Jersey Athletic Conference (NJAC),2025-26,wvball,Rutgers-Newark,"Dosouki Mohamed, Mariam",0,,21,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0

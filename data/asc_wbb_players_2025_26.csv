@@ -1,0 +1,66 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,field_goals_made,field_goals_attempted,three_points_made,three_points_attempted,free_throws_attempted,free_throws_made,points_scored,blocked_shots,steals,assists,minutes_played,offensive_rebounds,defensive_rebounds,total_rebounds,personal_fouls,technical_fouls,turnovers,disqualifications,deadballs,field_goals_pct,three_points_pct,free_throws_pct,points_per_game,rebounds_per_game,assists_per_game,steals_per_game,blocked_shots_per_game
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Berry,Jacqueline",0,G,01,27,27,156,378,2,13,166,87,401,19,68,79,879,56,126,182,71,0,71,1,0,0.41,0.15,0.52,14.85,6.74,2.93,2.52,0.70
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Gordon,Nilaya",0,G,02,27,0,22,73,2,24,27,18,64,0,18,32,271,8,13,21,28,0,23,0,0,0.30,0.08,0.67,2.37,0.78,1.19,0.67,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Cruse,Reese",0,G,03,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Crow,Abbie",0,G,04,27,27,66,196,45,139,20,14,191,3,13,17,513,20,49,69,39,0,22,0,0,0.34,0.32,0.70,7.07,2.56,0.63,0.48,0.11
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Merrell,Gracey",0,G,10,8,0,4,9,2,4,5,4,14,0,1,2,36,5,1,6,10,0,6,0,0,0.44,0.50,0.80,1.75,0.75,0.25,0.13,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Croft,Caroline",0,G,11,27,27,79,209,23,66,68,55,236,6,47,103,776,25,78,103,57,0,46,0,0,0.38,0.35,0.81,8.74,3.81,3.81,1.74,0.22
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Bennett,Savannah",0,F,12,27,0,47,87,0,0,29,18,112,14,20,19,350,61,74,135,48,0,20,0,0,0.54,0.00,0.62,4.15,5.00,0.70,0.74,0.52
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Bullen,Tayley",0,G,14,27,0,40,124,24,79,20,14,118,5,18,30,470,39,50,89,36,0,25,0,0,0.32,0.30,0.70,4.37,3.30,1.11,0.67,0.19
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Martinez,Melody",0,G,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Sims,Grace",0,G,20,13,0,4,11,0,2,2,2,10,1,5,1,56,1,3,4,5,0,4,0,0,0.36,0.00,1.00,0.77,0.31,0.08,0.38,0.08
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Jamison,Destiny",0,G,22,13,0,5,19,1,8,7,4,15,2,1,6,69,4,14,18,6,0,9,0,0,0.26,0.13,0.57,1.15,1.38,0.46,0.08,0.15
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Gay,MaeSyn",0,F,23,27,27,84,202,1,7,49,30,199,23,42,27,533,54,82,136,63,0,24,1,0,0.42,0.14,0.61,7.37,5.04,1.00,1.56,0.85
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Buchanan,Kiah",0,G,24,13,0,9,19,3,9,4,4,25,2,2,3,74,6,12,18,3,0,4,0,0,0.47,0.33,1.00,1.92,1.38,0.23,0.15,0.15
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Koele,Dylan",0,G,25,27,27,72,185,42,115,37,22,208,17,24,27,814,22,76,98,30,0,35,0,0,0.39,0.37,0.59,7.70,3.63,1.00,0.89,0.63
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Buchanan,Allie",0,F,31,7,0,1,4,0,0,4,1,3,0,6,0,29,6,5,11,2,0,3,0,0,0.25,0.00,0.25,0.43,1.57,0.00,0.86,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Cathey,Avery",0,G,33,27,0,58,150,51,127,12,10,177,2,9,6,392,9,28,37,27,0,15,0,0,0.39,0.40,0.83,6.56,1.37,0.22,0.33,0.07
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Sacco,Angie",0,C,50,24,0,37,61,0,0,27,18,92,0,5,8,184,15,34,49,28,0,10,0,0,0.61,0.00,0.67,3.83,2.04,0.33,0.21,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Hardin-Simmons,"Baker,Kendall",0,G,00,2,0,0,0,0,0,0,0,0,0,0,0,4,0,1,1,1,0,0,0,0,0.00,0.00,0.00,0.00,0.50,0.00,0.00,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Keith,Marley",0,G,02,25,24,81,194,31,87,67,46,239,3,37,60,779,9,50,59,45,0,85,1,0,0.42,0.36,0.69,9.56,2.36,2.40,1.48,0.12
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Riddle,Quinn",0,G,04,18,0,8,19,6,13,0,0,22,0,5,2,114,6,6,12,7,0,10,0,0,0.42,0.46,0.00,1.22,0.67,0.11,0.28,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Cowan,Sara",0,G,05,24,24,58,141,43,112,24,16,175,1,39,34,712,14,40,54,27,0,43,0,0,0.41,0.38,0.67,7.29,2.25,1.42,1.63,0.04
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Gibson,Conley",0,G,11,21,0,12,39,8,30,2,2,34,1,4,18,159,4,5,9,13,0,3,0,0,0.31,0.27,1.00,1.62,0.43,0.86,0.19,0.05
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Jones,Macey",0,F,13,25,24,121,247,1,6,109,60,303,41,13,16,453,58,68,126,74,0,69,3,0,0.49,0.17,0.55,12.12,5.04,0.64,0.52,1.64
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Eilers,Reagan",0,F,14,20,0,16,34,0,4,11,6,38,2,4,3,113,10,17,27,18,0,9,0,0,0.47,0.00,0.55,1.90,1.35,0.15,0.20,0.10
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Ayala,Hannah",0,F,22,24,18,69,164,12,43,68,51,201,11,30,37,652,75,171,246,43,0,51,1,0,0.42,0.28,0.75,8.38,10.25,1.54,1.25,0.46
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Smith,Tristan",0,F,23,25,25,47,111,10,36,72,61,165,10,34,42,675,64,89,153,53,0,48,0,0,0.42,0.28,0.85,6.60,6.12,1.68,1.36,0.40
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Barnett,Dana",0,G,30,17,0,5,11,4,9,4,3,17,0,2,8,90,0,7,7,17,0,12,1,0,0.45,0.44,0.75,1.00,0.41,0.47,0.12,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Beamesderfer,Anna",0,G,32,25,1,69,168,10,45,89,66,214,4,26,35,529,38,55,93,59,0,67,2,0,0.41,0.22,0.74,8.56,3.72,1.40,1.04,0.16
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Bickford,Tiffany",0,G,33,25,9,80,237,25,107,59,52,237,4,38,42,744,22,82,104,31,0,46,0,0,0.34,0.23,0.88,9.48,4.16,1.68,1.52,0.16
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"McClendon,Sarai",0,G,01,1,0,0,1,0,0,2,1,1,0,0,1,2,0,3,3,0,0,0,0,0,0.00,0.00,0.50,1.00,3.00,1.00,0.00,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Reed,Ansley",0,G,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Strong,Kat",0,G,12,2,0,1,2,0,1,0,0,2,0,0,0,3,1,0,1,1,0,1,0,0,0.50,0.00,0.00,1.00,0.50,0.00,0.00,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,East Texas Baptist,"Pletcher,Noelle",0,G,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"Panuco,Caitlyn",0,G,00,27,27,111,238,19,57,202,148,389,2,39,104,882,30,94,124,57,0,89,0,0,0.47,0.33,0.73,14.41,4.59,3.85,1.44,0.07
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"Thomas,Raven",0,G,02,2,0,0,2,0,1,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"Santos,Azaylee",0,G,03,25,24,38,130,18,69,49,33,127,3,39,48,742,16,41,57,36,1,52,1,0,0.29,0.26,0.67,5.08,2.28,1.92,1.56,0.12
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"Clay,Madison",0,G,04,4,4,10,38,3,16,6,4,27,2,3,1,109,2,13,15,8,0,9,0,0,0.26,0.19,0.67,6.75,3.75,0.25,0.75,0.50
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"Parsons,Caitlyn",0,F,10,27,26,120,266,2,11,115,60,302,31,37,26,792,86,177,263,72,0,49,1,0,0.45,0.18,0.52,11.19,9.74,0.96,1.37,1.15
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"McAfee,Taylor",0,G,11,27,22,61,190,14,71,51,38,174,4,34,39,692,20,76,96,42,0,97,0,0,0.32,0.20,0.75,6.44,3.56,1.44,1.26,0.15
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"Ambriz,Amaris",0,G,13,23,1,48,136,33,94,28,16,145,0,15,16,441,11,29,40,39,0,49,0,0,0.35,0.35,0.57,6.30,1.74,0.70,0.65,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"Leet,Anneliese",0,F,14,2,0,0,0,0,0,2,1,1,0,0,0,5,0,0,0,1,0,0,0,0,0.00,0.00,0.50,0.50,0.00,0.00,0.00,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"Nicholson,Kaley",0,G,21,27,2,38,115,28,84,42,30,134,0,30,11,448,24,47,71,43,0,26,1,0,0.33,0.33,0.71,4.96,2.63,0.41,1.11,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"Glasgow,Kinsey",0,G,23,13,0,12,42,5,23,7,6,35,0,5,4,119,6,8,14,8,0,1,0,0,0.29,0.22,0.86,2.69,1.08,0.31,0.38,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"Peterson,BrookLynn",0,F,32,14,0,5,8,0,0,2,2,12,1,2,5,98,6,13,19,4,0,2,0,0,0.63,0.00,1.00,0.86,1.36,0.36,0.14,0.07
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"Buchanan,Kate",0,F,40,25,22,48,130,1,14,44,28,125,10,29,11,594,49,78,127,41,0,33,0,0,0.37,0.07,0.64,5.00,5.08,0.44,1.16,0.40
+asc,American Southwest Conference (ASC),2025-26,wbball,Howard Payne,"Hermesmeyer,Hope",0,,20,17,7,50,159,19,67,36,28,147,8,19,26,492,14,32,46,29,0,43,0,0,0.31,0.28,0.78,8.65,2.71,1.53,1.12,0.47
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"George,Sofia",0,G,01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Atkinson,Kyley",0,F,02,15,2,5,22,1,6,4,3,14,1,3,3,99,6,12,18,13,0,8,0,0,0.23,0.17,0.75,0.93,1.20,0.20,0.20,0.07
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Welch,Amari",0,G,03,15,9,36,120,19,77,15,8,99,0,16,21,348,10,38,48,32,0,30,0,0,0.30,0.25,0.53,6.60,3.20,1.40,1.07,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Okoye,Rachel",0,G,05,24,19,100,232,3,35,102,80,283,7,66,75,691,58,92,150,64,0,90,2,0,0.43,0.09,0.78,11.79,6.25,3.13,2.75,0.29
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Solis,Madyson",0,G,08,26,12,15,60,1,13,6,1,32,0,13,8,422,41,42,83,54,0,31,2,0,0.25,0.08,0.17,1.23,3.19,0.31,0.50,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Levings,Abby",0,F,10,11,3,2,13,0,0,6,3,7,1,1,1,84,4,3,7,8,0,8,0,0,0.15,0.00,0.50,0.64,0.64,0.09,0.09,0.09
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Galvan,Natalia",0,G,11,25,11,55,156,31,75,29,24,165,9,30,30,525,21,43,64,38,0,41,1,0,0.35,0.41,0.83,6.60,2.56,1.20,1.20,0.36
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Bruder,Josie",0,F,21,23,20,88,235,46,126,52,42,264,10,29,35,674,21,84,105,35,0,42,1,0,0.37,0.37,0.81,11.48,4.57,1.52,1.26,0.43
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Fowler,Amillion",0,F,22,19,12,63,174,21,68,59,44,191,0,24,28,452,27,68,95,33,0,64,1,0,0.36,0.31,0.75,10.05,5.00,1.47,1.26,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Uzzell,Allie",0,F,23,13,4,26,75,3,9,12,8,63,0,11,6,170,24,19,43,20,0,20,0,0,0.35,0.33,0.67,4.85,3.31,0.46,0.85,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Cronk,Karlee",0,F,24,25,15,48,104,7,23,22,13,116,7,35,31,608,60,82,142,52,0,29,0,0,0.46,0.30,0.59,4.64,5.68,1.24,1.40,0.28
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Sheppler,Pierce",0,C,26,18,5,18,47,0,0,8,6,42,5,10,11,209,23,23,46,17,0,12,0,0,0.38,0.00,0.75,2.33,2.56,0.61,0.56,0.28
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Hernandez,Marissa",0,G,30,17,0,6,26,5,21,6,4,21,0,8,10,188,3,14,17,11,0,9,0,0,0.23,0.24,0.67,1.24,1.00,0.59,0.47,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Lozoya,Mia",0,G,32,20,4,23,69,14,45,6,2,62,1,7,8,191,8,13,21,12,0,12,0,0,0.33,0.31,0.33,3.10,1.05,0.40,0.35,0.05
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Brooks,Katelen",0,G,34,17,7,45,137,22,68,8,5,117,7,15,19,313,6,24,30,15,0,38,0,0,0.33,0.32,0.63,6.88,1.76,1.12,0.88,0.41
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Clements,Lexi",0,G,13,2,0,2,9,0,6,0,0,4,0,1,0,31,2,3,5,2,0,3,0,0,0.22,0.00,0.00,2.00,2.50,0.00,0.50,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Gonzalez,Danae",0,G,33,5,3,7,24,5,14,4,2,21,0,7,9,92,4,6,10,13,0,18,1,0,0.29,0.36,0.50,4.20,2.00,1.80,1.40,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Johns-McGarthy,Kayla",0,,15,-1,-2,5,7,0,0,1,1,11,0,-2,2,-7,2,-6,-4,-3,0,-6,0,0,0.71,0.00,1.00,-11.00,4.00,-2.00,2.00,0.00
+asc,American Southwest Conference (ASC),2025-26,wbball,Mary Hardin-Baylor,"Johns-McGarity,Kayla",0,,15,6,4,11,24,0,0,13,6,28,3,3,0,111,16,22,38,17,0,14,0,0,0.46,0.00,0.46,4.67,6.33,0.00,0.50,0.50

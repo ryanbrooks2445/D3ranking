@@ -1,0 +1,123 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,attack_stats_hitting_pct,attack_stats_attempts,attack_stats_errors,attack_stats_kills,set_stats_assists,set_stats_errors,set_stats_attempts,set_stats_set_pct,serve_stats_aces,serve_stats_errors,serve_stats_attempts,serve_stats_serve_pct,defense_stats_defense_pct,defense_stats_attempts,defense_stats_receptions,defense_stats_digs,block_stats_total,block_stats_errors,block_stats_assists,block_stats_solos,misc_stats_points,misc_stats_ball_handling_errors,per_set_stats_kills,per_set_stats_assists,per_set_stats_digs,per_set_stats_blocks,per_set_stats_aces,per_set_stats_points
+nac,North Atlantic Conference (NAC),2025-26,wvball,Maine Maritime,"Zuber-Stephens, Hunnie",0,,1,95,32,.210,214,16,61,778,32,1712,0,83,25,448,0,0,17,5,167,8,0,8,0,148,3,0.64,8.19,1.76,0.08,0.87,1.56
+nac,North Atlantic Conference (NAC),2025-26,wvball,Maine Maritime,"Smith, Ila",0,,13,96,32,.428,425,38,220,3,0,25,0,6,2,30,0,0,3,0,30,36,2,29,7,247.5,1,2.29,0.03,0.31,0.38,0.06,2.58
+nac,North Atlantic Conference (NAC),2025-26,wvball,Maine Maritime,"Hadley, Ally",0,,7,96,32,.155,614,120,215,82,6,179,0,60,33,311,0,0,393,53,218,11,4,8,3,282,0,2.24,0.85,2.27,0.11,0.63,2.94
+nac,North Atlantic Conference (NAC),2025-26,wvball,Maine Maritime,"Williams, Sydney",0,,9,86,29,.301,784,95,331,14,3,70,0,46,21,315,0,0,295,29,194,31,1,24,7,396,0,3.85,0.16,2.26,0.36,0.53,4.60
+nac,North Atlantic Conference (NAC),2025-26,wvball,Maine Maritime,"Biggie, Sophia",0,,22,95,19,.115,444,100,151,6,2,30,0,11,4,39,0,0,11,2,46,31,2,25,6,180.5,0,1.59,0.06,0.48,0.33,0.12,1.90
+nac,North Atlantic Conference (NAC),2025-26,wvball,Maine Maritime,"Kerr, Breanna",0,,4,94,30,.237,118,17,45,17,4,63,0,42,25,284,0,0,13,2,67,34,3,32,2,105,1,0.48,0.18,0.71,0.36,0.45,1.12
+nac,North Atlantic Conference (NAC),2025-26,wvball,Maine Maritime,"Tate, Hannah",0,,6,96,1,.182,55,6,16,88,4,220,0,48,27,252,0,0,414,39,312,0,0,0,0,64,0,0.17,0.92,3.25,0.00,0.50,0.67
+nac,North Atlantic Conference (NAC),2025-26,wvball,Maine Maritime,"Altman, Ayla",0,,2,96,13,-.111,9,2,1,14,0,39,0,33,32,259,0,0,230,28,149,0,0,0,0,34,0,0.01,0.15,1.55,0.00,0.34,0.35
+nac,North Atlantic Conference (NAC),2025-26,wvball,Maine Maritime,"Davis, Lauren",0,,5,34,4,.190,105,18,38,1,0,13,0,10,8,54,0,0,44,11,22,2,0,2,0,49,0,1.12,0.03,0.65,0.06,0.29,1.44
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Leavitt, Julia",0,,16,51,12,.136,339,62,108,2,2,38,0,0,0,0,0,0,213,18,66,7,1,5,2,112.5,0,2.12,0.04,1.29,0.14,0.00,2.21
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Ellis, Julia",0,,1,26,0,-1.000,2,2,0,3,0,12,0,0,1,2,0,0,31,4,22,0,0,0,0,0,0,0.00,0.12,0.85,0.00,0.00,0.00
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Peloquin, Leah",0,,2,61,3,-.125,16,5,3,8,4,55,0,19,10,130,0,0,235,42,102,0,0,0,0,22,0,0.05,0.13,1.67,0.00,0.31,0.36
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Peruti, Alana",0,,4,75,20,.066,151,28,38,7,5,45,0,14,26,133,0,0,3,0,35,21,12,14,7,66,0,0.51,0.09,0.47,0.28,0.19,0.88
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Preskorn, Janna",0,,12,74,22,.100,481,88,136,171,25,723,0,43,25,260,0,0,105,12,181,17,3,16,1,188,1,1.84,2.31,2.45,0.23,0.58,2.54
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Daniels, Kimberly",0,,7,54,9,.072,209,40,55,5,5,28,0,18,25,124,0,0,86,9,34,3,0,1,2,75.5,0,1.02,0.09,0.63,0.06,0.33,1.40
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Gray, Mikayla",0,,17,80,23,.117,546,91,155,13,12,134,0,50,37,291,0,0,370,43,193,6,1,5,1,208.5,1,1.94,0.16,2.41,0.08,0.63,2.61
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Morse, Amanda Mei",0,,5,66,0,-.051,39,5,3,48,9,207,0,26,39,166,0,0,413,55,201,0,0,0,0,29,0,0.05,0.73,3.05,0.00,0.39,0.44
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Travis, Jonna",0,,3,59,7,.036,84,21,24,4,4,17,0,20,21,140,0,0,79,4,29,2,0,1,1,45.5,0,0.41,0.07,0.49,0.03,0.34,0.77
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Balyint, Autumn",0,,8,47,0,-.031,32,7,6,16,4,91,0,6,8,66,0,0,141,22,63,0,0,0,0,12,1,0.13,0.34,1.34,0.00,0.13,0.26
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Foss, Daley",0,,10,68,20,.088,147,36,49,6,3,33,0,8,17,54,0,0,4,1,20,16,6,13,3,66.5,3,0.72,0.09,0.29,0.24,0.12,0.98
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Hooker, Peyton",0,,11,86,19,.017,174,26,29,361,65,1196,0,41,33,310,0,0,6,0,157,3,0,3,0,71.5,1,0.34,4.20,1.83,0.03,0.48,0.83
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"McPhee, Kate",0,,13,75,16,.060,302,73,91,1,8,41,0,3,6,17,0,0,14,2,21,22,3,13,9,109.5,1,1.21,0.01,0.28,0.29,0.04,1.46
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Griffiths, Shanteena",0,,15,13,2,.014,72,17,18,1,0,7,0,4,5,32,0,0,38,5,30,0,1,0,0,22,0,1.38,0.08,2.31,0.00,0.31,1.69
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Sheppard, Maddie",0,,14,5,0,-.143,7,2,1,0,1,1,0,1,1,2,0,0,0,0,0,1,0,1,0,2.5,0,0.20,0.00,0.00,0.20,0.20,0.50
+nac,North Atlantic Conference (NAC),2025-26,wvball,Husson ,"Shelton, Ellie",0,,19,9,3,-.050,40,14,12,0,0,7,0,0,0,0,0,0,0,0,5,2,1,2,0,13,0,1.33,0.00,0.56,0.22,0.00,1.44
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Lewis, Alana",0,,11,87,0,-.068,73,13,8,22,26,198,0,48,49,298,0,0,564,76,329,0,0,0,0,56,0,0.09,0.25,3.78,0.00,0.55,0.64
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Ludlow, Max",0,,8,81,34,.123,737,154,245,21,20,241,0,71,62,322,0,0,233,16,235,5,0,3,2,319.5,0,3.02,0.26,2.90,0.06,0.88,3.94
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Boudreau, Piper",0,,3,17,3,-1.000,1,1,0,2,2,10,0,2,10,33,0,0,20,3,14,0,0,0,0,2,0,0.00,0.12,0.82,0.00,0.12,0.12
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Gross, Delaney",0,,1,87,35,-.004,277,22,21,489,58,1904,0,51,76,367,0,0,17,1,136,6,0,4,2,76,3,0.24,5.62,1.56,0.07,0.59,0.87
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Husbands, Tamika",0,,13,21,0,-.063,79,20,15,2,3,23,0,0,5,13,0,0,26,5,16,1,0,1,0,15.5,0,0.71,0.10,0.76,0.05,0.00,0.74
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Khatiwada, Stuti",0,,4,7,0,.000,0,0,0,1,0,2,0,1,0,3,0,0,5,1,6,0,0,0,0,1,0,0.00,0.14,0.86,0.00,0.14,0.14
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Hansen, Haylee",0,,10,87,35,.173,562,46,143,15,15,227,0,32,25,269,0,0,393,33,252,3,1,1,2,177.5,2,1.64,0.17,2.90,0.03,0.37,2.04
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Kuang, Connie",0,,12,36,3,-.133,15,5,3,3,4,33,0,4,8,36,0,0,82,12,32,0,0,0,0,7,0,0.08,0.08,0.89,0.00,0.11,0.19
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Reed, Sierra",0,,22,87,32,.009,223,45,47,4,18,82,0,15,24,188,0,0,10,3,48,9,0,6,3,68,1,0.54,0.05,0.55,0.10,0.17,0.78
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Lepega-Telona, Sepphyre",0,,25,78,32,.208,331,44,113,3,16,72,0,2,3,11,0,0,7,3,41,38,2,11,27,147.5,1,1.45,0.04,0.53,0.49,0.03,1.89
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Kalahiki, Tatum",0,,7,86,30,.094,416,60,99,41,18,236,0,38,12,253,0,0,192,19,157,10,0,8,2,143,0,1.15,0.48,1.83,0.12,0.44,1.66
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Khomutetsky, Sasha",0,,9,1,3,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Johnson,"Lepaga-Telona, Sepphyre",0,,25,9,3,.139,36,7,12,0,1,6,0,5,6,19,0,0,3,0,9,4,1,0,4,21,2,1.33,0.00,1.00,0.44,0.56,2.33
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Ward, Jade",0,,25,90,23,.042,96,11,15,283,22,1050,0,23,20,274,0,0,8,2,135,0,0,0,0,38,5,0.17,3.14,1.50,0.00,0.26,0.42
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Gasner, Hallie",0,,24,91,26,.164,572,76,170,8,4,50,0,36,50,228,0,0,132,17,89,30,1,18,12,227,0,1.87,0.09,0.98,0.33,0.40,2.49
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Harrington , Tori",0,,23,59,6,.000,9,1,1,19,5,84,0,11,8,101,0,0,243,36,99,0,0,0,0,12,1,0.02,0.32,1.68,0.00,0.19,0.20
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Haycock , Jojo",0,,19,81,0,.107,28,2,5,42,4,188,0,12,10,230,0,0,399,37,197,0,0,0,0,17,0,0.06,0.52,2.43,0.00,0.15,0.21
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Hinze, Emma",0,,22,91,28,.159,586,120,213,25,12,162,0,46,25,316,0,0,416,42,230,36,4,25,11,282.5,2,2.34,0.27,2.53,0.40,0.51,3.10
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Kirschberg, Baylee",0,,20,91,16,.131,274,24,60,290,20,1099,0,36,8,318,0,0,30,5,191,7,1,6,1,100,3,0.66,3.19,2.10,0.08,0.40,1.10
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Wright, Ashley",0,,12,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Kizer, Mea",0,,17,21,0,-.500,2,1,0,2,0,10,0,0,3,8,0,0,50,10,23,0,0,0,0,0,0,0.00,0.10,1.10,0.00,0.00,0.00
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Keilbach, Isabella",0,,1,29,0,-.261,46,18,6,3,1,18,0,0,0,3,0,0,3,1,12,1,0,1,0,6.5,0,0.21,0.10,0.41,0.03,0.00,0.22
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Simister, Aidan",0,,2,2,0,.000,1,0,0,3,0,8,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0.00,1.50,0.00,0.00,0.00,0.00
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Davis, Audrey",0,,6,72,11,.019,308,72,78,2,2,26,0,4,7,34,0,0,61,9,29,8,4,8,0,86,0,1.08,0.03,0.40,0.11,0.06,1.19
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Capasso, Kaleigh",0,,18,85,20,-.050,219,55,44,7,7,44,0,3,6,31,0,0,18,2,25,18,2,15,3,57.5,0,0.52,0.08,0.29,0.21,0.04,0.68
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Kern, Jillian",0,,26,7,0,.286,7,1,3,0,0,2,0,0,0,0,0,0,0,0,1,1,0,1,0,3.5,0,0.43,0.00,0.14,0.14,0.00,0.50
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Ellerbe, Madison",0,,7,2,0,.000,0,0,0,0,0,0,0,1,1,5,0,0,1,0,1,0,0,0,0,1,0,0.00,0.00,0.50,0.00,0.50,0.50
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Smart , Kathleen",0,,10,66,22,.009,457,118,122,15,6,124,0,31,31,233,0,0,377,35,222,12,1,12,0,159,0,1.85,0.23,3.36,0.18,0.47,2.41
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Cardenas-Powell, Maya",0,,4,30,3,.074,68,11,16,4,1,16,0,0,1,4,0,0,23,6,11,6,1,6,0,19,0,0.53,0.13,0.37,0.20,0.00,0.63
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Jager, Ciarra",0,,11,40,13,.142,120,28,45,0,2,17,0,1,6,12,0,0,7,3,9,20,4,16,4,58,1,1.13,0.00,0.23,0.50,0.03,1.45
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Cobleskill,"Van der Veen, Elaina",0,,15,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Delhi,"Poston, Laurel",0,,9,104,31,.098,205,20,40,662,51,2508,0,29,42,349,0,0,11,0,165,22,6,19,3,81.5,3,0.38,6.37,1.59,0.21,0.28,0.78
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Delhi,"Placanica, Noelle",0,,20,104,31,.059,561,122,155,8,13,82,0,15,28,165,0,0,201,31,109,34,4,29,5,189.5,4,1.49,0.08,1.05,0.33,0.14,1.82
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Delhi,"Logsdon, Audrey",0,,2,98,0,-.184,38,7,0,42,18,272,0,47,36,337,0,0,567,73,366,0,0,0,0,47,0,0.00,0.43,3.73,0.00,0.48,0.48
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Delhi,"Ludmerer, Ella",0,,18,79,22,.034,236,56,64,15,5,73,0,39,33,222,0,0,18,4,52,27,3,20,7,120,1,0.81,0.19,0.66,0.34,0.49,1.52
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Delhi,"Becenti, Brooke",0,,3,83,8,-.250,28,9,2,8,7,84,0,3,6,46,0,0,298,42,122,0,0,0,0,5,0,0.02,0.10,1.47,0.00,0.04,0.06
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Delhi,"Sheridan, Hazel",0,,6,10,0,-.136,22,6,3,0,0,3,0,0,0,3,0,0,3,2,3,0,0,0,0,3,0,0.30,0.00,0.30,0.00,0.00,0.30
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Delhi,"Furtado, Skyler",0,,11,88,23,.000,420,85,85,5,2,72,0,30,52,224,0,0,340,51,126,9,2,9,0,119.5,0,0.97,0.06,1.43,0.10,0.34,1.36
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Delhi,"Sheltra, Faith",0,,12,93,23,.020,407,96,104,4,5,65,0,16,29,132,0,0,91,18,48,24,2,20,4,134,2,1.12,0.04,0.52,0.26,0.17,1.44
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Delhi,"Nuss, Kayla",0,,17,103,31,.178,895,146,305,15,13,142,0,28,46,263,0,0,259,26,257,15,0,10,5,343,0,2.96,0.15,2.50,0.15,0.27,3.33
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Delhi,"Mosco, Miranda",0,,13,67,14,.042,287,52,64,4,6,67,0,12,21,101,0,0,183,33,99,6,0,6,0,79,3,0.96,0.06,1.48,0.09,0.18,1.18
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Delhi,"Kraus, Megan",0,,4,18,0,.000,7,2,2,1,2,5,0,0,2,29,0,0,46,4,16,0,0,0,0,2,0,0.11,0.06,0.89,0.00,0.00,0.11
+nac,North Atlantic Conference (NAC),2025-26,wvball,SUNY Delhi,"King, Olivia",0,,7,9,3,.041,49,8,10,0,1,5,0,1,1,28,0,0,0,0,5,2,0,1,1,12.5,0,1.11,0.00,0.56,0.22,0.11,1.39
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Bolhuis, Brianna",0,,8,26,1,-.038,104,25,21,4,4,35,0,5,6,57,0,0,85,12,58,1,1,1,0,26.5,0,0.81,0.15,2.23,0.04,0.19,1.02
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Gutierrez, Angel",0,,13,12,0,.000,0,0,0,0,0,2,0,5,2,29,0,0,3,2,4,0,0,0,0,5,0,0.00,0.00,0.33,0.00,0.42,0.42
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Saylor, Hailey",0,,4,27,0,.000,6,1,1,1,2,18,0,6,10,49,0,0,32,4,23,0,1,0,0,7,0,0.04,0.04,0.85,0.00,0.22,0.26
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Gutierrez, Mia",0,,1,81,41,.044,586,112,138,31,26,222,0,27,32,204,0,0,249,21,292,2,1,2,0,166,0,1.70,0.38,3.60,0.02,0.33,2.05
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Anspach, Jade",0,,3,57,20,.078,321,57,82,4,6,71,0,16,24,94,0,0,11,2,45,16,3,7,9,110.5,2,1.44,0.07,0.79,0.28,0.28,1.94
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Kolkow, Rylie",0,,5,80,42,.016,428,86,93,19,15,132,0,8,16,168,0,0,238,23,167,5,1,5,0,103.5,0,1.16,0.24,2.09,0.06,0.10,1.29
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Elijah, Evelyn",0,,16,71,25,.069,274,45,64,7,7,91,0,23,18,163,0,0,32,5,65,10,2,5,5,94.5,0,0.90,0.10,0.92,0.14,0.32,1.33
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Guiboche, Nyla",0,,7,73,39,.008,381,71,74,11,9,112,0,22,26,218,0,0,268,25,161,1,0,1,0,96.5,1,1.01,0.15,2.21,0.01,0.30,1.32
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Robertson, Katelynne",0,,0,31,0,.250,8,1,3,0,2,13,0,9,4,40,0,0,35,9,26,0,0,0,0,12,0,0.10,0.00,0.84,0.00,0.29,0.39
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Prindle, Maggie",0,,2,13,1,-.143,7,2,1,0,1,1,0,0,2,7,0,0,1,0,1,0,0,0,0,1,0,0.08,0.00,0.08,0.00,0.00,0.08
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Melaragno, Mackenzie",0,,9,1,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Gardner, Brooke",0,,10,82,42,.100,319,23,55,415,38,1739,0,45,49,241,0,0,7,1,186,9,3,8,1,105,3,0.67,5.06,2.27,0.11,0.55,1.28
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Mateo, Maubi",0,,11,81,7,-.060,133,17,9,37,15,237,0,31,24,160,0,0,516,51,353,0,0,0,0,40,1,0.11,0.46,4.36,0.00,0.38,0.49
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Rosentreter, Bailey",0,,12,57,34,.095,264,60,85,2,14,60,0,6,15,46,0,0,6,0,32,12,5,4,8,101,0,1.49,0.04,0.56,0.21,0.11,1.77
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Cheney, Jordyn",0,,15,2,0,.000,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.50,0.00,0.00,0.00,0.00
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Walker, Lea",0,,17,1,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+nac,North Atlantic Conference (NAC),2025-26,wvball,UMaine-Presque Isle,"Otto, Erin",0,,6,13,0,.000,6,1,1,1,1,3,0,3,1,13,0,0,6,1,4,0,0,0,0,4,0,0.08,0.08,0.31,0.00,0.23,0.31
+nac,North Atlantic Conference (NAC),2025-26,wvball,Thomas,"Romero, Ana",0,,3,90,20,.046,394,51,69,25,16,207,0,48,18,332,0,0,507,42,277,5,0,5,0,119.5,0,0.77,0.28,3.08,0.06,0.53,1.33
+nac,North Atlantic Conference (NAC),2025-26,wvball,Thomas,"Albraihi, Zainab",0,,1,87,2,-.130,54,11,4,9,8,75,0,7,26,246,0,0,264,22,216,0,1,0,0,11,0,0.05,0.10,2.48,0.00,0.08,0.13
+nac,North Atlantic Conference (NAC),2025-26,wvball,Thomas,"Cates, Marissa",0,,6,89,24,.077,285,54,76,6,10,68,0,3,8,20,0,0,16,3,30,35,2,20,15,104,2,0.85,0.07,0.34,0.39,0.03,1.17
+nac,North Atlantic Conference (NAC),2025-26,wvball,Thomas,"Bills, Kenzie",0,,10,77,13,.048,461,84,106,3,8,48,0,0,1,3,0,0,10,1,50,11,3,9,2,112.5,3,1.38,0.04,0.65,0.14,0.00,1.46
+nac,North Atlantic Conference (NAC),2025-26,wvball,Thomas,"Child, Jordan",0,,13,90,24,-.050,298,73,58,6,6,61,0,1,2,9,0,0,196,39,49,20,0,16,4,71,2,0.64,0.07,0.54,0.22,0.01,0.79
+nac,North Atlantic Conference (NAC),2025-26,wvball,Thomas,"Gibson, Camille",0,,2,90,3,-.098,112,19,8,40,7,268,0,34,26,311,0,0,532,38,409,0,0,0,0,42,1,0.09,0.44,4.54,0.00,0.38,0.47
+nac,North Atlantic Conference (NAC),2025-26,wvball,Thomas,"Lebel, Addison",0,,4,90,26,.190,520,63,162,9,13,97,0,29,36,248,0,0,7,1,83,37,3,18,19,219,2,1.80,0.10,0.92,0.41,0.32,2.43
+nac,North Atlantic Conference (NAC),2025-26,wvball,Thomas,"Barbeau, Brooklyn",0,,5,87,12,.062,113,4,11,223,23,1087,0,18,21,292,0,0,9,0,141,0,0,0,0,29,3,0.13,2.56,1.62,0.00,0.21,0.33
+nac,North Atlantic Conference (NAC),2025-26,wvball,Thomas,"Michler, Maggie",0,,11,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nac,North Atlantic Conference (NAC),2025-26,wvball,Thomas,"Pool, Lindsay",0,,19,82,24,.104,625,79,144,218,27,948,0,26,11,203,0,0,35,5,169,11,3,7,4,177.5,1,1.76,2.66,2.06,0.13,0.32,2.16
+nac,North Atlantic Conference (NAC),2025-26,wvball,Thomas,"Cotoia, Karissa",0,,21,77,7,-.143,140,34,14,8,8,75,0,10,7,136,0,0,114,19,49,1,0,1,0,24.5,1,0.18,0.10,0.64,0.01,0.13,0.32
+nac,North Atlantic Conference (NAC),2025-26,wvball,Thomas,"Snowdeal, Hannah",0,,7,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,Rayann Fatahi,0,,2,84,34,-.134,397,103,50,8,7,101,0,20,26,245,0,0,211,38,106,2,0,2,0,71,0,0.60,0.10,1.26,0.02,0.24,0.85
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,Jessica Brassil,0,,3,81,5,-.152,79,24,12,6,3,47,0,7,9,40,0,0,227,47,91,0,0,0,0,19,1,0.15,0.07,1.12,0.00,0.09,0.23
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,Jillian Donlan,0,,4,58,2,-.143,28,6,2,0,1,20,0,0,10,49,0,0,65,13,32,0,0,0,0,2,0,0.03,0.00,0.55,0.00,0.00,0.03
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,Korinne Hall-Johnson,0,,5,89,4,-.110,218,52,28,36,11,267,0,38,40,213,0,0,630,97,403,0,0,0,0,66,1,0.31,0.40,4.53,0.00,0.43,0.74
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,Abbie Price,0,,9,66,30,-.115,295,97,63,0,9,28,0,0,0,0,0,0,1,0,14,18,14,4,14,79,3,0.95,0.00,0.21,0.27,0.00,1.20
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,Anna Labbe,0,,10,1,0,.000,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,Estephany Morales,0,,11,87,35,-.088,205,42,24,5,12,56,0,4,9,84,0,0,7,1,20,4,1,4,0,30,3,0.28,0.06,0.23,0.05,0.05,0.34
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,Alawnah Dunda,0,,12,88,35,.069,496,75,109,2,-249,59,0,19,19,234,0,0,4,1,53,11,0,5,6,136,5,1.24,0.02,0.60,0.13,0.22,1.55
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,Shae Thomas,0,,14,41,21,-.022,312,78,71,15,6,110,0,17,7,99,0,0,213,20,110,1,1,1,0,88,0,1.73,0.37,2.68,0.02,0.41,2.15
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,Mariah Febo,0,,16,71,29,.007,134,11,12,281,31,1546,0,18,6,180,0,0,5,0,100,0,0,0,0,30,4,0.17,3.96,1.41,0.00,0.25,0.42
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,Baileigh Sinaman-Dan,0,,17,33,2,-.250,32,12,4,1,2,9,0,0,0,0,0,0,1,0,8,0,2,0,0,4,0,0.12,0.03,0.24,0.00,0.00,0.12
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,Ariel Udell,0,,18,70,0,-.455,11,5,0,3,1,23,0,11,10,95,0,0,245,65,67,0,0,0,0,11,0,0.00,0.04,0.96,0.00,0.16,0.16
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,"Thomas, Sinead",0,,14,47,13,-.081,248,63,43,29,14,292,0,13,20,108,0,0,230,44,135,1,0,1,0,56.5,0,0.91,0.62,2.87,0.02,0.28,1.20
+nac,North Atlantic Conference (NAC),2025-26,wvball,Lesley,"Sinaman-Daniel, Bail",0,,17,4,0,-.500,8,5,1,0,0,4,0,0,0,0,0,0,0,0,4,1.0,0,1,0,1.5,0,0.25,0.00,1.00,0.25,0.00,0.38
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Lyndon,"Mack, Kiara",0,,20,79,25,.051,804,104,145,12,19,187,0,19,26,179,0,0,323,81,134,28,8,1,27,191.5,9,1.84,0.15,1.70,0.35,0.24,2.42
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Lyndon,"Gonzalez, Kazandra",0,,17,70,22,-.045,134,14,8,94,46,652,0,12,53,164,0,0,186,49,213,0,0,0,0,20,1,0.11,1.34,3.04,0.00,0.17,0.29
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Lyndon,"Gerrish, Alyssa",0,,11,25,10,-.235,17,5,1,2,8,33,0,1,5,40,0,0,51,18,40,0,0,0,0,2,0,0.04,0.08,1.60,0.00,0.04,0.08
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Lyndon,"Clunis, Sydney",0,,2,79,25,-.002,441,62,61,35,14,252,0,43,29,249,0,0,502,72,273,0,1,0,0,104,2,0.77,0.44,3.46,0.00,0.54,1.32
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Lyndon,"Longway, Makayla",0,,3,33,8,-.286,7,4,2,1,5,34,0,3,14,55,0,0,20,11,30,0,0,0,0,5,2,0.06,0.03,0.91,0.00,0.09,0.15
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Lyndon,"Cordova, Olivia",0,,10,79,25,-.045,176,22,14,93,31,740,0,20,21,186,0,0,170,39,152,0,0,0,0,34,5,0.18,1.18,1.92,0.00,0.25,0.43
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Lyndon,"Hall, Akeelah",0,,15,18,6,-.455,11,6,1,0,4,14,0,0,5,18,0,0,19,5,19,1,1,0,1,2,0,0.06,0.00,1.06,0.06,0.00,0.11
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Lyndon,"Badertscher, Hannah",0,,14,37,11,.017,58,11,12,4,7,32,0,5,27,56,0,0,64,14,61,6,1,0,6,23,0,0.32,0.11,1.65,0.16,0.14,0.62
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Lyndon,"Clegg, Nei'Shae",0,,1,49,15,.050,301,36,51,7,13,98,0,10,18,118,0,0,171,26,125,1,0,1,0,61.5,1,1.04,0.14,2.55,0.02,0.20,1.26
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Lyndon,"McNamara, Riley",0,,16,9,3,-.368,19,8,1,0,2,12,0,2,5,31,0,0,40,13,4,0,0,0,0,3,0,0.11,0.00,0.44,0.00,0.22,0.33
+nac,North Atlantic Conference (NAC),2025-26,wvball,VTSU Lyndon,"Simms, Anneciah",0,,7,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0

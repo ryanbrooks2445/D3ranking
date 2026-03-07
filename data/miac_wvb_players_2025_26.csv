@@ -1,0 +1,225 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,attack_stats_hitting_pct,attack_stats_attempts,attack_stats_errors,attack_stats_kills,set_stats_assists,set_stats_errors,set_stats_attempts,set_stats_set_pct,serve_stats_aces,serve_stats_errors,serve_stats_attempts,serve_stats_serve_pct,defense_stats_defense_pct,defense_stats_attempts,defense_stats_receptions,defense_stats_digs,block_stats_total,block_stats_errors,block_stats_assists,block_stats_solos,misc_stats_points,misc_stats_ball_handling_errors,per_set_stats_kills,per_set_stats_assists,per_set_stats_digs,per_set_stats_blocks,per_set_stats_aces,per_set_stats_points
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Timm, Sydney",0,,2,111,48,.206,904,98,284,71,4,332,0,20,37,342,0,0,6,2,264,59,7,52,7,337,1,2.56,0.64,2.38,0.53,0.18,3.04
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Banse, Grace",0,,9,6,0,-.200,10,3,1,0,0,2,0,0,1,6,0,0,10,2,3,0,0,0,0,1,0,0.17,0.00,0.50,0.00,0.00,0.17
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Sundberg, Maren",0,,25,111,0,.000,40,3,3,85,3,460,0,34,37,402,0,0,513,26,563,0,0,0,0,37,0,0.03,0.77,5.07,0.00,0.31,0.33
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Stockham, Olivia",0,,22,111,19,-.075,40,7,4,24,1,104,0,24,31,409,0,0,551,28,310,0,0,0,0,28,0,0.04,0.22,2.79,0.00,0.22,0.25
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Berg, Leah",0,,7,111,31,.213,989,130,341,1,5,49,0,0,0,2,0,0,109,4,72,31,7,21,10,361.5,0,3.07,0.01,0.65,0.28,0.00,3.26
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Petersen, Kiera",0,,13,4,2,.176,17,2,5,0,0,2,0,2,3,14,0,0,0,0,1,2,0,2,0,8,0,1.25,0.00,0.25,0.50,0.50,2.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Deyak, Sophia",0,,28,56,22,.238,286,50,118,3,0,16,0,0,0,0,0,0,3,0,12,54,6,34,20,155,0,2.11,0.05,0.21,0.96,0.00,2.77
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Brent, Logan",0,,5,94,28,.188,807,129,281,12,7,75,0,1,0,1,0,0,350,23,71,33,3,25,8,302.5,0,2.99,0.13,0.76,0.35,0.01,3.22
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Malchow, Macie",0,,6,78,26,.341,182,14,76,561,15,1660,0,36,29,288,0,0,2,0,124,20,2,17,3,123.5,1,0.97,7.19,1.59,0.26,0.46,1.58
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Dirkes, Addison",0,,10,57,26,.212,198,29,71,3,0,26,0,0,0,1,0,0,3,0,16,36,8,31,5,91.5,0,1.25,0.05,0.28,0.63,0.00,1.61
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Johnson, Kyra",0,,21,30,6,.127,157,24,44,2,2,13,0,0,1,2,0,0,20,2,17,12,1,12,0,50,0,1.47,0.07,0.57,0.40,0.00,1.67
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Brigson, Leah",0,,4,7,0,.500,2,0,1,0,0,1,0,0,1,5,0,0,10,2,2,0,0,0,0,1,0,0.14,0.00,0.29,0.00,0.00,0.14
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Hahn, Ava",0,,12,44,1,.125,56,7,14,6,0,20,0,13,17,117,0,0,50,3,64,1,0,1,0,27.5,0,0.32,0.14,1.45,0.02,0.30,0.63
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Mancine, Marissa",0,,11,5,1,.000,0,0,0,0,0,1,0,0,0,18,0,0,0,0,5,0,0,0,0,0,0,0.00,0.00,1.00,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Morken, Sahara",0,,1,81,18,.015,65,7,8,525,12,1440,0,13,16,172,0,0,2,0,151,4,0,4,0,23,1,0.10,6.48,1.86,0.05,0.16,0.28
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Neeley, Jordis",0,,8,1,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Olson, Ella",0,,3,104,14,-.069,29,4,2,24,3,92,0,36,43,469,0,0,382,31,294,0,0,0,0,38,0,0.02,0.23,2.83,0.00,0.35,0.37
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Gustavus,"Tompkins, Greta",0,,14,106,46,.191,523,102,202,5,5,53,0,49,58,337,0,0,2,0,43,83,7,62,21,303,1,1.91,0.05,0.41,0.78,0.46,2.86
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Christophersen, Paige",0,,3,135,62,.318,110,1,36,847,21,2336,0,67,40,643,0,0,8,1,313,3,2,3,0,104.5,1,0.27,6.27,2.32,0.02,0.50,0.77
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Hobbie, Dori",0,,7,134,63,.176,329,54,112,13,5,70,0,7,22,242,0,0,3,0,48,100,3,92,8,173,0,0.84,0.10,0.36,0.75,0.05,1.29
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Pederson, Liz",0,,13,7,1,.100,20,7,9,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,9,0,1.29,0.00,0.29,0.00,0.00,1.29
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Chun, Cayla",0,,14,7,0,1.000,1,0,1,25,0,69,0,1,0,12,0,0,0,0,3,0,0,0,0,2,0,0.14,3.57,0.43,0.00,0.14,0.29
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Jelinek, Holly",0,,16,84,1,.125,319,57,97,2,0,21,0,0,1,1,0,0,2,2,17,42,1,42,0,118,0,1.15,0.02,0.20,0.50,0.00,1.40
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Ryan, Morgan",0,,20,135,0,.020,50,2,3,162,4,651,0,39,29,534,0,0,568,40,809,0,0,0,0,42,0,0.02,1.20,5.99,0.00,0.29,0.31
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Lee, Caitlin",0,,21,15,3,.143,28,6,10,0,0,2,0,0,2,4,0,0,1,0,2,6,0,6,0,13,0,0.67,0.00,0.13,0.40,0.00,0.87
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Fowler, Karin",0,,17,20,0,.000,1,0,0,2,0,7,0,3,3,39,0,0,3,0,8,0,0,0,0,3,0,0.00,0.10,0.40,0.00,0.15,0.15
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Kreft, Evelyn",0,,22,121,3,.248,883,135,354,9,5,45,0,3,1,10,0,0,223,6,70,44,5,39,5,381.5,1,2.93,0.07,0.58,0.36,0.02,3.15
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Dooley, Michaela",0,,23,135,49,.000,27,3,3,22,0,108,0,23,24,444,0,0,581,20,302,0,0,0,0,26,0,0.02,0.16,2.24,0.00,0.17,0.19
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Miller, Maren",0,,25,119,59,.387,483,67,254,9,5,48,0,6,9,89,0,0,3,0,24,98,4,85,13,315.5,0,2.13,0.08,0.20,0.82,0.05,2.65
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Van Scoyoc, Lilah",0,,27,115,44,.191,894,99,270,9,0,54,0,4,5,103,0,0,273,22,131,43,5,39,4,297.5,0,2.35,0.08,1.14,0.37,0.03,2.59
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Fildew, Skylar",0,,28,4,0,.000,0,0,0,8,1,23,0,0,0,7,0,0,0,0,2,0,0,0,0,0,0,0.00,2.00,0.50,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Beckstrand, Carlie",0,,2,110,28,.197,583,99,214,7,2,41,0,0,0,12,0,0,23,5,66,28,1,28,0,228,0,1.95,0.06,0.60,0.25,0.00,2.07
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Krause, Mehsa",0,,9,135,63,.170,1184,181,382,15,2,118,0,39,57,397,0,0,676,63,284,43,1,41,2,443.5,0,2.83,0.11,2.10,0.32,0.29,3.29
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Hagen, Britta",0,,10,3,0,.200,5,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.33,0.00,0.00,0.00,0.00,0.33
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Russe, Iza",0,,15,5,0,.000,0,0,0,0,0,1,0,1,1,8,0,0,1,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.20,0.20
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Saxton, Sophie",0,,19,129,0,.070,86,13,19,515,14,1521,0,33,35,406,0,0,2,1,180,1,0,0,1,53,2,0.15,3.99,1.40,0.01,0.26,0.41
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Johnson, Zahara",0,,4,10,1,.300,10,1,4,1,0,4,0,0,0,0,0,0,0,0,3,7,0,7,0,7.5,0,0.40,0.10,0.30,0.70,0.00,0.75
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Hedrick, Anna",0,,5,7,0,.167,12,2,4,1,0,3,0,0,0,0,0,0,0,0,0,1,0,1,0,4.5,0,0.57,0.14,0.00,0.14,0.00,0.64
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Welch, Lauren",0,,6,38,1,-1.000,1,1,0,4,0,13,0,0,1,63,0,0,68,5,31,0,0,0,0,0,0,0.00,0.11,0.82,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Olaf,"Chavarria, Andrea",0,,24,3,0,.500,2,0,1,0,0,0,0,0,0,0,0,0,2,1,1,0,0,0,0,1,0,0.33,0.00,0.33,0.00,0.00,0.33
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Haupert, Chaeli",0,,1,102,0,.000,21,3,3,24,4,204,0,37,20,423,0,0,513,37,443,0,0,0,0,40,0,0.03,0.24,4.34,0.00,0.36,0.39
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Knofczynski, Mackenzie",0,,18,102,50,.237,476,73,186,35,9,195,0,18,22,151,0,0,11,2,58,101,6,79,22,265.5,1,1.82,0.34,0.57,0.99,0.18,2.60
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Andries, Brooke",0,,5,99,33,.183,569,73,177,6,2,63,0,0,0,1,0,0,1,1,65,40,0,37,3,198.5,0,1.79,0.06,0.66,0.40,0.00,2.01
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Jones, Kali",0,,11,100,50,.143,883,143,269,12,5,109,0,49,46,408,0,0,774,46,376,35,1,31,4,337.5,1,2.69,0.12,3.76,0.35,0.49,3.38
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Noha, Ingrid",0,,16,83,16,.043,70,8,11,38,1,165,0,16,20,241,0,0,224,11,156,1,0,1,0,27.5,2,0.13,0.46,1.88,0.01,0.19,0.33
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Burns, Libby",0,,21,75,0,.200,5,0,1,2,0,9,0,29,24,197,0,0,12,2,23,0,0,0,0,30,0,0.01,0.03,0.31,0.00,0.39,0.40
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Stadum, Kate",0,,3,37,7,.112,187,31,52,1,0,6,0,3,1,19,0,0,68,3,22,5,0,4,1,58,0,1.41,0.03,0.59,0.14,0.08,1.57
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Torve, Izzy",0,,2,102,44,.213,94,3,23,527,22,1670,0,46,33,385,0,0,2,1,247,0,0,0,0,69,3,0.23,5.17,2.42,0.00,0.45,0.68
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Banse, Allison",0,,8,4,0,.000,0,0,0,0,0,2,0,0,1,5,0,0,2,0,3,0,0,0,0,0,0,0.00,0.00,0.75,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Moehrle, McKenna",0,,9,100,50,.150,366,51,106,42,4,159,0,0,0,0,0,0,15,0,41,69,2,54,15,148,1,1.06,0.42,0.41,0.69,0.00,1.48
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Chowhan, Antonia",0,,10,32,1,.108,120,12,25,0,0,6,0,0,0,0,0,0,0,0,6,12,1,10,2,32,0,0.78,0.00,0.19,0.38,0.00,1.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Blahoski, Katie",0,,20,6,0,.143,14,3,5,1,0,7,0,0,0,0,0,0,0,0,1,0,0,0,0,5,0,0.83,0.17,0.17,0.00,0.00,0.83
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Schuler, Ginny",0,,4,93,6,.145,55,1,9,397,11,1177,0,26,31,345,0,0,4,0,156,0,0,0,0,35,1,0.10,4.27,1.68,0.00,0.28,0.38
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Siegle, Brooke",0,,6,67,26,.153,385,60,119,9,3,67,0,10,13,109,0,0,262,16,128,14,1,14,0,136,0,1.78,0.13,1.91,0.21,0.15,2.03
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"McManus, Keira",0,,13,100,17,.212,594,85,211,4,0,52,0,0,0,0,0,0,5,0,41,50,2,48,2,237,1,2.11,0.04,0.41,0.50,0.00,2.37
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Elliott, Sydney",0,,22,5,0,-.111,9,3,2,1,1,3,0,0,0,0,0,0,0,0,0,2,0,2,0,3,0,0.40,0.20,0.00,0.40,0.00,0.60
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Benedict,"Wasiloski, Emma",0,,23,3,0,.000,0,0,0,0,0,0,0,1,2,4,0,0,6,2,8,0,0,0,0,1,0,0.00,0.00,2.67,0.00,0.33,0.33
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Pelzel, Eleanor",0,,4,74,26,.123,424,60,112,1,4,33,0,0,1,20,0,0,141,9,56,17,2,16,1,121,2,1.51,0.01,0.76,0.23,0.00,1.64
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Jacques, Sophie",0,,20,15,2,.250,24,1,7,0,0,0,0,0,0,0,0,0,0,0,1,4,0,4,0,9,0,0.47,0.00,0.07,0.27,0.00,0.60
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Johnson, Olivia",0,,23,61,1,.600,5,0,3,4,1,40,0,17,13,198,0,0,156,11,130,0,0,0,0,20,1,0.05,0.07,2.13,0.00,0.28,0.33
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Howie, Peyton",0,,5,92,32,.357,784,49,329,9,5,73,0,21,13,304,0,0,15,0,62,71,2,49,22,396.5,0,3.58,0.10,0.67,0.77,0.23,4.31
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Petersen, Mattie",0,,11,38,0,.000,10,1,1,6,0,51,0,8,5,134,0,0,143,9,77,0,0,0,0,9,0,0.03,0.16,2.03,0.00,0.21,0.24
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Van Namen, Ellie",0,,12,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Hetfeld, Lauren",0,,2,89,3,.016,128,26,28,7,3,66,0,34,30,337,0,0,297,14,208,0,0,0,0,62,0,0.31,0.08,2.34,0.00,0.38,0.70
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Therrien, Grace",0,,14,91,0,-.060,50,5,2,58,4,315,0,39,21,392,0,0,352,25,377,0,0,0,0,41,0,0.02,0.64,4.14,0.00,0.43,0.45
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Tuma, Lexi",0,,19,6,0,-.375,8,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0.17,0.00,0.00,0.00,0.00,0.17
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Penke, Hannah",0,,31,91,32,.152,861,132,263,11,4,112,0,10,18,261,0,0,470,29,338,19,2,15,4,284.5,1,2.89,0.12,3.71,0.21,0.11,3.13
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Johnson, Cali",0,,1,32,0,-.087,23,5,3,2,0,14,0,7,10,47,0,0,59,3,34,0,0,0,0,10,1,0.09,0.06,1.06,0.00,0.22,0.31
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Scherber, Sara",0,,3,92,31,.287,567,65,228,4,4,51,0,0,0,0,0,0,5,0,40,32,2,32,0,244,0,2.48,0.04,0.43,0.35,0.00,2.65
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Houser, Chiara",0,,6,82,30,.177,266,41,88,3,2,22,0,0,0,3,0,0,3,0,7,46,1,42,4,113,0,1.07,0.04,0.09,0.56,0.00,1.38
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Hermanson, Adalyn",0,,7,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Quinn, Bridger",0,,8,1,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0,0.00,0.00,0.00,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Barns, Kaylynn",0,,13,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Dieleman, Rachel",0,,15,2,0,.667,3,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1.00,0.00,0.00,0.00,0.00,1.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Arntson, Gabriella",0,,21,1,0,.000,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Henrikson, Jada",0,,22,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Carto, Cosette",0,,27,36,3,.126,151,21,40,1,2,16,0,1,1,7,0,0,44,4,18,7,1,4,3,46,0,1.11,0.03,0.50,0.19,0.03,1.28
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Bethel,"Rubio, Sophia",0,,28,92,32,.117,214,15,40,935,28,2677,0,24,31,282,0,0,6,1,223,31,2,30,1,80,0,0.43,10.16,2.42,0.34,0.26,0.87
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Hoehns, Taylor",0,,14,99,41,.114,483,115,170,4,2,62,0,0,1,3,0,0,16,2,73,32,1,30,2,187,1,1.72,0.04,0.74,0.32,0.00,1.89
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Washington, Sierra",0,,4,69,35,.207,203,26,68,7,3,24,0,3,7,35,0,0,7,0,16,46,5,36,10,99,0,0.99,0.10,0.23,0.67,0.04,1.43
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Hamilton, Grace",0,,22,18,0,-.088,91,27,19,2,1,8,0,0,0,1,0,0,17,2,4,4,0,3,1,21.5,0,1.06,0.11,0.22,0.22,0.00,1.19
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"King, Jovial",0,,12,109,50,.229,279,29,93,990,27,3100,0,34,23,392,0,0,6,1,327,64,3,60,4,161,0,0.85,9.08,3.00,0.59,0.31,1.48
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Lile, Maggie",0,,16,107,0,.088,57,5,10,95,7,438,0,47,41,407,0,0,547,48,443,0,0,0,0,57,2,0.09,0.89,4.14,0.00,0.44,0.53
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Oster, Elizabeth",0,,8,94,44,.166,495,85,167,10,6,54,0,30,29,294,0,0,10,1,68,76,4,72,4,237,0,1.78,0.11,0.72,0.81,0.32,2.52
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Uphoff, Elise",0,,21,110,15,.000,24,2,2,35,1,118,0,16,25,355,0,0,511,46,235,0,0,0,0,18,0,0.02,0.32,2.14,0.00,0.15,0.16
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Walter, Teagan",0,,6,3,0,-.333,3,1,0,1,0,2,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.00,0.33,0.33,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Carlson, Ava",0,,3,45,17,.230,521,69,189,4,2,59,0,17,12,177,0,0,215,16,124,5,0,4,1,209,1,4.20,0.09,2.76,0.11,0.38,4.64
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Gorter, Gwynn",0,,9,55,21,.251,243,22,83,2,2,22,0,0,0,2,0,0,1,0,14,31,2,24,7,102,0,1.51,0.04,0.25,0.56,0.00,1.85
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Mitchell, Marley",0,,5,85,6,.079,730,138,196,7,4,61,0,3,2,12,0,0,146,17,62,28,2,23,5,215.5,0,2.31,0.08,0.73,0.33,0.04,2.54
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Shimek, Carmen",0,,18,22,0,.000,5,1,1,13,0,43,0,4,12,81,0,0,1,1,38,0,0,0,0,5,0,0.05,0.59,1.73,0.00,0.18,0.23
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Carrillo-Arzapalo, Emily",0,,13,2,0,.500,4,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2.0,0,1.00,0.00,0.00,0.00,0.00,1.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"New, New",0,,19,31,0,.000,9,0,0,5,0,22,0,5,7,74,0,0,106,7,72,0,0,0,0,5,0,0.00,0.16,2.32,0.00,0.16,0.16
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Rogers, Ameerah",0,,7,10,0,.088,34,7,10,0,1,4,0,0,6,23,0,0,0,0,3,5,1,4,1,13,0,1.00,0.00,0.30,0.50,0.00,1.30
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Schultz, Alayna",0,,24,3,0,.000,0,0,0,10,1,30,0,1,2,11,0,0,0,0,3,0,0,0,0,1,0,0.00,3.33,1.00,0.00,0.33,0.33
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Pilon, Lola",0,,30,80,36,-.019,161,37,34,8,1,57,0,28,54,239,0,0,330,16,170,1,0,1,0,62.5,0,0.43,0.10,2.13,0.01,0.35,0.78
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Lillquist, Jaylin",0,,1,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Augsburg,"Triggs, Taliah",0,,2,95,35,.148,844,149,274,11,3,85,0,24,35,279,0,0,335,24,158,20,2,16,4,310,0,2.88,0.12,1.66,0.21,0.25,3.26
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Yackley, Natalie",0,,1,105,53,.127,316,16,56,1020,31,3185,0,19,13,424,0,0,9,1,235,37,2,33,4,95.5,2,0.53,9.71,2.24,0.35,0.18,0.91
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Baribeau, Lindsey",0,,7,105,54,.269,766,97,303,15,8,156,0,17,30,342,0,0,7,2,109,93,4,73,20,376.5,0,2.89,0.14,1.04,0.89,0.16,3.59
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Swangstue, Ava",0,,11,105,54,.265,680,77,257,8,10,100,0,0,0,0,0,0,11,2,44,59,3,47,12,292.5,0,2.45,0.08,0.42,0.56,0.00,2.79
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Ziegler, Bryn",0,,4,103,0,.000,42,0,0,40,8,211,0,24,18,359,0,0,388,30,336,0,0,0,0,24,0,0.00,0.39,3.26,0.00,0.23,0.23
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Peterson, Mikala",0,,15,59,32,.180,323,46,104,4,6,47,0,2,1,32,0,0,6,0,47,33,1,30,3,124,0,1.76,0.07,0.80,0.56,0.03,2.10
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Lustig, Cassidy",0,,12,105,52,.068,616,96,138,22,13,198,0,21,16,379,0,0,537,25,335,17,0,13,4,169.5,0,1.31,0.21,3.19,0.16,0.20,1.61
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Kahl, Lauren",0,,5,96,0,-.094,32,4,1,36,3,206,0,14,17,326,0,0,420,49,343,1,0,1,0,15.5,1,0.01,0.38,3.57,0.01,0.15,0.16
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Waters, Mahlea",0,,2,0,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Zins, Abby",0,,21,93,0,.195,660,99,228,3,8,53,0,0,0,4,0,0,85,7,56,26,0,24,2,242,0,2.45,0.03,0.60,0.28,0.00,2.60
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Borstad, Tayte",0,,22,19,1,.083,36,8,11,0,0,7,0,0,0,1,0,0,10,2,4,2,1,2,0,12,0,0.58,0.00,0.21,0.11,0.00,0.63
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Husbands, Bailey",0,,23,7,0,.000,4,0,0,8,0,19,0,1,4,16,0,0,0,0,3,0,0,0,0,1,0,0.00,1.14,0.43,0.00,0.14,0.14
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Freberg, Hannah",0,,8,3,1,.000,0,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0.00,0.00,0.33,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Cherrington, Aubrey",0,,10,1,0,.000,1,0,0,0,1,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Decker, Ava",0,,14,105,54,.056,395,67,89,16,9,135,0,35,20,452,0,0,512,33,292,7,2,7,0,127.5,1,0.85,0.15,2.78,0.07,0.33,1.21
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Niemala, Madalyn",0,,16,0,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Rechichi, Lilli",0,,18,53,23,.168,256,41,84,2,10,52,0,0,1,1,0,0,7,0,14,17,4,14,3,94,0,1.58,0.04,0.26,0.32,0.00,1.77
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Carlson, Hope",0,,19,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Scholastica,"Alkhatib, Sophia",0,,20,1,0,.000,2,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.0,0,0.00,0.00,0.00,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Graham, Shannon",0,,9,5,0,1.000,1,0,1,0,0,3,0,1,1,11,0,0,0,0,5,0,0,0,0,2,0,0.20,0.00,1.00,0.00,0.20,0.40
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Lund, Britta",0,,11,49,15,.067,223,43,58,1,3,26,0,0,0,0,0,0,2,0,33,20,5,18,2,69,0,1.18,0.02,0.67,0.41,0.00,1.41
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Kotek, Kaitlyn",0,,13,24,4,.333,27,0,9,82,7,327,0,1,7,60,0,0,1,0,43,1,0,1,0,10.5,0,0.38,3.42,1.79,0.04,0.04,0.44
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Starkey, Kayli",0,,5,74,10,.099,71,6,13,20,3,107,0,23,18,241,0,0,252,24,149,4,0,3,1,38.5,0,0.18,0.27,2.01,0.05,0.31,0.52
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Dierks, Mandy",0,,14,86,0,-.057,35,3,1,42,3,271,0,34,22,285,0,0,544,35,413,0,0,0,0,35,0,0.01,0.49,4.80,0.00,0.40,0.41
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Busalacchi, Siena",0,,12,28,9,.122,82,14,24,0,1,17,0,0,0,0,0,0,1,0,8,8,4,6,2,29,1,0.86,0.00,0.29,0.29,0.00,1.04
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Bathurst, Grace",0,,2,91,38,.327,551,57,237,11,5,102,0,18,24,227,0,0,8,0,62,70,7,41,29,304.5,3,2.60,0.12,0.68,0.77,0.20,3.35
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Cairns, Nora",0,,6,29,4,.171,193,27,60,1,3,23,0,0,0,0,0,0,13,2,11,9,0,9,0,64.5,0,2.07,0.03,0.38,0.31,0.00,2.22
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Sand, Cameryn",0,,8,86,34,.094,191,11,29,708,28,2227,0,33,41,284,0,0,8,1,186,11,2,9,2,68.5,0,0.34,8.23,2.16,0.13,0.38,0.80
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Shiong, Cintsaiab",0,,20,29,3,.000,3,1,1,1,0,21,0,4,3,73,0,0,94,13,45,0,0,0,0,5,0,0.03,0.03,1.55,0.00,0.14,0.17
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Siems, Claire",0,,7,62,3,.100,10,0,1,6,0,44,0,11,17,185,0,0,153,16,109,0,0,0,0,12,0,0.02,0.10,1.76,0.00,0.18,0.19
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Johnson, Sophia",0,,1,76,27,.130,617,110,190,3,3,50,0,0,0,4,0,0,67,9,40,33,0,26,7,210,0,2.50,0.04,0.53,0.43,0.00,2.76
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Meizo, Lindsey",0,,3,7,0,.333,3,0,1,0,0,2,0,2,3,17,0,0,10,1,5,0,0,0,0,3,0,0.14,0.00,0.71,0.00,0.29,0.43
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Helmin, Lexi",0,,10,91,38,.264,523,54,192,8,1,62,0,14,13,157,0,0,3,0,58,65,6,46,19,248,0,2.11,0.09,0.64,0.71,0.15,2.73
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Kaups, Claire",0,,15,85,31,.081,604,96,145,13,8,108,0,18,22,259,0,0,411,22,168,17,5,17,0,171.5,3,1.71,0.15,1.98,0.20,0.21,2.02
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Asmus, Quincy",0,,16,11,0,-.205,39,15,7,0,0,1,0,0,0,0,0,0,15,1,2,4,0,3,1,9.5,0,0.64,0.00,0.18,0.36,0.00,0.86
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Sims, Campbell",0,,17,54,12,.035,144,25,30,8,3,53,0,18,16,132,0,0,256,17,102,2,0,2,0,49,0,0.56,0.15,1.89,0.04,0.33,0.91
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Quade, Cale",0,,18,2,0,1.000,2,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1.00,0.00,0.00,0.00,0.00,1.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Hamline,"Woddbury, Emily",0,,19,1,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.0,0,0.00,0.00,0.00,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Clemens, Devann",0,,10,100,1,.037,82,7,10,443,16,1361,0,1,1,29,0,0,5,0,85,16,4,16,0,19,0,0.10,4.43,0.85,0.16,0.01,0.19
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Bruchert, Brenna",0,,12,106,33,.174,1075,157,344,2,7,119,0,26,13,228,0,0,293,26,180,36,6,27,9,392.5,0,3.25,0.02,1.70,0.34,0.25,3.70
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Bakken, Caitlin",0,,3,8,0,.000,0,0,0,0,0,0,0,0,5,23,0,0,3,0,2,0,0,0,0,0,0,0.00,0.00,0.25,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Rossow, Lindsey",0,,4,17,0,.000,7,1,1,7,1,57,0,5,4,72,0,0,87,2,87,0,0,0,0,6,0,0.06,0.41,5.12,0.00,0.29,0.35
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Baker, Maddie",0,,9,104,38,.022,225,47,52,7,5,61,0,0,0,0,0,0,1,0,17,68,4,57,11,91.5,0,0.50,0.07,0.16,0.65,0.00,0.88
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Schei, Isabella",0,,15,17,0,.000,5,0,0,3,3,14,0,1,0,27,0,0,53,3,19,0,0,0,0,1,0,0.00,0.18,1.12,0.00,0.06,0.06
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Klug, Paige",0,,23,83,25,.046,413,75,94,10,7,118,0,31,36,315,0,0,376,23,171,17,3,15,2,134.5,0,1.13,0.12,2.06,0.20,0.37,1.62
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Bredberg, Gretchen",0,,24,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Olson, Kali",0,,25,106,38,.281,740,108,316,23,8,163,0,25,22,323,0,0,24,3,105,93,9,56,37,406,2,2.98,0.22,0.99,0.88,0.24,3.83
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"King, Grace",0,,8,44,9,.064,204,46,59,0,2,27,0,2,0,12,0,0,54,2,28,11,2,10,1,67,0,1.34,0.00,0.64,0.25,0.05,1.52
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Hanneken, Brianna",0,,5,18,1,-.025,40,8,7,0,0,14,0,0,0,0,0,0,3,0,6,3,0,2,1,9,0,0.39,0.00,0.33,0.17,0.00,0.50
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Rommes, Emma",0,,7,95,0,-.056,18,1,0,27,8,191,0,5,14,110,0,0,444,32,205,0,0,0,0,5,0,0.00,0.28,2.16,0.00,0.05,0.05
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Grattan, Kinlee",0,,16,102,37,.047,107,11,16,449,20,1396,0,26,25,341,0,0,6,0,221,2,0,2,0,43,1,0.16,4.40,2.17,0.02,0.25,0.42
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Olson, Ayla",0,,22,106,38,.161,802,113,242,29,11,234,0,32,24,397,0,0,378,30,230,54,5,47,7,304.5,2,2.28,0.27,2.17,0.51,0.30,2.87
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Rahman, Claire",0,,6,96,5,-.030,33,3,2,29,2,172,0,17,18,305,0,0,315,22,232,0,0,0,0,19,0,0.02,0.30,2.42,0.00,0.18,0.20
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Saint Mary's,"Bolton, Brooklynn",0,,14,12,3,.167,6,1,2,0,0,5,0,0,0,2,0,0,12,3,11,0,0,0,0,2,0,0.17,0.00,0.92,0.00,0.00,0.17
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Rosen, Liz",0,,1,82,45,.101,651,82,148,12,5,94,0,26,14,302,0,0,582,26,244,18,2,16,2,184,1,1.80,0.15,2.98,0.22,0.32,2.24
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Fagan, Madison",0,,11,95,52,.254,465,68,186,4,0,30,0,1,0,2,0,0,7,0,32,77,1,66,11,231,0,1.96,0.04,0.34,0.81,0.01,2.43
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Johnson, Mallory",0,,14,97,52,.160,569,83,174,3,6,70,0,0,0,2,0,0,3,0,47,52,5,49,3,201.5,0,1.79,0.03,0.48,0.54,0.00,2.08
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Bredman, Emily",0,,18,98,52,.183,339,55,117,14,2,65,0,18,22,251,0,0,6,0,58,74,2,67,7,175.5,0,1.19,0.14,0.59,0.76,0.18,1.79
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Parish, Quinlynn",0,,12,61,8,-.053,227,57,45,2,2,49,0,11,14,163,0,0,231,16,121,7,0,6,1,60,0,0.74,0.03,1.98,0.11,0.18,0.98
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Nelson, Grace",0,,4,26,0,.000,1,0,0,2,2,21,0,2,5,49,0,0,33,2,23,0,0,0,0,2,0,0.00,0.08,0.88,0.00,0.08,0.08
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Chmielewski, Claudia",0,,6,24,0,-.150,40,12,6,1,1,17,0,0,0,1,0,0,0,0,5,7,0,7,0,9.5,0,0.25,0.04,0.21,0.29,0.00,0.40
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Carlstrom, Alexa",0,,19,70,0,.029,35,3,4,25,4,185,0,11,19,200,0,0,258,12,174,0,0,0,0,15,0,0.06,0.36,2.49,0.00,0.16,0.21
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Preuss, Addison",0,,8,98,52,.028,72,4,6,486,17,1623,0,28,22,355,0,0,7,0,174,2,0,2,0,35,0,0.06,4.96,1.78,0.02,0.29,0.36
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Mostaghimi, Maneeje",0,,5,68,0,-.083,24,3,1,21,2,162,0,10,17,109,0,0,293,24,163,0,0,0,0,11,0,0.01,0.31,2.40,0.00,0.15,0.16
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Hanover, Alivia",0,,7,41,0,.167,132,28,50,1,1,17,0,0,0,1,0,0,0,0,13,16,0,15,1,58.5,0,1.22,0.02,0.32,0.39,0.00,1.43
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Newton, Maddie",0,,9,65,0,.071,56,7,11,9,1,60,0,17,9,218,0,0,181,10,150,0,0,0,0,28,0,0.17,0.14,2.31,0.00,0.26,0.43
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Haugen, Marta",0,,10,93,51,.136,674,125,217,6,0,53,0,3,3,18,0,0,296,32,114,27,4,26,1,234,0,2.33,0.06,1.23,0.29,0.03,2.52
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Peterson, Javana",0,,13,0,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Barbie, Sophia",0,,15,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Nordeen, Emma",0,,20,50,0,.185,184,30,64,2,1,23,0,0,0,0,0,0,3,0,29,26,4,24,2,78,1,1.28,0.04,0.58,0.52,0.00,1.56
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Vandereide, Addison",0,,22,9,0,-.174,23,6,2,0,1,8,0,1,3,18,0,0,27,2,10,1,0,1,0,3.5,0,0.22,0.00,1.11,0.11,0.11,0.39
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Wolle, Jalyn",0,,2,98,0,.161,56,3,12,380,23,1242,0,22,32,315,0,0,1,1,137,0,0,0,0,34,1,0.12,3.88,1.40,0.00,0.22,0.35
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,St. Catherine,"Popp, Josie",0,,3,2,0,.000,0,0,0,1,0,2,0,1,0,4,0,0,1,0,1,0,0,0,0,1,0,0.00,0.50,0.50,0.00,0.50,0.50
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Leitner, Mallory",0,,3,83,49,.146,591,84,170,5,3,46,0,0,0,0,0,0,44,3,49,20,7,19,1,180.5,0,2.05,0.06,0.59,0.24,0.00,2.17
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Knain, Anna",0,,11,20,8,.000,22,2,2,70,5,232,0,0,3,51,0,0,1,0,32,0,0,0,0,2,1,0.10,3.50,1.60,0.00,0.00,0.10
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Lohman, Lexi",0,,17,57,18,.091,11,0,1,11,1,63,0,8,7,148,0,0,166,11,113,1,0,1,0,9.5,0,0.02,0.19,1.98,0.02,0.14,0.17
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Mooney, Hanna",0,,8,18,0,.200,5,0,1,11,1,58,0,5,5,63,0,0,51,9,39,0,0,0,0,6,0,0.06,0.61,2.17,0.00,0.28,0.33
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Bangs, Lauren",0,,14,83,33,.139,238,38,71,9,5,66,0,1,0,11,0,0,8,2,29,53,10,44,9,103,0,0.86,0.11,0.35,0.64,0.01,1.24
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Czech, Chloe",0,,6,6,0,.000,1,0,0,0,0,0,0,0,0,8,0,0,8,2,1,0,0,0,0,0,0,0.00,0.00,0.17,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Nagorski, Emma",0,,4,23,0,.065,92,14,20,1,0,4,0,0,0,4,0,0,2,0,11,13,2,13,0,26.5,0,0.87,0.04,0.48,0.57,0.00,1.15
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Sailer, Cayla",0,,2,31,14,.124,218,42,69,8,6,63,0,7,8,98,0,0,135,9,100,9,4,9,0,80.5,0,2.23,0.26,3.23,0.29,0.23,2.60
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Martini, Kelsi",0,,16,85,6,-.154,13,2,0,14,6,72,0,8,15,244,0,0,340,26,224,0,1,0,0,8,2,0.00,0.16,2.64,0.00,0.09,0.09
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Rust, Addison",0,,15,11,3,-.250,4,1,0,32,2,107,0,0,0,18,0,0,1,1,11,0,1,0,0,0,1,0.00,2.91,1.00,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Woody, Becca",0,,29,50,7,-.257,35,9,0,12,1,44,0,27,37,187,0,0,165,15,99,0,0,0,0,27,0,0.00,0.24,1.98,0.00,0.54,0.54
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Schiltz, Betsy",0,,23,84,44,.152,257,18,57,574,23,1886,0,12,14,285,0,0,6,1,215,14,14,13,1,76.5,3,0.68,6.83,2.56,0.17,0.14,0.91
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Felts, Abby",0,,9,14,0,.069,29,2,4,0,1,3,0,0,1,1,0,0,2,0,6,7,11,6,1,8,0,0.29,0.00,0.43,0.50,0.00,0.57
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Fitterer, Holland",0,,19,76,0,-.024,41,1,0,36,5,214,0,19,12,284,0,0,284,22,234,0,0,0,0,19,2,0.00,0.47,3.08,0.00,0.25,0.25
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Horan, Annie",0,,1,89,55,.192,620,104,223,27,10,137,0,12,26,259,0,0,332,16,232,84,29,70,14,284,1,2.51,0.30,2.61,0.94,0.13,3.19
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Klemin, Addy",0,,10,83,47,.147,464,84,152,4,3,39,0,0,3,11,0,0,8,1,68,50,13,43,7,180.5,0,1.83,0.05,0.82,0.60,0.00,2.17
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Malvey, Kali",0,,13,30,16,.058,172,33,43,5,2,20,0,5,6,54,0,0,35,4,21,10,5,5,5,55,0,1.43,0.17,0.70,0.33,0.17,1.83
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Pearson, Lauren",0,,21,51,26,.116,371,56,99,30,5,127,0,11,9,129,0,0,116,8,75,13,9,11,2,117.5,0,1.94,0.59,1.47,0.25,0.22,2.30
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,"Satrom, Stella",0,,5,6,0,.000,6,2,2,0,0,3,0,0,0,0,0,0,1,0,0,2,0,1,1,3.5,0,0.33,0.00,0.00,0.33,0.00,0.58
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,Kaili Malvey,0,,13,15,4,.073,110,20,28,2,1,8,0,1,3,16,0,0,10,2,10,4,2,4,0,31,0,1.87,0.13,0.67,0.27,0.07,2.07
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Concordia,Addy Rust,0,,15,1,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0.0,0,0,0,0.0,0,0.00,0.00,0.00,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Bohrer, Sarah",0,,2,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Rahe, Avery",0,,5,80,24,.185,525,81,178,0,2,41,0,0,0,2,0,0,3,0,36,28,4,26,2,193,0,2.23,0.00,0.45,0.35,0.00,2.41
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Watkins, Grace",0,,14,16,0,.067,104,11,18,1,2,14,0,0,0,0,0,0,37,2,7,0,1,0,0,18,0,1.13,0.06,0.44,0.00,0.00,1.13
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Terrell, MiLani",0,,4,69,29,.092,369,57,91,6,2,62,0,4,12,119,0,0,276,27,92,9,0,8,1,100,0,1.32,0.09,1.33,0.13,0.06,1.45
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Morrow, Hannah",0,,7,93,40,.111,90,5,15,505,22,1801,0,23,14,348,0,0,4,1,294,12,2,10,2,45,5,0.16,5.43,3.16,0.13,0.25,0.48
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Sherrow, Alia",0,,11,38,17,.028,109,22,25,1,3,24,0,12,14,109,0,0,2,0,15,17,6,14,3,47,1,0.66,0.03,0.39,0.45,0.32,1.24
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Stratton, Sydney",0,,21,71,26,.192,261,46,96,0,0,14,0,0,0,0,0,0,8,1,7,48,3,36,12,126,2,1.35,0.00,0.10,0.68,0.00,1.77
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Joo, Elizabeth",0,,3,79,0,.050,20,0,1,87,3,412,0,20,12,252,0,0,358,33,299,0,0,0,0,21,0,0.01,1.10,3.78,0.00,0.25,0.27
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Jones, Camilia",0,,6,60,2,.148,27,1,5,228,6,696,0,14,16,199,0,0,3,1,108,0,0,0,0,19,0,0.08,3.80,1.80,0.00,0.23,0.32
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Seppanen, Greta",0,,8,56,3,-.167,6,1,0,17,3,104,0,17,16,149,0,0,181,17,92,0,0,0,0,17,0,0.00,0.30,1.64,0.00,0.30,0.30
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Johnson, Lily",0,,9,2,0,.000,4,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Cohen-Richie, Ella",0,,15,51,15,.083,375,88,119,10,5,64,0,21,25,140,0,0,236,24,83,10,0,9,1,145.5,0,2.33,0.20,1.63,0.20,0.41,2.85
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Eisenman, Hannah",0,,17,75,8,.169,284,46,94,2,1,26,0,1,2,30,0,0,43,6,55,16,2,13,3,104.5,0,1.25,0.03,0.73,0.21,0.01,1.39
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Anene, Adonia",0,,10,87,39,.127,884,149,261,12,3,141,0,14,30,274,0,0,577,53,241,24,4,16,8,291,2,3.00,0.14,2.77,0.28,0.16,3.34
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Banta, Kailee",0,,12,43,12,-.250,4,1,0,2,0,35,0,8,15,117,0,0,152,16,95,0,0,0,0,8,0,0.00,0.05,2.21,0.00,0.19,0.19
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Thao, Kalia",0,,13,3,0,.000,0,0,0,0,0,2,0,0,1,10,0,0,0,0,1,0,0,0,0,0.0,0,0.00,0.00,0.33,0.00,0.00,0.00
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Macalester,"Oji, Danielle",0,,16,76,37,.147,191,28,56,1,3,33,0,8,22,155,0,0,8,1,31,43,8,32,11,91,2,0.74,0.01,0.41,0.57,0.11,1.20
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Harder, Katelyn",0,,5,31,0,-.500,4,2,0,1,3,8,0,7,8,72,0,0,36,3,16,0,0,0,0,7,0,0.00,0.03,0.52,0.00,0.23,0.23
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Curtis-Revelle, Ella",0,,6,79,10,-.200,5,1,0,40,5,182,0,17,14,230,0,0,341,31,238,0,0,0,0,17,0,0.00,0.51,3.01,0.00,0.22,0.22
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Dixon, Sylvia",0,,11,91,41,.168,805,109,244,9,3,81,0,19,34,300,0,0,322,28,157,6,0,6,0,266,1,2.68,0.10,1.73,0.07,0.21,2.92
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Macia, Isabel",0,,15,30,7,.150,20,2,5,79,3,250,0,10,17,84,0,0,1,1,61,0,0,0,0,15,0,0.17,2.63,2.03,0.00,0.33,0.50
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Bingham, Rachel",0,,4,68,21,.114,492,86,142,11,5,69,0,15,10,114,0,0,73,8,113,17,2,16,1,166,0,2.09,0.16,1.66,0.25,0.22,2.44
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Bricker, Jennifer",0,,13,80,40,.138,253,37,72,3,1,19,0,6,6,98,0,0,5,0,17,35,4,27,8,99.5,0,0.90,0.04,0.21,0.44,0.08,1.24
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Smith, Megan",0,,1,93,36,.194,155,15,45,618,24,2124,0,27,25,339,0,0,8,1,212,15,1,13,2,80.5,0,0.48,6.65,2.28,0.16,0.29,0.87
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Wiczynski, Kate",0,,12,87,16,.069,568,120,159,5,1,52,0,4,10,61,0,0,235,26,74,19,0,19,0,172.5,0,1.83,0.06,0.85,0.22,0.05,1.98
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Swafford, Ellewyn",0,,3,57,16,.061,181,38,49,1,1,24,0,9,6,95,0,0,0,0,20,33,1,24,9,79,0,0.86,0.02,0.35,0.58,0.16,1.39
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Kvart, Abby",0,,7,37,3,-.036,168,45,39,1,2,12,0,0,0,1,0,0,4,0,9,9,0,9,0,43.5,0,1.05,0.03,0.24,0.24,0.00,1.18
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Dimitre, Madeleine",0,,8,75,8,-.364,11,5,1,40,5,197,0,13,10,182,0,0,359,21,230,0,0,0,0,14,0,0.01,0.53,3.07,0.00,0.17,0.19
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Erhardt, Angelina",0,,18,88,8,.080,25,3,5,32,4,167,0,7,9,195,0,0,473,34,234,0,0,0,0,12,0,0.06,0.36,2.66,0.00,0.08,0.14
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Garten, Cleo",0,,16,3,0,.000,1,0,0,0,0,2,0,1,0,2,0,0,3,0,0,0,0,0,0,1,0,0.00,0.00,0.00,0.00,0.33,0.33
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Geisen, Emily",0,,2,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Goolsby, Ella",0,,10,64,26,.218,312,39,107,0,0,9,0,4,6,67,0,0,5,0,22,31,4,27,4,128.5,1,1.67,0.00,0.34,0.48,0.06,2.01
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Indelicato, Sofia",0,,25,16,0,.182,11,1,3,29,8,160,0,3,1,32,0,0,0,0,27,2,0,0,2,8,0,0.19,1.81,1.69,0.13,0.19,0.50
+miac,Minnesota Intercollegiate Athletic Conference (MIAC),2025-26,wvball,Carleton,"Torresin, Sami",0,,14,59,14,.067,252,56,73,1,1,19,0,0,1,3,0,0,1,1,29,21,0,21,0,83.5,0,1.24,0.02,0.49,0.36,0.00,1.42

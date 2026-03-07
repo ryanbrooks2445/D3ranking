@@ -1,0 +1,174 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,field_goals_made,field_goals_attempted,three_points_made,three_points_attempted,free_throws_attempted,free_throws_made,points_scored,blocked_shots,steals,assists,minutes_played,offensive_rebounds,defensive_rebounds,total_rebounds,personal_fouls,technical_fouls,turnovers,disqualifications,deadballs,field_goals_pct,three_points_pct,free_throws_pct,points_per_game,rebounds_per_game,assists_per_game,steals_per_game,blocked_shots_per_game
+skyline_conference,Skyline Conference,2025-26,wbball,Merchant Marine,Natalie Doan,0,0,01,30,0,22,100,8,36,16,14,66,3,16,23,326,24,28,52,41,0,39,0,0,0.22,0.22,0.88,2.20,1.73,0.77,0.53,0.10
+skyline_conference,Skyline Conference,2025-26,wbball,Merchant Marine,Jaden Lodice,0,*,03,31,30,54,141,22,74,34,14,144,3,44,78,926,45,85,130,58,0,65,0,0,0.38,0.30,0.41,4.65,4.19,2.52,1.42,0.10
+skyline_conference,Skyline Conference,2025-26,wbball,Merchant Marine,Sydney Brown,0,0,04,30,0,20,81,7,37,2,2,49,2,10,20,322,7,42,49,3,0,14,0,0,0.25,0.19,1.00,1.63,1.63,0.67,0.33,0.07
+skyline_conference,Skyline Conference,2025-26,wbball,Merchant Marine,Tatum Carney,0,0,15,31,0,34,113,6,22,11,5,79,0,28,52,435,24,50,74,27,0,59,0,0,0.30,0.27,0.45,2.55,2.39,1.68,0.90,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Merchant Marine,Cevyn Crutcher,0,0,20,23,5,21,84,0,2,24,8,50,2,12,28,462,25,60,85,34,0,30,0,0,0.25,0.00,0.33,2.17,3.70,1.22,0.52,0.09
+skyline_conference,Skyline Conference,2025-26,wbball,Merchant Marine,Lilly Smeltzer,0,0,21,17,0,12,27,0,0,14,6,30,1,7,6,131,13,29,42,13,0,15,0,0,0.44,0.00,0.43,1.76,2.47,0.35,0.41,0.06
+skyline_conference,Skyline Conference,2025-26,wbball,Merchant Marine,Hannah Ramsden,0,*,23,31,30,163,382,63,179,41,35,424,10,64,103,987,39,79,118,56,0,77,0,0,0.43,0.35,0.85,13.68,3.81,3.32,2.06,0.32
+skyline_conference,Skyline Conference,2025-26,wbball,Merchant Marine,Emily Grasseler,0,*,33,31,30,220,492,1,4,120,89,530,23,56,72,953,118,205,323,59,0,92,0,0,0.45,0.25,0.74,17.10,10.42,2.32,1.81,0.74
+skyline_conference,Skyline Conference,2025-26,wbball,Merchant Marine,Breanna Sommers,0,*,34,31,31,120,285,39,107,25,18,297,16,50,86,897,82,84,166,36,0,93,0,0,0.42,0.36,0.72,9.58,5.35,2.77,1.61,0.52
+skyline_conference,Skyline Conference,2025-26,wbball,Merchant Marine,Carolae Barton,0,*,44,30,29,233,374,0,1,142,105,571,89,45,84,787,123,240,363,68,0,66,2,0,0.62,0.00,0.74,19.03,12.10,2.80,1.50,2.97
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"Mangan,Kaitlyn",0,G,00,23,0,23,54,2,12,24,14,62,0,15,32,204,4,30,34,13,0,8,0,0,0.43,0.17,0.58,2.70,1.48,1.39,0.65,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"Ford,Ryan",0,G,01,11,0,8,16,0,0,14,13,29,0,4,7,65,11,9,20,3,0,6,0,0,0.50,0.00,0.93,2.64,1.82,0.64,0.36,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"Avila,Aubry",0,G,02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"Boston,Aniyah",0,G,03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"DeBrocky,Julie",0,G,04,27,27,119,278,67,176,19,16,321,9,38,41,923,43,109,152,54,0,46,0,0,0.43,0.38,0.84,11.89,5.63,1.52,1.41,0.33
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"Tucker,Gabby",0,G,05,27,27,122,337,27,86,75,41,312,7,72,117,951,17,82,99,56,0,64,0,0,0.36,0.31,0.55,11.56,3.67,4.33,2.67,0.26
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"O'Mara,Kathleen",0,F,10,24,16,96,202,0,0,34,21,213,34,62,57,612,48,85,133,65,0,49,1,0,0.48,0.00,0.62,8.88,5.54,2.38,2.58,1.42
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"Ramos,Esther",0,F,12,27,27,173,351,22,56,60,43,411,4,46,47,888,56,123,179,49,0,62,0,0,0.49,0.39,0.72,15.22,6.63,1.74,1.70,0.15
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"Janvier,Jada",0,F,21,7,0,4,9,0,0,4,4,12,0,2,3,29,0,4,4,6,0,1,0,0,0.44,0.00,1.00,1.71,0.57,0.43,0.29,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"Orlando,Amanda",0,G,22,27,27,109,260,13,55,91,60,291,3,68,82,787,32,59,91,59,0,51,0,0,0.42,0.24,0.66,10.78,3.37,3.04,2.52,0.11
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"Russom,Molly",0,F,23,25,11,25,68,2,8,17,13,65,15,10,26,290,23,30,53,38,0,33,0,0,0.37,0.25,0.76,2.60,2.12,1.04,0.40,0.60
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"March,Charlotte",0,G,24,16,0,9,29,5,20,4,2,25,1,3,6,115,1,12,13,10,0,5,0,0,0.31,0.25,0.50,1.56,0.81,0.38,0.19,0.06
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"Malone,Taylor",0,G,25,13,0,7,23,1,12,4,2,17,4,6,5,78,1,5,6,14,0,6,0,0,0.30,0.08,0.50,1.31,0.46,0.38,0.46,0.31
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"Velazquez,Maia",0,F,30,25,0,24,53,0,3,15,12,60,8,19,24,294,23,36,59,28,0,14,0,0,0.45,0.00,0.80,2.40,2.36,0.96,0.76,0.32
+skyline_conference,Skyline Conference,2025-26,wbball,Manhattanville,"Carlo,Madison",0,G,33,24,0,34,84,21,60,9,6,95,1,4,13,164,1,15,16,18,0,12,0,0,0.40,0.35,0.67,3.96,0.67,0.54,0.17,0.04
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"Walker,Jaelynn",0,F,00,15,0,13,29,0,0,15,10,36,4,10,5,129,13,17,30,13,0,8,0,0,0.45,0.00,0.67,2.40,2.00,0.33,0.67,0.27
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"Frias,Keira",0,G,01,24,7,55,171,33,126,10,5,148,3,17,29,534,23,29,52,32,0,25,0,0,0.32,0.26,0.50,6.17,2.17,1.21,0.71,0.13
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"Trinkaus,Margaret",0,G,03,25,25,109,241,11,29,98,69,298,28,45,55,704,54,147,201,65,0,66,1,0,0.45,0.38,0.70,11.92,8.04,2.20,1.80,1.12
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"Mayer,Reese",0,G,04,27,27,62,154,5,22,87,70,199,1,42,110,838,19,95,114,49,0,69,0,0,0.40,0.23,0.80,7.37,4.22,4.07,1.56,0.04
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"Lopez,Jenny",0,G,05,10,0,6,17,3,10,4,2,17,0,6,4,107,7,18,25,16,0,14,1,0,0.35,0.30,0.50,1.70,2.50,0.40,0.60,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"Ziegenbalg,Gabby",0,G,10,27,2,66,184,52,141,20,16,200,0,23,20,456,8,25,33,21,0,33,0,0,0.36,0.37,0.80,7.41,1.22,0.74,0.85,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"Cashin,Sara",0,F,12,28,28,105,271,6,29,83,55,271,16,35,40,830,60,107,167,50,0,49,0,0,0.39,0.21,0.66,9.68,5.96,1.43,1.25,0.57
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"Christie,Grace",0,,21,20,0,16,59,7,30,2,2,41,1,6,11,207,9,19,28,21,0,14,0,0,0.27,0.23,1.00,2.05,1.40,0.55,0.30,0.05
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"Donato,Angelina",0,G,22,22,22,52,144,15,49,68,48,167,3,34,92,565,20,51,71,40,0,69,1,0,0.36,0.31,0.71,7.59,3.23,4.18,1.55,0.14
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"Guglielmo,Brianna",0,F,23,26,26,139,336,40,120,108,80,398,2,59,57,859,53,131,184,48,1,48,1,0,0.41,0.33,0.74,15.31,7.08,2.19,2.27,0.08
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"DeBenedittis,Darcy",0,F,24,20,0,18,49,0,3,22,11,47,1,7,7,196,25,28,53,31,1,20,0,0,0.37,0.00,0.50,2.35,2.65,0.35,0.35,0.05
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"Orbon,Ava",0,G,25,9,0,1,9,1,7,2,1,4,1,2,8,62,0,10,10,7,0,2,0,0,0.11,0.14,0.50,0.44,1.11,0.89,0.22,0.11
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,"Kosic,Ysella",0,G,14,13,0,13,53,5,25,8,7,38,0,1,5,94,13,13,26,20,0,15,1,0,0.25,0.20,0.88,2.92,2.00,0.38,0.08,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Mary,Maggie Trinkaus,0,*,03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Yun,Perry",0,F,01,19,1,1,4,0,2,2,1,3,0,3,0,42,0,3,3,9,0,11,0,0,0.25,0.00,0.50,0.16,0.16,0.00,0.16,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Hudson,Gabby",0,G,02,25,25,141,313,2,26,98,69,353,3,40,85,834,32,131,163,35,0,105,1,0,0.45,0.08,0.70,14.12,6.52,3.40,1.60,0.12
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Pape,Samantha",0,F,03,18,0,6,19,0,0,4,2,14,2,1,4,110,4,12,16,11,0,9,0,0,0.32,0.00,0.50,0.78,0.89,0.22,0.06,0.11
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Theriault,Sarah",0,G,05,26,25,170,337,9,40,105,80,429,4,49,81,779,80,114,194,68,0,93,3,0,0.50,0.23,0.76,16.50,7.46,3.12,1.88,0.15
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Moor,Madeline",0,G,10,6,0,1,3,0,1,0,0,2,0,0,0,15,0,4,4,1,0,1,0,0,0.33,0.00,0.00,0.33,0.67,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Spanopoulos,Ariana",0,G,11,24,6,10,32,2,12,11,5,27,2,9,14,249,12,21,33,22,0,23,0,0,0.31,0.17,0.45,1.13,1.38,0.58,0.38,0.08
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Coughlin,Colleen",0,G,12,24,24,82,231,36,112,22,14,214,3,27,65,698,10,66,76,53,0,42,0,0,0.35,0.32,0.64,8.92,3.17,2.71,1.13,0.13
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Mattison,Audrey",0,G,13,23,1,18,47,11,30,2,0,47,1,3,10,263,8,8,16,17,0,11,0,0,0.38,0.37,0.00,2.04,0.70,0.43,0.13,0.04
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Kol-Balfour,Anastasia",0,G,14,16,0,2,6,1,2,2,2,7,0,2,3,58,3,4,7,7,0,15,0,0,0.33,0.50,1.00,0.44,0.44,0.19,0.13,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Pierre,Gladys",0,F,15,5,0,1,2,0,0,1,1,3,0,0,0,15,1,1,2,0,0,0,0,0,0.50,0.00,1.00,0.60,0.40,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Moore,Jersana",0,G,21,22,3,36,106,6,22,47,20,98,1,24,33,360,11,36,47,48,0,56,1,0,0.34,0.27,0.43,4.45,2.14,1.50,1.09,0.05
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Pedraza,Emrie",0,G,22,11,2,5,33,5,26,0,0,15,0,3,9,179,3,19,22,9,0,9,0,0,0.15,0.19,0.00,1.36,2.00,0.82,0.27,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Eng-Stewart,Jade Ling",0,G,24,22,17,110,285,24,97,42,29,273,13,43,41,701,48,67,115,36,0,54,0,0,0.39,0.25,0.69,12.41,5.23,1.86,1.95,0.59
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Stayton,Darby",0,F,30,15,0,7,19,0,0,7,3,17,2,1,4,122,9,18,27,20,0,13,0,0,0.37,0.00,0.43,1.13,1.80,0.27,0.07,0.13
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Kanter-Goodell,Miriam",0,G,32,4,0,1,2,1,2,0,0,3,0,1,0,14,0,0,0,2,0,2,0,0,0.50,0.50,0.00,0.75,0.00,0.00,0.25,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Dorch,Kaila",0,C,35,26,26,70,160,3,10,39,19,162,24,19,12,586,62,101,163,80,0,42,0,0,0.44,0.30,0.49,6.23,6.27,0.46,0.73,0.92
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Stephens,Kendall",0,F,40,26,0,13,43,0,0,29,12,38,3,8,5,169,18,49,67,25,1,21,0,0,0.30,0.00,0.41,1.46,2.58,0.19,0.31,0.12
+skyline_conference,Skyline Conference,2025-26,wbball,Sarah Lawrence,"Kent,Josie",0,G,98,3,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Vila Marti,Judith",0,G,01,25,13,43,147,11,58,15,8,105,2,38,50,489,13,40,53,27,0,50,0,0,0.29,0.19,0.53,4.20,2.12,2.00,1.52,0.08
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Perez,Mercedes",0,G,02,25,25,156,399,84,227,73,53,449,7,48,80,815,20,109,129,60,3,120,1,0,0.39,0.37,0.73,17.96,5.16,3.20,1.92,0.28
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Sanchez,Domenika",0,G,03,23,9,24,94,4,29,14,10,62,0,12,30,320,5,19,24,23,0,42,0,0,0.26,0.14,0.71,2.70,1.04,1.30,0.52,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Lara,Avril",0,G,04,5,0,3,13,0,3,4,4,10,0,2,1,43,4,9,13,8,0,11,1,0,0.23,0.00,1.00,2.00,2.60,0.20,0.40,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Cinque,Gabriella",0,F,05,24,1,16,48,0,0,23,16,48,6,8,9,297,23,29,52,31,0,12,0,0,0.33,0.00,0.70,2.00,2.17,0.38,0.33,0.25
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Dominguez,Lindsay",0,G,10,6,0,6,14,1,5,2,0,13,0,4,3,46,4,6,10,4,0,3,0,0,0.43,0.20,0.00,2.17,1.67,0.50,0.67,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Donovan,Kristen",0,G,11,25,25,104,274,60,182,35,28,296,15,55,59,805,21,97,118,47,0,54,1,0,0.38,0.33,0.80,11.84,4.72,2.36,2.20,0.60
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Barrios,Katherine",0,G,12,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Chan-Clayton,Jasmine",0,G,13,23,0,36,123,28,89,7,7,107,0,10,17,315,5,13,18,21,0,30,0,0,0.29,0.31,1.00,4.65,0.78,0.74,0.43,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Velazquez,Jizelle",0,G,14,16,0,9,44,0,23,8,6,24,0,10,7,109,5,2,7,23,0,10,0,0,0.20,0.00,0.75,1.50,0.44,0.44,0.63,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Telford,Aaniya",0,G,20,25,3,31,91,9,30,43,31,102,3,36,21,327,29,38,67,57,1,32,2,0,0.34,0.30,0.72,4.08,2.68,0.84,1.44,0.12
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Grech,Nikki",0,F,21,25,25,76,217,2,9,76,43,197,13,29,30,727,97,119,216,56,0,57,3,0,0.35,0.22,0.57,7.88,8.64,1.20,1.16,0.52
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Mack,Tyrah",0,C,23,17,0,8,16,0,0,0,0,16,2,6,1,95,8,27,35,30,0,16,2,0,0.50,0.00,0.00,0.94,2.06,0.06,0.35,0.12
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Brooklyn,"Centrella,Emma",0,F,24,25,24,84,205,0,3,34,19,187,11,20,37,611,91,116,207,61,0,42,2,0,0.41,0.00,0.56,7.48,8.28,1.48,0.80,0.44
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Amenta,Brianna",0,G,01,27,5,62,214,25,111,46,35,184,1,37,38,564,21,40,61,52,0,45,0,0,0.29,0.23,0.76,6.81,2.26,1.41,1.37,0.04
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Allen,Samyah",0,F,02,27,23,109,276,1,5,49,36,255,40,24,47,721,29,91,120,43,0,50,2,0,0.39,0.20,0.73,9.44,4.44,1.74,0.89,1.48
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Barrett,Leyla",0,G,04,7,0,3,19,3,19,0,0,9,0,0,1,45,2,0,2,6,0,5,0,0,0.16,0.16,0.00,1.29,0.29,0.14,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Lloyd,Anayah",0,G,05,27,2,18,71,0,7,8,5,41,1,25,29,337,21,34,55,31,0,37,0,0,0.25,0.00,0.63,1.52,2.04,1.07,0.93,0.04
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Koprowski,Julia",0,G,10,9,0,2,18,0,4,2,0,4,0,3,2,46,4,3,7,6,0,8,0,0,0.11,0.00,0.00,0.44,0.78,0.22,0.33,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Parker,Shyann",0,G,12,27,27,87,212,1,7,98,63,238,7,59,112,832,90,112,202,94,0,102,5,0,0.41,0.14,0.64,8.81,7.48,4.15,2.19,0.26
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Phillips,Nia",0,G,14,23,0,7,34,1,4,12,6,21,0,7,9,140,4,17,21,14,0,16,0,0,0.21,0.25,0.50,0.91,0.91,0.39,0.30,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Simmons,Mia",0,G,20,25,23,112,308,24,93,54,37,285,4,38,32,761,30,61,91,48,0,59,0,0,0.36,0.26,0.69,11.40,3.64,1.28,1.52,0.16
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Tsiforas,Emily",0,G,24,27,27,86,249,14,49,44,26,212,19,49,31,734,44,96,140,61,0,40,1,0,0.35,0.29,0.59,7.85,5.19,1.15,1.81,0.70
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Walbroehl,Alexandria",0,F,31,27,26,104,321,0,0,110,78,286,25,32,6,674,130,120,250,55,0,39,1,0,0.32,0.00,0.71,10.59,9.26,0.22,1.19,0.93
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Ntambwe,Allison",0,C,32,22,0,24,70,0,0,15,4,52,22,6,6,225,20,39,59,18,0,22,0,0,0.34,0.00,0.27,2.36,2.68,0.27,0.27,1.00
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Henry,Alana",0,F,11,23,1,30,101,3,13,32,21,84,12,14,10,286,27,47,74,24,0,40,0,0,0.30,0.23,0.66,3.65,3.22,0.43,0.61,0.52
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Hoffman,Olivia",0,F,13,1,0,0,2,0,2,0,0,0,0,0,1,7,1,1,2,0,0,0,0,0,0.00,0.00,0.00,0.00,2.00,1.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Feingold,Kelsie",0,G,15,9,1,3,8,0,0,2,2,8,0,2,1,24,0,3,3,1,0,4,0,0,0.38,0.00,1.00,0.89,0.33,0.11,0.22,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Harris,Giselle",0,G,22,1,0,0,1,0,1,0,0,0,1,2,1,4,1,1,2,0,0,1,0,0,0.00,0.00,0.00,0.00,2.00,1.00,2.00,1.00
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Wooden,Taneece",0,F,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Farmingdale State,"Gordon,Kayla",0,G,03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Joseph,Eden",0,G,00,9,0,2,14,0,6,4,1,5,0,6,0,48,3,4,7,6,0,9,0,0,0.14,0.00,0.25,0.56,0.78,0.00,0.67,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Giles,Charlize",0,G,01,23,0,16,55,2,12,28,21,55,5,28,16,175,14,26,40,27,0,32,0,0,0.29,0.17,0.75,2.39,1.74,0.70,1.22,0.22
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Martinez-Gomez,Jaileen",0,G,02,12,0,2,9,0,0,10,5,9,0,4,3,63,6,4,10,4,0,8,0,0,0.22,0.00,0.50,0.75,0.83,0.25,0.33,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Allgood,KyAni",0,F,03,3,1,9,17,0,0,4,3,21,2,6,1,37,7,8,15,3,0,2,0,0,0.53,0.00,0.75,7.00,5.00,0.33,2.00,0.67
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Schmidt,Kelly",0,G,04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Steiner,Kaylena",0,G,05,21,19,35,94,12,29,21,12,94,0,27,30,368,23,43,66,47,0,35,1,0,0.37,0.41,0.57,4.48,3.14,1.43,1.29,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Greaige,Halle",0,G,10,21,17,54,134,18,53,31,21,147,1,23,25,417,25,61,86,32,0,45,0,0,0.40,0.34,0.68,7.00,4.10,1.19,1.10,0.05
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Neb,Charlee",0,G,11,25,25,82,272,28,121,93,75,267,4,57,66,760,12,72,84,65,0,105,2,0,0.30,0.23,0.81,10.68,3.36,2.64,2.28,0.16
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Argenzio,Kathryn",0,G,13,25,1,44,150,28,101,9,7,123,2,23,19,399,5,23,28,35,1,43,0,0,0.29,0.28,0.78,4.92,1.12,0.76,0.92,0.08
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Cosbert,Tamara",0,G,15,18,0,17,59,1,6,30,16,51,1,17,23,227,3,21,24,31,0,64,0,0,0.29,0.17,0.53,2.83,1.33,1.28,0.94,0.06
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Larsen,Kendall",0,G,20,25,25,30,123,9,48,7,2,71,2,17,20,486,20,54,74,24,0,65,0,0,0.24,0.19,0.29,2.84,2.96,0.80,0.68,0.08
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Mccray,Jamyra",0,G,21,25,2,39,127,16,54,44,31,125,3,38,22,406,18,49,67,29,1,41,0,0,0.31,0.30,0.70,5.00,2.68,0.88,1.52,0.12
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Santiago,Ashley",0,G,22,24,4,39,108,7,27,27,16,101,10,23,24,313,29,74,103,38,0,59,0,0,0.36,0.26,0.59,4.21,4.29,1.00,0.96,0.42
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Patten,Tianna",0,F,23,22,7,87,158,6,16,117,91,271,10,46,11,397,33,63,96,52,0,41,4,0,0.55,0.38,0.78,12.32,4.36,0.50,2.09,0.45
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Nieves,Chloe",0,F,25,25,0,30,74,0,0,27,15,75,9,11,4,244,28,34,62,38,0,22,1,0,0.41,0.00,0.56,3.00,2.48,0.16,0.44,0.36
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Mahabeir,Amyrrah",0,F,30,23,2,8,26,0,0,0,0,16,1,8,3,206,7,18,25,20,0,18,0,0,0.31,0.00,0.00,0.70,1.09,0.13,0.35,0.04
+skyline_conference,Skyline Conference,2025-26,wbball,Purchase,"Sivaramakrishnan,Tvisha",0,F,33,25,22,32,109,1,7,21,3,68,52,16,19,479,24,76,100,41,0,41,1,0,0.29,0.14,0.14,2.72,4.00,0.76,0.64,2.08
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Errichiello,Valentina",0,,00,8,0,2,3,0,0,0,0,4,0,0,5,24,1,2,3,0,0,6,0,0,0.67,0.00,0.00,0.50,0.38,0.63,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Giacinto,Grace",0,,01,19,5,35,99,6,24,25,14,90,3,31,36,324,16,39,55,42,0,60,2,0,0.35,0.25,0.56,4.74,2.89,1.89,1.63,0.16
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Zephirin,Alissa",0,,02,10,0,5,9,0,0,2,1,11,0,2,1,45,2,3,5,4,0,8,0,0,0.56,0.00,0.50,1.10,0.50,0.10,0.20,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Zephirin,Alexa",0,,03,22,0,21,58,0,2,31,14,56,1,13,10,221,10,29,39,22,0,34,0,0,0.36,0.00,0.45,2.55,1.77,0.45,0.59,0.05
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"McLean,Kyla",0,G,04,22,11,12,55,0,3,34,14,38,1,18,17,289,27,32,59,33,0,27,0,0,0.22,0.00,0.41,1.73,2.68,0.77,0.82,0.05
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Marcos,Sofia",0,F,10,7,1,3,11,1,5,0,0,7,1,4,3,42,7,5,12,3,0,6,0,0,0.27,0.20,0.00,1.00,1.71,0.43,0.57,0.14
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Dutzer,Olivia",0,G,11,15,3,5,28,4,15,5,3,17,1,9,12,149,12,20,32,14,0,18,0,0,0.18,0.27,0.60,1.13,2.13,0.80,0.60,0.07
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Angeles,Julia",0,G,13,24,21,47,140,1,15,26,17,112,11,30,39,565,44,85,129,70,0,53,2,0,0.34,0.07,0.65,4.67,5.38,1.63,1.25,0.46
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Shalor,Hailey",0,,14,19,0,13,44,5,24,4,3,34,0,5,13,142,8,11,19,11,0,16,0,0,0.30,0.21,0.75,1.79,1.00,0.68,0.26,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Baker,Gretta",0,G,20,4,4,15,48,8,19,8,6,44,1,4,4,100,4,11,15,5,0,20,0,0,0.31,0.42,0.75,11.00,3.75,1.00,1.00,0.25
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Marrocco,Ashley",0,,21,23,11,55,175,37,130,23,12,159,2,25,14,407,14,29,43,24,0,25,0,0,0.31,0.28,0.52,6.91,1.87,0.61,1.09,0.09
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Madalakis,Sophia",0,,22,11,0,13,23,0,0,8,5,31,1,1,3,72,11,9,20,9,0,3,0,0,0.57,0.00,0.63,2.82,1.82,0.27,0.09,0.09
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Burnett,AB",0,,24,24,13,20,69,9,38,11,8,57,1,9,25,343,16,27,43,27,0,63,0,0,0.29,0.24,0.73,2.38,1.79,1.04,0.38,0.04
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Ligon,Michaela",0,G,25,19,13,49,129,4,19,48,36,138,7,19,18,468,42,66,108,51,0,38,2,0,0.38,0.21,0.75,7.26,5.68,0.95,1.00,0.37
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Tucker,Lexi",0,G,32,8,1,3,5,0,0,2,1,7,0,1,2,46,6,5,11,7,0,1,0,0,0.60,0.00,0.50,0.88,1.38,0.25,0.13,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Green,Nailea",0,F,33,22,12,53,142,0,0,67,32,138,6,16,8,437,49,99,148,52,0,64,1,0,0.37,0.00,0.48,6.27,6.73,0.36,0.73,0.27
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Mulvey,Casey",0,F,34,3,0,0,2,0,0,0,0,0,1,1,2,8,0,2,2,1,0,2,0,0,0.00,0.00,0.00,0.00,0.67,0.67,0.33,0.33
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Escobinas,Angelina",0,,35,24,12,46,147,18,60,30,18,128,1,32,55,540,16,40,56,48,0,71,1,0,0.31,0.30,0.60,5.33,2.33,2.29,1.33,0.04
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Salon,Caily",0,,42,6,0,8,14,0,0,3,2,18,0,0,3,27,2,5,7,3,0,4,0,0,0.57,0.00,0.67,3.00,1.17,0.50,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Kennedy,Grace",0,,15,20,18,86,226,19,76,58,39,230,2,27,59,578,19,104,123,26,0,56,1,0,0.38,0.25,0.67,11.50,6.15,2.95,1.35,0.10
+skyline_conference,Skyline Conference,2025-26,wbball,Mount Saint Vincent,"Henry,Jadamarie",0,,23,20,0,26,74,0,1,16,6,58,9,6,4,173,20,25,45,14,0,16,0,0,0.35,0.00,0.38,2.90,2.25,0.20,0.30,0.45
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Lebron,Isabelle",0,G,01,27,27,67,274,39,180,38,24,197,1,31,41,728,7,38,45,34,0,71,0,0,0.24,0.22,0.63,7.30,1.67,1.52,1.15,0.04
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Madrigal,Alexandria",0,G,02,14,0,4,20,0,5,4,2,10,1,5,4,81,4,2,6,11,0,9,0,0,0.20,0.00,0.50,0.71,0.43,0.29,0.36,0.07
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Eichner,Kallie",0,G,03,27,27,67,188,29,84,42,24,187,1,54,105,892,20,58,78,28,0,88,0,0,0.36,0.35,0.57,6.93,2.89,3.89,2.00,0.04
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Carmody,Alexa",0,G,13,10,0,1,12,1,9,2,0,3,1,4,2,55,3,5,8,2,0,9,0,0,0.08,0.11,0.00,0.30,0.80,0.20,0.40,0.10
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Erdman,Megan",0,G,14,12,0,8,29,2,12,4,1,19,1,4,0,77,8,9,17,6,0,6,0,0,0.28,0.17,0.25,1.58,1.42,0.00,0.33,0.08
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Dellaporta,Addison",0,G,15,27,3,47,136,10,41,27,16,120,3,34,22,523,39,52,91,26,0,43,0,0,0.35,0.24,0.59,4.44,3.37,0.81,1.26,0.11
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Larbi,Chantelle",0,F,20,27,24,72,142,0,0,48,16,160,14,58,30,771,126,134,260,59,0,49,0,0,0.51,0.00,0.33,5.93,9.63,1.11,2.15,0.52
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Locke,Paige",0,F,21,6,0,2,7,0,0,2,2,6,1,2,2,36,3,5,8,2,0,6,0,0,0.29,0.00,1.00,1.00,1.33,0.33,0.33,0.17
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Kirschenheuter,Jaylnn",0,G,22,2,0,2,4,0,2,0,0,4,0,0,0,9,0,1,1,3,0,1,0,0,0.50,0.00,0.00,2.00,0.50,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Andreacchi,Gabriella",0,G,23,23,21,69,248,28,113,85,42,208,14,32,31,697,72,118,190,54,0,69,1,0,0.28,0.25,0.49,9.04,8.26,1.35,1.39,0.61
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Vitale,Rebecca",0,G,24,19,3,30,113,26,95,9,6,92,1,30,16,350,7,24,31,12,0,12,0,0,0.27,0.27,0.67,4.84,1.63,0.84,1.58,0.05
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Barone,Madelyn",0,F,25,26,26,140,377,10,32,117,90,380,11,48,48,775,50,92,142,69,0,124,1,0,0.37,0.31,0.77,14.62,5.46,1.85,1.85,0.42
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Williams,Norah",0,F,30,27,2,20,67,0,4,31,13,53,0,32,14,346,56,59,115,47,0,29,1,0,0.30,0.00,0.42,1.96,4.26,0.52,1.19,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"Hansen,Sarah",0,F,32,17,0,8,18,0,0,5,3,19,1,7,7,104,16,12,28,13,0,11,0,0,0.44,0.00,0.60,1.12,1.65,0.41,0.41,0.06
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"MADRIGAL, Alexandra",0,0,2,2,0,0,0,0,0,4,0,0,0,2,0,8,0,0,0,0,0,2,0,0,0.00,0.00,0.00,0.00,0.00,0.00,1.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,St. Joseph's-Long Island,"ANDREACCHI,Gabrielle",0,*,23,2,2,0,10,0,10,4,0,0,0,2,4,48,0,4,4,4,0,6,0,0,0.00,0.00,0.00,0.00,2.00,2.00,1.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Ashkenazi,Lauren",0,G,03,19,0,4,23,1,9,9,3,12,0,5,4,131,10,9,19,18,0,16,0,0,0.17,0.11,0.33,0.63,1.00,0.21,0.26,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Schwartz,Ilana",0,G,05,21,9,86,237,23,76,45,30,225,3,40,51,648,21,68,89,22,0,84,0,0,0.36,0.30,0.67,10.71,4.24,2.43,1.90,0.14
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Hullman,Lily",0,G,10,3,0,0,1,0,0,0,0,0,0,0,0,9,1,1,2,0,0,0,0,0,0.00,0.00,0.00,0.00,0.67,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Maly-Danker,Jasmin",0,G,11,23,15,37,124,18,64,26,17,109,1,16,24,531,8,39,47,31,0,52,0,0,0.30,0.28,0.65,4.74,2.04,1.04,0.70,0.04
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Amkraut,Simone",0,G,13,23,22,42,163,11,47,16,13,108,3,33,45,679,17,74,91,27,0,117,0,0,0.26,0.23,0.81,4.70,3.96,1.96,1.43,0.13
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Lurie,Sophia",0,F,15,8,0,2,16,0,10,4,3,7,1,2,1,74,2,10,12,5,0,5,0,0,0.13,0.00,0.75,0.88,1.50,0.13,0.25,0.13
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Sigman,Naomi",0,G,20,23,23,118,358,38,122,80,52,326,9,30,61,766,39,150,189,45,0,113,0,0,0.33,0.31,0.65,14.17,8.22,2.65,1.30,0.39
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Leitner,Eliana",0,G,22,24,8,29,114,14,53,8,2,74,0,18,20,427,9,33,42,29,0,34,0,0,0.25,0.26,0.25,3.08,1.75,0.83,0.75,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Hanan,Fortune",0,C,23,22,18,59,175,0,0,52,30,148,63,24,33,587,78,112,190,60,0,49,2,0,0.34,0.00,0.58,6.73,8.64,1.50,1.09,2.86
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Zaretsky,Danielle",0,F,25,17,4,15,35,0,1,12,6,36,2,9,3,215,19,20,39,29,0,14,1,0,0.43,0.00,0.50,2.12,2.29,0.18,0.53,0.12
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Denti,Mia",0,G,30,2,0,1,3,0,0,2,1,3,0,1,0,15,2,3,5,1,0,2,0,0,0.33,0.00,0.50,1.50,2.50,0.00,0.50,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Rashty,Hannah",0,C,43,15,2,4,13,0,0,6,4,12,3,1,4,118,7,3,10,19,0,8,0,0,0.31,0.00,0.67,0.80,0.67,0.27,0.07,0.20
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Hagag,Shira",0,G,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Cohen,Tali",0,G,21,22,19,57,195,10,79,11,5,129,13,47,36,600,38,41,79,65,0,77,2,0,0.29,0.13,0.45,5.86,3.59,1.64,2.14,0.59
+skyline_conference,Skyline Conference,2025-26,wbball,Yeshiva,"Kagan,Jenny",0,G,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Medina Pena,Angelica",0,G,00,6,0,0,2,0,0,6,2,2,0,0,1,24,0,3,3,4,0,3,0,0,0.00,0.00,0.33,0.33,0.50,0.17,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Frazier,Makaylah",0,G,01,2,2,3,12,0,1,0,0,6,0,3,6,43,0,5,5,5,0,9,1,0,0.25,0.00,0.00,3.00,2.50,3.00,1.50,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Moore,Kyla",0,G,02,9,3,5,33,2,15,6,4,16,1,10,17,202,1,17,18,13,0,36,0,0,0.15,0.13,0.67,1.78,2.00,1.89,1.11,0.11
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Walker,Sonasia",0,G,03,22,15,19,97,0,10,36,17,55,3,35,10,648,14,35,49,52,0,71,1,0,0.20,0.00,0.47,2.50,2.23,0.45,1.59,0.14
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Davis,Briana",0,G,11,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Kone,Aissata",0,G,12,17,15,42,146,0,1,65,38,122,8,25,32,546,32,50,82,29,0,104,0,0,0.29,0.00,0.58,7.18,4.82,1.88,1.47,0.47
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Fowler,Thalia",0,F,13,12,6,23,82,6,24,21,14,66,6,15,15,281,15,34,49,24,0,21,1,0,0.28,0.25,0.67,5.50,4.08,1.25,1.25,0.50
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Lewis,Sakhmet",0,G,20,22,20,40,206,11,58,94,57,148,3,19,43,740,20,96,116,29,0,113,0,0,0.19,0.19,0.61,6.73,5.27,1.95,0.86,0.14
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Belizaire,Brianne",0,F,21,5,3,7,38,0,3,23,14,28,5,16,2,152,12,43,55,11,0,23,0,0,0.18,0.00,0.61,5.60,11.00,0.40,3.20,1.00
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"McCloud,Moneasia",0,F,23,18,5,19,45,0,0,16,9,47,2,4,4,224,14,26,40,4,0,12,0,0,0.42,0.00,0.56,2.61,2.22,0.22,0.22,0.11
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Coppola,Kasey",0,F,30,8,8,35,91,3,12,17,11,84,8,10,4,311,35,44,79,12,0,14,0,0,0.38,0.25,0.65,10.50,9.88,0.50,1.25,1.00
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,Brianna Belizaire,0,0,21,1,0,3,6,0,0,2,2,8,1,2,1,22,1,2,3,1,0,1,0,0,0.50,0.00,1.00,8.00,3.00,1.00,2.00,1.00
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Chappelle,Kayla",0,,00,10,7,11,39,4,18,4,1,27,0,7,4,252,0,16,16,10,0,13,0,0,0.28,0.22,0.25,2.70,1.60,0.40,0.70,0.00
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Plair,Korrina",0,,11,13,13,36,109,0,0,36,23,95,19,14,13,479,53,86,139,28,1,40,1,0,0.33,0.00,0.64,7.31,10.69,1.00,1.08,1.46
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Greene,Endya",0,G,32,13,13,96,299,24,102,70,42,258,7,43,23,446,15,66,81,28,0,48,0,0,0.32,0.24,0.60,19.85,6.23,1.77,3.31,0.54
+skyline_conference,Skyline Conference,2025-26,wbball,Old Westbury,"Doyle,Caragh",0,,21,8,0,0,0,0,0,0,0,0,0,0,0,30,0,2,2,4,0,1,0,0,0.00,0.00,0.00,0.00,0.25,0.00,0.00,0.00

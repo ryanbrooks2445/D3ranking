@@ -1,0 +1,148 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,attack_stats_hitting_pct,attack_stats_attempts,attack_stats_errors,attack_stats_kills,set_stats_assists,set_stats_errors,set_stats_attempts,set_stats_set_pct,serve_stats_aces,serve_stats_errors,serve_stats_attempts,serve_stats_serve_pct,defense_stats_defense_pct,defense_stats_attempts,defense_stats_receptions,defense_stats_digs,block_stats_total,block_stats_errors,block_stats_assists,block_stats_solos,misc_stats_points,misc_stats_ball_handling_errors,per_set_stats_kills,per_set_stats_assists,per_set_stats_digs,per_set_stats_blocks,per_set_stats_aces,per_set_stats_points
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Plumey, Lucas",0,,23,28,0,-1.000,4,4,0,0,0,1,0,3,6,65,0,0,3,0,5,1,0,1,0,3.5,0,0.00,0.00,0.18,0.04,0.11,0.13
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Stauffer, Conner",0,,15,104,1,.200,25,3,8,29,1,82,0,1,1,19,0,0,637,32,242,0,3,0,0,9,1,0.08,0.28,2.33,0.00,0.01,0.09
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Parks, Brayden",0,,5,54,5,.432,74,12,44,3,0,8,0,27,57,172,0,0,1,0,18,3,2,2,1,73,0,0.81,0.06,0.33,0.06,0.50,1.35
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Hamm, Jacob",0,,11,92,43,.290,372,67,175,8,3,33,0,0,0,6,0,0,0,0,27,40,6,39,1,195.5,1,1.90,0.09,0.29,0.43,0.00,2.13
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Givens, Ryan",0,,22,94,58,.429,366,38,195,3,2,28,0,32,64,234,0,0,1,1,30,75,4,59,16,272.5,0,2.07,0.03,0.32,0.80,0.34,2.90
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Kagoro, Alex",0,,4,98,59,.278,891,160,408,35,7,138,0,30,80,384,0,0,498,27,168,24,6,13,11,455.5,0,4.16,0.36,1.71,0.24,0.31,4.65
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Espenshade, Ethan",0,,7,14,2,.095,21,4,6,0,0,2,0,3,3,26,0,0,27,3,10,1,0,0,1,10,0,0.43,0.00,0.71,0.07,0.21,0.71
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Nixon, Jonathan",0,,10,19,2,.000,2,0,0,46,1,98,0,2,6,38,0,0,0,0,4,3,2,1,2,4.5,1,0.00,2.42,0.21,0.16,0.11,0.24
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Sharp, Brandon",0,,9,100,59,.478,113,5,59,1001,23,2038,0,8,19,432,0,0,11,2,183,54,9,46,8,98,1,0.59,10.01,1.83,0.54,0.08,0.98
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Graybill, Seth",0,,3,105,14,-.167,6,1,0,8,1,33,0,6,11,254,0,0,79,4,111,0,0,0,0,6,0,0.00,0.08,1.06,0.00,0.06,0.06
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Gillespie, Sean",0,,6,36,3,.176,91,19,35,5,0,25,0,6,29,105,0,0,63,1,26,4,0,3,1,43.5,0,0.97,0.14,0.72,0.11,0.17,1.21
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Eby, Jake",0,,18,26,4,.369,65,11,35,2,0,12,0,1,7,41,0,0,4,0,10,10,4,6,4,43,0,1.35,0.08,0.38,0.38,0.04,1.65
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"McConnell, Tyler",0,,8,101,59,.270,508,98,235,49,5,128,0,23,96,362,0,0,401,25,170,34,4,24,10,280,0,2.33,0.49,1.68,0.34,0.23,2.77
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Earhart, Ethan",0,,24,15,3,.294,34,7,17,0,0,0,0,1,3,18,0,0,0,0,2,4,0,2,2,21,1,1.13,0.00,0.13,0.27,0.07,1.40
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Snyder, Todd",0,,1,100,59,.378,294,41,152,6,2,24,0,22,96,346,0,0,4,0,35,78,9,60,18,222,0,1.52,0.06,0.35,0.78,0.22,2.22
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Rajnic, Seth",0,,12,12,0,.357,14,2,7,0,0,3,0,0,0,6,0,0,1,1,1,1,1,0,1,8,0,0.58,0.00,0.08,0.08,0.00,0.67
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Messiah,"Henseler, Cooper",0,,16,13,1,.167,6,0,1,63,1,133,0,1,5,37,0,0,1,0,11,0,0,0,0,2,0,0.08,4.85,0.85,0.00,0.08,0.15
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Ho, Phu-Quy",0,,5,51,0,.286,7,0,2,26,0,70,0,0,1,6,0,0,185,11,70,0,0,0,0,2,0,0.04,0.51,1.37,0.00,0.00,0.04
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Weirick, Carver",0,,11,43,13,.237,194,35,81,6,0,39,0,4,12,154,0,0,163,5,61,12,0,9,3,92.5,0,1.88,0.14,1.42,0.28,0.09,2.15
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Rogers, Brandon",0,,1,8,1,.360,25,4,13,0,0,0,0,0,0,1,0,0,0,0,4,6,0,6,0,16,0,1.63,0.00,0.50,0.75,0.00,2.00
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Knuckles, Jesse",0,,16,73,0,-.167,6,2,1,45,1,149,0,0,0,0,0,0,326,15,169,0,0,0,0,1,0,0.01,0.62,2.32,0.00,0.00,0.01
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Huyke, Sebastian",0,,17,82,32,.183,109,19,39,666,7,1482,0,11,38,370,0,0,2,2,182,24,4,23,1,62.5,0,0.48,8.12,2.22,0.29,0.13,0.76
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Sherman, Koby",0,,18,80,28,.335,620,93,301,4,2,31,0,9,35,150,0,0,7,0,77,48,4,37,11,339.5,1,3.76,0.05,0.96,0.60,0.11,4.24
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Christensen, Tyler",0,,23,66,7,.412,17,3,10,1,0,3,0,21,47,204,0,0,12,2,16,2,0,1,1,32.5,0,0.15,0.02,0.24,0.03,0.32,0.49
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Schmidt, Hunter",0,,30,30,16,.463,67,5,36,0,0,9,0,6,10,86,0,0,0,0,11,28,1,25,3,57.5,0,1.20,0.00,0.37,0.93,0.20,1.92
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Hoke, Tyler",0,,3,78,25,.439,221,10,107,5,1,28,0,4,4,162,0,0,8,0,21,62,2,53,9,146.5,0,1.37,0.06,0.27,0.79,0.05,1.88
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Bone, Phillip",0,,6,42,17,.187,193,36,72,9,3,42,0,10,26,132,0,0,210,14,87,7,4,6,1,86,0,1.71,0.21,2.07,0.17,0.24,2.05
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Herbst, Kevin",0,,10,46,8,.381,21,0,8,153,2,314,0,7,18,145,0,0,0,0,37,4,0,4,0,17,0,0.17,3.33,0.80,0.09,0.15,0.37
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Schmidt, Nick",0,,19,55,6,.167,12,1,3,194,2,479,0,8,18,179,0,0,2,0,64,0,1,0,0,11,0,0.05,3.53,1.16,0.00,0.15,0.20
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Schmid, Ryan",0,,12,49,6,.261,222,30,88,2,0,11,0,1,2,11,0,0,0,0,18,20,2,18,2,100,0,1.80,0.04,0.37,0.41,0.02,2.04
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Levandoske, Joshua",0,,13,60,24,.330,291,21,117,15,5,48,0,5,15,181,0,0,228,14,81,21,1,16,5,135,0,1.95,0.25,1.35,0.35,0.08,2.25
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Schmitt, Esteban",0,,22,50,20,.396,134,17,70,10,0,23,0,5,16,95,0,0,3,0,17,43,4,39,4,98.5,1,1.40,0.20,0.34,0.86,0.10,1.97
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Olcott, Alex",0,,21,71,26,.235,443,67,171,15,1,60,0,9,47,296,0,0,417,22,128,25,3,19,6,195.5,0,2.41,0.21,1.80,0.35,0.13,2.75
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Allen, Cade",0,,8,17,0,.305,59,9,27,3,1,9,0,3,3,14,0,0,2,1,9,5,2,4,1,33,0,1.59,0.18,0.53,0.29,0.18,1.94
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Bozarth, Quinn",0,,20,14,2,.400,10,0,4,61,0,135,0,1,3,32,0,0,0,0,5,3,1,3,0,6.5,0,0.29,4.36,0.36,0.21,0.07,0.46
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Freda Eskenazi, Ben",0,,29,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Heydorn, Bennett",0,,25,41,11,.201,169,40,74,4,1,16,0,13,12,49,0,0,29,0,17,9,4,7,2,92.5,0,1.80,0.10,0.41,0.22,0.32,2.26
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Li, Greg",0,,15,64,25,.397,184,22,95,14,1,47,0,10,25,224,0,0,4,0,32,43,4,35,8,130.5,1,1.48,0.22,0.50,0.67,0.16,2.04
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Rodz, Titus",0,,9,20,3,.387,31,5,17,7,0,23,0,2,4,21,0,0,53,1,31,0,1,0,0,19,1,0.85,0.35,1.55,0.00,0.10,0.95
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevens,"Ambrose, Dominic",0,,27,9,0,.400,5,1,3,1,0,4,0,0,0,9,0,0,18,1,8,1,0,1,0,3.5,0,0.33,0.11,0.89,0.11,0.00,0.39
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Piontkowski, Jared",0,,13,120,65,.290,1145,172,504,5,4,71,0,32,124,385,0,0,1,0,161,92,8,85,7,585.5,0,4.20,0.04,1.34,0.77,0.27,4.88
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"DeFrain, Gannon",0,,8,123,66,.131,107,17,31,1197,24,2762,0,24,51,603,0,0,14,2,215,43,2,39,4,78.5,7,0.25,9.73,1.75,0.35,0.20,0.64
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Albrecht, Matt",0,,25,123,1,.375,8,1,4,0,0,5,0,22,59,403,0,0,0,0,15,0,0,0,0,26,0,0.03,0.00,0.12,0.00,0.18,0.21
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Fehnel, Jackson",0,,4,124,29,.229,179,32,73,53,6,223,0,3,13,107,0,0,759,32,232,8,0,5,3,81.5,0,0.59,0.43,1.87,0.06,0.02,0.66
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Romeika, Logan",0,,9,63,19,.145,69,19,29,5,0,22,0,16,52,176,0,0,110,3,33,3,0,3,0,46.5,0,0.46,0.08,0.52,0.05,0.25,0.74
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Clendening, Benjamin",0,,6,114,64,.449,234,18,123,14,1,50,0,13,35,183,0,0,1,0,28,138,3,127,11,210.5,1,1.08,0.12,0.25,1.21,0.11,1.85
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Kozak, Joe",0,,33,108,49,.365,230,32,116,1,3,21,0,1,2,5,0,0,4,0,9,64,3,55,9,153.5,0,1.07,0.01,0.08,0.59,0.01,1.42
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Ragonese, Richie",0,,7,67,0,.000,2,1,1,9,0,34,0,5,12,90,0,0,179,8,62,0,0,0,0,6,0,0.01,0.13,0.93,0.00,0.07,0.09
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"George, Andrew",0,,21,12,3,.278,18,3,8,0,0,1,0,2,7,26,0,0,9,0,3,2,0,2,0,11,0,0.67,0.00,0.25,0.17,0.17,0.92
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"McGee, Connor",0,,16,9,0,.000,3,1,1,0,0,1,0,1,4,23,0,0,7,1,6,0,0,0,0,2,0,0.11,0.00,0.67,0.00,0.11,0.22
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Knoop, Tyler",0,,3,18,5,.267,30,4,12,0,0,8,0,3,7,38,0,0,2,1,2,10,0,10,0,20,0,0.67,0.00,0.11,0.56,0.17,1.11
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Stiles, Will",0,,5,7,0,.000,0,0,0,0,0,1,0,0,0,15,0,0,6,1,2,0,0,0,0,0,0,0.00,0.00,0.29,0.00,0.00,0.00
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Griffin, Isaac",0,,10,26,9,.542,59,3,35,1,0,3,0,0,0,5,0,0,2,0,4,11,2,10,1,41,0,1.35,0.04,0.15,0.42,0.00,1.58
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Drake, Isaac",0,,11,6,0,.348,23,4,12,0,0,1,0,0,3,5,0,0,9,1,0,2,1,2,0,13,0,2.00,0.00,0.00,0.33,0.00,2.17
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Breski, Peter",0,,17,13,4,.200,10,1,3,52,0,121,0,2,9,27,0,0,0,0,7,2,0,2,0,6,1,0.23,4.00,0.54,0.15,0.15,0.46
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Reen, Noah",0,,22,22,5,-.128,39,16,11,0,1,1,0,2,14,33,0,0,0,0,9,4,1,4,0,15,0,0.50,0.00,0.41,0.18,0.09,0.68
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"Young, Thomas",0,,24,88,36,.231,446,68,171,15,1,73,0,23,72,292,0,0,379,18,133,40,2,34,6,217,1,1.94,0.17,1.51,0.45,0.26,2.47
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,",",0,,15,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Misericordia,"DePalma, Anthony",0,,15,119,64,.288,910,124,386,46,5,202,0,43,123,488,0,0,787,27,196,59,4,54,5,461,1,3.24,0.39,1.65,0.50,0.36,3.87
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Flanagan,Tim",0,,2,80,41,.315,740,94,327,16,3,84,0,26,35,339,0,0,373,11,145,36,2,24,12,377,2,4.09,0.20,1.81,0.45,0.33,4.71
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Sledz,Jacob",0,,3,77,3,.333,39,6,19,9,1,34,0,19,54,216,0,0,140,4,39,2,0,0,2,40,0,0.25,0.12,0.51,0.03,0.25,0.52
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Hines,Doug",0,,4,43,15,.030,33,9,10,354,5,876,0,2,13,123,0,0,2,1,57,8,2,6,2,17,1,0.23,8.23,1.33,0.19,0.05,0.40
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Thenell,Ryan",0,,5,76,41,.194,558,112,220,7,1,49,0,16,47,276,0,0,4,1,138,32,8,30,2,253,0,2.89,0.09,1.82,0.42,0.21,3.33
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Laukhuff,Tanner",0,,6,29,8,.226,164,32,69,2,0,7,0,10,20,88,0,0,147,12,47,11,1,10,1,85,0,2.38,0.07,1.62,0.38,0.34,2.93
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Getteau,RC",0,,7,61,29,.277,148,25,66,3,0,11,0,0,1,10,0,0,6,1,10,40,7,33,7,89.5,0,1.08,0.05,0.16,0.66,0.00,1.47
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Bones,Jackson",0,,8,48,0,.000,1,0,0,0,0,6,0,7,33,135,0,0,17,2,21,0,0,0,0,7,0,0.00,0.00,0.44,0.00,0.15,0.15
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Trouteaud,Corwin",0,,9,68,37,.223,130,22,51,6,2,21,0,4,7,94,0,0,2,2,16,52,1,39,13,87.5,0,0.75,0.09,0.24,0.76,0.06,1.29
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Farrell,Brian",0,,10,18,6,.242,62,16,31,0,0,4,0,2,4,32,0,0,0,0,9,17,0,12,5,44,0,1.72,0.00,0.50,0.94,0.11,2.44
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"DeRubertis,Adam",0,,11,49,4,.182,44,12,20,0,1,4,0,23,26,211,0,0,35,0,28,1,0,1,0,43.5,0,0.41,0.00,0.57,0.02,0.47,0.89
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Simon,Lance",0,,12,12,0,.000,0,0,0,3,0,7,0,0,1,6,0,0,32,2,20,0,0,0,0,0,0,0.00,0.25,1.67,0.00,0.00,0.00
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Dietrich,Kyle",0,,14,18,2,.000,0,0,0,0,0,5,0,2,6,65,0,0,7,0,9,0,0,0,0,2,0,0.00,0.00,0.50,0.00,0.11,0.11
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Roth,Connor",0,,16,48,27,.097,31,6,9,439,14,1076,0,13,30,168,0,0,2,2,44,7,0,6,1,26,0,0.19,9.15,0.92,0.15,0.27,0.54
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Sawyers,Adam",0,,17,42,18,.160,94,22,37,3,0,9,0,0,1,2,0,0,4,1,8,28,2,26,2,52,0,0.88,0.07,0.19,0.67,0.00,1.24
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Pezzino,Anthony",0,,18,63,33,.139,459,107,171,12,1,39,0,5,31,199,0,0,407,15,126,25,2,22,3,190,0,2.71,0.19,2.00,0.40,0.08,3.02
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Sarmuksnis,JD",0,,19,67,0,.000,7,1,1,28,2,93,0,0,0,0,0,0,378,21,142,0,0,0,0,1,0,0.01,0.42,2.12,0.00,0.00,0.01
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Kouchoukos,Kevin",0,,21,15,3,.000,10,2,2,80,2,105,0,5,12,53,0,0,0,0,7,3,0,2,1,9,0,0.13,5.33,0.47,0.20,0.33,0.60
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,"Grove,Ben",0,,23,11,2,.273,33,9,18,0,0,1,0,0,0,0,0,0,1,0,0,8,0,7,1,22.5,1,1.64,0.00,0.00,0.73,0.00,2.05
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Stevenson,",",0,,18,0,1,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Matchett, Josh",0,,14,87,36,.240,217,36,88,718,28,1647,0,22,75,285,0,0,21,3,100,58,7,52,6,142,4,1.01,8.25,1.15,0.67,0.25,1.63
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Christ, Matthew",0,,7,89,41,.357,639,80,308,13,2,54,0,46,66,422,0,0,37,8,139,38,4,33,5,375.5,1,3.46,0.15,1.56,0.43,0.52,4.22
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Martino, Michael",0,,20,95,42,.242,644,113,269,22,3,87,0,27,44,401,0,0,442,23,95,33,1,28,5,315,1,2.83,0.23,1.00,0.35,0.28,3.32
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Stubbs, Kevin",0,,5,26,2,-.065,31,9,7,6,1,14,0,1,5,27,0,0,70,9,28,0,1,0,0,8,0,0.27,0.23,1.08,0.00,0.04,0.31
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Connelly, Brian",0,,10,15,0,.000,0,0,0,2,0,9,0,0,1,13,0,0,34,3,9,0,0,0,0,0,0,0.00,0.13,0.60,0.00,0.00,0.00
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Heist, Benjamin",0,,12,62,1,-.545,11,7,1,30,1,66,0,0,4,9,0,0,301,26,71,1,0,1,0,1.5,1,0.02,0.48,1.15,0.02,0.00,0.02
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Wannamaker, Christian",0,,1,80,36,.178,320,75,132,15,3,49,0,18,42,251,0,0,447,26,79,28,1,24,4,166,0,1.65,0.19,0.99,0.35,0.23,2.08
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Rivera, Izaiah",0,,2,31,4,.239,92,20,42,0,0,9,0,14,34,107,0,0,2,2,24,7,1,6,1,60,1,1.35,0.00,0.77,0.23,0.45,1.94
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Patel, Yavan",0,,8,12,2,.185,27,4,9,2,1,4,0,1,5,28,0,0,18,1,4,1,0,0,1,11,1,0.75,0.17,0.33,0.08,0.08,0.92
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Marquis, Stephen",0,,11,94,40,.375,288,43,151,12,0,30,0,18,88,349,0,0,5,0,43,84,2,70,14,218,0,1.61,0.13,0.46,0.89,0.19,2.32
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Massi, Kaden",0,,16,7,0,.000,1,0,0,0,0,4,0,0,0,0,0,0,24,3,2,0,0,0,0,0,0,0.00,0.00,0.29,0.00,0.00,0.00
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Loh, Edric",0,,19,9,0,.000,0,0,0,0,0,2,0,0,5,16,0,0,4,0,5,0,0,0,0,0,0,0.00,0.00,0.56,0.00,0.00,0.00
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Sandberg, Jason",0,,3,97,8,.147,34,6,11,177,7,404,0,35,89,312,0,0,22,4,42,10,1,10,0,51,0,0.11,1.82,0.43,0.10,0.36,0.53
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Njokanma, Anioma",0,,4,59,24,.289,90,18,44,2,1,12,0,1,2,10,0,0,1,0,15,46,5,40,6,71,0,0.75,0.03,0.25,0.78,0.02,1.20
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Edwards, Jarrett",0,,6,67,0,.000,2,0,0,14,1,52,0,0,1,5,0,0,279,20,76,0,0,0,0,0,0,0.00,0.21,1.13,0.00,0.00,0.00
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Akinwale, Josh",0,,13,52,22,.189,95,22,40,1,3,8,0,2,2,12,0,0,2,1,10,48,5,36,12,72,0,0.77,0.02,0.19,0.92,0.04,1.38
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Widener,"Reuther, Justin",0,,18,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Gonzalez, Danny",0,,3,91,64,.161,678,156,265,35,7,153,0,27,70,338,0,0,523,22,147,19,7,13,6,304.5,0,2.91,0.38,1.62,0.21,0.30,3.35
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Carr, Mike",0,,7,59,29,.189,238,56,101,6,2,20,0,11,57,146,0,0,117,5,37,35,1,29,6,132.5,0,1.71,0.10,0.63,0.59,0.19,2.25
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Birch, Cameron",0,,6,97,32,.167,186,33,64,20,3,138,0,5,7,116,0,0,495,14,222,14,1,9,5,78.5,1,0.66,0.21,2.29,0.14,0.05,0.81
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Kodidek, Riley",0,,9,94,68,.185,124,22,45,827,21,1995,0,25,98,356,0,0,15,3,212,41,2,35,6,93.5,1,0.48,8.80,2.26,0.44,0.27,0.99
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Clendening, Josh",0,,14,96,69,.220,650,95,238,11,2,44,0,34,72,332,0,0,15,1,105,49,2,40,9,301,0,2.48,0.11,1.09,0.51,0.35,3.14
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Johnson, Trevor",0,,5,22,1,.065,46,14,17,0,0,2,0,4,13,41,0,0,14,2,5,2,0,2,0,22,0,0.77,0.00,0.23,0.09,0.18,1.00
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Wacaster, Jayden",0,,27,32,8,.120,25,5,8,2,0,5,0,2,10,50,0,0,59,5,27,5,4,5,0,12.5,0,0.25,0.06,0.84,0.16,0.06,0.39
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Eisenlauer, John",0,,24,9,1,.125,8,1,2,28,2,89,0,1,2,20,0,0,0,0,4,5,0,4,1,6,0,0.22,3.11,0.44,0.56,0.11,0.67
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Elicio, Tucker",0,,16,99,69,.270,470,60,187,26,3,93,0,21,46,344,0,0,368,43,91,45,4,39,6,233.5,0,1.89,0.26,0.92,0.45,0.21,2.36
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Vasquez, Ellis",0,,12,40,25,.088,57,12,17,5,1,18,0,5,15,90,0,0,64,9,21,8,0,7,1,26.5,1,0.43,0.13,0.53,0.20,0.13,0.66
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"McCleery, Harrison",0,,11,7,0,.000,3,1,1,1,0,1,0,0,1,9,0,0,0,0,0,2,0,2,0,2,0,0.14,0.14,0.00,0.29,0.00,0.29
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Lee, Daniel",0,,10,4,0,.000,0,0,0,10,1,23,0,1,2,9,0,0,1,0,1,0,0,0,0,1,0,0.00,2.50,0.25,0.00,0.25,0.25
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Dodd, Reece",0,,1,80,48,.261,249,52,117,3,2,29,0,2,14,35,0,0,6,1,11,55,3,48,7,150,0,1.46,0.04,0.14,0.69,0.03,1.88
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Arcadia,"Valencia, John",0,,23,85,0,-.200,5,2,1,3,4,28,0,4,16,182,0,0,155,14,50,0,0,0,0,5,0,0.01,0.04,0.59,0.00,0.05,0.06
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Bagileo, Max",0,,2,99,17,.238,357,52,137,8,3,40,0,10,24,214,0,0,3,1,35,33,2,29,4,165.5,0,1.38,0.08,0.35,0.33,0.10,1.67
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Cash, Josiah",0,,7,97,39,.222,257,48,105,9,6,51,0,9,50,168,0,0,2,0,24,80,10,52,28,168,0,1.08,0.09,0.25,0.82,0.09,1.73
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Bushong, Max",0,,6,90,0,.214,14,0,3,37,0,154,0,0,0,0,0,0,486,25,172,0,0,0,0,3,0,0.03,0.41,1.91,0.00,0.00,0.03
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Tucholski, Connor",0,,12,97,39,.280,460,62,191,6,1,34,0,0,1,10,0,0,36,3,50,47,5,29,18,223.5,1,1.97,0.06,0.52,0.48,0.00,2.30
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Hrabosky, Josh",0,,24,91,0,.000,16,3,3,290,11,808,0,11,10,295,0,0,0,0,85,0,0,0,0,14,2,0.03,3.19,0.93,0.00,0.12,0.15
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Byrd, Symir",0,,3,93,37,.075,413,111,142,11,5,92,0,22,39,305,0,0,486,26,188,17,6,16,1,173,1,1.53,0.12,2.02,0.18,0.24,1.86
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Birkmire, Aaron",0,,1,29,1,-.333,6,2,0,61,1,173,0,3,6,47,0,0,0,0,12,0,0,0,0,3,2,0.00,2.10,0.41,0.00,0.10,0.10
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Ferreiro, Gustavo",0,,4,3,0,.000,0,0,0,0,0,1,0,0,0,0,0,0,6,0,7,0,0,0,0,0,0,0.00,0.00,2.33,0.00,0.00,0.00
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Younger, Tyler",0,,8,38,3,.164,73,19,31,3,1,16,0,10,20,87,0,0,95,7,29,7,1,5,2,45.5,1,0.82,0.08,0.76,0.18,0.26,1.20
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Wokocha, Kaodi",0,,11,99,40,.250,709,114,291,14,6,99,0,29,52,331,0,0,540,25,186,34,3,23,11,342.5,1,2.94,0.14,1.88,0.34,0.29,3.46
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Arvesen, Colby",0,,13,94,23,.124,274,63,97,6,4,35,0,15,54,160,0,0,19,1,32,47,1,37,10,140.5,1,1.03,0.06,0.34,0.50,0.16,1.49
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Kolstad, Kadin",0,,19,56,1,.030,33,8,9,29,1,59,0,13,28,125,0,0,33,6,13,3,0,3,0,23.5,0,0.16,0.52,0.23,0.05,0.23,0.42
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Landis, Ronan",0,,32,95,39,.055,55,6,9,469,17,1227,0,26,30,403,0,0,1,0,105,5,2,4,1,38,3,0.09,4.94,1.11,0.05,0.27,0.40
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Eastern,"Tuitupou, Kino",0,,21,22,1,.100,20,6,8,0,0,9,0,2,7,27,0,0,22,5,13,0,0,0,0,10,0,0.36,0.00,0.59,0.00,0.09,0.45
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Hernandez, David",0,,2,64,3,.000,2,0,0,0,2,7,0,10,22,197,0,0,29,7,23,0,0,0,0,10,0,0.00,0.00,0.36,0.00,0.16,0.16
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Bousquet, Greg",0,,17,84,73,.200,496,88,187,13,3,63,0,11,31,239,0,0,155,14,135,50,10,30,20,233,0,2.23,0.15,1.61,0.60,0.13,2.77
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Maskiell, Ben",0,,19,84,80,.236,144,18,52,653,22,1543,0,54,70,383,0,0,6,0,113,16,5,13,3,115.5,0,0.62,7.77,1.35,0.19,0.64,1.38
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Gilhool, Gavin",0,,22,87,82,.226,195,35,79,10,2,41,0,23,32,242,0,0,16,0,37,56,5,33,23,141.5,0,0.91,0.11,0.43,0.64,0.26,1.63
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Martellacci, Alex",0,,1,73,13,.233,163,23,61,5,2,24,0,5,14,35,0,0,126,15,48,10,1,5,5,73.5,0,0.84,0.07,0.66,0.14,0.07,1.01
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Aikens, Logan",0,,8,52,47,.211,95,17,37,7,3,21,0,1,4,17,0,0,13,3,9,34,4,27,7,58.5,0,0.71,0.13,0.17,0.65,0.02,1.13
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Dougherty, Logan",0,,21,88,80,.312,699,101,319,40,4,130,0,28,46,302,0,0,337,24,121,32,2,18,14,370,2,3.63,0.45,1.38,0.36,0.32,4.20
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Alvarez, Rich",0,,11,31,27,.181,72,14,27,1,2,19,0,2,2,15,0,0,6,0,9,24,4,17,7,44.5,0,0.87,0.03,0.29,0.77,0.06,1.44
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Place, Logan",0,,3,60,23,.160,243,50,89,2,0,20,0,1,4,15,0,0,84,7,27,18,2,12,6,102,0,1.48,0.03,0.45,0.30,0.02,1.70
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Glasgow, Aiden",0,,4,86,16,-.211,19,5,1,66,3,225,0,3,6,32,0,0,395,46,172,2,1,2,0,5,4,0.01,0.77,2.00,0.02,0.03,0.06
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Hill, Shawn",0,,5,10,2,.043,23,5,6,1,0,6,0,2,0,10,0,0,7,2,4,0,0,0,0,8,0,0.60,0.10,0.40,0.00,0.20,0.80
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Lesher, Mason",0,,10,88,27,.000,8,1,1,12,1,42,0,10,19,213,0,0,258,23,99,1,0,1,0,11.5,0,0.01,0.14,1.13,0.01,0.11,0.13
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Hammond, Luke",0,,13,52,7,.115,26,5,8,1,0,2,0,6,16,121,0,0,29,4,9,0,0,0,0,14,0,0.15,0.02,0.17,0.00,0.12,0.27
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,King's,"Tavarez, Antonio",0,,18,34,12,.196,46,8,17,6,1,16,0,1,6,27,0,0,8,4,10,4,3,2,2,21,0,0.50,0.18,0.29,0.12,0.03,0.62
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Hood,"Stutz, Brendan",0,,2,68,13,.019,107,28,30,1,0,25,0,3,22,73,0,0,1,0,16,19,0,16,3,44,1,0.44,0.01,0.24,0.28,0.04,0.65
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Hood,"Bravo, Gael",0,,4,94,46,.223,148,9,42,409,10,1218,0,20,69,343,0,0,9,0,163,2,2,2,0,63,1,0.45,4.35,1.73,0.02,0.21,0.67
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Hood,"Kirchner, Zander",0,,5,90,45,.098,153,36,51,6,2,41,0,21,66,213,0,0,14,2,31,30,5,28,2,88,0,0.57,0.07,0.34,0.33,0.23,0.98
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Hood,"Nugent, Cameron",0,,9,90,2,.045,67,13,16,248,13,765,0,17,34,194,0,0,3,1,52,3,0,2,1,35,1,0.18,2.76,0.58,0.03,0.19,0.39
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Hood,"Casas, Charles",0,,8,92,47,.139,907,205,331,9,4,78,0,30,59,328,0,0,451,39,126,21,2,14,7,375,0,3.60,0.10,1.37,0.23,0.33,4.08
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Hood,"Seely, Sean",0,,16,94,47,.079,620,164,213,19,8,104,0,29,65,302,0,0,462,37,139,16,3,14,2,251,2,2.27,0.20,1.48,0.17,0.31,2.67
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Hood,"White, Jayceon",0,,6,95,10,-.207,87,30,12,33,2,174,0,1,9,38,0,0,560,73,142,8,2,6,2,18,0,0.13,0.35,1.49,0.08,0.01,0.19
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Hood,"Browne, Justin",0,,7,55,1,.064,47,6,9,22,2,84,0,6,7,62,0,0,231,20,67,0,0,0,0,15,1,0.16,0.40,1.22,0.00,0.11,0.27
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Hood,"Barton, Alex",0,,11,59,27,.013,75,18,19,3,0,34,0,15,33,168,0,0,9,0,17,22,3,21,1,45.5,0,0.32,0.05,0.29,0.37,0.25,0.77
+mac,Middle Atlantic Conferences (MAC),2025-26,mvball,Hood,"Catts, Blake",0,,12,91,44,.039,331,90,103,11,1,43,0,12,23,154,0,0,46,3,52,24,1,19,5,129.5,1,1.13,0.12,0.57,0.26,0.13,1.42

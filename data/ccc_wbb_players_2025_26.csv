@@ -1,0 +1,175 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,field_goals_made,field_goals_attempted,three_points_made,three_points_attempted,free_throws_attempted,free_throws_made,points_scored,blocked_shots,steals,assists,minutes_played,offensive_rebounds,defensive_rebounds,total_rebounds,personal_fouls,technical_fouls,turnovers,disqualifications,deadballs,field_goals_pct,three_points_pct,free_throws_pct,points_per_game,rebounds_per_game,assists_per_game,steals_per_game,blocked_shots_per_game
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Blasetti,Perry",0,G,01,27,27,110,238,22,70,78,51,293,15,36,60,791,76,120,196,62,0,48,2,0,0.46,0.31,0.65,10.85,7.26,2.22,1.33,0.56
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"West,Sarah",0,G,02,28,0,31,64,5,12,9,6,73,15,14,15,279,17,28,45,19,0,22,0,0,0.48,0.42,0.67,2.61,1.61,0.54,0.50,0.54
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Reen,Erin",0,G,04,28,27,37,107,8,34,45,32,114,5,21,73,792,20,61,81,43,0,28,0,0,0.35,0.24,0.71,4.07,2.89,2.61,0.75,0.18
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Hedge,Sophie",0,G,10,27,27,126,303,61,151,72,62,375,5,26,48,777,45,129,174,62,0,55,0,0,0.42,0.40,0.86,13.89,6.44,1.78,0.96,0.19
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"McDonald,Devlyn",0,F,11,27,1,44,110,1,18,15,9,98,8,9,28,316,16,39,55,23,0,29,0,0,0.40,0.06,0.60,3.63,2.04,1.04,0.33,0.30
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Wood,Eliana",0,G,12,9,0,5,8,0,1,2,0,10,1,1,2,27,2,2,4,1,0,2,0,0,0.63,0.00,0.00,1.11,0.44,0.22,0.11,0.11
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Gibbs,Madison",0,F,13,9,0,0,3,0,0,6,3,3,0,2,2,31,2,4,6,1,0,1,0,0,0.00,0.00,0.50,0.33,0.67,0.22,0.22,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Regan,Katie",0,F,14,26,0,34,75,0,1,22,17,85,7,18,10,232,29,31,60,29,0,29,0,0,0.45,0.00,0.77,3.27,2.31,0.38,0.69,0.27
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Barnes,Lottia",0,G,20,28,1,64,157,15,52,47,31,174,14,23,32,464,21,58,79,38,0,39,1,0,0.41,0.29,0.66,6.21,2.82,1.14,0.82,0.50
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Winter,Paige",0,G,21,28,28,80,192,49,123,35,21,230,11,55,136,877,18,66,84,45,0,58,2,0,0.42,0.40,0.60,8.21,3.00,4.86,1.96,0.39
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Hansen,Lizzie",0,G,22,14,0,3,13,2,9,8,5,13,0,4,5,70,0,5,5,8,0,7,0,0,0.23,0.22,0.63,0.93,0.36,0.36,0.29,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Blake,Hannah",0,C,31,27,27,94,213,0,2,43,37,225,13,8,22,542,38,63,101,63,0,29,1,0,0.44,0.00,0.86,8.33,3.74,0.81,0.30,0.48
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Strange,Gianna",0,F,32,5,0,2,7,0,1,4,2,6,0,0,0,24,4,2,6,6,0,1,0,0,0.29,0.00,0.50,1.20,1.20,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Rabidoux,Alexa",0,G,03,14,1,7,16,3,8,2,1,18,1,4,2,51,3,6,9,5,0,5,0,0,0.44,0.38,0.50,1.29,0.64,0.14,0.29,0.07
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Chrzan,Olivia",0,F,35,23,0,50,116,4,12,48,28,132,25,16,14,289,19,51,70,27,0,17,0,0,0.43,0.33,0.58,5.74,3.04,0.61,0.70,1.09
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Western New England University,"Yaconiello,Janessa",0,G,23,2,0,2,3,1,1,0,0,5,0,0,0,6,0,1,1,1,0,1,0,0,0.67,1.00,0.00,2.50,0.50,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Gentile,Mia",0,G,00,4,1,6,16,3,11,2,1,16,0,4,3,40,5,1,6,3,0,3,0,0,0.38,0.27,0.50,4.00,1.50,0.75,1.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Wallin,Tenley",0,G,02,26,26,103,257,24,92,36,23,253,4,19,42,843,22,70,92,51,0,49,0,0,0.40,0.26,0.64,9.73,3.54,1.62,0.73,0.15
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Bracey,Aleah",0,G,03,26,26,114,276,61,158,51,41,330,4,16,18,851,12,66,78,36,0,38,0,0,0.41,0.39,0.80,12.69,3.00,0.69,0.62,0.15
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Garabedian,Alyssa",0,G,04,20,17,32,93,5,20,29,15,84,6,17,28,588,26,70,96,44,1,33,1,0,0.34,0.25,0.52,4.20,4.80,1.40,0.85,0.30
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Shinney,Emma",0,G,05,26,26,150,338,13,54,126,68,381,11,67,155,927,29,156,185,59,1,89,0,0,0.44,0.24,0.54,14.65,7.12,5.96,2.58,0.42
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Waisnor,Caroline",0,G,10,3,0,0,6,0,3,6,5,5,0,2,4,29,5,8,13,1,0,2,0,0,0.00,0.00,0.83,1.67,4.33,1.33,0.67,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Mazzotta,Sofia",0,G,11,21,7,53,151,13,65,60,40,159,10,29,27,609,14,83,97,42,0,42,1,0,0.35,0.20,0.67,7.57,4.62,1.29,1.38,0.48
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Rice,Kyra",0,G,12,2,0,0,8,0,4,0,0,0,0,0,1,11,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.50,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Cooper,Lily",0,G,14,17,0,14,30,9,20,4,2,39,1,4,19,210,6,25,31,7,0,15,0,0,0.47,0.45,0.50,2.29,1.82,1.12,0.24,0.06
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"McGarrity,Mia",0,F,15,26,6,44,71,0,0,23,17,105,6,9,23,319,36,32,68,36,0,24,0,0,0.62,0.00,0.74,4.04,2.62,0.88,0.35,0.23
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Harrington,Ceilagh",0,F,20,7,2,17,28,2,10,2,2,38,2,1,0,66,4,4,8,11,0,4,0,0,0.61,0.20,1.00,5.43,1.14,0.00,0.14,0.29
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Brown,Avery",0,G,23,11,0,12,44,5,29,0,0,29,1,2,2,93,1,5,6,6,0,5,0,0,0.27,0.17,0.00,2.64,0.55,0.18,0.18,0.09
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Wladkowski,Tricia",0,F,25,25,17,95,209,12,39,46,34,236,16,23,39,645,44,107,151,65,0,30,1,0,0.45,0.31,0.74,9.44,6.04,1.56,0.92,0.64
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Shaw,Sarah",0,F,30,2,2,6,10,0,2,2,2,14,1,0,0,35,2,6,8,3,0,0,0,0,0.60,0.00,1.00,7.00,4.00,0.00,0.00,0.50
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Nadeau,Cora",0,G,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Endicott College,"Barton,Skylar",0,F,44,2,0,0,2,0,0,0,0,0,1,1,0,9,1,0,1,0,0,0,0,0,0.00,0.00,0.00,0.00,0.50,0.00,0.50,0.50
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Marchesani,Ella",0,G,00,27,25,102,270,57,146,91,68,329,5,28,17,757,13,73,86,90,0,56,7,0,0.38,0.39,0.75,12.19,3.19,0.63,1.04,0.19
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Blevins,Taryn",0,G,01,27,27,47,133,17,57,41,31,142,1,16,39,776,15,60,75,42,0,49,1,0,0.35,0.30,0.76,5.26,2.78,1.44,0.59,0.04
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Bowden,Sidnee",0,C,02,23,0,20,61,11,34,6,6,57,14,2,21,224,7,24,31,21,0,19,0,0,0.33,0.32,1.00,2.48,1.35,0.91,0.09,0.61
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Loughman,Paige",0,G,03,25,18,26,66,12,34,12,6,70,2,11,8,297,18,24,42,7,0,13,0,0,0.39,0.35,0.50,2.80,1.68,0.32,0.44,0.08
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Trembley,Kristen",0,G,10,9,0,3,14,2,9,2,1,9,0,3,0,48,2,4,6,5,0,2,0,0,0.21,0.22,0.50,1.00,0.67,0.00,0.33,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Rieman,Kendall",0,G,11,22,18,20,57,3,21,20,8,51,3,22,29,464,25,46,71,33,0,23,0,0,0.35,0.14,0.40,2.32,3.23,1.32,1.00,0.14
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Hohulin,Mackenzie",0,G,12,18,2,15,44,7,24,13,11,48,3,5,6,161,11,14,25,8,0,12,0,0,0.34,0.29,0.85,2.67,1.39,0.33,0.28,0.17
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Shenloogian,Allie",0,G,13,27,9,85,198,7,35,65,45,222,0,39,44,735,20,101,121,71,0,59,1,0,0.43,0.20,0.69,8.22,4.48,1.63,1.44,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Williams,Mikaela",0,G,14,6,0,0,0,0,0,4,1,1,0,3,2,20,1,0,1,3,0,2,0,0,0.00,0.00,0.25,0.17,0.17,0.33,0.50,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Naszimento,Ava",0,C,15,23,21,114,230,0,0,102,60,288,13,30,46,619,54,72,126,54,1,56,1,0,0.50,0.00,0.59,12.52,5.48,2.00,1.30,0.57
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Sabia,Lauren",0,G,20,21,6,89,202,26,77,48,30,234,6,27,30,554,27,100,127,30,0,36,0,0,0.44,0.34,0.63,11.14,6.05,1.43,1.29,0.29
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Baird,Madison",0,G,21,5,1,1,4,1,3,2,1,4,1,1,1,20,0,2,2,3,0,0,0,0,0.25,0.33,0.50,0.80,0.40,0.20,0.20,0.20
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Bay-Kent,Jordyn",0,F,22,5,0,7,12,0,0,0,0,14,1,3,2,27,1,2,3,9,0,7,0,0,0.58,0.00,0.00,2.80,0.60,0.40,0.60,0.20
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Matthews,Gabrielle",0,G,23,26,0,43,129,7,35,49,34,127,2,11,32,502,13,46,59,50,1,51,0,0,0.33,0.20,0.69,4.88,2.27,1.23,0.42,0.08
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Johnson,Elizabeth",0,G,24,3,0,0,1,0,1,0,0,0,0,0,0,9,0,0,0,0,0,2,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"Okoro,Maya",0,F,33,20,8,9,40,0,1,5,2,20,9,5,5,209,18,33,51,17,0,10,0,0,0.23,0.00,0.40,1.00,2.55,0.25,0.25,0.45
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of Hartford,"MacCannell,Maddie",0,F,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Santiago,Natalie",0,G,00,18,0,6,22,3,13,8,6,21,0,3,6,123,1,7,8,9,0,7,0,0,0.27,0.23,0.75,1.17,0.44,0.33,0.17,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Coppola,Sophia",0,G,01,26,26,122,340,30,95,107,82,356,57,25,17,734,56,125,181,48,0,54,0,0,0.36,0.32,0.77,13.69,6.96,0.65,0.96,2.19
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Bassett,Hailey",0,F,02,18,0,9,18,0,0,3,1,19,2,3,4,77,7,15,22,11,0,5,0,0,0.50,0.00,0.33,1.06,1.22,0.22,0.17,0.11
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Azzaro,Ava",0,F,03,26,0,63,136,0,0,78,56,182,4,15,9,391,45,46,91,41,0,23,0,0,0.46,0.00,0.72,7.00,3.50,0.35,0.58,0.15
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Murphy,Cara",0,G,04,18,4,10,24,2,8,4,3,25,2,15,21,218,2,18,20,15,0,21,0,0,0.42,0.25,0.75,1.39,1.11,1.17,0.83,0.11
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Richardson,Chloe",0,G,05,25,24,67,233,35,128,58,49,218,1,22,32,697,25,55,80,42,1,47,3,0,0.29,0.27,0.84,8.72,3.20,1.28,0.88,0.04
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Riccio,Maia",0,G,10,26,1,43,134,11,44,53,41,138,5,8,23,409,18,34,52,43,1,35,0,0,0.32,0.25,0.77,5.31,2.00,0.88,0.31,0.19
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Qualey,Meg",0,F,11,26,25,36,85,0,0,63,28,100,33,14,43,678,36,74,110,51,0,35,3,0,0.42,0.00,0.44,3.85,4.23,1.65,0.54,1.27
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Ball,Julia",0,G,12,18,0,7,22,2,10,9,5,21,1,4,0,61,1,3,4,4,0,11,0,0,0.32,0.20,0.56,1.17,0.22,0.00,0.22,0.06
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Pye,Giana",0,F,13,11,1,2,12,1,2,2,1,6,3,3,2,51,5,12,17,7,0,5,0,0,0.17,0.50,0.50,0.55,1.55,0.18,0.27,0.27
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Vaughn,Lauren",0,F,14,11,0,0,5,0,0,4,2,2,2,1,1,38,0,6,6,3,0,5,0,0,0.00,0.00,0.50,0.18,0.55,0.09,0.09,0.18
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Husson,Meghan",0,G,21,25,0,11,45,3,20,2,1,26,3,9,11,160,7,17,24,22,0,8,0,0,0.24,0.15,0.50,1.04,0.96,0.44,0.36,0.12
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Graiver,Chelsea",0,G,22,23,23,46,130,17,59,40,30,139,0,26,44,609,11,61,72,38,0,47,0,0,0.35,0.29,0.75,6.04,3.13,1.91,1.13,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Della Ratta,Sofia",0,G,23,17,0,4,17,1,8,9,7,16,1,6,4,65,13,10,23,6,0,4,0,0,0.24,0.13,0.78,0.94,1.35,0.24,0.35,0.06
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Clark,Lilli",0,F,32,26,25,80,192,0,4,69,47,207,6,23,24,648,74,104,178,41,0,54,0,0,0.42,0.00,0.68,7.96,6.85,0.92,0.88,0.23
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"Drinan,Sydney",0,C,52,17,0,8,20,0,0,5,2,18,0,1,5,75,7,6,13,12,0,9,0,0,0.40,0.00,0.40,1.06,0.76,0.29,0.06,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,Sakoya Sweeney,0,0,15,16,1,20,59,4,15,21,13,57,4,7,12,216,13,21,34,15,0,18,0,0,0.34,0.27,0.62,3.56,2.13,0.75,0.44,0.25
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Roger Williams University,"VAUGHAN, Lauren",0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Grace Boucher,0,*,00,26,26,43,122,22,78,31,27,135,3,18,60,749,17,47,64,23,0,34,0,0,0.35,0.28,0.87,5.19,2.46,2.31,0.69,0.12
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Allie Dwyer,0,0,02,25,0,12,44,4,23,13,7,35,2,10,32,268,11,25,36,28,0,25,0,0,0.27,0.17,0.54,1.40,1.44,1.28,0.40,0.08
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Jaylyn Bartolome,0,0,03,16,2,12,34,1,7,22,18,43,4,4,5,120,13,14,27,14,0,16,0,0,0.35,0.14,0.82,2.69,1.69,0.31,0.25,0.25
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Hailey Marshall,0,0,04,5,0,0,0,0,0,0,0,0,0,0,1,8,1,1,2,1,0,0,0,0,0.00,0.00,0.00,0.00,0.40,0.20,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Paige Meda,0,0,05,26,1,46,137,8,34,55,32,132,2,16,18,466,40,23,63,44,0,24,1,0,0.34,0.24,0.58,5.08,2.42,0.69,0.62,0.08
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Gabby Soter,0,*,10,26,26,47,153,19,87,60,49,162,6,53,58,665,32,105,137,63,0,22,0,0,0.31,0.22,0.82,6.23,5.27,2.23,2.04,0.23
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Hannah Cook,0,0,11,26,0,22,63,18,46,12,11,73,1,8,10,323,4,41,45,26,0,10,0,0,0.35,0.39,0.92,2.81,1.73,0.38,0.31,0.04
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Emily Picher,0,0,12,26,3,53,160,9,46,45,28,143,3,12,21,366,15,34,49,27,0,37,0,0,0.33,0.20,0.62,5.50,1.88,0.81,0.46,0.12
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Avery Beal,0,0,13,13,0,2,9,1,2,0,0,5,1,2,1,72,4,13,17,7,0,7,0,0,0.22,0.50,0.00,0.38,1.31,0.08,0.15,0.08
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Emma Medeiros,0,0,20,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Ella Karavanic,0,0,21,11,9,30,78,7,20,5,3,70,4,5,2,193,15,17,32,21,0,9,2,0,0.38,0.35,0.60,6.36,2.91,0.18,0.45,0.36
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Hannah Blanchard,0,*,22,26,3,47,142,7,42,22,16,117,5,11,17,400,30,69,99,29,0,26,0,0,0.33,0.17,0.73,4.50,3.81,0.65,0.42,0.19
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Sydney Jenisch,0,*,23,26,25,105,315,27,98,48,38,275,1,32,27,672,37,52,89,37,0,38,1,0,0.33,0.28,0.79,10.58,3.42,1.04,1.23,0.04
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Maddy Werner,0,*,24,18,17,54,143,3,12,47,34,145,10,15,10,320,29,44,73,55,2,35,4,0,0.38,0.25,0.72,8.06,4.06,0.56,0.83,0.56
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Cassidy Powers,0,0,25,5,0,1,3,0,0,0,0,2,0,0,1,10,0,1,1,0,0,1,0,0,0.33,0.00,0.00,0.40,0.20,0.20,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Kaia Anderson,0,0,32,25,18,76,181,8,34,39,29,189,0,18,25,507,40,80,120,40,1,39,0,0,0.42,0.24,0.74,7.56,4.80,1.00,0.72,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Aisling Harrington,0,0,33,12,0,9,29,0,1,6,6,24,3,1,3,57,8,5,13,1,0,4,0,0,0.31,0.00,1.00,2.00,1.08,0.25,0.08,0.25
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,University of New England,Emma Simpson,0,0,34,2,0,0,0,0,0,2,0,0,0,0,0,3,0,1,1,0,0,0,0,0,0.00,0.00,0.00,0.00,0.50,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Dakoda Correia,0,0,Fr,24,0,13,59,9,37,13,9,44,2,17,11,295,15,33,48,37,0,26,0,0,0.22,0.24,0.69,1.83,2.00,0.46,0.71,0.08
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Alyvia Smith,0,*,1,25,25,141,396,73,224,69,54,409,10,39,22,819,24,77,101,51,1,48,0,0,0.36,0.33,0.78,16.36,4.04,0.88,1.56,0.40
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Jailyn Garvin-Martin,0,0,2,7,0,4,10,3,7,4,1,12,0,1,1,24,0,4,4,2,0,7,0,0,0.40,0.43,0.25,1.71,0.57,0.14,0.14,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Rylee Barrieault,0,*,3,25,24,59,210,39,161,13,8,165,2,29,31,676,18,57,75,41,0,22,0,0,0.28,0.24,0.62,6.60,3.00,1.24,1.16,0.08
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Isabella Lopez-Marin,0,0,4,20,0,21,54,1,4,16,12,55,1,12,6,137,9,12,21,20,0,12,0,0,0.39,0.25,0.75,2.75,1.05,0.30,0.60,0.05
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Jaelize Rivera,0,0,5,25,0,26,92,9,31,16,9,70,4,10,32,308,5,22,27,25,0,25,0,0,0.28,0.29,0.56,2.80,1.08,1.28,0.40,0.16
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Summer Klein,0,*,10,19,17,61,143,14,43,37,28,164,4,39,28,385,22,65,87,40,0,33,1,0,0.43,0.33,0.76,8.63,4.58,1.47,2.05,0.21
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Adriana Romano,0,*,11,25,25,81,235,8,31,62,35,205,1,54,85,681,26,96,122,46,0,79,0,0,0.34,0.26,0.56,8.20,4.88,3.40,2.16,0.04
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Dakoda Correira,0,0,12,-7,0,-5,-12,-4,-9,2,1,-13,0,-10,0,-89,-2,-8,-10,-17,0,-8,0,0,0.42,0.44,0.50,1.86,1.43,0.00,1.43,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Mackenzie Reynolds,0,0,13,15,0,2,11,0,7,4,2,6,0,3,2,37,1,1,2,1,0,1,0,0,0.18,0.00,0.50,0.40,0.13,0.13,0.20,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Adison Whitty,0,0,14,15,0,4,24,2,10,15,6,16,0,6,2,124,5,14,19,10,0,9,0,0,0.17,0.20,0.40,1.07,1.27,0.13,0.40,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Juliana Brimecombe,0,0,15,17,0,2,14,0,3,8,3,7,1,1,4,73,4,16,20,4,0,9,0,0,0.14,0.00,0.38,0.41,1.18,0.24,0.06,0.06
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Riley Bassett,0,0,20,6,0,2,4,0,0,0,0,4,2,0,0,17,1,2,3,2,0,2,0,0,0.50,0.00,0.00,0.67,0.50,0.00,0.00,0.33
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Kya Burdier,0,0,21,23,1,27,68,3,10,33,24,81,6,11,13,408,46,57,103,32,0,16,0,0,0.40,0.30,0.73,3.52,4.48,0.57,0.48,0.26
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Avery James,0,0,22,7,0,2,9,1,7,2,2,7,0,1,1,20,2,3,5,5,0,1,0,0,0.22,0.14,1.00,1.00,0.71,0.14,0.14,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Meili Gerety,0,0,23,13,0,0,7,0,6,2,1,1,0,1,0,29,4,3,7,1,0,3,0,0,0.00,0.00,0.50,0.08,0.54,0.00,0.08,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Angie Coletti,0,*,32,25,23,55,167,8,34,27,12,130,21,42,47,666,48,89,137,79,0,40,3,0,0.33,0.24,0.44,5.20,5.48,1.88,1.68,0.84
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Nichols College,Tianna Fernandez,0,0,55,24,10,41,93,0,0,43,19,101,1,9,11,290,40,30,70,26,0,21,0,0,0.44,0.00,0.44,4.21,2.92,0.46,0.38,0.04
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Suffolk University,"Tune, Tatiana",0,f,21,26,25,85,175,3,9,60,44,217,8,29,23,624,46,72,118,94,0,54,7,0,0.49,0.33,0.73,8.35,4.54,0.88,1.12,0.31
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Suffolk University,"Brown, Akiyah",0,0,15,25,1,25,68,0,2,21,12,62,11,6,9,263,15,38,53,25,0,30,1,0,0.37,0.00,0.57,2.48,2.12,0.36,0.24,0.44
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Suffolk University,"Moreau, Jordan",0,g,23,22,22,89,249,22,84,82,68,268,9,19,36,748,28,66,94,46,0,62,1,0,0.36,0.26,0.83,12.18,4.27,1.64,0.86,0.41
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Suffolk University,"Ingram, Ariana",0,g,04,12,12,26,71,14,39,9,2,68,1,10,13,317,16,43,59,34,0,22,2,0,0.37,0.36,0.22,5.67,4.92,1.08,0.83,0.08
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Suffolk University,"Verdile, Olivia",0,g,35,26,18,69,214,37,119,42,24,199,5,18,39,652,17,83,100,37,0,42,1,0,0.32,0.31,0.57,7.65,3.85,1.50,0.69,0.19
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Suffolk University,"Bono, Allison",0,g,03,24,24,132,281,6,28,63,45,315,10,40,65,805,49,137,186,60,0,85,1,0,0.47,0.21,0.71,13.13,7.75,2.71,1.67,0.42
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Suffolk University,"Corazzini, Mia",0,0,20,22,2,14,38,0,0,18,12,40,8,10,5,258,22,47,69,18,0,26,0,0,0.37,0.00,0.67,1.82,3.14,0.23,0.45,0.36
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Suffolk University,"Berkowitz, Claire",0,0,22,24,4,30,81,16,41,10,4,80,1,5,13,304,3,35,38,18,0,27,0,0,0.37,0.39,0.40,3.33,1.58,0.54,0.21,0.04
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Suffolk University,"Nixon, Ella",0,0,25,19,2,4,24,0,9,10,6,14,10,3,7,167,2,23,25,8,0,11,0,0,0.17,0.00,0.60,0.74,1.32,0.37,0.16,0.53
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Suffolk University,"Skene, Khaya",0,0,14,20,1,14,50,5,24,4,4,37,2,3,2,165,5,24,29,17,0,19,0,0,0.28,0.21,1.00,1.85,1.45,0.10,0.15,0.10
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Suffolk University,"More, Delaney",0,0,13,19,6,17,50,0,1,14,13,47,4,8,3,200,11,42,53,17,0,18,0,0,0.34,0.00,0.93,2.47,2.79,0.16,0.42,0.21
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Suffolk University,"Thurman, Ava",0,0,10,26,13,54,183,7,40,54,35,150,6,28,43,697,26,98,124,34,0,53,0,0,0.30,0.18,0.65,5.77,4.77,1.65,1.08,0.23
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Monighetti,Sami",0,G,01,25,25,44,174,36,125,10,6,130,12,53,60,744,5,52,57,59,0,79,1,0,0.25,0.29,0.60,5.20,2.28,2.40,2.12,0.48
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Ciccarello,Woynitu",0,G,02,25,25,110,370,55,217,72,56,331,4,46,38,715,14,70,84,55,1,44,2,0,0.30,0.25,0.78,13.24,3.36,1.52,1.84,0.16
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Dillon,Callie",0,F,04,7,0,2,3,0,1,0,0,4,0,1,0,15,0,1,1,3,0,2,0,0,0.67,0.00,0.00,0.57,0.14,0.00,0.14,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Dillon,Cassidy",0,G,05,19,8,9,38,1,5,25,16,35,6,4,6,202,10,28,38,27,0,24,0,0,0.24,0.20,0.64,1.84,2.00,0.32,0.21,0.32
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Glass,Mackenzie",0,F,10,15,0,0,4,0,0,0,0,0,3,1,1,72,4,6,10,11,0,3,0,0,0.00,0.00,0.00,0.00,0.67,0.07,0.07,0.20
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Daly,Morgan",0,G,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Meehan,Hannah",0,G,14,20,0,7,40,1,23,9,5,20,0,5,11,172,3,16,19,8,0,23,0,0,0.18,0.04,0.56,1.00,0.95,0.55,0.25,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Belval,Lucy",0,F,23,1,0,1,1,0,0,0,0,2,0,0,0,5,0,1,1,2,0,1,0,0,1.00,0.00,0.00,2.00,1.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Gadarowski,Paige",0,F,24,25,0,9,44,2,11,12,8,28,5,19,12,275,25,31,56,32,0,30,0,0,0.20,0.18,0.67,1.12,2.24,0.48,0.76,0.20
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Peters,Sophie",0,G,30,25,24,54,203,19,68,83,59,186,3,27,43,637,53,141,194,82,0,71,3,0,0.27,0.28,0.71,7.44,7.76,1.72,1.08,0.12
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"McGarvey,Leah",0,G,34,25,25,124,290,14,45,101,71,333,6,31,34,789,44,56,100,60,0,58,2,0,0.43,0.31,0.70,13.32,4.00,1.36,1.24,0.24
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Rivera,Isabella",0,G,11,23,15,54,154,5,26,62,47,160,3,34,23,585,40,62,102,55,0,50,2,0,0.35,0.19,0.76,6.96,4.43,1.00,1.48,0.13
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Chewning,Abby",0,G,15,24,3,26,103,8,54,12,8,68,4,18,19,382,10,24,34,45,0,45,1,0,0.25,0.15,0.67,2.83,1.42,0.79,0.75,0.17
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Kiser,Jayme",0,F,32,23,0,27,102,19,77,7,6,79,3,19,14,407,7,55,62,21,0,23,0,0,0.26,0.25,0.86,3.43,2.70,0.61,0.83,0.13
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Brander, Drew",0,G,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"McGuire, Bruce",0,F,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Steve, Brayden",0,F,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Quanico, Sean",0,G,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Le Plastrier, Willem",0,F,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Daniel, Alex",0,G,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Nordstrom, Tyler",0,G,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Swann, Brandon",0,G,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Nezaj, Michael",0,F,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Rodriguez, Tristan",0,G,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Ashley, Nate",0,F,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Cummings, Braylon",0,G,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Krysiak, Ben",0,G,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Jarvis, Isaac",0,F,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Whitley, Josiah",0,G,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Brooks, Ryan",0,F,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Poteau, Mikey",0,G,25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Kalu, Chiko",0,G,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Wood, Louis",0,F,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Gordon College,"Guglielmo, Noah",0,G,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"LaFlamme,Jess",0,G,00,24,0,11,44,10,38,2,2,34,1,6,6,205,3,12,15,3,0,13,0,0,0.25,0.26,1.00,1.42,0.63,0.25,0.25,0.04
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Burke,Emma",0,G,02,4,1,0,1,0,1,0,0,0,0,0,0,22,0,0,0,2,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Reen,Lauren",0,G,03,21,0,5,27,4,23,8,2,16,0,0,11,142,1,6,7,17,0,9,0,0,0.19,0.17,0.25,0.76,0.33,0.52,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Conti,Samantha",0,G,04,26,25,40,116,9,41,38,20,109,2,54,47,714,35,103,138,39,0,71,0,0,0.34,0.22,0.53,4.19,5.31,1.81,2.08,0.08
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Morse,Lauren",0,G,05,24,8,53,173,36,126,24,16,158,2,9,15,539,10,31,41,36,0,49,1,0,0.31,0.29,0.67,6.58,1.71,0.63,0.38,0.08
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Reeves,Kasey",0,F,13,26,26,75,210,3,17,70,56,209,10,32,38,662,44,84,128,71,1,79,4,0,0.36,0.18,0.80,8.04,4.92,1.46,1.23,0.38
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Scribner,Nevaeh",0,G,14,21,0,8,28,0,12,9,4,20,3,5,1,152,2,10,12,21,0,19,2,0,0.29,0.00,0.44,0.95,0.57,0.05,0.24,0.14
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Dunn,Lauren",0,G,15,26,25,75,214,25,103,77,59,234,3,35,58,821,26,64,90,55,0,85,1,0,0.35,0.24,0.77,9.00,3.46,2.23,1.35,0.12
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Hilbrunner,Sophie",0,F,20,25,24,49,161,1,17,53,37,136,17,9,29,513,38,56,94,47,0,47,0,0,0.30,0.06,0.70,5.44,3.76,1.16,0.36,0.68
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Roy,Olivia",0,G,21,22,0,12,43,5,20,6,2,31,1,9,4,179,12,18,30,27,0,22,0,0,0.28,0.25,0.33,1.41,1.36,0.18,0.41,0.05
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Campbell,Ellery",0,F,23,11,1,9,23,0,0,13,9,27,1,0,2,86,2,7,9,6,0,8,0,0,0.39,0.00,0.69,2.45,0.82,0.18,0.00,0.09
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Palanza,Ella",0,G,24,25,18,77,202,5,29,108,67,226,5,34,22,583,56,105,161,75,0,92,2,0,0.38,0.17,0.62,9.04,6.44,0.88,1.36,0.20
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Hernandez,Audrey",0,F,30,8,0,1,4,0,0,6,3,5,0,2,0,27,0,2,2,0,0,2,0,0,0.25,0.00,0.50,0.63,0.25,0.00,0.25,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Harris,Libby",0,G,31,26,1,14,50,9,36,12,7,44,0,2,10,269,2,14,16,20,0,21,0,0,0.28,0.25,0.58,1.69,0.62,0.38,0.08,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Curry College,"Fleuriel,Grace",0,C,44,26,1,32,91,0,0,43,30,94,10,6,13,287,23,57,80,58,0,37,3,0,0.35,0.00,0.70,3.62,3.08,0.50,0.23,0.38
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Wentworth Institute of Technology,Tita Rana,0,*,01,23,23,24,105,3,20,37,20,71,10,21,48,734,14,94,108,34,0,119,0,0,0.23,0.15,0.54,3.09,4.70,2.09,0.91,0.43
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Wentworth Institute of Technology,Simone Callejo,0,0,02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Wentworth Institute of Technology,Grace Moltenbrey,0,0,05,15,2,21,85,13,52,17,10,65,0,4,14,367,12,26,38,7,0,39,0,0,0.25,0.25,0.59,4.33,2.53,0.93,0.27,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Wentworth Institute of Technology,Zayas Mia luna,0,*,15,22,22,91,307,56,199,51,28,266,0,14,24,855,6,67,73,18,0,83,0,0,0.30,0.28,0.55,12.09,3.32,1.09,0.64,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Wentworth Institute of Technology,Maddie Gaynor,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Wentworth Institute of Technology,Nya Breedy,0,0,22,16,0,1,8,0,1,0,0,2,0,4,2,74,4,6,10,10,0,7,0,0,0.13,0.00,0.00,0.13,0.63,0.13,0.25,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Wentworth Institute of Technology,Elise Ayer,0,*,23,23,23,68,166,3,5,39,19,158,1,24,26,768,33,130,163,65,0,80,4,0,0.41,0.60,0.49,6.87,7.09,1.13,1.04,0.04
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Wentworth Institute of Technology,Kailee McPhillips,0,0,24,21,2,14,45,5,15,6,3,36,0,2,10,361,4,5,9,8,0,19,0,0,0.31,0.33,0.50,1.71,0.43,0.48,0.10,0.00
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Wentworth Institute of Technology,Gianna Gioia,0,*,33,20,20,24,98,7,41,19,8,63,5,11,30,546,13,50,63,51,1,74,2,0,0.24,0.17,0.42,3.15,3.15,1.50,0.55,0.25
+ccc,The Commonwealth Coast Conference (CCC),2025-26,wbball,Wentworth Institute of Technology,Taylor Garabedian,0,*,35,23,23,101,302,5,34,124,78,285,12,34,52,895,63,166,229,46,0,94,0,0,0.33,0.15,0.63,12.39,9.96,2.26,1.48,0.52

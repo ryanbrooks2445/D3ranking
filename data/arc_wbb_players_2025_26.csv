@@ -1,0 +1,215 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,field_goals_made,field_goals_attempted,three_points_made,three_points_attempted,free_throws_attempted,free_throws_made,points_scored,blocked_shots,steals,assists,minutes_played,offensive_rebounds,defensive_rebounds,total_rebounds,personal_fouls,technical_fouls,turnovers,disqualifications,deadballs,field_goals_pct,three_points_pct,free_throws_pct,points_per_game,rebounds_per_game,assists_per_game,steals_per_game,blocked_shots_per_game
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Neuberger,Grace",0,G,00,4,0,0,4,0,3,0,0,0,0,0,1,10,0,2,2,0,0,0,0,0,0.00,0.00,0.00,0.00,0.50,0.25,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Hulton,Ruthie",0,G,01,3,0,1,1,1,1,0,0,3,0,0,1,8,0,0,0,0,0,2,0,0,1.00,1.00,0.00,1.00,0.00,0.33,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Scott,Mckenna",0,G,02,17,0,7,19,2,3,4,3,19,1,4,11,87,2,10,12,3,0,15,0,0,0.37,0.67,0.75,1.12,0.71,0.65,0.24,0.06
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Sitzman,Rysaiah",0,G,03,13,0,3,10,1,3,0,0,7,0,0,4,46,0,7,7,5,0,2,0,0,0.30,0.33,0.00,0.54,0.54,0.31,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Demers,Danika",0,G,04,27,27,36,103,17,56,22,19,108,0,36,112,645,27,79,106,47,0,71,0,0,0.35,0.30,0.86,4.00,3.93,4.15,1.33,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Howard,Adriana",0,F,05,22,5,42,88,3,11,31,25,112,11,10,19,380,38,76,114,37,0,20,1,0,0.48,0.27,0.81,5.09,5.18,0.86,0.45,0.50
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Walker,Mary",0,G,10,27,27,128,322,37,126,108,74,367,7,41,58,857,29,73,102,59,0,80,0,0,0.40,0.29,0.69,13.59,3.78,2.15,1.52,0.26
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Nothwehr,Emily",0,G,11,8,0,3,6,1,2,0,0,7,0,0,0,18,0,1,1,0,0,1,0,0,0.50,0.50,0.00,0.88,0.13,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"McCullough,Sophia",0,F,12,5,0,2,3,0,0,0,0,4,0,0,0,12,0,4,4,0,0,1,0,0,0.67,0.00,0.00,0.80,0.80,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Raveling,Maddy",0,G,13,27,0,22,58,8,22,17,7,59,1,11,31,362,4,31,35,22,0,34,0,0,0.38,0.36,0.41,2.19,1.30,1.15,0.41,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Flaharty,Alexis",0,F,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Mattson,Olivia",0,G,15,9,0,3,5,3,4,2,2,11,0,0,1,20,0,4,4,0,0,2,0,0,0.60,0.75,1.00,1.22,0.44,0.11,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Dutler,Shae",0,G,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Humphrey,Hayley",0,F,21,7,0,1,4,0,1,0,0,2,0,0,0,14,2,1,3,2,0,1,0,0,0.25,0.00,0.00,0.29,0.43,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Krager,Bradi",0,G,22,27,27,152,296,37,101,104,83,424,18,54,49,866,75,129,204,57,0,56,0,0,0.51,0.37,0.80,15.70,7.56,1.81,2.00,0.67
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Boettcher,Tyme",0,G,23,27,25,111,317,31,139,33,29,282,7,48,55,708,18,142,160,42,0,64,0,0,0.35,0.22,0.88,10.44,5.93,2.04,1.78,0.26
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Yanga,Adeeya",0,F,24,27,24,117,232,5,17,68,51,290,44,21,22,596,20,88,108,66,0,55,2,0,0.50,0.29,0.75,10.74,4.00,0.81,0.78,1.63
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Cone,McKenna",0,G,25,27,0,29,90,17,64,10,8,83,2,10,10,294,15,15,30,13,0,9,0,0,0.32,0.27,0.80,3.07,1.11,0.37,0.37,0.07
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Bekaert,Kyra",0,G,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Hilgendorf,Maddie",0,F,33,26,0,30,69,10,24,13,12,82,4,7,24,350,21,65,86,11,0,28,0,0,0.43,0.42,0.92,3.15,3.31,0.92,0.27,0.15
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Hallock,Jenna",0,F,34,23,0,13,32,0,1,21,10,36,2,2,10,147,11,22,33,18,0,14,1,0,0.41,0.00,0.48,1.57,1.43,0.43,0.09,0.09
+arc,American Rivers Conference (ARC),2025-26,wbball,Buena Vista,"Johnson,Annie",0,F,35,4,0,0,1,0,1,0,0,0,0,0,0,5,0,0,0,0,0,2,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"DeVault,Maddax",0,G,10,26,26,170,409,50,159,68,60,450,1,54,75,814,9,46,55,46,0,93,0,0,0.42,0.31,0.88,17.31,2.12,2.88,2.08,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Duckmann,Lili",0,G,11,23,0,11,46,1,8,21,8,31,1,9,8,140,4,19,23,8,0,16,0,0,0.24,0.13,0.38,1.35,1.00,0.35,0.39,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Jacks,Karsen",0,G,12,5,5,13,30,3,7,31,23,52,0,11,16,139,7,17,24,7,0,15,0,0,0.43,0.43,0.74,10.40,4.80,3.20,2.20,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Gaskill,Macy",0,G,13,8,0,6,24,1,10,3,0,13,1,3,2,70,2,5,7,4,0,3,0,0,0.25,0.10,0.00,1.63,0.88,0.25,0.38,0.13
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Darensbourg,Megan",0,G,14,5,0,3,6,0,2,0,0,6,0,1,2,15,2,2,4,4,0,0,0,0,0.50,0.00,0.00,1.20,0.80,0.40,0.20,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Grimsley,Reagan",0,G,21,26,1,31,79,1,6,29,21,84,15,9,35,384,7,52,59,43,0,32,0,0,0.39,0.17,0.72,3.23,2.27,1.35,0.35,0.58
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Christian,Morgan",0,G,22,25,0,21,51,3,8,10,7,52,1,29,45,343,14,36,50,22,0,27,0,0,0.41,0.38,0.70,2.08,2.00,1.80,1.16,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Paup,Doryn",0,F,24,26,25,72,151,0,1,24,16,160,13,20,35,496,17,121,138,37,0,42,0,0,0.48,0.00,0.67,6.15,5.31,1.35,0.77,0.50
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Schnormeier,Mollie",0,F,31,4,0,4,8,3,5,0,0,11,0,0,1,11,2,1,3,1,0,0,0,0,0.50,0.60,0.00,2.75,0.75,0.25,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Levings,Ava",0,G,34,24,0,21,43,5,13,10,7,54,1,14,25,196,2,14,16,20,0,18,0,0,0.49,0.38,0.70,2.25,0.67,1.04,0.58,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Street,Elle",0,G,40,26,21,45,139,9,39,62,47,146,10,53,76,718,25,64,89,45,0,54,1,0,0.32,0.23,0.76,5.62,3.42,2.92,2.04,0.38
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Rust,Erica",0,F,41,5,0,5,8,0,0,0,0,10,1,0,1,18,1,3,4,3,0,0,0,0,0.63,0.00,0.00,2.00,0.80,0.20,0.00,0.20
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Anderson,Ella",0,F,42,26,26,113,183,8,26,43,25,259,4,40,39,800,74,99,173,31,0,37,0,0,0.62,0.31,0.58,9.96,6.65,1.50,1.54,0.15
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"McCormick,Keira",0,C,43,23,0,68,139,0,0,33,24,160,33,21,6,228,26,56,82,39,0,20,0,0,0.49,0.00,0.73,6.96,3.57,0.26,0.91,1.43
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Hansen,Taylor",0,G,44,26,26,89,217,33,92,73,62,273,2,22,40,703,25,58,83,47,0,44,0,0,0.41,0.36,0.85,10.50,3.19,1.54,0.85,0.08
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Weaver,Leah",0,F,45,14,0,5,14,4,8,0,0,14,1,2,5,93,2,6,8,9,0,6,0,0,0.36,0.50,0.00,1.00,0.57,0.36,0.14,0.07
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Mertes,Jachin",0,G,00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Kasperbauer,Michael",0,G,01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Huston,Bo",0,G,02,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Averill,Isaac",0,G,03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Seuferer,Camden",0,F,04,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Dzolota,Mateo",0,G,05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Cahill,Calix",0,F,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Holley,Spencer",0,G,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Daedlow,Preston",0,G,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Gurwell,Levi",0,G,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Rasmussen,Colton",0,G,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Gipple,Seth",0,F,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"McDonald,Nolan",0,G,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Hughes,Hunter",0,G,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Henderson,Cam",0,G,23,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Dyvig,Caleb",0,G,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Fuller,Brogan",0,G,30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Conner,Brady",0,F,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Haupert,Marcus",0,F,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Winter,Nathaniel",0,G,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Kowalski,Logan",0,F,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"White,Averie",0,G,25,3,0,0,4,0,2,0,0,0,0,1,0,10,1,0,1,0,0,0,0,0,0.00,0.00,0.00,0.00,0.33,0.00,0.33,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Ackerman,Zoe",0,G,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"DeSchepper,Izzy",0,G,91,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Hughes,Makenzie",0,G,92,6,0,2,6,1,3,0,0,5,0,2,1,20,0,2,2,0,0,1,0,0,0.33,0.33,0.00,0.83,0.33,0.17,0.33,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Johnson,Joelle",0,G,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Jones,Alyssa",0,G,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Kruse,Addie",0,G,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"McGuire,Abbey",0,F,96,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Wilberding,Samantha",0,F,99,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Simpson,"Nickle,Breya",0,F,55,1,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0.00,0.00,0.00,0.00,1.00,1.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Kravig,Taryn",0,G,01,26,26,87,209,49,121,44,36,259,5,19,72,764,21,62,83,41,0,57,1,0,0.42,0.40,0.82,9.96,3.19,2.77,0.73,0.19
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Ehlenbach,Maddie",0,G,02,1,0,1,1,0,0,0,0,2,0,0,0,3,0,0,0,0,0,1,0,0,1.00,0.00,0.00,2.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Thompson,Mariah",0,G,03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Kirkham,Caydee",0,G,04,26,26,185,393,49,127,91,79,498,0,40,148,893,19,129,148,51,2,94,0,0,0.47,0.39,0.87,19.15,5.69,5.69,1.54,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Langenberg,Carly",0,G,10,9,0,4,6,0,2,1,0,8,1,3,2,35,1,2,3,4,0,2,0,0,0.67,0.00,0.00,0.89,0.33,0.22,0.33,0.11
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Smith,Katie",0,G,11,16,1,4,20,0,7,9,6,14,2,1,2,87,4,11,15,8,0,5,0,0,0.20,0.00,0.67,0.88,0.94,0.13,0.06,0.13
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Knight,Kelly",0,G,13,26,26,56,162,44,125,10,8,164,1,21,52,749,9,86,95,43,0,36,1,0,0.35,0.35,0.80,6.31,3.65,2.00,0.81,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Brady,Averiel",0,F,14,26,25,34,102,18,52,26,17,103,4,19,24,624,18,83,101,44,0,41,0,0,0.33,0.35,0.65,3.96,3.88,0.92,0.73,0.15
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Linder,Grace",0,G,15,17,0,11,23,3,8,8,4,29,3,9,6,76,2,18,20,11,0,7,0,0,0.48,0.38,0.50,1.71,1.18,0.35,0.53,0.18
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Haas,Laiken",0,G,22,26,0,34,78,19,47,10,9,96,14,17,23,406,7,85,92,38,0,14,0,0,0.44,0.40,0.90,3.69,3.54,0.88,0.65,0.54
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Grubbs,Quinn",0,G,23,26,0,34,97,14,51,14,7,89,2,23,28,415,7,34,41,33,0,23,0,0,0.35,0.27,0.50,3.42,1.58,1.08,0.88,0.08
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Gehrke,Josie",0,G,24,26,0,18,53,2,12,16,8,46,5,12,7,209,19,14,33,23,0,19,0,0,0.34,0.17,0.50,1.77,1.27,0.27,0.46,0.19
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Keeney,Katie",0,F,30,7,0,2,5,0,0,2,2,6,0,2,1,20,2,7,9,4,0,2,0,0,0.40,0.00,1.00,0.86,1.29,0.14,0.29,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Wurth,Gianna",0,G,31,3,0,1,2,0,0,0,0,2,0,0,0,8,0,1,1,1,0,1,0,0,0.50,0.00,0.00,0.67,0.33,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Helmrichs,Audrie",0,F,33,26,26,176,263,0,3,82,63,415,8,21,29,769,84,119,203,67,0,53,1,0,0.67,0.00,0.77,15.96,7.81,1.12,0.81,0.31
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Thierer,Hannah",0,G,12,5,0,1,3,0,0,0,0,2,0,0,1,18,0,0,0,1,0,4,0,0,0.33,0.00,0.00,0.40,0.00,0.20,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Erger,Ava",0,G,21,4,0,0,4,0,4,0,0,0,0,1,0,12,1,0,1,1,0,2,0,0,0.00,0.00,0.00,0.00,0.25,0.00,0.25,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Simpson,Peyton",0,G,25,7,0,3,7,2,4,3,3,11,0,0,1,20,0,3,3,0,0,0,0,0,0.43,0.50,1.00,1.57,0.43,0.14,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Danner,Erin",0,F,31,19,0,11,22,0,0,14,10,32,4,4,1,135,6,19,25,19,0,6,0,0,0.50,0.00,0.71,1.68,1.32,0.05,0.21,0.21
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Brunson,Taylor",0,G,05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Coe,"Wallin,Morgan",0,G,34,4,0,1,1,0,0,0,0,2,1,0,1,7,0,1,1,0,0,1,0,0,1.00,0.00,0.00,0.50,0.25,0.25,0.00,0.25
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Strum,Haylie",0,G,00,27,27,156,342,21,77,115,90,423,32,62,112,916,42,98,140,80,0,80,2,0,0.46,0.27,0.78,15.67,5.19,4.15,2.30,1.19
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Ubl,Katelyn",0,G,01,25,0,14,43,14,39,0,0,42,0,3,14,292,1,5,6,11,0,15,0,0,0.33,0.36,0.00,1.68,0.24,0.56,0.12,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Thomas,Lexi",0,G,02,27,27,74,209,55,155,14,12,215,12,11,30,698,18,74,92,43,0,49,0,0,0.35,0.35,0.86,7.96,3.41,1.11,0.41,0.44
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Haukoos,Olivia",0,G,03,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Beaver,Natalie",0,F,05,24,24,144,316,39,122,79,63,390,20,33,32,708,54,138,192,47,0,57,3,0,0.46,0.32,0.80,16.25,8.00,1.33,1.38,0.83
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Schradle,Sydney",0,F,11,17,0,9,21,1,1,7,5,24,2,4,1,137,6,15,21,13,0,7,0,0,0.43,1.00,0.71,1.41,1.24,0.06,0.24,0.12
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Foster,Renae",0,G,14,2,0,0,1,0,1,0,0,0,0,0,1,3,1,2,3,1,0,1,0,0,0.00,0.00,0.00,0.00,1.50,0.50,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Northrop,Lyndee",0,F,15,15,0,16,35,1,2,16,10,43,5,5,5,123,11,24,35,11,0,12,0,0,0.46,0.50,0.63,2.87,2.33,0.33,0.33,0.33
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Hicks,Piper",0,F,20,3,0,1,1,1,1,0,0,3,1,0,0,5,0,1,1,0,0,1,0,0,1.00,1.00,0.00,1.00,0.33,0.00,0.00,0.33
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Anderson,Abby",0,F,21,26,1,40,93,1,2,61,38,119,5,17,14,410,29,33,62,28,0,37,0,0,0.43,0.50,0.62,4.58,2.38,0.54,0.65,0.19
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"McMann,Ellie",0,G,22,27,21,33,119,9,40,34,27,102,6,39,68,650,22,69,91,74,0,77,3,0,0.28,0.23,0.79,3.78,3.37,2.52,1.44,0.22
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Okerman,Cadence",0,G,23,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Toso,Imani",0,G,24,2,0,0,4,0,3,0,0,0,0,0,0,6,0,0,0,1,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Pavlos,Faith",0,G,25,4,0,0,0,0,0,0,0,0,0,0,1,8,0,2,2,2,0,0,0,0,0.00,0.00,0.00,0.00,0.50,0.25,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Holien,Kenai",0,G,30,26,4,24,71,6,30,17,12,66,2,7,15,319,6,19,25,26,0,26,0,0,0.34,0.20,0.71,2.54,0.96,0.58,0.27,0.08
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Panka,Abigail",0,F,32,27,27,84,228,10,40,76,52,230,9,19,21,606,51,98,149,53,0,40,2,0,0.37,0.25,0.68,8.52,5.52,0.78,0.70,0.33
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Cicala,Nastya",0,G,33,16,2,5,23,5,21,2,2,17,0,0,3,87,1,6,7,3,0,9,0,0,0.22,0.24,1.00,1.06,0.44,0.19,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Popejoy,Kadence",0,F,34,4,0,0,1,0,0,0,0,0,0,0,0,9,0,0,0,0,0,2,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Luther,"Hardtke,Katie",0,G,35,27,2,45,135,26,83,28,15,131,0,19,27,445,6,77,83,26,0,31,0,0,0.33,0.31,0.54,4.85,3.07,1.00,0.70,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Rich,Carly",0,G,01,20,0,19,48,18,44,4,2,58,0,8,10,185,4,15,19,10,0,12,0,0,0.40,0.41,0.50,2.90,0.95,0.50,0.40,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Donlea,Lauren",0,G,02,27,27,26,68,18,48,14,11,81,3,23,84,542,1,59,60,18,0,46,0,0,0.38,0.38,0.79,3.00,2.22,3.11,0.85,0.11
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Pagniano,Reagan",0,G,03,19,0,21,67,12,34,10,8,62,1,23,47,319,9,41,50,39,0,20,0,0,0.31,0.35,0.80,3.26,2.63,2.47,1.21,0.05
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Golinghorst,Lauren",0,F,04,20,8,70,163,24,64,36,30,194,9,20,22,471,31,55,86,35,0,38,1,0,0.43,0.38,0.83,9.70,4.30,1.10,1.00,0.45
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Trettin,Ava",0,F,05,14,0,2,8,0,0,4,2,6,6,1,1,72,4,16,20,7,0,2,0,0,0.25,0.00,0.50,0.43,1.43,0.07,0.07,0.43
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"McLaughlin,Lauren",0,F,06,7,0,3,9,1,4,4,3,10,0,1,2,27,1,3,4,2,0,1,0,0,0.33,0.25,0.75,1.43,0.57,0.29,0.14,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Harrison,Corrie",0,F,07,19,17,80,146,0,0,48,32,192,8,21,31,411,44,78,122,32,0,53,0,0,0.55,0.00,0.67,10.11,6.42,1.63,1.11,0.42
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Boulanger,Katie",0,G,08,27,27,157,320,61,129,100,85,460,10,35,20,738,62,73,135,45,0,64,1,0,0.49,0.47,0.85,17.04,5.00,0.74,1.30,0.37
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Schaefer,Ann",0,F,09,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Townsley,Emma",0,G,10,27,26,33,95,7,41,35,25,98,2,52,61,493,9,49,58,45,0,33,0,0,0.35,0.17,0.71,3.63,2.15,2.26,1.93,0.07
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Bordeaux,Tatum",0,G,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Poegel,Ally",0,G,12,15,0,15,38,0,4,8,5,35,1,9,5,122,9,12,21,12,0,7,0,0,0.39,0.00,0.63,2.33,1.40,0.33,0.60,0.07
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Kautman,Mia",0,G,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Hennessy,Grace",0,G,14,27,27,107,269,52,160,37,26,292,49,40,28,754,13,82,95,44,0,41,0,0,0.40,0.33,0.70,10.81,3.52,1.04,1.48,1.81
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Aden,Katelyn",0,F,15,22,2,36,131,17,79,39,29,118,9,26,21,382,8,46,54,26,0,32,1,0,0.27,0.22,0.74,5.36,2.45,0.95,1.18,0.41
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Hogan,Laynee",0,G,20,26,0,41,112,3,13,36,18,103,30,17,29,480,21,59,80,47,1,40,0,0,0.37,0.23,0.50,3.96,3.08,1.12,0.65,1.15
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Lamkin,Sydney",0,G,21,4,0,3,5,2,3,0,0,8,0,0,1,11,0,2,2,0,0,0,0,0,0.60,0.67,0.00,2.00,0.50,0.25,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Murphy,Brooklyn",0,G,22,3,0,0,4,0,4,0,0,0,0,0,0,11,0,0,0,1,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Landon,Averie",0,G,23,4,0,0,3,0,2,0,0,0,0,0,0,14,3,0,3,3,0,3,0,0,0.00,0.00,0.00,0.00,0.75,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Fitzgerald,Finley",0,G,24,14,0,3,16,1,5,12,2,9,0,4,5,105,4,7,11,12,0,12,0,0,0.19,0.20,0.17,0.64,0.79,0.36,0.29,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Tupa,Addy",0,G,30,9,0,0,3,0,2,2,0,0,0,2,2,32,0,6,6,6,0,2,0,0,0.00,0.00,0.00,0.00,0.67,0.22,0.22,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Bodensteiner,Brenna",0,G,33,2,0,1,5,1,5,0,0,3,0,0,1,5,0,0,0,0,0,0,0,0,0.20,0.20,0.00,1.50,0.00,0.50,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Pavelka,Maddie",0,F,42,18,1,9,47,0,11,7,3,21,3,8,14,226,21,33,54,21,0,17,0,0,0.19,0.00,0.43,1.17,3.00,0.78,0.44,0.17
+arc,American Rivers Conference (ARC),2025-26,wbball,Wartburg,"Gustafson,Kennedy",0,F,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Williams,Jasmyn",0,G,03,25,16,48,134,4,17,56,38,138,4,37,69,637,14,47,61,30,0,50,0,0,0.36,0.24,0.68,5.52,2.44,2.76,1.48,0.16
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Naughton,Emily",0,G,04,26,26,99,267,22,84,88,70,290,10,36,64,675,18,77,95,75,1,74,2,0,0.37,0.26,0.80,11.15,3.65,2.46,1.38,0.38
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Backer,Maddie",0,G,10,26,9,72,164,24,78,45,36,204,4,18,30,645,17,81,98,28,0,51,0,0,0.44,0.31,0.80,7.85,3.77,1.15,0.69,0.15
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Filling,Jadyn",0,G,11,26,25,41,135,40,127,0,0,122,1,8,10,458,8,54,62,25,0,20,0,0,0.30,0.31,0.00,4.69,2.38,0.38,0.31,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Hall,Ayla",0,G,14,8,0,3,6,0,1,5,2,8,0,2,7,38,0,4,4,6,0,2,0,0,0.50,0.00,0.40,1.00,0.50,0.88,0.25,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Snook,McKenzie",0,G,15,26,2,55,159,18,69,49,38,166,1,32,18,504,42,51,93,39,0,37,0,0,0.35,0.26,0.78,6.38,3.58,0.69,1.23,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Bence,Abbey",0,F,20,26,16,53,164,36,110,20,13,155,1,7,15,550,22,57,79,25,0,26,0,0,0.32,0.33,0.65,5.96,3.04,0.58,0.27,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Duggan,Lainey",0,F,21,10,0,3,13,0,4,8,5,11,2,1,1,49,3,11,14,4,0,9,0,0,0.23,0.00,0.63,1.10,1.40,0.10,0.10,0.20
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Moore,CeCe",0,F,22,26,23,67,168,8,30,77,57,199,36,15,31,576,37,134,171,31,0,40,0,0,0.40,0.27,0.74,7.65,6.58,1.19,0.58,1.38
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Dunkin,Hannah",0,G,23,5,0,2,2,0,0,2,1,5,0,0,0,17,1,1,2,5,0,1,0,0,1.00,0.00,0.50,1.00,0.40,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Smith,Lydia",0,G,24,4,0,1,3,0,2,0,0,2,0,2,0,17,0,1,1,1,0,0,0,0,0.33,0.00,0.00,0.50,0.25,0.00,0.50,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Haynes,Aubrie",0,G,25,19,0,10,32,9,27,0,0,29,1,2,5,136,4,9,13,15,0,12,0,0,0.31,0.33,0.00,1.53,0.68,0.26,0.11,0.05
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Coghlan,Kailey",0,G,30,11,0,2,10,1,8,4,0,5,0,0,2,44,3,7,10,0,0,5,0,0,0.20,0.13,0.00,0.45,0.91,0.18,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Duggan,Zoe",0,F,40,7,1,1,6,0,4,4,2,4,0,1,1,23,0,4,4,1,0,4,0,0,0.17,0.00,0.50,0.57,0.57,0.14,0.14,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Reding,Bailey",0,F,45,24,3,55,126,4,11,50,43,157,2,7,35,417,17,75,92,28,0,28,0,0,0.44,0.36,0.86,6.54,3.83,1.46,0.29,0.08
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Peterson,Katelyn",0,F,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Hoffman,Maddie",0,G,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Medinger,Kendall",0,G,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Klabo,Chloe",0,G,83,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Penn,Jordan",0,F,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Newton,Anna",0,F,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Central,"Mumm,Kaitlyn",0,F,12,20,9,38,103,12,44,31,19,107,10,12,20,438,13,68,81,34,0,26,1,0,0.37,0.27,0.61,5.35,4.05,1.00,0.60,0.50
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Morgan,Marissa",0,G,01,2,0,1,2,0,1,0,0,2,0,0,0,7,1,0,1,2,0,0,0,0,0.50,0.00,0.00,1.00,0.50,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Rigby,Kylie",0,G,02,25,25,52,140,40,107,13,10,154,1,25,28,582,1,30,31,28,0,36,0,0,0.37,0.37,0.77,6.16,1.24,1.12,1.00,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Webb,Emma",0,G,03,25,3,19,60,7,22,18,11,56,5,17,51,427,19,36,55,26,0,35,0,0,0.32,0.32,0.61,2.24,2.20,2.04,0.68,0.20
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Brown,Makenna",0,G,04,1,0,1,1,1,1,0,0,3,0,0,0,3,0,0,0,0,0,1,0,0,1.00,1.00,0.00,3.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Koenig,Raelyn",0,G,05,15,0,2,11,1,8,0,0,5,1,5,10,68,0,5,5,4,0,9,0,0,0.18,0.13,0.00,0.33,0.33,0.67,0.33,0.07
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Wrzos,Adriana",0,G,10,6,0,2,9,0,3,4,2,6,0,1,1,20,0,4,4,1,0,2,0,0,0.22,0.00,0.50,1.00,0.67,0.17,0.17,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Grosinski,Calli",0,G,11,4,0,1,2,0,0,0,0,2,0,2,2,14,0,3,3,1,0,1,0,0,0.50,0.00,0.00,0.50,0.75,0.50,0.50,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Wagner,Claire",0,F,12,25,25,157,296,1,12,69,52,367,8,29,18,655,67,122,189,50,0,39,1,0,0.53,0.08,0.75,14.68,7.56,0.72,1.16,0.32
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Harnden,Macy",0,G,13,22,4,15,66,5,36,16,10,45,0,7,27,359,9,31,40,30,0,29,0,0,0.23,0.14,0.63,2.05,1.82,1.23,0.32,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Lavorato,Amelia",0,G,14,4,0,5,8,4,7,3,1,15,0,4,2,32,0,5,5,3,0,4,0,0,0.63,0.57,0.33,3.75,1.25,0.50,1.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Kelderman,Ashtyn",0,G,15,25,25,108,256,48,127,49,38,302,41,53,52,731,22,95,117,43,0,27,0,0,0.42,0.38,0.78,12.08,4.68,2.08,2.12,1.64
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Erickson,Page",0,G,20,20,0,21,46,6,22,6,5,53,7,6,6,186,4,26,30,14,0,13,0,0,0.46,0.27,0.83,2.65,1.50,0.30,0.30,0.35
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Haynes,Addy",0,G,21,1,0,1,1,0,0,0,0,2,0,0,0,3,0,0,0,1,0,0,0,0,1.00,0.00,0.00,2.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Carroll,McKenna",0,F,22,1,0,1,2,0,0,0,0,2,0,1,0,6,2,0,2,0,0,0,0,0,0.50,0.00,0.00,2.00,2.00,0.00,1.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Yelaska,Jessie",0,F,23,4,0,2,5,1,2,0,0,5,1,0,0,21,1,3,4,3,0,0,0,0,0.40,0.50,0.00,1.25,1.00,0.00,0.00,0.25
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Davis,Kiah",0,G,24,24,22,75,205,18,66,36,20,188,6,36,58,609,31,55,86,71,0,68,3,0,0.37,0.27,0.56,7.83,3.58,2.42,1.50,0.25
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Beier,Lexi",0,G,25,21,21,29,117,16,67,25,23,97,0,16,45,526,10,44,54,22,0,41,0,0,0.25,0.24,0.92,4.62,2.57,2.14,0.76,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Van Weelden,Mila",0,G,30,25,0,35,141,11,67,43,31,112,4,19,19,362,9,29,38,35,0,29,0,0,0.25,0.16,0.72,4.48,1.52,0.76,0.76,0.16
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Sabado,Lexi",0,G,31,13,0,7,26,3,12,10,7,24,1,11,11,88,3,15,18,15,0,16,0,0,0.27,0.25,0.70,1.85,1.38,0.85,0.85,0.08
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Voller,Maggie",0,G,32,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,2,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Koenen,Meredith",0,G,33,2,0,0,0,0,0,2,1,1,0,0,0,5,0,3,3,0,0,0,0,0,0.00,0.00,0.50,0.50,1.50,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Manternach,Josie",0,F,34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Danner,Erica",0,C,42,3,0,0,3,0,0,0,0,0,0,0,0,14,2,2,4,0,0,1,0,0,0.00,0.00,0.00,0.00,1.33,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Loras,"Thompson,Emma",0,F,50,25,0,43,84,0,0,16,9,95,6,11,4,304,37,49,86,41,0,20,0,0,0.51,0.00,0.56,3.80,3.44,0.16,0.44,0.24
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Hurlburt,Tessa",0,G,00,12,1,2,12,2,10,4,2,8,0,1,1,47,0,1,1,1,0,4,0,0,0.17,0.20,0.50,0.67,0.08,0.08,0.08,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Demke,Maddie",0,G,01,25,11,50,121,13,48,43,32,145,0,54,60,722,16,56,72,70,1,50,0,0,0.41,0.27,0.74,5.80,2.88,2.40,2.16,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Webber,Mary",0,G,03,18,0,8,29,5,21,6,3,24,0,3,8,109,1,7,8,4,0,7,0,0,0.28,0.24,0.50,1.33,0.44,0.44,0.17,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Burnell,Kiara",0,G,04,6,0,3,7,0,2,0,0,6,0,2,1,17,0,0,0,1,0,0,0,0,0.43,0.00,0.00,1.00,0.00,0.17,0.33,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Tritz,Peyton",0,G,05,25,23,64,232,31,115,97,67,226,2,31,67,801,37,39,76,28,0,68,0,0,0.28,0.27,0.69,9.04,3.04,2.68,1.24,0.08
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Pettlon,Annastyn",0,G,11,-1,-1,5,-10,3,-2,-3,-4,9,-3,3,6,1,1,-5,-4,3,0,9,0,0,-0.50,-1.50,1.33,-9.00,4.00,-6.00,-3.00,3.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Griffin,Mackenzie",0,G,13,1,0,1,2,0,1,0,0,2,0,0,0,5,0,0,0,2,0,0,0,0,0.50,0.00,0.00,2.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"King,Breeley",0,F,15,7,0,8,17,0,0,10,4,20,1,3,4,85,7,12,19,18,0,8,0,0,0.47,0.00,0.40,2.86,2.71,0.57,0.43,0.14
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Sebek,Brynn",0,G,20,23,18,61,192,46,146,44,36,204,3,26,41,635,5,40,45,43,0,29,0,0,0.32,0.32,0.82,8.87,1.96,1.78,1.13,0.13
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Eastman,Caroline",0,F,21,23,0,3,16,3,15,0,0,9,4,10,5,156,2,21,23,11,0,3,0,0,0.19,0.20,0.00,0.39,1.00,0.22,0.43,0.17
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Black,Carney",0,C,23,25,25,95,215,8,37,50,35,233,14,31,32,771,30,179,209,48,0,50,1,0,0.44,0.22,0.70,9.32,8.36,1.28,1.24,0.56
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Mackling,Rhyanne",0,G,24,25,0,33,102,1,11,44,24,91,1,17,13,333,9,35,44,58,0,28,2,0,0.32,0.09,0.55,3.64,1.76,0.52,0.68,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Barnett,Anisten",0,G,30,16,0,8,23,1,2,16,5,22,0,1,5,107,14,10,24,11,0,10,0,0,0.35,0.50,0.31,1.38,1.50,0.31,0.06,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Ratzlaff,Jaedyn",0,G,32,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Davis,Alison",0,F,42,25,23,43,128,0,0,24,10,96,6,4,13,448,41,72,113,47,0,35,0,0,0.34,0.00,0.42,3.84,4.52,0.52,0.16,0.24
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Back,Alexa",0,F,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Pack,Peyton",0,F,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,Madison Kenyon,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Nebraska Wesleyan,"Pettlon,Anastyn",0,G,11,19,18,93,260,43,142,24,14,243,3,31,32,568,5,45,50,27,0,65,0,0,0.36,0.30,0.58,12.79,2.63,1.68,1.63,0.16
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Brumley,Grace",0,G,03,24,6,75,225,30,93,55,36,216,6,13,21,539,16,79,95,43,0,50,1,0,0.33,0.32,0.65,9.00,3.96,0.88,0.54,0.25
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Budrecki,Boden",0,G,04,13,0,0,7,0,3,8,6,6,0,3,3,61,1,2,3,1,0,5,0,0,0.00,0.00,0.75,0.46,0.23,0.23,0.23,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Green,Avery",0,G,05,24,23,58,165,13,70,41,28,157,1,36,87,747,11,60,71,56,0,60,1,0,0.35,0.19,0.68,6.54,2.96,3.63,1.50,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Njus,Zoe",0,G,10,21,0,15,43,11,25,11,9,50,0,4,7,180,0,11,11,21,0,23,1,0,0.35,0.44,0.82,2.38,0.52,0.33,0.19,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Gabbert,Ella",0,G,11,25,2,20,72,16,63,11,9,65,1,4,15,401,4,15,19,23,0,32,0,0,0.28,0.25,0.82,2.60,0.76,0.60,0.16,0.04
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Craig,Lilly",0,G,13,25,25,75,209,18,63,51,33,201,18,17,28,747,25,82,107,35,0,52,0,0,0.36,0.29,0.65,8.04,4.28,1.12,0.68,0.72
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Pankonen,Karsyn",0,G,14,23,9,28,84,11,41,23,17,84,2,17,17,442,9,15,24,19,0,41,0,0,0.33,0.27,0.74,3.65,1.04,0.74,0.74,0.09
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"von Rabenau,Madeline",0,G,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Martin,Taylor",0,G,20,25,25,57,158,14,50,42,29,157,3,18,45,707,27,69,96,53,0,65,0,0,0.36,0.28,0.69,6.28,3.84,1.80,0.72,0.12
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Nazos,Claire",0,G,21,13,2,4,10,3,7,8,5,16,0,3,3,54,1,8,9,3,0,6,0,0,0.40,0.43,0.63,1.23,0.69,0.23,0.23,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Seabaugh,Lexi",0,F,24,8,0,0,5,0,1,4,2,2,0,1,1,20,1,5,6,2,0,2,0,0,0.00,0.00,0.50,0.25,0.75,0.13,0.13,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Tierney,Kristina",0,F,25,3,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Figlinski,Felicity",0,G,30,14,14,42,114,23,69,18,15,122,5,25,39,479,9,47,56,23,0,32,1,0,0.37,0.33,0.83,8.71,4.00,2.79,1.79,0.36
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Simonetti,Christina",0,F,31,25,19,108,247,0,1,128,90,306,18,25,21,628,94,151,245,79,0,65,3,0,0.44,0.00,0.70,12.24,9.80,0.84,1.00,0.72
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Gillespie,Mya",0,F,32,8,0,0,3,0,0,0,0,0,0,0,0,18,0,1,1,3,0,4,0,0,0.00,0.00,0.00,0.00,0.13,0.00,0.00,0.00
+arc,American Rivers Conference (ARC),2025-26,wbball,Univ. of Dubuque,"Randall,Kaylea",0,F,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00

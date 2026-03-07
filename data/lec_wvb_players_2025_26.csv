@@ -1,0 +1,153 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,attack_stats_hitting_pct,attack_stats_attempts,attack_stats_errors,attack_stats_kills,set_stats_assists,set_stats_errors,set_stats_attempts,set_stats_set_pct,serve_stats_aces,serve_stats_errors,serve_stats_attempts,serve_stats_serve_pct,defense_stats_defense_pct,defense_stats_attempts,defense_stats_receptions,defense_stats_digs,block_stats_total,block_stats_errors,block_stats_assists,block_stats_solos,misc_stats_points,misc_stats_ball_handling_errors,per_set_stats_kills,per_set_stats_assists,per_set_stats_digs,per_set_stats_blocks,per_set_stats_aces,per_set_stats_points
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Koelb, Ella",0,,10,111,70,.213,941,127,327,506,8,1238,0,43,22,403,0,0,106,14,250,38,2,34,4,391,3,2.95,4.56,2.25,0.34,0.39,3.52
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Duymazlar, Ava",0,,3,109,45,-.167,24,4,0,84,4,304,0,31,27,294,0,0,368,24,385,1,0,1,0,31.5,0,0.00,0.77,3.53,0.01,0.28,0.29
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Cahill, Annalyn",0,,9,108,6,.180,682,116,239,10,3,35,0,0,2,5,0,0,1,0,39,56,6,47,9,271.5,0,2.21,0.09,0.36,0.52,0.00,2.51
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Imbriano, Christa",0,,11,89,1,.000,12,1,1,48,0,136,0,2,14,45,0,0,257,31,167,0,0,0,0,3,0,0.01,0.54,1.88,0.00,0.02,0.03
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Castro Rodriguez, Veronika",0,,18,114,23,.023,43,2,3,30,0,99,0,34,19,326,0,0,449,24,390,1,0,1,0,37.5,0,0.03,0.26,3.42,0.01,0.30,0.33
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Wessels, Cami",0,,17,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Riley, Sydney",0,,19,115,70,.235,536,88,214,10,4,36,0,0,0,0,0,0,3,0,27,95,12,74,21,272,0,1.86,0.09,0.23,0.83,0.00,2.37
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Engeian, Kaelyn",0,,6,27,1,.141,71,10,20,0,0,3,0,1,0,4,0,0,9,2,8,6,1,6,0,24,0,0.74,0.00,0.30,0.22,0.04,0.89
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Emerson, Danielle",0,,7,113,65,.318,154,11,60,539,13,1326,0,75,20,534,0,0,47,5,233,2,1,2,0,136,2,0.53,4.77,2.06,0.02,0.66,1.20
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Parker, Claire",0,,29,3,0,.667,3,0,2,11,0,34,0,0,1,9,0,0,0,0,5,0,0,0,0,2,0,0.67,3.67,1.67,0.00,0.00,0.67
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Allen, Abigail",0,,16,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Bailey, Fiona",0,,12,105,3,.065,474,86,117,5,1,37,0,0,1,1,0,0,124,19,68,30,3,25,5,134.5,0,1.11,0.05,0.65,0.29,0.00,1.28
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Borriello Diaz, Alice",0,,15,111,70,.099,453,76,121,27,3,110,0,52,51,332,0,0,429,42,230,11,0,11,0,178.5,1,1.09,0.24,2.07,0.10,0.47,1.61
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Cortez, Bella",0,,2,9,0,.000,0,0,0,1,0,2,0,5,4,24,0,0,7,1,4,0,0,0,0,5,0,0.00,0.11,0.44,0.00,0.56,0.56
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Marucci, Alexa",0,,1,18,0,.000,1,0,0,6,0,17,0,8,5,51,0,0,18,2,15,0,0,0,0,8,0,0.00,0.33,0.83,0.00,0.44,0.44
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"McKay, Sya",0,,27,115,71,.293,668,90,286,11,3,45,0,39,46,308,0,0,14,2,75,103,6,51,52,402.5,0,2.49,0.10,0.65,0.90,0.34,3.50
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Sousa, Emily",0,,14,10,1,.000,0,0,0,25,0,62,0,2,1,23,0,0,1,0,6,0,0,0,0,2,0,0.00,2.50,0.60,0.00,0.20,0.20
+lec,Little East Conference (LEC),2025-26,wvball,Plymouth State,"Tyler, Neve",0,,8,13,0,.000,0,0,0,1,0,5,0,5,1,31,0,0,13,2,6,0,0,0,0,5,0,0.00,0.08,0.46,0.00,0.38,0.38
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Praskievicz, Brooke",0,,1,92,43,.146,678,94,193,38,0,102,0,40,22,344,0,0,363,22,290,17,0,16,1,242,0,2.10,0.41,3.15,0.18,0.43,2.63
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"York, Sierra",0,,2,85,9,.147,436,75,139,5,2,21,0,0,0,2,0,0,7,1,37,29,4,27,2,154.5,2,1.64,0.06,0.44,0.34,0.00,1.82
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Barr, Maggie",0,,3,35,10,.115,87,19,29,3,0,12,0,0,0,1,0,0,4,0,9,11,0,10,1,35,0,0.83,0.09,0.26,0.31,0.00,1.00
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Player, Mackenzie",0,,4,12,0,.050,20,4,5,1,0,6,0,2,1,7,0,0,3,0,0,4,0,4,0,9,0,0.42,0.08,0.00,0.33,0.17,0.75
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Robinson, Emma",0,,5,82,43,.179,621,105,216,23,4,66,0,30,15,246,0,0,271,35,195,18,0,17,1,255.5,0,2.63,0.28,2.38,0.22,0.37,3.12
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Davis, Ariah",0,,6,45,0,.344,32,0,11,150,5,440,0,15,6,151,0,0,1,0,59,0,0,0,0,26,0,0.24,3.33,1.31,0.00,0.33,0.58
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Nielsen, Sonya",0,,7,56,0,.158,19,2,5,202,7,505,0,26,19,170,0,0,0,0,68,0,0,0,0,31,0,0.09,3.61,1.21,0.00,0.46,0.55
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Copeland, Allegra",0,,8,83,31,.216,439,84,179,7,0,24,0,6,10,49,0,0,83,7,99,24,0,23,1,197.5,0,2.16,0.08,1.19,0.29,0.07,2.38
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Blandford, Samantha",0,,9,80,1,.000,19,5,5,6,0,14,0,30,39,289,0,0,39,2,37,0,0,0,0,35,0,0.06,0.08,0.46,0.00,0.38,0.44
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Soleau, Addison",0,,10,73,38,.207,280,55,113,4,1,15,0,0,0,1,0,0,1,0,14,46,2,38,8,140,0,1.55,0.05,0.19,0.63,0.00,1.92
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Squier, Liz",0,,11,90,45,.297,91,4,31,533,7,1312,0,40,32,353,0,0,6,0,189,4,0,4,0,73,1,0.34,5.92,2.10,0.04,0.44,0.81
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Eldredge, Sarah",0,,12,87,0,.000,9,2,2,23,1,92,0,23,29,209,0,0,241,21,128,0,0,0,0,25,0,0.02,0.26,1.47,0.00,0.26,0.29
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Mosca, Lauren",0,,15,31,0,.140,43,8,14,2,1,10,0,9,14,64,0,0,41,2,41,0,0,0,0,23,0,0.45,0.06,1.32,0.00,0.29,0.74
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Bridges, Haley Jo",0,,16,92,44,.237,380,82,172,5,0,25,0,1,1,7,0,0,19,1,34,71,1,53,18,217.5,0,1.87,0.05,0.37,0.77,0.01,2.36
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Nemecek, Stephanie",0,,17,35,6,.112,152,28,45,2,0,6,0,0,0,0,0,0,10,1,17,19,1,18,1,55,0,1.29,0.06,0.49,0.54,0.00,1.57
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,"Conigliaro, Emerson",0,,19,90,0,.500,12,0,6,71,2,194,0,11,12,109,0,0,495,26,307,0,0,0,0,17,0,0.07,0.79,3.41,0.00,0.12,0.19
+lec,Little East Conference (LEC),2025-26,wvball,Eastern Connecticut,",",0,,0,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Jones, Jersey",0,,1,95,0,.083,24,4,6,19,1,91,0,36,40,292,0,0,521,42,432,0,0,0,0,42,1,0.06,0.20,4.55,0.00,0.38,0.44
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Slupatchuk, Sydney",0,,2,93,49,.108,703,110,186,61,6,190,0,25,31,309,0,0,423,20,317,12,0,11,1,217.5,0,2.00,0.66,3.41,0.13,0.27,2.34
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Clouden, Delia",0,,3,94,49,.276,326,44,134,4,2,26,0,0,2,4,0,0,1,0,20,53,10,38,15,168,1,1.43,0.04,0.21,0.56,0.00,1.79
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Gardner, Ava Grace",0,,4,49,20,.261,138,17,53,3,3,12,0,0,0,0,0,0,0,0,12,36,8,27,9,75.5,0,1.08,0.06,0.24,0.73,0.00,1.54
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Pincince, Isabella",0,,5,95,16,-.129,70,18,9,19,1,37,0,34,16,372,0,0,264,17,213,0,0,0,0,43,0,0.09,0.20,2.24,0.00,0.36,0.45
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Hubert, Ella",0,,6,74,30,.190,357,58,126,5,3,26,0,0,0,0,0,0,4,1,23,42,4,28,14,154,1,1.70,0.07,0.31,0.57,0.00,2.08
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"LaPointe, Arianna",0,,7,5,0,.000,3,0,0,1,0,7,0,0,0,6,0,0,3,0,4,0,0,0,0,0,0,0.00,0.20,0.80,0.00,0.00,0.00
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Robillard, Hallie",0,,8,83,32,.169,532,98,188,2,2,22,0,0,0,1,0,0,1,0,30,17,7,17,0,196.5,0,2.27,0.02,0.36,0.20,0.00,2.37
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Siruchek, Sophia",0,,11,18,0,.000,54,13,13,0,0,4,0,0,0,0,0,0,1,0,0,2,1,2,0,14,0,0.72,0.00,0.00,0.11,0.00,0.78
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"White, Teagan",0,,13,2,0,.000,0,0,0,1,0,1,0,0,0,4,0,0,0,0,1,0,0,0,0,0,0,0.00,0.50,0.50,0.00,0.00,0.00
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Rondeau, Alison",0,,14,94,0,.000,5,0,0,0,1,5,0,23,27,303,0,0,0,0,44,0,0,0,0,23,0,0.00,0.00,0.47,0.00,0.24,0.24
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Eldeib, Noor",0,,17,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Gjikolli, Alba",0,,19,4,0,.000,4,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0.25,0.00,0.25,0.00,0.00,0.25
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Grey, Jordyn",0,,21,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Ferguson, Maggie",0,,22,95,49,.244,213,18,70,908,20,2238,0,47,51,359,0,0,6,1,277,41,10,38,3,139,3,0.74,9.56,2.92,0.43,0.49,1.46
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,"Stoliker, Julia",0,,23,95,49,.211,1048,138,359,47,3,176,0,46,34,416,0,0,432,22,307,28,0,18,10,424,1,3.78,0.49,3.23,0.29,0.48,4.46
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,Sophie Siruchek,0,,11,1,0,.333,3,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,1.00,0.00,0.00,0.00,0.00,1.00
+lec,Little East Conference (LEC),2025-26,wvball,Western Connecticut,",",0,,20,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Bordone, Sabrina",0,,18,101,0,.189,37,3,10,345,11,1059,0,33,18,377,0,0,4,1,149,0,0,0,0,43,1,0.10,3.42,1.48,0.00,0.33,0.43
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Pogorelec, Emily",0,,5,103,7,.333,30,2,12,97,6,399,0,24,29,355,0,0,550,31,504,0,0,0,0,36,0,0.12,0.94,4.89,0.00,0.23,0.35
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Neyman, Vivian",0,,22,44,9,.074,81,14,20,2,1,19,0,12,11,106,0,0,5,1,34,29,3,23,6,49.5,0,0.45,0.05,0.77,0.66,0.27,1.13
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Torres, Maria",0,,8,16,0,.000,2,0,0,2,0,16,0,7,7,46,0,0,52,3,23,0,0,0,0,7,0,0.00,0.13,1.44,0.00,0.44,0.44
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Pate, Allison",0,,1,103,69,.226,1022,121,352,18,6,123,0,25,19,320,0,0,677,33,400,32,1,25,7,396.5,0,3.42,0.17,3.88,0.31,0.24,3.85
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Peters, Skye",0,,13,103,69,.122,74,7,16,640,27,1596,0,39,47,394,0,0,2,0,248,8,0,8,0,59,0,0.16,6.21,2.41,0.08,0.38,0.57
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Carter, Maddie",0,,2,103,60,.186,360,60,127,4,5,26,0,1,1,10,0,0,3,1,28,70,5,48,22,174,0,1.23,0.04,0.27,0.68,0.01,1.69
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Killam, Tehya",0,,3,25,0,.000,2,1,1,3,0,5,0,2,8,53,0,0,48,4,22,0,0,0,0,3,0,0.04,0.12,0.88,0.00,0.08,0.12
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Seutter, Olivia",0,,14,103,69,.316,908,81,368,4,1,43,0,1,2,16,0,0,2,1,66,47,3,41,6,395.5,0,3.57,0.04,0.64,0.46,0.01,3.84
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Hristova, Juliyana",0,,4,41,0,.000,62,15,15,1,0,9,0,0,0,0,0,0,0,0,13,15,2,11,4,24.5,0,0.37,0.02,0.32,0.37,0.00,0.60
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Serverius, Ashley",0,,6,100,69,.070,571,102,142,9,2,72,0,1,21,180,0,0,233,36,197,13,1,13,0,149.5,0,1.42,0.09,1.97,0.13,0.01,1.50
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Kuot, Aleek",0,,7,102,62,.241,411,61,160,4,2,31,0,18,29,187,0,0,1,1,39,65,7,51,14,217.5,1,1.57,0.04,0.38,0.64,0.18,2.13
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Frias, Milowa",0,,9,4,0,-.444,9,5,1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0.25,0.00,0.25,0.00,0.00,0.25
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Powers, Lauren",0,,10,17,0,-.050,20,6,5,0,0,1,0,0,0,0,0,0,0,0,4,6,3,5,1,8.5,0,0.29,0.00,0.24,0.35,0.00,0.50
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"London, Tiffany",0,,11,41,0,.000,11,2,2,1,0,17,0,19,16,150,0,0,140,31,41,0,0,0,0,21,0,0.05,0.02,1.00,0.00,0.46,0.51
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Selfridge, Lea",0,,17,8,0,.000,1,0,0,0,0,0,0,1,1,4,0,0,0,0,1,3,0,3,0,2.5,0,0.00,0.00,0.13,0.38,0.13,0.31
+lec,Little East Conference (LEC),2025-26,wvball,UMass Dartmouth,"Highlander, McKenna",0,,20,9,0,-.100,10,3,2,0,0,2,0,0,0,0,0,0,4,1,2,0,1,0,0,2,0,0.22,0.00,0.22,0.00,0.00,0.22
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Ackerman, Ruby",0,,21,42,0,-.250,4,1,0,3,0,22,0,3,3,110,0,0,17,6,35,0,0,0,0,3,0,0.00,0.07,0.83,0.00,0.07,0.07
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Atlas, Colbie",0,,5,13,1,.231,26,4,10,0,0,1,0,0,0,6,0,0,2,0,6,2,0,2,0,11,1,0.77,0.00,0.46,0.15,0.00,0.85
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Cleary, Mikayla",0,,1,33,22,.049,81,15,19,3,0,15,0,0,0,6,0,0,1,0,10,15,3,8,7,30,1,0.58,0.09,0.30,0.45,0.00,0.91
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Devlin, Amelia",0,,22,64,1,.120,50,3,9,140,5,474,0,18,22,178,0,0,3,0,56,0,1,0,0,27,1,0.14,2.19,0.88,0.00,0.28,0.42
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Westlund, Lauren",0,,12,72,29,.059,508,104,134,9,5,54,0,30,29,233,0,0,368,39,175,16,0,14,2,173,0,1.86,0.13,2.43,0.22,0.42,2.40
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Coulson, Paige",0,,10,91,68,.124,917,132,246,19,3,120,0,31,52,322,0,0,574,40,286,12,2,11,1,283.5,1,2.70,0.21,3.14,0.13,0.34,3.12
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Perron, Mya",0,,11,27,30,.154,240,35,72,5,0,25,0,1,3,29,0,0,81,13,40,4,0,4,0,75,1,2.67,0.19,1.48,0.15,0.04,2.78
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Matthews, Mary",0,,8,94,0,-.042,71,7,4,86,3,415,0,26,25,302,0,0,420,17,481,0,0,0,0,30,0,0.04,0.91,5.12,0.00,0.28,0.32
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Cofield, Audrey",0,,9,97,69,.123,130,13,29,694,25,2187,0,58,33,432,0,0,6,2,264,14,1,13,1,94.5,6,0.30,7.15,2.72,0.14,0.60,0.97
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Alves, Kesmyn",0,,13,43,13,.086,420,75,111,3,5,45,0,14,20,122,0,0,219,24,105,8,0,5,3,130.5,1,2.58,0.07,2.44,0.19,0.33,3.03
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Blomgren, Addie",0,,17,93,70,.222,325,60,132,3,3,35,0,15,25,109,0,0,2,0,36,100,17,65,35,214.5,3,1.42,0.03,0.39,1.08,0.16,2.31
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Denny, Mary",0,,19,95,62,.148,519,81,158,7,2,54,0,19,29,128,0,0,5,1,169,44,8,40,4,201,2,1.66,0.07,1.78,0.46,0.20,2.12
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Sanabria, Isabella",0,,2,4,0,.000,3,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Stepovich, Sophia",0,,3,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Cardoso, Talita",0,,7,2,0,.000,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0.00,0.00,0.50,0.00,0.00,0.00
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Becker, Josie",0,,14,76,15,.188,261,35,84,1,4,26,0,4,8,64,0,0,3,0,42,39,3,29,10,112.5,2,1.11,0.01,0.55,0.51,0.05,1.48
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Accelus, Adele",0,,15,47,40,.341,91,9,40,0,2,24,0,1,0,5,0,0,1,0,17,27,7,16,11,60,2,0.85,0.00,0.36,0.57,0.02,1.28
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Eugene, Noemie",0,,16,21,0,.211,19,3,7,1,1,5,0,0,1,4,0,0,0,0,1,9,0,7,2,12.5,1,0.33,0.05,0.05,0.43,0.00,0.60
+lec,Little East Conference (LEC),2025-26,wvball,UMass Boston,"Astacaan, Sophia",0,,20,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Pires, Sydnee",0,,22,95,54,.206,506,74,178,6,3,29,0,4,4,29,0,0,2,0,38,59,4,40,19,221,0,1.87,0.06,0.40,0.62,0.04,2.33
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Pesoa, Paula",0,,1,34,3,.061,33,5,7,125,6,399,0,6,5,76,0,0,2,0,70,2,1,2,0,14,0,0.21,3.68,2.06,0.06,0.18,0.41
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Feola, Brookelyn",0,,3,42,3,.061,33,9,11,1,1,6,0,19,10,126,0,0,20,3,23,1,0,1,0,30.5,0,0.26,0.02,0.55,0.02,0.45,0.73
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Lewis, Talia",0,,7,77,20,.095,359,63,97,2,1,26,0,0,0,1,0,0,4,1,38,19,2,18,1,107,0,1.26,0.03,0.49,0.25,0.00,1.39
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Alvelo, Yuleisy",0,,4,83,45,.000,56,7,7,392,14,1114,0,30,37,263,0,0,3,0,163,0,0,0,0,37,2,0.08,4.72,1.96,0.00,0.36,0.45
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Williams, Andrayah",0,,9,74,44,.327,379,51,175,2,1,24,0,0,0,0,0,0,0,0,15,59,18,38,21,215,0,2.36,0.03,0.20,0.80,0.00,2.91
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Bailey, Carolyn",0,,10,92,0,-.094,32,7,4,77,2,240,0,12,6,107,0,0,484,29,350,0,0,0,0,16,0,0.04,0.84,3.80,0.00,0.13,0.17
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Marines, Sarina",0,,11,95,54,.157,833,125,256,24,3,117,0,23,33,295,0,0,528,34,255,41,7,33,8,303.5,0,2.69,0.25,2.68,0.43,0.24,3.19
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Luchka, Grace",0,,12,66,0,.037,27,2,3,244,16,740,0,24,18,188,0,0,2,0,85,0,0,0,0,27,1,0.05,3.70,1.29,0.00,0.36,0.41
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Miranda, Olivia",0,,13,6,4,.143,7,1,2,0,0,1,0,1,1,7,0,0,2,0,0,1,0,1,0,3.5,0,0.33,0.00,0.00,0.17,0.17,0.58
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Colonis, Marina",0,,15,83,41,.069,507,72,107,5,3,74,0,29,9,338,0,0,436,40,282,10,3,9,1,141.5,0,1.29,0.06,3.40,0.12,0.35,1.70
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Escudero, Daniella",0,,5,65,3,-.333,9,4,1,6,1,35,0,15,10,216,0,0,76,17,81,0,0,0,0,16,0,0.02,0.09,1.25,0.00,0.23,0.25
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Jean-Philippe, Bethanie",0,,14,58,27,.113,231,35,61,4,2,21,0,0,0,1,0,0,0,0,33,32,4,23,9,81.5,0,1.05,0.07,0.57,0.55,0.00,1.41
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Morrell, Caroline",0,,6,93,3,-.286,7,2,0,7,0,33,0,51,25,321,0,0,71,10,59,0,0,0,0,51,1,0.00,0.08,0.63,0.00,0.55,0.55
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Sigouin-Adorno, Jocelyn",0,,17,32,8,.081,123,26,36,1,0,4,0,0,1,7,0,0,35,9,20,3,1,3,0,37,0,1.13,0.03,0.63,0.09,0.00,1.16
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Marcoux, Mackenzie",0,,18,6,6,.286,7,0,2,24,1,63,0,9,2,19,0,0,0,0,5,0,0,0,0,11,0,0.33,4.00,0.83,0.00,1.50,1.83
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Patenaude, Noelle",0,,23,3,0,.000,1,0,0,0,0,0,0,0,0,5,0,0,5,1,5,0,0,0,0,0,0,0.00,0.00,1.67,0.00,0.00,0.00
+lec,Little East Conference (LEC),2025-26,wvball,Rhode Island College,"Rollinson, Olivia",0,,8,43,9,.132,205,33,60,3,1,18,0,0,1,0,0,0,4,0,11,4,1,4,0,62,0,1.40,0.07,0.26,0.09,0.00,1.44
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Rudberg, Annaliese",0,,17,108,100,.264,333,41,129,7,1,7,0,23,36,17,0,0,1,2,77,62,10,53,9,187.5,0,1.19,0.06,0.71,0.57,0.21,1.74
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Christian, Grace",0,,6,52,0,.000,2,0,0,15,0,10,0,15,20,8,0,0,7,15,49,0,0,0,0,15,0,0.00,0.29,0.94,0.00,0.29,0.29
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Stake, Gigi",0,,21,108,100,.127,873,138,249,22,1,10,0,19,20,26,0,0,13,37,299,20,6,18,2,279,0,2.31,0.20,2.77,0.19,0.18,2.58
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Fraser, Colleen",0,,2,109,84,.146,739,95,203,10,0,4,0,0,4,4,0,0,4,3,87,35,2,30,5,223,1,1.86,0.09,0.80,0.32,0.00,2.05
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Bender, Lauren",0,,10,55,34,.094,224,32,53,13,0,11,0,4,12,14,0,0,57,16,102,4,0,4,0,59,0,0.96,0.24,1.85,0.07,0.07,1.07
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Bartels, Sarah",0,,20,105,20,.131,558,91,164,10,0,6,0,7,7,6,0,0,0,4,46,43,11,39,4,194.5,0,1.56,0.10,0.44,0.41,0.07,1.85
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Small, Alexis",0,,23,106,83,.051,117,13,19,471,1,76,0,77,81,25,0,0,0,2,217,5,1,4,1,99,3,0.18,4.44,2.05,0.05,0.73,0.93
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Ryan, Delia",0,,1,102,0,.135,37,1,6,83,0,11,0,32,19,13,0,0,19,47,351,0,0,0,0,38,1,0.06,0.81,3.44,0.00,0.31,0.37
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Sarazin, Ashley",0,,11,12,0,-.080,25,9,7,0,0,0,0,0,0,0,0,0,0,2,2,3,1,3,0,8,0,0.58,0.00,0.17,0.25,0.00,0.67
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Miller, Marina",0,,22,80,63,.111,551,94,155,17,0,0,0,26,38,0,0,0,0,31,222,15,1,15,0,188.5,1,1.94,0.21,2.78,0.19,0.33,2.36
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Harkins, Ava",0,,4,106,17,.052,77,8,12,380,0,59,0,49,31,23,0,0,0,0,117,2,1,2,0,62,0,0.11,3.58,1.10,0.02,0.46,0.58
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Tinkler, Rebecca",0,,7,3,0,.000,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0.00,0.00,0.00,0.33,0.00,0.00
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Berry, Amanda",0,,12,6,0,.000,2,0,0,5,0,0,0,2,1,0,0,0,0,6,5,0,0,0,0,2,0,0.00,0.83,0.83,0.00,0.33,0.33
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Goode, Kenzley",0,,13,3,0,-.250,8,2,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,"Taylor, Katie",0,,5,105,99,.205,297,50,111,7,0,1,0,0,1,2,0,0,0,0,20,72,14,59,13,153.5,2,1.06,0.07,0.19,0.69,0.00,1.46
+lec,Little East Conference (LEC),2025-26,wvball,Keene State,Amanda Barry,0,,12,3,0,.000,3,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1.0,0,0.00,0.33,0.33,0.00,0.33,0.33
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Walsh, Brianna",0,,2,95,44,.168,340,37,94,28,7,90,0,66,35,377,0,0,369,30,257,2,1,2,0,161,0,0.99,0.29,2.71,0.02,0.69,1.69
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Varney, Hannah",0,,3,16,3,-.600,5,3,0,5,0,5,0,1,3,11,0,0,28,5,19,0,0,0,0,1,0,0.00,0.31,1.19,0.00,0.06,0.06
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Prevost, Lillirose",0,,4,88,43,-.148,27,8,4,22,2,55,0,20,20,217,0,0,232,29,177,0,0,0,0,24,0,0.05,0.25,2.01,0.00,0.23,0.27
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Mack, Grace",0,,6,13,3,.125,32,7,11,0,0,0,0,0,0,3,0,0,3,2,4,4,0,4,0,13,0,0.85,0.00,0.31,0.31,0.00,1.00
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Vaughn, Nicolette",0,,7,95,0,.000,37,6,6,80,2,201,0,21,23,252,0,0,593,51,432,1,0,0,1,28,0,0.06,0.84,4.55,0.01,0.22,0.29
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Roulston, Delia",0,,8,86,43,.000,11,1,1,9,4,31,0,10,7,153,0,0,267,37,139,0,0,0,0,11,0,0.01,0.10,1.62,0.00,0.12,0.13
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Smith, Olivia",0,,11,57,31,.086,291,48,73,8,0,20,0,7,4,59,0,0,5,0,22,21,3,16,5,93,0,1.28,0.14,0.39,0.37,0.12,1.63
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Rojas, Alondra",0,,12,95,61,.153,411,63,126,655,63,1470,0,89,63,414,0,0,7,0,286,15,4,12,3,224,6,1.33,6.89,3.01,0.16,0.94,2.36
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Burrows, Lilli",0,,13,70,16,.018,333,68,74,7,1,16,0,0,0,2,0,0,68,19,24,4,0,4,0,76,2,1.06,0.10,0.34,0.06,0.00,1.09
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Ford, Sam",0,,15,67,11,.062,470,112,141,4,1,22,0,13,12,80,0,0,47,5,52,9,4,9,0,158.5,1,2.10,0.06,0.78,0.13,0.19,2.37
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Ray, Jocelyn",0,,16,94,33,.220,574,78,204,12,3,36,0,16,5,152,0,0,39,3,74,13,3,7,6,229.5,1,2.17,0.13,0.79,0.14,0.17,2.44
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Sheehan, Madison",0,,18,92,61,.221,444,38,136,7,0,17,0,13,11,148,0,0,7,1,47,40,4,25,15,176.5,0,1.48,0.08,0.51,0.43,0.14,1.92
+lec,Little East Conference (LEC),2025-26,wvball,VTSU Castleton,"Chapman, Kaitlyn",0,,21,62,17,.057,318,55,73,13,4,28,0,1,1,36,0,0,11,6,34,5,0,5,0,76.5,0,1.18,0.21,0.55,0.08,0.02,1.23
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Lopez-Aquino, Alondra",0,,16,9,3,-.250,12,5,2,0,0,0,0,1,0,4,0,0,1,0,3,0,0,0,0,3,0,0.22,0.00,0.33,0.00,0.11,0.33
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Beatty, Alicia",0,,1,0,0,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Beatty, Amelia",0,,3,104,0,.000,39,6,6,74,6,156,0,49,35,352,0,0,390,42,275,0,0,0,0,55,0,0.06,0.71,2.64,0.00,0.47,0.53
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Whittaker, Chloe",0,,5,82,3,.333,3,0,1,18,1,46,0,2,4,36,0,0,229,23,90,1,0,0,1,4,0,0.01,0.22,1.10,0.01,0.02,0.05
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Koehler, Ella",0,,2,47,27,.225,334,50,125,9,2,31,0,14,11,135,0,0,232,22,117,10,2,8,2,145,0,2.66,0.19,2.49,0.21,0.30,3.09
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Murillo, Casey",0,,4,60,11,-.122,123,35,20,5,0,12,0,9,16,106,0,0,104,20,52,3,0,2,1,31,1,0.33,0.08,0.87,0.05,0.15,0.52
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Ahmer, Macie",0,,18,29,10,.152,33,3,8,121,7,269,0,11,13,78,0,0,3,0,50,0,0,0,0,19,0,0.28,4.17,1.72,0.00,0.38,0.66
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Harbester, Lizzy",0,,6,95,56,.073,480,107,142,13,4,41,0,17,22,121,0,0,64,6,75,22,5,20,2,171,0,1.49,0.14,0.79,0.23,0.18,1.80
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Squires, Scarlett",0,,7,82,47,.009,226,54,56,2,6,16,0,1,1,16,0,0,4,2,16,37,6,30,7,79,0,0.68,0.02,0.20,0.45,0.01,0.96
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Eaton, Mariah",0,,10,80,56,.186,370,55,124,2,1,28,0,26,28,183,0,0,19,1,67,35,9,22,13,174,0,1.55,0.03,0.84,0.44,0.33,2.18
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Bidegain, Haylie",0,,12,42,30,.207,188,27,66,13,1,20,0,11,13,53,0,0,4,0,12,12,2,9,3,84.5,0,1.57,0.31,0.29,0.29,0.26,2.01
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Joyal, Taylor",0,,17,99,58,.051,532,113,140,15,3,57,0,27,47,253,0,0,530,52,220,14,4,12,2,175,0,1.41,0.15,2.22,0.14,0.27,1.77
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"McGranahan, Caitlyn",0,,19,15,1,.049,81,20,24,1,1,2,0,1,1,16,0,0,31,5,10,1,0,1,0,25.5,0,1.60,0.07,0.67,0.07,0.07,1.70
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Eubanks-Hemme, Kylee",0,,22,105,58,.136,626,99,184,8,2,43,0,34,15,273,0,0,444,72,148,21,2,18,3,230,0,1.75,0.08,1.41,0.20,0.32,2.19
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Helisek, Reese",0,,8,108,60,.145,207,20,50,584,36,1211,0,46,48,352,0,0,8,0,216,5,0,4,1,99,3,0.46,5.41,2.00,0.05,0.43,0.92
+lec,Little East Conference (LEC),2025-26,wvball,Southern Maine,"Sardella, Sophia",0,,9,11,0,.000,1,0,0,1,0,2,0,1,1,6,0,0,23,2,1,0,0,0,0,1,0,0.00,0.09,0.09,0.00,0.09,0.09

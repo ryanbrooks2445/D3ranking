@@ -1,0 +1,224 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,field_goals_made,field_goals_attempted,three_points_made,three_points_attempted,free_throws_attempted,free_throws_made,points_scored,blocked_shots,steals,assists,minutes_played,offensive_rebounds,defensive_rebounds,total_rebounds,personal_fouls,technical_fouls,turnovers,disqualifications,deadballs,field_goals_pct,three_points_pct,free_throws_pct,points_per_game,rebounds_per_game,assists_per_game,steals_per_game,blocked_shots_per_game
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"McCullough,Destanie",0,G,00,25,14,61,134,7,22,43,28,157,3,30,51,483,12,47,59,47,0,54,1,0,0.46,0.32,0.65,6.28,2.36,2.04,1.20,0.12
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Price,Zaire",0,F,02,14,3,2,14,1,7,6,2,7,1,12,4,59,9,7,16,8,0,9,0,0,0.14,0.14,0.33,0.50,1.14,0.29,0.86,0.07
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"White,Arionna",0,G,03,26,14,90,258,32,120,57,37,249,1,40,25,469,22,29,51,53,1,45,1,0,0.35,0.27,0.65,9.58,1.96,0.96,1.54,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Shoaff,Abby",0,G,04,26,2,16,87,16,80,2,1,49,0,20,14,288,8,23,31,20,0,15,0,0,0.18,0.20,0.50,1.88,1.19,0.54,0.77,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Popa,Lisa",0,G,05,5,0,0,8,0,8,2,1,1,0,3,1,15,1,2,3,0,0,0,0,0,0.00,0.00,0.50,0.20,0.60,0.20,0.60,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Greenmun,Aubrey",0,F,07,15,0,5,13,1,7,4,3,14,0,1,3,68,6,9,15,1,0,7,0,0,0.38,0.14,0.75,0.93,1.00,0.20,0.07,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Garcia,Kassandra",0,G,10,26,1,54,192,42,154,5,5,155,1,16,28,451,11,33,44,43,0,33,0,0,0.28,0.27,1.00,5.96,1.69,1.08,0.62,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Bonanno,Kira",0,F,11,26,0,25,64,0,0,13,8,58,1,15,7,381,40,76,116,31,0,22,0,0,0.39,0.00,0.62,2.23,4.46,0.27,0.58,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Lammie,Monica",0,G,12,16,0,7,24,2,7,4,0,16,0,8,7,81,5,2,7,14,0,17,0,0,0.29,0.29,0.00,1.00,0.44,0.44,0.50,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Sellers,Ava",0,G,13,21,0,11,42,11,37,5,4,37,0,4,2,119,5,3,8,8,0,10,0,0,0.26,0.30,0.80,1.76,0.38,0.10,0.19,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Garvin,Emily",0,G,15,26,26,181,397,5,46,136,97,464,2,74,134,718,121,87,208,81,0,88,4,0,0.46,0.11,0.71,17.85,8.00,5.15,2.85,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Mallah,Libby",0,G,23,10,0,4,17,3,15,2,2,13,0,1,2,42,2,1,3,2,0,5,0,0,0.24,0.20,1.00,1.30,0.30,0.20,0.10,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Kerr,Regan",0,F,24,26,16,40,133,19,78,22,8,107,10,36,38,521,40,81,121,62,0,34,0,0,0.30,0.24,0.36,4.12,4.65,1.46,1.38,0.38
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Ulmer,Anna",0,F,25,26,24,81,222,18,65,38,30,210,23,25,22,506,60,110,170,87,0,66,5,0,0.36,0.28,0.79,8.08,6.54,0.85,0.96,0.88
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Tipton,Katie",0,G,31,4,0,1,6,0,4,0,0,2,0,0,0,12,1,3,4,1,0,0,0,0,0.17,0.00,0.00,0.50,1.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Marshall,Averi",0,G,32,20,0,16,48,9,32,12,4,45,1,6,8,135,11,13,24,11,0,12,0,0,0.33,0.28,0.33,2.25,1.20,0.40,0.30,0.05
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Headley,Alyssa",0,F,33,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Thompson,Aizlyn",0,G,43,26,25,77,232,56,188,24,20,230,1,34,21,672,24,57,81,61,0,31,1,0,0.33,0.30,0.83,8.85,3.12,0.81,1.31,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Campbell,Libby",0,C,44,14,0,3,17,0,5,4,2,8,5,6,0,58,3,10,13,20,0,7,1,0,0.18,0.00,0.50,0.57,0.93,0.00,0.43,0.36
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Dantley,Kailynn",0,F,06,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Strnisa,Bailey",0,G,01,6,0,2,2,0,0,3,0,4,1,1,4,38,4,0,4,2,0,1,0,0,1.00,0.00,0.00,0.67,0.67,0.67,0.17,0.17
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Flock,Jayme",0,F,14,2,0,0,2,0,2,0,0,0,0,0,0,4,1,0,1,0,0,0,0,0,0.00,0.00,0.00,0.00,0.50,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Geneva,"Cozzens,Alexandra",0,F,99,6,5,30,78,3,16,19,9,72,6,16,11,104,17,27,44,13,0,11,0,0,0.38,0.19,0.47,12.00,7.33,1.83,2.67,1.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Capozzoli,Ava",0,G,00,10,0,4,8,3,5,0,0,11,1,0,2,43,3,4,7,5,0,6,0,0,0.50,0.60,0.00,1.10,0.70,0.20,0.00,0.10
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Paylo,Brooke",0,G,01,21,0,8,22,1,6,9,8,25,4,6,13,153,4,14,18,10,0,19,0,0,0.36,0.17,0.89,1.19,0.86,0.62,0.29,0.19
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Wagner,Alayna",0,G,02,16,0,4,16,0,6,12,8,16,0,6,9,117,8,8,16,13,0,4,0,0,0.25,0.00,0.67,1.00,1.00,0.56,0.38,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Loutsion,Stellanie",0,G,03,27,27,138,336,32,105,85,73,381,23,55,61,823,18,130,148,51,0,78,0,0,0.41,0.30,0.86,14.11,5.48,2.26,2.04,0.85
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Grado,Marina",0,G,04,28,28,74,157,18,57,55,46,212,8,49,94,871,21,86,107,41,0,59,1,0,0.47,0.32,0.84,7.57,3.82,3.36,1.75,0.29
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"DeRubbo,Riley",0,G,05,28,28,137,354,58,167,115,98,430,12,43,76,891,27,154,181,61,0,65,2,0,0.39,0.35,0.85,15.36,6.46,2.71,1.54,0.43
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Kadlecik,Raegan",0,G,12,26,15,30,89,13,43,34,28,101,2,18,33,492,20,73,93,50,0,33,1,0,0.34,0.30,0.82,3.88,3.58,1.27,0.69,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Kemp,Olivia",0,G,13,10,0,1,9,0,3,9,4,6,1,1,1,45,4,2,6,1,0,3,0,0,0.11,0.00,0.44,0.60,0.60,0.10,0.10,0.10
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Kovalchick,Katie",0,C,14,28,28,165,314,22,49,93,75,427,31,32,51,779,58,96,154,60,0,46,2,0,0.53,0.45,0.81,15.25,5.50,1.82,1.14,1.11
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Conley,Shannon",0,C,15,19,0,18,47,2,10,6,4,42,3,5,8,132,9,13,22,22,0,18,0,0,0.38,0.20,0.67,2.21,1.16,0.42,0.26,0.16
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Toal,Brianna",0,G,21,17,1,5,30,4,16,2,0,14,0,3,3,104,4,9,13,9,0,6,0,0,0.17,0.25,0.00,0.82,0.76,0.18,0.18,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Jellison,Michelle",0,F,23,26,0,30,70,4,18,33,20,84,4,8,15,225,20,19,39,28,0,24,0,0,0.43,0.22,0.61,3.23,1.50,0.58,0.31,0.15
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Mountain,Emily",0,G,24,10,0,9,24,0,5,5,4,22,0,6,6,55,8,4,12,12,0,9,0,0,0.38,0.00,0.80,2.20,1.20,0.60,0.60,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Mullen,Jacey",0,G,25,21,7,28,66,1,5,29,23,80,14,16,33,368,40,65,105,31,0,17,0,0,0.42,0.20,0.79,3.81,5.00,1.57,0.76,0.67
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Wan,Jaden",0,F,33,27,6,60,132,20,51,33,27,167,6,27,21,464,31,51,82,30,0,19,0,0,0.45,0.39,0.82,6.19,3.04,0.78,1.00,0.22
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,W&J,"Twitty,Jasmine",0,G,42,9,0,3,10,0,2,0,0,6,0,4,6,63,5,12,17,7,0,2,0,0,0.30,0.00,0.00,0.67,1.89,0.67,0.44,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Barnes,Dekotah",0,G,00,13,1,7,17,1,5,6,3,18,1,6,5,97,8,12,20,4,0,12,0,0,0.41,0.20,0.50,1.38,1.54,0.38,0.46,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Ott,Alyssa",0,G,01,8,1,1,10,0,2,0,0,2,2,2,3,38,2,5,7,1,0,2,0,0,0.10,0.00,0.00,0.25,0.88,0.38,0.25,0.25
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Garrison,Lindsey",0,G,02,27,26,141,310,58,157,85,71,411,1,35,66,866,16,29,45,42,0,63,0,0,0.45,0.37,0.84,15.22,1.67,2.44,1.30,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Johnson,Mya",0,G,03,7,0,4,13,0,3,9,6,14,1,2,3,47,2,6,8,6,0,11,0,0,0.31,0.00,0.67,2.00,1.14,0.43,0.29,0.14
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Blazer,Addy",0,F,04,23,10,57,132,4,20,67,39,157,31,46,33,483,20,102,122,53,0,76,1,0,0.43,0.20,0.58,6.83,5.30,1.43,2.00,1.35
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Jones,Amaria",0,G,05,20,0,28,78,1,17,6,5,62,2,8,8,213,4,15,19,21,1,19,0,0,0.36,0.06,0.83,3.10,0.95,0.40,0.40,0.10
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Best,Lindsey",0,G,10,25,19,94,213,13,51,56,37,238,7,34,79,701,42,90,132,50,0,76,0,0,0.44,0.25,0.66,9.52,5.28,3.16,1.36,0.28
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Dusenberry,Taylor",0,G,11,10,2,4,12,2,5,10,9,19,2,4,1,69,2,12,14,5,0,6,0,0,0.33,0.40,0.90,1.90,1.40,0.10,0.40,0.20
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Aricayos,Yazmin",0,G,12,7,1,6,11,2,3,2,2,16,0,1,3,46,3,4,7,4,0,7,0,0,0.55,0.67,1.00,2.29,1.00,0.43,0.14,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Middlebrooks,Alycia",0,F,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Parke,Gabby",0,G,14,2,0,0,1,0,0,0,0,0,0,0,0,3,1,1,2,0,0,0,0,0,0.00,0.00,0.00,0.00,1.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Dupler,Cayleigh",0,G,15,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Headley,Kenzie",0,F,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Sparrow,Asia",0,G,21,5,0,2,10,0,3,4,4,8,0,1,1,15,1,3,4,0,0,3,0,0,0.20,0.00,1.00,1.60,0.80,0.20,0.20,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Anthony,Shaelyn",0,G,22,26,7,27,74,9,38,29,24,87,0,17,18,363,16,36,52,49,0,33,0,0,0.36,0.24,0.83,3.35,2.00,0.69,0.65,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Potter,Kaedlee",0,F,23,26,24,112,225,10,30,82,60,294,22,28,68,683,45,121,166,65,0,57,1,0,0.50,0.33,0.73,11.31,6.38,2.62,1.08,0.85
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Hardison,Jewel",0,F,24,13,0,11,35,0,3,5,2,24,3,4,2,72,4,12,16,15,0,10,0,0,0.31,0.00,0.40,1.85,1.23,0.15,0.31,0.23
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Botti,Kate",0,F,25,25,25,61,188,13,53,23,11,146,42,22,71,727,58,175,233,64,0,56,2,0,0.32,0.25,0.48,5.84,9.32,2.84,0.88,1.68
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Simpson,Ella",0,G,30,27,19,121,269,24,65,82,67,333,10,31,45,672,48,68,116,18,0,55,0,0,0.45,0.37,0.82,12.33,4.30,1.67,1.15,0.37
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Nazelrod,Kendra",0,F,33,1,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Stone,Josie",0,F,44,18,0,8,19,0,1,2,1,17,5,3,4,131,4,11,15,14,0,11,0,0,0.42,0.00,0.50,0.94,0.83,0.22,0.17,0.28
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Howe,Martina",0,G,32,14,0,18,51,6,25,4,4,46,4,4,9,161,4,13,17,10,0,13,0,0,0.35,0.24,1.00,3.29,1.21,0.64,0.29,0.29
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Ogletree,Camara",0,G,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Knight,Rylee",0,F,99,3,0,3,8,2,5,2,0,8,2,0,1,33,2,8,10,5,0,4,0,0,0.38,0.40,0.00,2.67,3.33,0.33,0.00,0.67
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Bethany,"Barnes,Dakotah",0,G,00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Thomas,Elayna",0,G,00,14,0,2,15,1,12,0,0,5,1,0,1,60,1,10,11,6,0,5,0,0,0.13,0.08,0.00,0.36,0.79,0.07,0.00,0.07
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Wesolowski,Tori",0,C,01,24,14,60,159,1,3,33,21,142,10,10,32,411,32,71,103,50,0,39,1,0,0.38,0.33,0.64,5.92,4.29,1.33,0.42,0.42
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Miller,Clara-Paige",0,F,02,24,19,73,205,20,83,74,52,218,5,21,12,562,45,128,173,43,0,48,0,0,0.36,0.24,0.70,9.08,7.21,0.50,0.88,0.21
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Hall,Maddie",0,G,03,14,0,8,19,0,4,7,5,21,5,2,2,48,2,10,12,3,0,8,0,0,0.42,0.00,0.71,1.50,0.86,0.14,0.14,0.36
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Platt,Madison",0,G,04,15,1,9,24,8,20,6,5,31,0,6,6,84,1,5,6,10,0,7,0,0,0.38,0.40,0.83,2.07,0.40,0.40,0.40,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Ault,Hannah",0,G,05,20,0,14,39,1,6,18,12,41,1,3,6,120,5,10,15,9,0,12,0,0,0.36,0.17,0.67,2.05,0.75,0.30,0.15,0.05
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"McFadden,Kara",0,G,11,25,18,93,260,41,144,41,37,264,4,26,63,621,22,68,90,23,0,57,0,0,0.36,0.28,0.90,10.56,3.60,2.52,1.04,0.16
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Thomas,Olivia",0,F,12,7,0,2,5,0,0,1,0,4,0,1,3,41,6,4,10,5,0,3,0,0,0.40,0.00,0.00,0.57,1.43,0.43,0.14,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Mohrbacher,Julz",0,F,14,19,17,49,130,0,3,96,55,153,14,30,40,501,38,100,138,43,1,34,0,0,0.38,0.00,0.57,8.05,7.26,2.11,1.58,0.74
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Higgins,Winter",0,G,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Ray,Taylor",0,G,23,8,0,0,5,0,1,4,4,4,1,0,2,22,1,3,4,2,0,2,0,0,0.00,0.00,1.00,0.50,0.50,0.25,0.00,0.13
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Corley,Gracelin",0,G,24,24,0,28,86,3,16,53,27,86,3,18,17,355,31,35,66,37,0,21,0,0,0.33,0.19,0.51,3.58,2.75,0.71,0.75,0.13
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Burns,Aubrey",0,G,25,25,1,17,62,14,48,4,0,48,1,2,14,302,17,22,39,21,0,12,0,0,0.27,0.29,0.00,1.92,1.56,0.56,0.08,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Henkins,Mia",0,G,31,24,23,82,205,41,122,27,23,228,0,19,36,576,12,30,42,36,0,27,0,0,0.40,0.34,0.85,9.50,1.75,1.50,0.79,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Friday,Kalista",0,G,35,25,25,126,278,42,106,79,67,361,2,64,102,663,38,138,176,69,0,83,1,0,0.45,0.40,0.85,14.44,7.04,4.08,2.56,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Baniaga,Ray",0,G,41,8,0,0,1,0,0,2,1,1,0,1,1,22,1,6,7,5,0,3,0,0,0.00,0.00,0.50,0.13,0.88,0.13,0.13,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Justice,Macie",0,G,44,25,7,42,143,20,87,10,4,108,6,2,26,482,15,29,44,21,0,22,0,0,0.29,0.23,0.40,4.32,1.76,1.04,0.08,0.24
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Howard,Kayla",0,F,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Ammons,Liv",0,G,22,15,0,16,48,5,25,12,5,42,1,2,1,130,12,20,32,5,0,8,0,0,0.33,0.20,0.42,2.80,2.13,0.07,0.13,0.07
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Waynesburg,"Matsaudza,Celeste",0,F,33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Lotz,JaKaia",0,F,00,9,0,9,24,0,0,8,5,23,2,5,6,89,9,16,25,16,0,7,0,0,0.38,0.00,0.63,2.56,2.78,0.67,0.56,0.22
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Venick,Emily",0,G,01,26,3,23,63,8,23,18,8,62,1,27,30,444,7,10,17,26,0,15,0,0,0.37,0.35,0.44,2.38,0.65,1.15,1.04,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Dixon,Erin",0,G,02,8,0,12,36,3,8,5,4,31,2,4,4,89,5,4,9,4,0,8,0,0,0.33,0.38,0.80,3.88,1.13,0.50,0.50,0.25
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Lippold,Ashley",0,G,03,4,0,4,11,0,0,4,2,10,1,5,1,18,1,2,3,0,0,3,0,0,0.36,0.00,0.50,2.50,0.75,0.25,1.25,0.25
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Richter,Giavonna",0,G,04,7,0,5,16,4,12,2,1,15,0,2,4,29,3,1,4,2,0,3,0,0,0.31,0.33,0.50,2.14,0.57,0.57,0.29,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Miller,Jordyn",0,G,10,7,0,2,5,1,4,0,0,5,0,2,3,20,2,0,2,4,0,0,0,0,0.40,0.25,0.00,0.71,0.29,0.43,0.29,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Gratto,Paige",0,G,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Watson,Brielle",0,F,12,2,0,1,1,0,0,0,0,2,0,1,0,4,0,0,0,0,0,0,0,0,1.00,0.00,0.00,1.00,0.00,0.00,0.50,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Maldonado,Aliyah",0,G,13,3,0,1,1,1,1,0,0,3,0,0,1,6,1,1,2,0,0,1,0,0,1.00,1.00,0.00,1.00,0.67,0.33,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Jensen,Jordyn",0,F,14,25,8,22,72,2,17,21,16,62,4,24,13,345,19,45,64,31,0,17,0,0,0.31,0.12,0.76,2.48,2.56,0.52,0.96,0.16
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Laukus,Alyssa",0,F,15,26,26,130,229,1,2,101,71,332,42,54,81,764,55,92,147,60,0,54,0,0,0.57,0.50,0.70,12.77,5.65,3.12,2.08,1.62
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Stephanites,Hannah",0,G,20,22,8,40,87,19,47,12,10,109,2,17,10,276,12,6,18,19,0,12,0,0,0.46,0.40,0.83,4.95,0.82,0.45,0.77,0.09
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Booth,Chloe",0,G,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Lammert,Layla",0,G,22,5,0,1,5,0,3,0,0,2,0,1,0,14,0,4,4,1,0,4,0,0,0.20,0.00,0.00,0.40,0.80,0.00,0.20,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Barela,Maria",0,G,23,26,26,70,231,27,99,76,60,227,3,48,89,768,12,57,69,28,1,53,0,0,0.30,0.27,0.79,8.73,2.65,3.42,1.85,0.12
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Nereu,Madison",0,F,24,25,25,187,366,1,12,117,84,459,8,55,85,818,77,159,236,56,1,70,2,0,0.51,0.08,0.72,18.36,9.44,3.40,2.20,0.32
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Chenault,Hannah",0,G,30,25,24,77,244,50,176,51,37,241,9,34,46,778,16,86,102,53,0,45,3,0,0.32,0.28,0.73,9.64,4.08,1.84,1.36,0.36
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Kresslein,Reese",0,F,31,9,0,2,13,0,8,9,3,7,1,4,4,66,6,16,22,12,0,5,0,0,0.15,0.00,0.33,0.78,2.44,0.44,0.44,0.11
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Calvin,Julia",0,G,32,26,9,49,158,31,93,6,4,133,10,34,18,418,15,61,76,23,0,17,0,0,0.31,0.33,0.67,5.12,2.92,0.69,1.31,0.38
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Szymusiak,Kristin",0,G,33,8,0,2,6,1,3,0,0,5,0,1,3,33,0,2,2,3,0,2,0,0,0.33,0.33,0.00,0.63,0.25,0.38,0.13,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,"Olszewski,Erica",0,F,45,22,0,13,37,1,7,10,4,31,10,16,10,191,16,32,48,26,0,11,0,0,0.35,0.14,0.40,1.41,2.18,0.45,0.73,0.45
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Chatham,Hanah Chenault,0,*,30,-2,-2,-7,-32,-3,-15,-8,-3,-20,-1,1,-4,-76,-3,-23,-26,-8,0,-10,-1,0,0.22,0.20,0.38,10.00,13.00,2.00,-0.50,0.50
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Hasley,Reese",0,G,01,26,26,110,304,26,99,71,54,300,3,53,88,727,34,109,143,47,0,67,1,0,0.36,0.26,0.76,11.54,5.50,3.38,2.04,0.12
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Kline,Kate",0,G,02,22,3,22,79,7,37,42,25,76,1,19,10,252,14,27,41,28,0,32,0,0,0.28,0.19,0.60,3.45,1.86,0.45,0.86,0.05
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"McDole,Alexa",0,G,03,26,19,53,169,28,106,11,5,139,3,30,30,522,10,45,55,47,0,23,1,0,0.31,0.26,0.45,5.35,2.12,1.15,1.15,0.12
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Thompson,Bethany",0,G,04,20,7,36,104,7,30,18,12,91,3,13,24,369,36,51,87,47,0,39,0,0,0.35,0.23,0.67,4.55,4.35,1.20,0.65,0.15
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Devlin,Kailey",0,G,05,23,22,52,118,15,41,28,20,139,5,25,30,497,17,30,47,35,0,21,0,0,0.44,0.37,0.71,6.04,2.04,1.30,1.09,0.22
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Mach,Haley",0,G,10,24,0,11,52,2,26,7,5,29,1,7,27,280,8,30,38,10,0,28,0,0,0.21,0.08,0.71,1.21,1.58,1.13,0.29,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Hudson,Alexis",0,F,11,25,24,76,190,23,77,37,28,203,2,15,26,573,26,91,117,25,0,35,0,0,0.40,0.30,0.76,8.12,4.68,1.04,0.60,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"King,Emily",0,G,12,20,0,13,37,9,25,1,1,36,0,1,3,96,3,16,19,7,0,5,0,0,0.35,0.36,1.00,1.80,0.95,0.15,0.05,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Swanseen,Leah",0,G,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Fuller,Adah",0,G,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Gamble,Izzie",0,F,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"McCoy,Brooke",0,F,21,26,1,59,143,20,62,26,17,155,3,14,8,361,16,57,73,44,0,25,0,0,0.41,0.32,0.65,5.96,2.81,0.31,0.54,0.12
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Fortuna,Josey",0,G,22,21,0,6,36,2,16,26,12,26,1,9,6,151,8,8,16,18,0,12,0,0,0.17,0.13,0.46,1.24,0.76,0.29,0.43,0.05
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Pifer,Sarah",0,G,23,26,0,26,78,20,60,10,7,79,0,11,12,283,6,20,26,14,0,21,0,0,0.33,0.33,0.70,3.04,1.00,0.46,0.42,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Sherrerd,Meredith",0,F,24,24,24,136,263,4,13,83,61,337,14,18,43,602,46,116,162,40,0,42,1,0,0.52,0.31,0.73,14.04,6.75,1.79,0.75,0.58
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Ulmer,Emma",0,C,25,26,3,37,102,0,2,20,11,85,14,10,26,326,46,65,111,50,0,38,0,0,0.36,0.00,0.55,3.27,4.27,1.00,0.38,0.54
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Hoff,Katie",0,F,33,17,1,13,25,0,0,8,5,31,2,5,6,98,20,15,35,8,0,4,0,0,0.52,0.00,0.63,1.82,2.06,0.35,0.29,0.12
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Novelli,Anna",0,F,44,16,0,8,23,1,7,0,0,17,3,2,6,63,4,16,20,4,0,7,0,0,0.35,0.14,0.00,1.06,1.25,0.38,0.13,0.19
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Grove City,"Loiacono,Abbey",0,G,99,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"Vasquez,Karina",0,G,00,21,0,26,69,4,23,8,8,64,0,8,14,271,6,13,19,25,0,16,0,0,0.38,0.17,1.00,3.05,0.90,0.67,0.38,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"Pap,Charlotte",0,G,10,10,0,4,14,4,13,0,0,12,0,3,9,64,0,6,6,7,0,4,0,0,0.29,0.31,0.00,1.20,0.60,0.90,0.30,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"James,Mackenzie",0,G,11,3,0,2,7,2,7,0,0,6,0,4,1,48,0,3,3,4,0,1,0,0,0.29,0.29,0.00,2.00,1.00,0.33,1.33,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"Leach,Kate",0,F,13,15,15,38,82,0,2,20,14,90,3,11,23,290,33,41,74,45,0,28,2,0,0.46,0.00,0.70,6.00,4.93,1.53,0.73,0.20
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"Bickart,Jess",0,G,14,25,25,122,308,48,152,11,7,299,2,52,96,880,27,129,156,45,0,68,0,0,0.40,0.32,0.64,11.96,6.24,3.84,2.08,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"Santicola,Sarah",0,F,15,26,26,130,314,0,6,63,41,301,62,29,65,834,57,225,282,80,2,62,3,0,0.41,0.00,0.65,11.58,10.85,2.50,1.12,2.38
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"Co,Eyra",0,G,20,22,13,54,138,11,28,12,6,125,4,12,18,533,20,63,83,29,0,36,1,0,0.39,0.39,0.50,5.68,3.77,0.82,0.55,0.18
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"Castor,Megan",0,G,21,10,0,4,11,4,10,2,2,14,0,0,2,50,1,7,8,3,0,5,0,0,0.36,0.40,1.00,1.40,0.80,0.20,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"Kobus,Ava",0,F,22,25,7,102,213,3,6,66,40,247,12,20,31,639,38,84,122,59,0,57,0,0,0.48,0.50,0.61,9.88,4.88,1.24,0.80,0.48
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"Antonacci,Isabella",0,G,23,26,26,160,376,47,134,94,78,445,1,26,143,912,25,113,138,37,0,71,0,0,0.43,0.35,0.83,17.12,5.31,5.50,1.00,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"Price,Ashlan",0,G,24,26,17,35,104,12,46,12,8,90,2,10,28,514,19,59,78,26,0,23,0,0,0.34,0.26,0.67,3.46,3.00,1.08,0.38,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"Wilson,Bella",0,G,25,8,1,4,14,0,10,4,3,11,0,4,6,89,0,5,5,4,0,9,0,0,0.29,0.00,0.75,1.38,0.63,0.75,0.50,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Allegheny,"Olczak,Pascale",0,C,40,16,0,12,38,0,0,14,7,31,8,2,4,101,5,23,28,13,0,8,0,0,0.32,0.00,0.50,1.94,1.75,0.25,0.13,0.50
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Jones,Bre",0,F,01,8,0,5,9,0,0,3,1,11,2,2,2,24,2,5,7,4,0,3,0,0,0.56,0.00,0.33,1.38,0.88,0.25,0.25,0.25
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Cooley,Cailtyn",0,G,02,5,0,1,3,0,1,0,0,2,0,0,1,15,1,3,4,2,0,1,0,0,0.33,0.00,0.00,0.40,0.80,0.20,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Pontius,Danielle",0,G,04,28,28,71,215,24,92,60,46,212,1,24,90,837,10,43,53,43,0,79,0,0,0.33,0.26,0.77,7.57,1.89,3.21,0.86,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Bollinger,Kate",0,G,05,13,0,4,23,0,1,12,9,17,1,4,4,64,4,7,11,6,0,5,0,0,0.17,0.00,0.75,1.31,0.85,0.31,0.31,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Evans,Brooke",0,F,10,26,25,82,165,6,20,48,36,206,13,49,73,705,55,76,131,41,0,43,0,0,0.50,0.30,0.75,7.92,5.04,2.81,1.88,0.50
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Curry,Tiara",0,G,11,2,0,1,3,1,1,0,0,3,0,0,0,5,0,1,1,0,0,0,0,0,0.33,1.00,0.00,1.50,0.50,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Bashor,Camdon",0,F,12,28,28,103,193,2,7,80,56,264,31,37,31,646,42,98,140,48,0,32,0,0,0.53,0.29,0.70,9.43,5.00,1.11,1.32,1.11
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Tallion,Rachel",0,G,13,3,0,0,1,0,0,2,1,1,0,0,0,9,1,1,2,1,0,0,0,0,0.00,0.00,0.50,0.33,0.67,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Smith,Cadence",0,G,15,10,1,4,13,1,4,6,3,12,0,2,3,48,1,3,4,4,0,4,0,0,0.31,0.25,0.50,1.20,0.40,0.30,0.20,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"McDole,Carmella",0,G,20,28,0,30,78,12,42,8,7,79,6,14,14,347,16,47,63,37,0,12,0,0,0.38,0.29,0.88,2.82,2.25,0.50,0.50,0.21
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Yancy,Olivia",0,G,21,28,15,70,218,45,140,30,23,208,2,26,43,660,12,44,56,55,0,40,0,0,0.32,0.32,0.77,7.43,2.00,1.54,0.93,0.07
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Gadsby,Reese",0,G,22,19,13,33,130,1,21,28,23,90,3,15,13,390,22,33,55,33,0,32,1,0,0.25,0.05,0.82,4.74,2.89,0.68,0.79,0.16
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Straub,Samantha",0,G,23,12,0,6,20,2,8,4,2,16,0,11,7,88,5,14,19,12,0,11,0,0,0.30,0.25,0.50,1.33,1.58,0.58,0.92,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Norman,Avina",0,G,25,28,0,64,122,0,0,27,16,144,8,13,4,315,17,36,53,33,0,22,0,0,0.52,0.00,0.59,5.14,1.89,0.14,0.46,0.29
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Maier,Makenna",0,G,30,28,28,114,243,65,148,61,49,342,10,33,40,697,21,139,160,45,0,50,0,0,0.47,0.44,0.80,12.21,5.71,1.43,1.18,0.36
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Glass,Emily",0,G,32,8,0,1,7,0,5,0,0,2,0,2,1,21,2,0,2,1,0,3,0,0,0.14,0.00,0.00,0.25,0.25,0.13,0.25,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Peffer,Emerson",0,F,33,28,0,85,164,0,3,44,35,205,11,35,34,516,65,88,153,48,0,53,0,0,0.52,0.00,0.80,7.32,5.46,1.21,1.25,0.39
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Zombek,Chloe",0,G,40,7,0,2,3,0,1,0,0,4,2,1,1,22,0,2,2,1,0,0,0,0,0.67,0.00,0.00,0.57,0.29,0.14,0.14,0.29
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Smith,Bethany",0,F,00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Hertzler,Madison",0,G,03,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Rissmiller,Janay",0,G,14,16,2,15,45,5,12,11,6,41,1,6,10,216,12,12,24,18,0,7,0,0,0.33,0.42,0.55,2.56,1.50,0.63,0.38,0.06
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Saint Vincent,"Mannarino,Jillian",0,G,24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Joiner,Maya",0,F,00,25,25,100,194,0,0,67,39,239,41,53,54,879,73,196,269,49,0,39,0,0,0.52,0.00,0.58,9.56,10.76,2.16,2.12,1.64
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Seaman,Sarah",0,G,04,25,25,146,388,56,171,77,55,403,5,21,56,877,19,62,81,30,0,65,0,0,0.38,0.33,0.71,16.12,3.24,2.24,0.84,0.20
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Lloyd,Layla",0,F,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Doup,Liz",0,G,12,20,0,18,39,1,7,19,13,50,0,8,23,255,13,15,28,9,0,29,0,0,0.46,0.14,0.68,2.50,1.40,1.15,0.40,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Hunt,Riley",0,G,13,8,0,0,3,0,2,2,0,0,0,0,2,18,1,2,3,0,0,1,0,0,0.00,0.00,0.00,0.00,0.38,0.25,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Gunn,Juliana",0,G,15,17,10,22,81,4,26,18,8,56,0,20,30,311,13,33,46,38,0,41,2,0,0.27,0.15,0.44,3.29,2.71,1.76,1.18,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Gallegos,Rylee",0,G,20,2,0,0,1,0,0,0,0,0,0,0,0,4,0,1,1,0,0,2,0,0,0.00,0.00,0.00,0.00,0.50,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Salisbury,Avery",0,G,21,2,0,0,4,0,3,0,0,0,0,1,0,15,0,0,0,0,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.50,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Lyde,Ally",0,F,22,17,0,19,47,0,0,22,11,49,1,14,2,114,9,17,26,24,0,10,0,0,0.40,0.00,0.50,2.88,1.53,0.12,0.82,0.06
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Hart,Kaelyn",0,G,24,1,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Srinivasan,Advika",0,G,25,25,16,68,198,55,151,31,25,216,1,19,18,645,18,20,38,39,0,57,0,0,0.34,0.36,0.81,8.64,1.52,0.72,0.76,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Caceres,Isabella",0,G,33,24,24,112,316,52,153,81,54,330,15,46,121,924,4,82,86,47,0,83,0,0,0.35,0.34,0.67,13.75,3.58,5.04,1.92,0.63
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Wilhoite,McKinzie",0,F,35,17,11,23,62,0,2,38,24,70,0,13,11,316,27,25,52,40,0,21,1,0,0.37,0.00,0.63,4.12,3.06,0.65,0.76,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Petroff,Rylie",0,C,40,3,0,2,4,0,0,2,0,4,0,0,1,13,3,2,5,4,0,1,0,0,0.50,0.00,0.00,1.33,1.67,0.33,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Osborn,Emma",0,C,41,18,0,23,59,0,0,29,17,63,6,4,2,193,12,33,45,10,0,7,0,0,0.39,0.00,0.59,3.50,2.50,0.11,0.22,0.33
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Owens,Star",0,F,51,21,14,71,159,4,14,45,33,179,9,21,19,456,35,59,94,50,0,25,2,0,0.45,0.29,0.73,8.52,4.48,0.90,1.00,0.43
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Williams,Kesia",0,C,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Hiram,"Hernandez,Lexi",0,G,01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Arison,Kennedy",0,G,00,26,26,54,177,23,80,37,12,143,0,24,86,751,11,51,62,23,0,58,0,0,0.31,0.29,0.32,5.50,2.38,3.31,0.92,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Morris,Emma",0,G,01,5,0,0,1,0,1,2,1,1,1,0,0,11,0,2,2,1,0,5,0,0,0.00,0.00,0.50,0.20,0.40,0.00,0.00,0.20
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Brush,Angelina",0,G,02,24,10,30,99,21,70,34,18,99,12,13,48,594,5,62,67,37,0,39,0,0,0.30,0.30,0.53,4.13,2.79,2.00,0.54,0.50
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Ukeagu,Angelena",0,F,03,8,0,1,3,0,0,2,0,2,2,1,0,25,1,3,4,3,0,2,0,0,0.33,0.00,0.00,0.25,0.50,0.00,0.13,0.25
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Kreitzer,Caitlin",0,G,04,8,0,2,9,0,5,6,5,9,0,1,2,24,0,4,4,3,0,3,0,0,0.22,0.00,0.83,1.13,0.50,0.25,0.13,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Calcamuggio,Bella",0,*,10,26,26,63,156,24,63,8,7,157,2,57,81,686,12,93,105,56,0,88,0,0,0.40,0.38,0.88,6.04,4.04,3.12,2.19,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Bennett,Ava",0,G,11,20,0,7,22,3,9,6,6,23,0,2,6,133,7,13,20,11,0,9,0,0,0.32,0.33,1.00,1.15,1.00,0.30,0.10,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Defrank,Amara",0,G,12,5,0,0,1,0,1,0,0,0,0,0,0,9,0,0,0,1,0,1,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Maryo,Katie",0,G,14,26,14,79,209,63,169,17,17,238,3,14,21,590,13,62,75,31,0,25,0,0,0.38,0.37,1.00,9.15,2.88,0.81,0.54,0.12
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Smith,Ryen",0,F,15,18,0,15,53,8,35,20,12,50,1,5,7,212,4,26,30,13,0,25,0,0,0.28,0.23,0.60,2.78,1.67,0.39,0.28,0.06
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Cano,Grace",0,F,20,26,23,125,244,0,0,79,49,299,13,17,23,619,42,80,122,37,0,54,0,0,0.51,0.00,0.62,11.50,4.69,0.88,0.65,0.50
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Syka,Maddie",0,G,21,26,8,72,217,28,99,41,24,196,11,19,39,537,25,78,103,24,0,53,0,0,0.33,0.28,0.59,7.54,3.96,1.50,0.73,0.42
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"O'Leary,Quinn",0,G,23,12,0,1,12,0,8,4,2,4,1,3,2,58,1,6,7,3,0,8,0,0,0.08,0.00,0.50,0.33,0.58,0.17,0.25,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Zuelch,Jenna",0,F,30,26,0,47,120,1,3,31,19,114,13,4,25,380,26,55,81,28,0,28,0,0,0.39,0.33,0.61,4.38,3.12,0.96,0.15,0.50
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Maier,Avery",0,G,31,12,0,3,12,1,8,4,3,10,1,4,1,58,4,10,14,5,0,8,0,0,0.25,0.13,0.75,0.83,1.17,0.08,0.33,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Grexa,Katie",0,G,34,26,23,77,195,0,7,42,29,183,24,40,29,538,59,123,182,48,0,62,0,0,0.39,0.00,0.69,7.04,7.00,1.12,1.54,0.92
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Westminster,"Duble,Samantha",0,G,05,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.00,0.00,0.00,0.00,0.00,0.00,0.00,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Green,Issy",0,G,01,24,24,101,287,27,95,110,68,297,21,61,129,827,10,103,113,29,0,125,1,0,0.35,0.28,0.62,12.38,4.71,5.38,2.54,0.88
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Seddon,Kelsey",0,G,02,24,19,49,174,15,65,15,8,121,0,18,25,551,27,64,91,33,0,59,0,0,0.28,0.23,0.53,5.04,3.79,1.04,0.75,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Wagner,Kelsey",0,G,04,25,8,31,111,22,83,13,8,92,1,12,22,378,6,18,24,34,0,43,1,0,0.28,0.27,0.62,3.68,0.96,0.88,0.48,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Hansen,Owen",0,G,05,23,0,9,35,4,18,9,6,28,4,10,7,136,5,16,21,12,0,12,0,0,0.26,0.22,0.67,1.22,0.91,0.30,0.43,0.17
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Stephens,Caitlin",0,F,08,19,14,49,116,0,0,56,38,136,10,13,6,423,54,104,158,34,0,21,0,0,0.42,0.00,0.68,7.16,8.32,0.32,0.68,0.53
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Pfleger,Madison",0,G,10,23,1,13,66,7,46,14,9,42,1,15,31,406,1,28,29,50,0,62,1,0,0.20,0.15,0.64,1.83,1.26,1.35,0.65,0.04
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Hering,Natalie",0,G,11,25,5,9,34,4,15,2,1,23,2,8,9,251,6,15,21,7,0,29,0,0,0.26,0.27,0.50,0.92,0.84,0.36,0.32,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Risser,Kayley",0,F,12,25,25,112,311,19,53,74,41,284,15,40,47,727,41,122,163,53,0,85,1,0,0.36,0.36,0.55,11.36,6.52,1.88,1.60,0.60
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Jenness,Daisy",0,F,20,12,1,6,17,0,0,5,4,16,2,2,4,56,6,11,17,7,0,2,0,0,0.35,0.00,0.80,1.33,1.42,0.33,0.17,0.17
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Amory,Lyndzee",0,F,22,19,0,25,65,1,1,22,10,61,3,15,6,236,17,38,55,26,0,30,0,0,0.38,1.00,0.45,3.21,2.89,0.32,0.79,0.16
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Brady,Hannah",0,F,23,25,0,10,34,4,8,10,4,28,6,3,4,180,3,19,22,13,0,19,0,0,0.29,0.50,0.40,1.12,0.88,0.16,0.12,0.24
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Olczak,Tatum",0,F,24,16,0,2,9,0,4,1,1,5,0,2,1,41,1,2,3,0,0,5,0,0,0.22,0.00,1.00,0.31,0.19,0.06,0.13,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Betsinger,Emily",0,C,42,25,23,129,247,5,25,51,38,301,17,34,12,691,86,90,176,36,0,38,0,0,0.52,0.20,0.75,12.04,7.04,0.48,1.36,0.68
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Thiel,"Stehlik,Jensen",0,G,15,9,5,7,28,4,19,4,3,21,0,8,5,121,11,10,21,10,0,14,0,0,0.25,0.21,0.75,2.33,2.33,0.56,0.89,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Saez-Pedraza,Isa",0,G,00,25,6,52,153,11,49,32,19,134,6,54,29,398,12,39,51,52,0,42,0,0,0.34,0.22,0.59,5.36,2.04,1.16,2.16,0.24
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Jannuzi,Abbigail",0,G,01,25,21,84,298,47,177,49,38,253,2,30,27,687,13,49,62,43,0,65,0,0,0.28,0.27,0.78,10.12,2.48,1.08,1.20,0.08
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Johnson,Hannah",0,G,02,25,8,34,112,8,29,47,25,101,10,19,25,463,27,34,61,30,0,58,0,0,0.30,0.28,0.53,4.04,2.44,1.00,0.76,0.40
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Clow,Emma",0,G,03,25,14,34,124,11,59,25,11,90,3,33,52,641,18,40,58,54,0,55,2,0,0.27,0.19,0.44,3.60,2.32,2.08,1.32,0.12
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Wilkinson,Lucy",0,G,04,25,25,29,130,8,55,14,10,76,5,14,44,681,5,39,44,19,0,51,0,0,0.22,0.15,0.71,3.04,1.76,1.76,0.56,0.20
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Urso,Bella",0,G,05,3,1,7,21,2,11,4,3,19,3,6,4,90,13,4,17,5,0,7,0,0,0.33,0.18,0.75,6.33,5.67,1.33,2.00,1.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Pesce,Annie",0,G,10,14,0,5,14,0,0,8,5,15,0,6,0,55,7,6,13,4,0,7,0,0,0.36,0.00,0.63,1.07,0.93,0.00,0.43,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Camardo,Josephine",0,G,11,9,0,3,9,1,1,2,1,8,0,1,1,31,4,2,6,2,0,4,0,0,0.33,1.00,0.50,0.89,0.67,0.11,0.11,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Simon,Magdalen",0,G,15,11,6,39,110,15,53,40,26,119,3,12,11,233,30,32,62,26,0,32,0,0,0.35,0.28,0.65,10.82,5.64,1.00,1.09,0.27
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Biasutto,Gemma",0,C,20,23,4,30,80,0,0,18,13,73,14,7,8,269,42,60,102,42,0,30,0,0,0.38,0.00,0.72,3.17,4.43,0.35,0.30,0.61
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Beath,Angelina",0,G,21,14,0,7,20,3,8,3,2,19,0,2,3,84,1,15,16,7,0,3,0,0,0.35,0.38,0.67,1.36,1.14,0.21,0.14,0.00
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"McCallen,Maria",0,F,22,14,12,66,157,0,1,59,39,171,12,17,25,395,50,49,99,33,0,52,0,0,0.42,0.00,0.66,12.21,7.07,1.79,1.21,0.86
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Melnyk,Jazzlyn",0,G,24,25,25,118,334,33,113,90,40,309,12,53,64,899,79,207,286,43,0,62,0,0,0.35,0.29,0.44,12.36,11.44,2.56,2.12,0.48
+pac,Presidents Athletic Conference (PAC),2025-26,wbball,Franciscan,"Reedy,Caroline",0,G,30,5,3,17,56,2,9,19,8,44,3,18,9,99,22,13,35,11,0,13,0,0,0.30,0.22,0.42,8.80,7.00,1.80,3.60,0.60

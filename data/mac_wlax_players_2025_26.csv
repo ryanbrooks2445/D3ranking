@@ -1,0 +1,403 @@
+conference_code,conference,season,sport,team,player_name,class_year,position,uniform,games_played,games_started,goal_stats_shootout_goals,goal_stats_free_positiong_goals,goal_stats_game_tying_goals,goal_stats_empty_net_goals,goal_stats_overtime_goals,goal_stats_first_goals,goal_stats_unassisted_goals,goal_stats_short_handed_goals,goal_stats_power_play_goals,goal_stats_game_winning_goals,penalty_stats_number,penalty_stats_minutes,penalty_stats_fouls,penalty_stats_green_cards,penalty_stats_yellow_cards,penalty_stats_red_cards,penalty_stats_match,penalty_stats_major,penalty_stats_minor,misc_stats_powerplay_opps,misc_stats_powerplay_goals,misc_stats_faceoffs_won,misc_stats_faceoffs_lost,misc_stats_ground_balls,misc_stats_draw_controls,misc_stats_turnovers,misc_stats_caused_turnovers,misc_stats_minutes_played,misc_stats_seconds,misc_stats_faceoffs_taken,misc_stats_penalty_killing_pct,goalie_stats_games_played,goalie_stats_minutes,goalie_stats_goals_allowed,goalie_stats_saves,goalie_stats_shutouts,goalie_stats_win,goalie_stats_loss,goalie_stats_tie,goalie_stats_powerplay_goals_allowed,goalie_stats_shorthanded_goals_allowed,goalie_stats_emptynet_goals_allowed,goalie_stats_shots_faced,goalie_stats_goals_against_avg,goalie_stats_save_pct,shot_stats_shots_on_goal,shot_stats_shots,shot_stats_free_position_shots,shot_stats_points,shot_stats_assists,shot_stats_goals,shot_stats_shots_on_goal_pct
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Caelainn Morrison,,,,17,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,0,15,8,832:00,95,0,1.000,17,834:49,227,166,0,4,11,0,1,1,0,516,16.31,.422,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Anna Bien,,,,14,12,0,1,0,0,0,0,2,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,36,16,15,14,720:00,0,0,1.000,,,,,,,,,,,,,,,3,5,2,2,0,2,.600
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Riley Basht,,,,17,13,0,4,0,0,0,4,9,0,2,0,0,0,0,2,2,0,0,0,0,0,0,0,0,22,6,18,5,746:00,56,0,1.000,,,,,,,,,,,,,,,33,59,12,26,4,22,.559
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Lucy Moreland,,,,17,17,0,2,0,0,0,0,4,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,14,0,12,1,1023:00,44,0,1.000,,,,,,,,,,,,,,,26,39,5,15,3,12,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Cynthia Schneider,,,,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,7,0,13,4,292:00,0,0,1.000,,,,,,,,,,,,,,,2,2,0,1,1,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Kendall Smith,,,,16,12,0,2,0,0,0,1,15,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,15,8,33,5,723:00,44,0,1.000,,,,,,,,,,,,,,,42,64,8,25,3,22,.656
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,McKena Cox,,,,9,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,0,6,0,276:00,48,0,1.000,,,,,,,,,,,,,,,2,3,1,0,0,0,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Kayte Moist,,,,16,15,0,8,0,0,0,3,36,1,6,1,0,0,0,12,3,0,0,0,0,0,0,0,0,29,64,38,12,874:00,64,0,1.000,,,,,,,,,,,,,,,93,115,14,71,10,61,.809
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Courtney Futrick,,,,14,11,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,14,0,12,16,712:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Kaila Clark,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,27,1,17,13,1023:00,44,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Bridgette Asher,,,,8,5,0,2,0,0,0,0,6,1,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,8,2,13,3,303:00,44,0,1.000,,,,,,,,,,,,,,,19,24,3,14,1,13,.792
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Katelyn Kelly,,,,17,8,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,11,0,8,3,431:00,44,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Sarah Chernis,,,,17,17,0,1,0,0,0,1,10,0,2,1,0,0,0,7,2,0,0,0,0,0,0,0,0,14,2,54,7,1023:00,44,0,1.000,,,,,,,,,,,,,,,24,36,9,55,43,12,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Olivia Ball,,,,17,17,0,0,0,0,0,1,3,2,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,14,32,23,5,1023:00,44,0,1.000,,,,,,,,,,,,,,,15,22,2,7,1,6,.682
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Natalie Hoffman,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Tori Drennan,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,0,0,0,0,0,0,0,7,0,3,6,971:00,44,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Jocelyn McLaughlin,,,,10,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,120:00,0,0,1.000,,,,,,,,,,,,,,,0,1,0,1,1,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Zoe Dicks,,,,17,16,0,1,0,0,0,0,8,0,2,2,0,0,0,4,5,0,0,0,0,0,0,0,0,37,71,37,19,963:00,44,0,1.000,,,,,,,,,,,,,,,38,48,3,36,13,23,.792
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Kylee McCauley-Kriegsman,,,,8,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,2,190:00,9,0,1.000,8,188:55,45,24,0,2,3,0,1,0,0,83,14.29,.348,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Albright,Devon Sonzogni,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Thomas, Makenna",,,,17,1,0,4,0,0,0,1,11,1,2,1,0,0,0,1,1,0,0,0,0,0,0,0,0,6,7,20,1,60:00,16,0,1.000,,,,,,,,,,,,,,,43,60,14,17,1,16,.717
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Kerchner, Lindsay",,,,17,17,0,3,0,0,0,1,16,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,5,1,30,0,1026:00,67,0,1.000,,,,,,,,,,,,,,,47,65,15,27,4,23,.723
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Rose, Reagan",,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,8,7,1026:00,67,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Mckeever, Ashley",,,,14,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,9,2,00:00,0,0,1.000,,,,,,,,,,,,,,,4,4,0,4,3,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Martin, Mia",,,,17,16,0,1,0,0,0,0,4,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,12,2,28,2,966:00,51,0,1.000,,,,,,,,,,,,,,,20,27,4,12,7,5,.741
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Tyler, Hannah",,,,17,17,0,2,0,0,0,2,7,0,4,1,0,0,0,3,4,0,0,0,0,0,0,0,0,31,15,21,21,1026:00,67,0,1.000,,,,,,,,,,,,,,,35,50,9,27,4,23,.700
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Malone, Olivia",,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,26,0,11,17,1026:00,67,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Ruocco, Sophia",,,,17,17,0,0,0,0,0,0,3,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,9,1,13,8,1026:00,67,0,1.000,,,,,,,,,,,,,,,8,11,1,7,3,4,.727
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Hawley, Cailyn",,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,40,36,11,28,1026:00,67,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Roller, Haylee",,,,16,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,13,2,60:00,16,0,1.000,,,,,,,,,,,,,,,7,9,2,2,1,1,.778
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Smith, Sherrin",,,,17,17,0,14,0,0,0,3,33,1,3,1,0,0,0,4,3,0,0,0,0,0,0,0,0,13,70,53,3,1026:00,67,0,1.000,,,,,,,,,,,,,,,79,107,25,50,8,42,.738
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Miller, Hailey",,,,17,0,0,2,0,0,0,0,3,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,20,10,19,5,00:00,0,0,1.000,,,,,,,,,,,,,,,10,15,3,7,1,6,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Kight, Kayleigh",,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,7,6,0,1,0,0,0,0,0,0,58,35,9,34,1026:00,67,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Brower, Gracie",,,,17,16,0,2,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,25,1,966:00,51,0,1.000,,,,,,,,,,,,,,,11,13,3,22,14,8,.846
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Gonzales, Victoria",,,,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,2,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Bowman, Kayla",,,,9,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,1,3,1,00:00,0,0,1.000,,,,,,,,,,,,,,,2,2,0,2,1,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Tholan, Emily",,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,19,7,1026:00,67,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Stare, Emili",,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Zocco, Marissa",,,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,0,30:00,0,0,1.000,8,190:14,23,20,0,0,0,0,0,0,0,51,7.25,.465,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Alvernia,"Wolfe, Hannah",,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,21,0,18,4,996:00,67,0,1.000,17,831:19,205,117,0,5,14,0,1,1,0,422,14.80,.363,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Elizabeth Zanca,,,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1,1,0,115:00,97,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Tessa O'Donnell,,,,3,3,0,3,0,0,0,0,6,0,0,1,0,0,0,4,1,0,0,0,0,0,0,0,0,4,15,2,2,171:00,11,0,1.000,,,,,,,,,,,,,,,13,19,4,10,2,8,.684
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Olivia Poley,,,,17,17,0,4,0,0,0,0,14,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,13,9,39,4,1000:00,157,0,1.000,,,,,,,,,,,,,,,40,62,13,46,31,15,.645
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Gianna DiNofa,,,,17,17,0,3,0,0,0,2,4,0,2,2,0,0,0,3,0,0,0,0,0,0,0,0,0,17,0,20,9,958:00,155,0,1.000,,,,,,,,,,,,,,,29,37,8,22,5,17,.784
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Sophia Dwyer,,,,17,10,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,17,2,5,5,703:00,188,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Mairead O'Connell,,,,10,10,0,0,0,0,0,0,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,14,1,7,6,495:00,195,0,1.000,,,,,,,,,,,,,,,1,2,0,1,0,1,.500
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Olivia Forant,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,0,0,0,0,0,0,27,7,12,13,1033:00,145,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Morganne Dee,,,,7,7,0,2,0,0,0,1,6,0,1,1,0,0,0,2,2,0,0,0,0,0,0,0,0,15,0,13,7,319:00,142,0,1.000,,,,,,,,,,,,,,,29,46,10,21,4,17,.630
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Emily Ruggiero,,,,17,16,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,8,0,10,5,804:00,224,0,1.000,,,,,,,,,,,,,,,4,7,0,3,1,2,.571
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Mackenzie Clark,,,,17,17,0,2,0,0,0,1,20,1,2,1,0,0,0,9,9,0,0,0,0,0,0,0,0,38,29,32,42,858:00,158,0,1.000,,,,,,,,,,,,,,,45,60,7,42,12,30,.750
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Jaylee Killgore,,,,17,17,0,1,0,0,0,1,17,2,4,1,0,0,0,8,1,0,0,0,0,0,0,0,0,30,12,23,7,969:00,107,0,1.000,,,,,,,,,,,,,,,63,83,7,59,19,40,.759
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Thea O'Connor,,,,10,5,0,0,0,0,0,0,4,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,4,0,15,1,432:00,179,0,1.000,,,,,,,,,,,,,,,17,26,3,12,0,12,.654
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Alejandra Roemer,,,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,4,0,170:00,123,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Jordyn Chan,,,,17,17,0,4,0,0,0,1,8,0,1,1,0,0,0,6,2,0,0,0,0,0,0,0,0,26,58,18,13,1014:00,115,0,1.000,,,,,,,,,,,,,,,27,36,12,17,3,14,.750
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Allyson Reidenbach,,,,17,5,0,1,0,0,0,0,2,0,0,0,0,0,0,9,2,0,0,0,0,0,0,0,0,21,11,19,7,537:00,234,0,1.000,,,,,,,,,,,,,,,8,14,4,5,3,2,.571
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Radini Wijesuriya,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Meghan Graham,,,,15,0,0,0,0,0,0,0,2,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,0,8,3,282:00,293,0,1.000,,,,,,,,,,,,,,,9,12,3,7,2,5,.750
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Karina Maksym,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,31,0,15,14,987:00,176,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Emily Griffith,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,25,16,1020:00,158,0,1.000,17,995:24,183,143,0,8,7,0,8,2,0,426,11.03,.439,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Taylor Funcheon,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,28:00,60,0,1.000,3,29:00,4,3,0,0,0,0,0,0,0,9,8.28,.429,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Tessa O&#39;Donnell,,,,1,1,0,2,0,0,0,0,4,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,5,4,0,60:00,0,0,1.000,,,,,,,,,,,,,,,7,7,3,4,0,4,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Mairead O&#39;Connel,,,,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,15,0,11,6,425:00,36,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Arcadia,Thea O&#39;Connor,,,,7,4,0,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,8,2,245:00,36,0,1.000,,,,,,,,,,,,,,,7,11,2,4,0,4,.636
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Kyra McKeegan,,,,17,17,0,7,0,0,0,3,36,1,6,3,0,0,0,3,2,0,0,0,0,0,0,0,0,47,13,52,8,1037:00,28,0,1.000,,,,,,,,,,,,,,,92,132,24,69,22,47,.697
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Sierra Sketers,,,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,1,2,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Viola Anderson,,,,16,16,0,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,22,2,18,10,977:00,28,0,1.000,,,,,,,,,,,,,,,2,3,0,1,0,1,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Charley Lengel-Kramer,,,,17,17,0,0,0,0,0,0,13,0,3,0,0,0,0,21,12,0,0,0,0,0,0,0,0,30,9,35,22,1037:00,28,0,1.000,,,,,,,,,,,,,,,28,32,4,17,1,16,.875
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Samantha Charles,,,,15,12,0,0,0,0,0,1,4,2,1,0,0,0,0,6,3,0,0,0,0,0,0,0,0,27,29,25,18,726:00,0,0,1.000,,,,,,,,,,,,,,,15,22,2,11,3,8,.682
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Anna Kimbel,,,,10,8,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,4,18,3,497:00,28,0,1.000,,,,,,,,,,,,,,,18,26,2,9,2,7,.692
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Victoria Offenburger,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,11,0,3,8,1037:00,28,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Gabriella Guerra,,,,17,17,0,3,0,0,0,0,7,0,2,1,0,0,0,0,2,0,0,0,0,0,0,0,0,53,50,24,13,1037:00,28,0,1.000,,,,,,,,,,,,,,,25,31,9,16,4,12,.806
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Avril Bermudez,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Daisy Kovacs,,,,16,10,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,16,0,9,1,606:00,0,0,1.000,,,,,,,,,,,,,,,14,18,4,3,0,3,.778
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Ashley Birmingham,,,,17,17,0,6,0,0,0,3,48,0,0,1,0,0,0,6,9,0,0,0,0,0,0,0,0,82,67,37,42,1037:00,28,0,1.000,,,,,,,,,,,,,,,125,172,12,67,9,58,.727
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Alyssa Rudd,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,41,5,20,17,1037:00,28,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Katie Martin,,,,16,15,0,1,0,0,0,0,10,1,0,1,0,0,0,3,3,0,0,0,0,0,0,0,0,27,0,18,14,917:00,28,0,1.000,,,,,,,,,,,,,,,18,19,3,12,0,12,.947
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Rachel Walkup,,,,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,00:00,0,0,1.000,,,,,,,,,,,,,,,1,3,0,1,0,1,.333
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Abbie Hostetler,,,,17,17,0,3,0,0,0,0,13,2,1,0,0,0,0,1,3,0,0,0,0,0,0,0,0,34,2,44,16,1037:00,28,0,1.000,,,,,,,,,,,,,,,48,66,12,34,13,21,.727
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Amelia Helkowski,,,,13,4,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,12,0,2,5,245:00,28,0,1.000,,,,,,,,,,,,,,,6,8,2,3,0,3,.750
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Leilani Eckert,,,,12,3,0,0,0,0,0,0,2,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,5,0,180:00,0,0,1.000,,,,,,,,,,,,,,,2,4,1,2,0,2,.500
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Delaware Valley,Emily Drake,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,31,7,1037:00,28,0,1.000,17,1032:00,241,183,0,6,11,0,5,4,0,542,14.01,.432,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Meagan Landers,,,,18,18,0,8,0,0,0,2,17,0,4,0,0,0,0,2,5,0,0,0,0,0,0,0,0,32,54,31,11,1073:00,142,0,1.000,,,,,,,,,,,,,,,67,86,10,47,9,38,.779
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Hailey Linebaugh,,,,18,18,0,2,0,0,0,1,13,0,4,0,0,0,0,3,1,0,0,0,0,0,0,0,0,24,3,34,16,1073:00,142,0,1.000,,,,,,,,,,,,,,,42,49,6,82,49,33,.857
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Danielle Sieja,,,,17,17,0,3,0,0,0,1,13,1,4,0,0,0,0,1,2,0,0,0,0,0,0,0,0,50,43,25,44,1013:00,142,0,1.000,,,,,,,,,,,,,,,38,51,7,32,10,22,.745
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Sophia Campola,,,,18,18,0,1,0,0,0,0,4,0,1,3,0,0,0,1,2,0,0,0,0,0,0,0,0,12,5,23,6,1028:00,176,0,1.000,,,,,,,,,,,,,,,25,34,2,37,19,18,.735
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Jess Brey,,,,16,16,0,5,0,0,0,5,15,1,3,6,0,0,0,2,0,0,0,0,0,0,0,0,0,14,62,14,8,964:00,114,0,1.000,,,,,,,,,,,,,,,78,116,10,78,21,57,.672
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Bridey Lawler,,,,18,18,0,5,0,0,0,3,11,0,7,2,0,0,0,14,1,0,0,0,0,0,0,0,0,24,7,32,11,1073:00,142,0,1.000,,,,,,,,,,,,,,,82,104,12,59,9,50,.788
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Anna Edwards,,,,18,3,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,12,0,4,8,171:00,66,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Kiersten Shupp,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Bridget Hays,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,3,1,00:00,0,0,1.000,,,,,,,,,,,,,,,1,4,1,2,1,1,.250
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,C. DiGuglielmo,,,,18,18,0,3,0,0,0,2,22,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,21,33,41,4,1073:00,142,0,1.000,,,,,,,,,,,,,,,64,83,16,104,66,38,.771
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Madison Felix,,,,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Nicole Minelli,,,,12,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,2,0,272:00,22,0,1.000,12,331:36,35,33,0,1,0,0,6,1,0,91,6.33,.485,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Emma Williamson,,,,18,18,0,1,0,0,0,0,7,1,10,3,0,0,0,2,1,0,0,0,0,0,0,0,0,70,17,13,26,1073:00,142,0,1.000,,,,,,,,,,,,,,,41,46,2,41,9,32,.891
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Sara Forchelli,,,,16,0,0,0,0,0,0,0,2,2,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,3,0,7,2,41:00,48,0,1.000,,,,,,,,,,,,,,,12,13,0,11,2,9,.923
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Maggie Evans,,,,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,12,1,10,5,1073:00,142,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Gianna Cataldo,,,,18,18,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,1,11,11,1073:00,142,0,1.000,,,,,,,,,,,,,,,1,1,0,1,0,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Cami Beetel,,,,17,12,0,1,0,0,0,0,1,0,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,24,16,9,20,713:00,104,0,1.000,,,,,,,,,,,,,,,5,10,3,4,1,3,.500
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Keira Linebaugh,,,,16,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,8,0,0,11,360:00,38,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,DeSales,Michaela Regan,,,,18,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,6,4,799:00,240,0,1.000,18,737:52,97,92,0,14,4,0,3,2,0,259,7.89,.487,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Morgan Wallace,,,,12,12,0,6,0,0,0,1,17,2,2,2,0,0,0,3,4,0,0,0,0,0,0,0,0,21,49,58,16,720:00,0,0,1.000,,,,,,,,,,,,,,,24,42,9,39,20,19,.571
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Ava Weiman,,,,14,14,0,0,0,0,0,0,5,0,4,0,0,0,0,2,0,0,0,0,0,0,0,0,0,15,0,22,5,840:00,0,0,1.000,,,,,,,,,,,,,,,21,25,1,17,4,13,.840
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Gracie Horton,,,,14,14,0,5,0,0,0,0,11,0,3,0,0,0,0,4,0,0,0,0,0,0,0,0,0,14,32,45,5,840:00,0,0,1.000,,,,,,,,,,,,,,,37,53,13,31,11,20,.698
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Amira Solomon,,,,13,13,0,3,0,0,0,1,10,0,1,0,0,0,0,2,2,0,0,0,0,0,0,0,0,7,1,26,8,780:00,0,0,1.000,,,,,,,,,,,,,,,20,32,6,15,3,12,.625
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Addyson Whitaker,,,,14,14,0,0,0,0,0,0,1,0,0,0,0,0,0,3,6,0,0,0,0,0,0,0,0,32,4,32,16,840:00,0,0,1.000,1,60:00,19,6,0,0,2,0,0,0,0,34,19.00,.240,1,1,0,1,0,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Laynie Casey,,,,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,15,8,840:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Erin Speak,,,,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,14,8,840:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Seana Rodgers,,,,12,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,25,6,720:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Natalia Willoughby,,,,14,14,0,5,0,0,0,1,8,2,4,0,0,0,0,6,11,0,0,0,0,0,0,0,0,42,64,34,18,840:00,0,0,1.000,,,,,,,,,,,,,,,45,56,8,36,5,31,.804
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Natasha Chaillou,,,,13,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,0,6,1,780:00,0,0,1.000,13,727:58,198,89,0,3,11,0,0,0,0,397,16.32,.310,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,CJ Summa,,,,3,3,0,1,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,3,0,180:00,0,0,1.000,,,,,,,,,,,,,,,11,12,1,6,1,5,.917
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Lauren Young,,,,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,28,0,20,15,840:00,0,0,1.000,,,,,,,,,,,,,,,0,1,1,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Emily Berkley,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Sammy Voelker,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Sammie Voelker,,,,10,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,8,12,600:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Aubrie Hatfield,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,2,0,00:00,0,0,1.000,2,52:02,11,7,0,0,0,0,0,0,0,24,12.68,.389,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Abby Hakes,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,1,1,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Paige Brouse,,,,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,120:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Grace Barnett,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,60:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Billinda Leisner,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Paige Robinson,,,,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,60:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Eastern,Christina Unger,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Claudia Zappia,,,,14,14,0,2,0,0,0,0,16,0,1,1,0,0,0,4,1,0,0,0,0,0,0,0,0,10,0,27,1,789:00,128,0,1.000,,,,,,,,,,,,,,,45,72,8,56,35,21,.625
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Madison Ballesteros,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Talia Scheffer,,,,14,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,6,1,446:00,83,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Madison Dougherty,,,,14,13,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,33,10,13,11,697:00,155,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Gianna Gittlitz,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,2,1,30:00,0,0,1.000,3,75:00,20,10,0,0,0,0,0,0,0,35,16.00,.333,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Shirley Munoz-Lopez,,,,7,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,343:00,33,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Kristen Mellon,,,,14,14,0,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,25,2,22,13,789:00,128,0,1.000,,,,,,,,,,,,,,,14,24,3,11,7,4,.583
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Cynthia Dinapoli,,,,12,10,0,0,0,0,0,0,0,0,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,5,2,16,1,554:00,114,0,1.000,,,,,,,,,,,,,,,10,16,0,5,1,4,.625
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Abigail Collins,,,,14,12,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,10,1,677:00,95,0,1.000,,,,,,,,,,,,,,,4,6,0,3,0,3,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,V. Balderas velez,,,,14,13,0,1,0,0,0,0,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,6,1,9,7,686:00,147,0,1.000,,,,,,,,,,,,,,,1,1,1,1,0,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Maya Henri,,,,14,14,0,1,0,0,0,0,6,0,1,1,0,0,0,2,3,0,0,0,0,0,0,0,0,14,21,35,9,789:00,128,0,1.000,,,,,,,,,,,,,,,25,33,2,15,4,11,.758
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Anacapri Slack,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Sasha Pollock,,,,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,3,2,91:00,33,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Destiny Knight,,,,11,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,4,1,340:00,86,0,1.000,,,,,,,,,,,,,,,0,0,0,2,2,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Julianna Medina,,,,14,13,0,7,0,0,1,2,35,0,5,2,0,0,0,1,5,0,0,0,0,0,0,0,0,22,78,41,16,740:00,114,0,1.000,,,,,,,,,,,,,,,85,116,12,62,12,50,.733
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Cassidy Gesualdo,,,,6,1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,65:00,52,0,1.000,,,,,,,,,,,,,,,2,2,1,1,0,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Alexis Ashton,,,,14,14,0,6,0,0,0,3,24,1,6,0,0,0,0,5,5,0,0,0,0,0,0,0,0,29,85,37,16,783:00,136,0,1.000,,,,,,,,,,,,,,,100,115,11,64,6,58,.870
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Alison Kozik,,,,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,13,0,759:00,128,0,1.000,14,716:04,203,153,0,4,11,0,1,0,0,469,17.01,.430,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Angelina Ruscitti,,,,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,16,0,10,7,789:00,128,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Bailey Kelly,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Katie Lamothe,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Melanie McClay,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Ashley Silva,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Kaylei Joseph,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Abigail Lambert,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Mya Dupuy,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Aliyannah Makein,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Meredith Sylvia,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Savannah Herrington,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Hannah Battell,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Lizzy Deacon,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Erin McIntyre,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Abbey Benotti,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Sophia Fleurent,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Rosemary Lally,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Chloe Bowman,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Camryn Gonsalves,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Sara Skaff,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,0,00:00,0,0,0,0,0,0,0,0,0,0,.00,.000,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Katie Murphy,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Katy Shaw,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Emma Burnie,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Riley Bina,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Taylor Carter,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Hannah Bowlby,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Gianna Scarpelli,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,0,00:00,0,0,0,0,0,0,0,0,0,0,.00,.000,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,FDU - Florham,Riley Guenette,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Emma Massey,,,,5,5,0,2,0,0,0,1,2,0,1,2,0,0,0,4,0,0,0,0,0,0,0,0,0,4,2,4,4,290:00,59,0,1.000,,,,,,,,,,,,,,,8,15,5,6,1,5,.533
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Meghan Welker,,,,15,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,17,0,00:00,0,0,1.000,,,,,,,,,,,,,,,8,12,2,4,3,1,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Madison Nalborczyk,,,,10,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,7,2,0,6,242:00,75,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Natalie Benincasa,,,,17,6,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,17,3,5,2,360:00,0,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Alanna Lee,,,,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,5,0,00:00,0,0,1.000,,,,,,,,,,,,,,,7,7,0,2,2,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Jaylen Brooks,,,,17,17,0,1,0,0,0,0,5,0,1,1,0,0,0,3,1,0,0,0,0,0,0,0,0,23,12,22,11,1016:00,128,0,1.000,,,,,,,,,,,,,,,23,31,5,13,3,10,.742
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Julia Gregory,,,,17,17,0,9,0,0,0,2,24,1,8,1,0,0,0,16,2,0,0,0,0,0,0,0,0,18,109,38,11,1016:00,128,0,1.000,,,,,,,,,,,,,,,65,97,19,44,7,37,.670
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Menna Salem,,,,17,17,0,3,0,0,0,1,12,0,2,0,0,0,0,1,1,0,0,0,0,0,0,0,0,27,5,16,13,1016:00,128,0,1.000,,,,,,,,,,,,,,,31,41,12,15,0,15,.756
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Abby Burnette,,,,17,17,0,8,0,0,0,0,23,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,12,0,19,5,1016:00,128,0,1.000,,,,,,,,,,,,,,,60,78,14,49,16,33,.769
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Emilie Vitalo,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,23,0,9,20,1016:00,128,0,1.000,,,,,,,,,,,,,,,3,5,1,1,0,1,.600
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Alivia Hosterman,,,,10,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,6,2,535:00,95,0,1.000,10,516:53,101,65,0,2,6,0,0,0,0,215,11.72,.392,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Grace Koehler,,,,17,17,0,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,17,0,7,8,1016:00,128,0,1.000,,,,,,,,,,,,,,,3,3,0,2,0,2,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Katy Przybocki,,,,17,16,0,0,0,0,0,0,9,0,1,0,0,0,0,6,2,0,0,0,0,0,0,0,0,28,25,21,12,956:00,128,0,1.000,,,,,,,,,,,,,,,22,29,1,20,7,13,.759
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Abbey Bolingbroke,,,,17,16,0,2,0,0,0,0,5,0,3,0,0,0,0,2,2,0,0,0,0,0,0,0,0,46,70,19,26,963:00,108,0,1.000,,,,,,,,,,,,,,,13,20,2,9,2,7,.650
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Rachel Harper,,,,15,7,0,5,0,0,0,1,16,0,5,0,0,0,0,3,1,0,0,0,0,0,0,0,0,7,2,32,0,414:00,53,0,1.000,,,,,,,,,,,,,,,39,56,12,37,14,23,.696
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Avery Stanley,,,,17,17,0,5,0,0,1,1,15,1,2,1,0,0,0,7,3,0,0,0,0,0,0,0,0,19,2,22,10,1016:00,128,0,1.000,,,,,,,,,,,,,,,45,59,13,41,10,31,.763
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Piper Wright,,,,16,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,1,9,2,666:00,69,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Savannah Winpigler,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Ellie Glawe,,,,7,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,9,2,421:00,33,0,1.000,7,410:11,98,46,0,3,4,0,2,2,0,195,14.34,.319,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Hayley Turnbull,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,4,91:04,21,6,0,0,0,0,0,0,0,34,13.84,.222,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Hood,Kady Kratzer,,,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Sydney Stratton,,,,14,13,0,2,0,0,0,1,6,0,2,1,0,0,0,1,2,0,0,0,0,0,0,0,0,19,10,23,7,779:00,40,0,1.000,,,,,,,,,,,,,,,25,31,8,15,2,13,.806
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Cadie Lewis,,,,11,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,16,1,3,3,420:00,4,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Harley Sabol,,,,15,15,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,19,0,18,12,899:00,44,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Kailey McGinley,,,,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Emma Besa,,,,15,15,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,24,1,31,12,899:00,44,0,1.000,,,,,,,,,,,,,,,2,7,1,1,0,1,.286
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Alli Lindsay,,,,13,13,0,9,0,0,0,2,36,0,3,1,0,0,0,7,4,0,0,0,0,0,0,0,0,34,88,38,13,779:00,44,0,1.000,,,,,,,,,,,,,,,69,90,16,70,25,45,.767
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Chloe Burke,,,,15,14,0,1,0,0,0,2,16,0,3,0,0,0,0,6,5,0,0,0,0,0,0,0,0,47,39,37,23,824:00,44,0,1.000,,,,,,,,,,,,,,,58,75,7,38,9,29,.773
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Emma Clark,,,,15,15,0,0,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,18,1,19,18,895:00,92,0,1.000,,,,,,,,,,,,,,,2,3,1,3,2,1,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Maria Schneider,,,,15,15,0,6,0,0,0,2,16,0,8,3,0,0,0,12,12,0,0,0,0,0,0,0,0,50,55,43,27,899:00,44,0,1.000,,,,,,,,,,,,,,,52,64,9,42,13,29,.813
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Emily Kane,,,,15,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,1,16,3,839:00,44,0,1.000,,,,,,,,,,,,,,,9,13,0,5,0,5,.692
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Sarah Schultz,,,,15,15,0,2,0,0,0,0,10,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,36,0,27,0,899:00,44,0,1.000,,,,,,,,,,,,,,,41,51,4,43,13,30,.804
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Emilee Schultz,,,,15,15,0,0,0,0,0,2,5,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,17,1,28,7,899:00,44,0,1.000,,,,,,,,,,,,,,,27,37,3,28,13,15,.730
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Rylee O'Donnell,,,,12,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,16,12,659:00,44,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Brooke Harmonosky,,,,2,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,1,120:00,0,0,1.000,,,,,,,,,,,,,,,0,2,1,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Alyssa Reeber,,,,14,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,0,20,0,779:00,44,0,1.000,14,749:40,195,156,0,2,9,0,3,2,0,444,15.61,.444,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Lauren Casey,,,,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,03:00,12,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,King's,Ani Quindipan,,,,7,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,2,0,75:00,0,0,1.000,5,150:00,23,21,0,1,0,0,0,0,0,64,9.20,.477,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Annelise Vetter,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,36,1,13,25,967:00,95,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Alyssa Wene,,,,18,18,0,16,0,0,1,2,51,0,2,3,0,0,0,4,2,0,0,0,0,0,0,0,0,21,105,41,7,1087:00,62,0,1.000,,,,,,,,,,,,,,,86,108,23,80,20,60,.796
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Jenna Davis,,,,12,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,02:00,38,0,1.000,,,,,,,,,,,,,,,9,10,0,7,1,6,.900
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Morgan Delaney,,,,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,5,0,1,5,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Grace Marchese,,,,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,15,8,9,8,1087:00,95,0,1.000,,,,,,,,,,,,,,,2,2,0,2,0,2,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Katie Giusti,,,,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,18,3,8,3,1147:00,62,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Bethany Cohee,,,,19,19,0,3,0,0,0,2,5,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,16,0,53,4,1147:00,62,0,1.000,,,,,,,,,,,,,,,28,32,6,78,62,16,.875
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Molly Whisler,,,,19,19,0,2,0,0,0,4,8,0,9,2,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,12,0,1147:00,62,0,1.000,,,,,,,,,,,,,,,69,86,7,60,20,40,.802
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Kyla Hebert,,,,18,14,0,5,0,0,0,1,10,1,3,1,0,0,0,3,0,0,0,0,0,0,0,0,0,13,28,32,1,847:00,44,0,1.000,,,,,,,,,,,,,,,38,46,11,26,4,22,.826
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Elizabeth Morgan,,,,19,8,0,1,0,0,0,1,25,0,4,2,0,0,0,1,1,0,0,0,0,0,0,0,0,17,0,22,1,486:00,18,0,1.000,,,,,,,,,,,,,,,63,77,4,63,18,45,.818
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Emily Beard,,,,19,19,0,9,0,0,0,4,27,2,6,4,0,0,0,5,2,0,0,0,0,0,0,0,0,25,19,36,19,1147:00,62,0,1.000,,,,,,,,,,,,,,,104,122,15,97,22,75,.852
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Chloe Moser,,,,19,19,0,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,50,133,10,34,1147:00,62,0,1.000,,,,,,,,,,,,,,,2,5,0,2,0,2,.400
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Hannah Schneider,,,,17,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,4,4,361:00,44,0,1.000,,,,,,,,,,,,,,,3,4,0,4,1,3,.750
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Anna Ridlon,,,,19,10,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,13,1,4,9,656:00,53,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Andie Hull,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Katie DeWitt,,,,17,0,0,5,0,0,0,1,7,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,10,1,59:00,27,0,1.000,,,,,,,,,,,,,,,28,41,9,22,6,16,.683
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Emily Menet,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,0,00:00,0,0,1.000,,,,,,,,,,,,,,,4,6,0,2,0,2,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Julia Lancellotti,,,,16,3,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,5,0,1,4,180:00,14,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Giuliana Ditsky,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,9,6,1027:00,62,0,1.000,17,1027:44,151,118,0,12,3,0,4,0,0,343,8.82,.439,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Allison Keeney,,,,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,24,3,10,9,1147:00,62,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Gigi Ditsky,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,0,00:00,0,0,0,0,1,0,0,0,0,0,.00,.000,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Lebanon Valley,Ella Weidenhammer,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Alina Bernal-Clark,,,,20,20,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,12,1,21,5,1205:00,0,0,1.000,,,,,,,,,,,,,,,31,43,3,22,2,20,.721
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Grace Hejeebu,,,,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,0,7,1,1055:00,0,0,1.000,18,1055:00,137,113,0,13,5,0,0,0,0,343,7.79,.452,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Emile Cotton,,,,19,4,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,6,3,240:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Addyson Wagman,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,24,0,3,15,1025:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Naomi Doll,,,,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0,1,8,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Hayley Lettinga,,,,20,20,0,13,0,0,0,3,40,0,4,5,0,0,0,3,2,0,0,0,0,0,0,0,0,25,3,32,11,1205:00,0,0,1.000,,,,,,,,,,,,,,,116,147,25,63,3,60,.789
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Katie Bukiewicz,,,,20,20,0,3,0,0,0,1,16,0,4,2,0,0,0,1,5,0,0,0,0,0,0,0,0,30,80,26,19,1205:00,0,0,1.000,,,,,,,,,,,,,,,66,89,15,35,5,30,.742
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Rachael Lee,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Regan Gillisse,,,,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,13,0,3,11,1205:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Kendall Bayley,,,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,0,00:00,0,0,1.000,,,,,,,,,,,,,,,5,10,1,1,0,1,.500
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Emma Hagg,,,,20,20,0,0,0,0,0,0,0,0,0,0,0,0,0,7,4,0,0,0,0,0,0,0,0,72,79,16,59,1205:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Brynn Johnsen,,,,20,0,0,3,0,0,0,0,8,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,10,6,15,3,00:00,0,0,1.000,,,,,,,,,,,,,,,15,17,4,13,1,12,.882
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Hannah Gawne,,,,20,20,0,7,0,0,0,0,21,1,1,0,0,0,0,4,4,0,0,0,0,0,0,0,0,23,52,19,19,1205:00,0,0,1.000,,,,,,,,,,,,,,,53,68,16,44,16,28,.779
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Hannah Lecci,,,,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Dani Sauder,,,,20,1,0,1,0,0,0,0,5,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,1,13,2,60:00,0,0,1.000,,,,,,,,,,,,,,,12,18,1,14,5,9,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Annalise Keitel,,,,20,20,0,2,0,0,1,0,11,0,2,2,0,0,0,1,0,0,0,0,0,0,0,0,0,33,20,33,12,1205:00,0,0,1.000,,,,,,,,,,,,,,,29,47,8,52,35,17,.617
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Kayla Arnold,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,00:00,0,0,1.000,,,,,,,,,,,,,,,1,2,0,6,5,1,.500
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Abby Welchans,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,5,0,00:00,0,0,1.000,,,,,,,,,,,,,,,4,6,2,3,0,3,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Grace Pettitt,,,,19,19,0,5,0,0,0,5,32,0,5,3,0,0,0,1,3,0,0,0,0,0,0,0,0,31,3,40,4,1145:00,0,0,1.000,,,,,,,,,,,,,,,55,76,10,87,47,40,.724
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Riley Lewicki,,,,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,4,10,1145:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Jordan Lewicki,,,,20,20,0,5,0,0,0,1,12,1,3,0,0,0,0,4,0,0,0,0,0,0,0,0,0,24,23,14,7,1205:00,0,0,1.000,,,,,,,,,,,,,,,64,75,8,48,2,46,.853
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Natalie Howell,,,,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Leah Gaito,,,,10,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2,0,00:00,0,0,1.000,,,,,,,,,,,,,,,6,7,2,4,0,4,.857
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Messiah,Olivia Hewitt,,,,3,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,1,150:00,0,0,1.000,3,150:00,29,8,0,1,1,0,0,0,0,51,11.60,.216,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Delaney Campanella,,,,17,17,0,7,0,0,0,0,14,2,8,2,0,0,0,6,6,0,0,0,0,0,0,0,0,16,8,25,8,1050:00,131,0,1.000,,,,,,,,,,,,,,,48,68,12,33,2,31,.706
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Adison Harner,,,,17,12,0,2,0,0,0,0,7,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,14,2,34,5,745:00,95,0,1.000,,,,,,,,,,,,,,,18,28,6,13,5,8,.643
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Reagon Harner,,,,1,1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,2,0,60,0,0,1.000,,,,,,,,,,,,,,,1,1,1,1,0,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Melanie Carbo,,,,17,2,0,2,0,0,0,0,5,0,3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,25,0,183:00,43,0,1.000,,,,,,,,,,,,,,,25,36,6,17,4,13,.694
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Jenna Jacques,,,,17,17,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,6,1,18,0,1050:00,131,0,1.000,,,,,,,,,,,,,,,11,17,1,12,6,6,.647
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Alicia Pileggi,,,,17,15,0,14,0,0,0,1,22,0,1,2,0,0,0,4,5,0,0,0,0,0,0,0,0,24,37,32,10,931:00,143,0,1.000,,,,,,,,,,,,,,,53,64,24,33,4,29,.828
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Deandra Wladyka,,,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Jordyn Jarrett,,,,17,15,0,0,0,0,0,0,0,0,0,0,0,0,0,2,10,0,0,0,0,0,0,0,0,10,0,12,4,924:00,105,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Jaden Pare,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,37,4,10,20,1050:00,131,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Mia Hoopes,,,,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,1,2,113:00,56,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Jordyn Johnson,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,5,10,15,992:00,124,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Samantha Mahoney,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,28,1,10,11,997:00,145,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Ashtyn Torbert,,,,17,12,0,4,0,0,0,0,10,0,0,0,0,0,0,4,3,0,0,0,0,0,0,0,0,20,36,44,10,669:00,69,0,1.000,,,,,,,,,,,,,,,23,39,10,28,15,13,.590
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Rachel Shook,,,,17,17,0,10,0,0,0,4,36,1,6,1,0,0,0,11,2,0,0,0,0,0,0,0,0,29,103,45,11,1004:00,128,0,1.000,,,,,,,,,,,,,,,71,89,20,59,14,45,.798
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Rebecca Fick,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,15,1,6,6,997:00,143,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Madison Hushon,,,,14,3,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,5,0,175:00,10,0,1.000,,,,,,,,,,,,,,,5,6,0,2,0,2,.833
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Ryann Gross,,,,17,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,0,9,1,1050:00,131,0,1.000,17,1014:39,227,133,0,5,3,0,22,2,0,481,13.42,.369,0,1,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Misericordia,Reagan Harner,,,,16,7,0,1,0,0,0,0,2,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,8,6,18,4,509:00,118,0,1.000,,,,,,,,,,,,,,,12,14,8,4,2,2,.857
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Hana Yang,,,,15,0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,10,2,00:00,0,0,1.000,,,,,,,,,,,,,,,5,8,3,7,4,3,.625
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,M. Zarish-Yasunas,,,,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,7,1,1,9,1235:00,102,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Marie Lindberger,,,,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,18,1,9,8,1250:00,102,0,1.000,,,,,,,,,,,,,,,1,1,0,1,0,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Sammy Renda,,,,11,0,0,2,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,3,1,13:00,52,0,1.000,,,,,,,,,,,,,,,4,6,2,5,2,3,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Eran Gleason,,,,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,5,3,0,0,0,0,0,0,0,0,30,1,6,27,1291:00,104,0,1.000,,,,,,,,,,,,,,,2,2,0,1,0,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Colleen Ginsberg,,,,11,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,0,10:00,1,0,1.000,,,,,,,,,,,,,,,4,6,2,4,1,3,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Emily Leiby,,,,22,21,0,17,0,0,0,3,27,1,8,4,0,0,0,11,2,0,0,0,0,0,0,0,0,30,23,46,25,1264:00,50,0,1.000,,,,,,,,,,,,,,,98,135,34,92,34,58,.726
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Anna Velardi,,,,21,21,0,3,0,0,0,0,14,0,1,0,0,0,0,8,5,0,0,0,0,0,0,0,0,17,1,21,8,1264:00,50,0,1.000,,,,,,,,,,,,,,,33,38,5,55,36,19,.868
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Hallie Hand,,,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,2,1,07:00,57,0,1.000,,,,,,,,,,,,,,,1,2,0,0,0,0,.500
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Maddie Hogan,,,,22,21,0,10,0,0,0,6,32,0,5,4,0,0,0,9,5,0,0,0,0,0,0,0,0,22,1,53,6,1264:00,50,0,1.000,,,,,,,,,,,,,,,94,123,22,67,11,56,.764
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Quincy Connell,,,,22,22,0,0,0,0,0,1,2,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,58,72,13,46,1316:00,53,0,1.000,,,,,,,,,,,,,,,4,4,1,3,0,3,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Kamryn Kramer,,,,12,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,5,5,01:00,2,0,1.000,,,,,,,,,,,,,,,10,11,0,9,2,7,.909
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Lindsay Esposito,,,,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,25,9,5,23,1259:00,86,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Alison Murray,,,,20,1,0,1,0,0,0,0,2,1,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,7,1,11,5,109:00,45,0,1.000,,,,,,,,,,,,,,,26,30,3,16,1,15,.867
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Sammie Davis,,,,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,3,17:00,12,0,1.000,,,,,,,,,,,,,,,0,0,0,1,1,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Lauren Sullivan,,,,22,22,0,0,0,0,0,0,1,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,39,71,9,31,1324:00,50,0,1.000,,,,,,,,,,,,,,,1,1,0,1,0,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Alison Lax,,,,22,1,0,6,0,0,0,1,23,0,1,1,0,0,0,3,0,0,0,0,0,0,0,0,0,6,0,32,3,82:00,18,0,1.000,,,,,,,,,,,,,,,57,74,11,44,10,34,.770
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Brooke Sullivan,,,,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,10,0,0,8,83:00,16,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Abby O'Brien,,,,16,0,0,0,0,0,0,0,8,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,0,16,1,49:00,14,0,1.000,,,,,,,,,,,,,,,16,20,0,20,12,8,.800
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Emily Smart,,,,22,22,0,0,0,0,0,0,2,0,3,2,0,0,0,1,0,0,0,0,0,0,0,0,0,21,1,17,10,1324:00,50,0,1.000,,,,,,,,,,,,,,,38,46,0,67,42,25,.826
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Margaret Palmer,,,,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,4,0,17:00,6,0,1.000,,,,,,,,,,,,,,,2,2,0,5,4,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Callie Slabaugh,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Adeline Obitz,,,,11,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,3,1,17:00,6,0,1.000,,,,,,,,,,,,,,,5,8,2,4,1,3,.625
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Stefanie Sellitto,,,,22,22,0,3,0,0,0,3,15,0,7,5,0,0,0,2,2,0,0,0,0,0,0,0,0,55,165,12,23,1305:00,102,0,1.000,,,,,,,,,,,,,,,94,102,10,75,12,63,.922
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Felicity Heilferty,,,,21,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,1,0,4,811:00,146,0,1.000,21,733:58,86,71,0,11,4,0,6,0,0,205,7.03,.452,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Alina Friz,,,,20,0,0,4,0,0,0,0,8,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,6,1,9,2,50:00,50,0,1.000,,,,,,,,,,,,,,,21,25,5,19,4,15,.840
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Mackenzie Murray,,,,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,7,0,1,4,28:00,13,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Addison Towey,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,7,8,2,2,0,2,.875
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Elise Hensley,,,,7,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,3,0,00:00,0,0,1.000,,,,,,,,,,,,,,,7,7,0,6,2,4,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Emma Guzowski,,,,15,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,9,0,4,0,374:00,227,0,1.000,14,437:25,52,37,0,4,0,0,4,1,0,132,7.13,.416,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Kaitlyn Vautour,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,131:00,157,0,1.000,9,148:37,13,5,0,0,0,0,1,0,0,23,5.25,.278,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Rebecca Silva,,,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,21:00,11,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Tory Seaton,,,,15,0,0,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,2,7,3,44:00,2,0,1.000,,,,,,,,,,,,,,,7,11,1,5,1,4,.636
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevens,Rebecca Guerra,,,,22,1,0,4,0,0,0,2,8,2,1,1,0,0,0,2,0,0,0,0,0,0,0,0,0,5,1,23,0,68:00,54,0,1.000,,,,,,,,,,,,,,,32,43,8,25,9,16,.744
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Marisa Massimini,,,,18,12,0,0,0,0,0,0,1,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,14,17,5,13,660:00,111,0,1.000,,,,,,,,,,,,,,,4,6,2,2,1,1,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Katherine Friedman,,,,19,10,0,3,0,0,0,1,9,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,12,3,652:00,37,0,1.000,,,,,,,,,,,,,,,18,25,6,29,17,12,.720
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Sanaa Thorne,,,,7,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,240:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Paige Wilson,,,,14,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,9,0,8,3,363:00,78,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Ava Treakle,,,,10,7,0,5,0,0,0,1,6,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,8,15,10,1,418:00,38,0,1.000,,,,,,,,,,,,,,,34,36,7,16,2,14,.944
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Skyler Hovatter,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Erin Steinberg,,,,13,12,0,8,0,0,0,0,17,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,15,0,21,2,717:00,86,0,1.000,,,,,,,,,,,,,,,53,63,16,43,10,33,.841
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,June Price,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,3,1,00:00,0,0,1.000,,,,,,,,,,,,,,,1,5,0,0,0,0,.200
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Emma Carpenter,,,,9,0,0,1,0,0,0,0,3,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,3,1,00:00,0,0,1.000,,,,,,,,,,,,,,,3,4,1,3,0,3,.750
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Melina Primrose,,,,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,24,3,12,14,1137:00,86,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Maddie Kline,,,,15,4,0,2,0,0,0,0,4,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,2,0,5,0,286:00,9,0,1.000,,,,,,,,,,,,,,,6,8,4,8,4,4,.750
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Allie Huck,,,,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Hailey Johnson,,,,15,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,5,0,89:00,40,0,1.000,,,,,,,,,,,,,,,2,5,0,2,2,0,.400
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Kara Yarusso,,,,19,19,0,23,0,0,0,4,38,0,9,4,0,0,0,2,1,0,0,0,0,0,0,0,0,50,87,27,27,1137:00,86,0,1.000,,,,,,,,,,,,,,,96,118,29,85,22,63,.814
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Kellyann Coccia,,,,19,18,0,2,0,0,0,0,7,0,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,11,20,22,3,1030:00,105,0,1.000,,,,,,,,,,,,,,,36,49,5,34,10,24,.735
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Emily Page,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Vivi Kaminaris,,,,9,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,5,2,00:00,0,0,1.000,,,,,,,,,,,,,,,6,7,0,4,0,4,.857
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Riannon Koopman,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,2,00:00,0,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Alice Petersen,,,,8,1,0,3,0,0,0,0,3,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,4,0,60:00,0,0,1.000,,,,,,,,,,,,,,,8,11,4,10,4,6,.727
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Isabelle VanEmburgh,,,,17,17,0,5,0,0,0,3,13,0,2,2,0,0,0,4,4,0,0,0,0,0,0,0,0,28,24,27,19,996:00,105,0,1.000,,,,,,,,,,,,,,,56,76,12,40,15,25,.737
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Sophie Perry,,,,11,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,4,320:00,41,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Olivia Galati,,,,19,19,0,4,0,0,0,1,19,0,4,3,0,0,0,2,0,0,0,0,0,0,0,0,0,14,3,29,2,1137:00,86,0,1.000,,,,,,,,,,,,,,,62,92,12,55,14,41,.674
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Sarah Perry,,,,3,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,179:00,48,0,1.000,,,,,,,,,,,,,,,3,3,0,3,2,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Megan Devine,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Megan Greenwell,,,,9,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,3,0,00:00,0,0,1.000,,,,,,,,,,,,,,,2,2,0,1,0,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Natalie Storm,,,,19,19,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,24,0,10,14,1137:00,86,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Rachel McDonough,,,,12,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,4,1,4,7,298:00,38,0,1.000,,,,,,,,,,,,,,,0,1,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Caroline Lyman,,,,9,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,7,0,1,5,480:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Sophia Murray,,,,19,19,0,13,0,0,0,1,30,0,1,1,0,0,0,4,2,0,0,0,0,0,0,0,0,58,100,16,38,1137:00,86,0,1.000,,,,,,,,,,,,,,,62,81,32,49,13,36,.765
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Kora Ketner,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Zoe Kaplan,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,2,2,0,1,0,1,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Courtney Gempp,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Alexa Coyle,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Sarah McWilliams,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Lizzy Cohen,,,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,1,1,1,1,1,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Anna Johnston,,,,17,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,5,2,300:00,0,0,1.000,17,546:04,86,77,0,6,3,0,0,0,0,226,9.45,.472,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Regan Torbert,,,,19,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,3,4,837:00,86,0,1.000,19,582:18,104,80,0,7,5,0,0,0,0,246,10.72,.435,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Stevenson,Reilly Holstrom,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,00:00,0,0,1.000,2,10:04,0,0,0,0,0,0,0,0,0,1,.00,.000,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Clark Trowbridge,,,,18,18,0,4,0,0,0,3,19,1,2,2,0,0,0,9,8,0,0,0,0,0,0,0,0,36,75,22,26,1131:00,103,0,1.000,,,,,,,,,,,,,,,64,90,8,40,1,39,.711
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Rachel Rothstein,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Jordyn Edwards,,,,18,18,0,5,0,0,0,2,16,3,0,3,0,0,0,2,3,0,0,0,0,0,0,0,0,14,27,21,11,1058:00,100,0,1.000,,,,,,,,,,,,,,,38,49,10,26,4,22,.776
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Alex Krohn,,,,15,15,0,3,0,0,0,0,7,1,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,29,7,959:00,135,0,1.000,,,,,,,,,,,,,,,20,28,4,45,32,13,.714
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Jessica Mantz,,,,18,18,0,7,0,0,0,1,17,0,2,0,0,0,0,5,2,0,0,0,0,0,0,0,0,19,8,30,6,1139:00,135,0,1.000,,,,,,,,,,,,,,,36,60,15,36,9,27,.600
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Maddie Phillips,,,,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,14,0,9,6,1054:00,117,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Chloe Mingioni,,,,18,18,0,6,0,0,0,1,24,1,6,2,0,0,0,2,0,0,0,0,0,0,0,0,0,5,1,42,5,1139:00,135,0,1.000,,,,,,,,,,,,,,,54,76,13,61,28,33,.711
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Ciana Suydam,,,,18,10,0,0,0,0,0,0,0,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,4,0,8,3,617:00,12,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Jarliah Ferko,,,,15,1,0,1,0,0,0,0,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,7,6,2,70:00,53,0,1.000,,,,,,,,,,,,,,,5,8,5,3,1,2,.625
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Gianna Scaliti,,,,12,9,0,1,0,0,0,1,2,0,2,0,0,0,0,3,2,0,0,0,0,0,0,0,0,8,0,16,2,655:00,126,0,1.000,,,,,,,,,,,,,,,21,25,5,14,2,12,.840
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Sarah Davidson,,,,9,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,99:00,19,0,1.000,,,,,,,,,,,,,,,2,2,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Alyssa Ruggiero,,,,18,18,0,1,0,0,0,0,9,0,2,1,0,0,0,6,6,0,0,0,0,0,0,0,0,32,35,24,20,1139:00,135,0,1.000,,,,,,,,,,,,,,,28,33,4,15,4,11,.848
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Olivia Blades,,,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Reagan Vidrine,,,,6,0,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,08:00,32,0,1.000,,,,,,,,,,,,,,,2,2,1,2,0,2,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Makayla Cox,,,,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,33,4,9,26,1139:00,135,0,1.000,,,,,,,,,,,,,,,1,2,0,0,0,0,.500
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Rylie Christy,,,,14,0,0,1,0,0,0,0,5,0,1,0,0,0,0,3,1,0,0,0,0,0,0,0,0,4,2,10,0,44:00,5,0,1.000,,,,,,,,,,,,,,,12,16,4,6,1,5,.750
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Meghan Michalowski,,,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Kasey Thornton,,,,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,24,0,9,24,1105:00,148,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Claire Lynch,,,,18,18,0,10,0,0,0,1,11,0,5,0,0,0,0,4,4,0,0,0,0,0,0,0,0,31,43,14,24,1139:00,135,0,1.000,,,,,,,,,,,,,,,39,49,14,31,4,27,.796
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Lucia Visalli,,,,8,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,3,4,07:00,6,0,1.000,,,,,,,,,,,,,,,3,3,0,3,1,2,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Avery Farina,,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Ava Leporati,,,,17,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,9,0,10,1,76:00,46,0,1.000,,,,,,,,,,,,,,,15,20,1,7,1,6,.750
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Madison Warlow,,,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,27:00,16,0,1.000,5,132:16,12,7,0,0,0,0,1,0,0,30,5.44,.368,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Grey Simon,,,,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,1,1,11:00,32,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,Widener,Regan Polacek,,,,18,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,13,0,1112:00,119,0,1.000,18,950:25,164,117,0,7,10,0,3,0,0,406,10.35,.416,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Gianna Huet,,,,22,22,0,10,0,0,0,1,27,1,9,3,0,0,0,1,0,0,0,0,0,0,0,0,0,11,0,33,1,1300:00,33,0,1.000,,,,,,,,,,,,,,,64,82,17,79,37,42,.780
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Kate Feldman,,,,22,1,0,2,0,0,0,2,2,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,14,22,14,6,23:00,60,0,1.000,,,,,,,,,,,,,,,12,19,4,11,4,7,.632
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Grace Bruno,,,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,0,1,4,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,1,1,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Kloey Batchellor,,,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Gabby Tompkins,,,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Natalie Neiman,,,,21,1,0,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,1,9,0,110:00,85,0,1.000,,,,,,,,,,,,,,,5,7,2,17,13,4,.714
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Maddie Ross,,,,22,16,0,5,0,0,0,2,8,0,0,1,0,0,0,5,4,0,0,0,0,0,0,0,0,14,64,17,11,860:00,94,0,1.000,,,,,,,,,,,,,,,25,32,10,16,2,14,.781
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Lauren Gillies,,,,13,0,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,7,1,00:00,0,0,1.000,,,,,,,,,,,,,,,8,11,0,5,1,4,.727
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Juliana Silvernale,,,,21,0,0,3,0,0,0,1,6,1,1,1,0,0,0,1,2,0,0,0,0,0,0,0,0,5,0,16,2,17:00,50,0,1.000,,,,,,,,,,,,,,,32,43,9,21,3,18,.744
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Zoe Kluegel,,,,22,22,0,3,0,0,0,3,29,2,5,6,0,0,0,2,1,0,0,0,0,0,0,0,0,19,2,25,3,1285:00,32,0,1.000,,,,,,,,,,,,,,,84,115,9,81,22,59,.730
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Liberty Topka,,,,18,9,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,11,0,2,7,540:00,0,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Riley Coltenback,,,,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,6,0,4,2,00:00,0,0,1.000,,,,,,,,,,,,,,,5,6,0,7,2,5,.833
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Bella Garabo,,,,21,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,61,0,10,16,1138:00,65,0,1.000,21,1039:49,137,154,0,18,5,0,8,2,0,378,7.91,.529,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Nesiah Bertram,,,,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,23,25,8,28,1308:00,2,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Krista Yarusso,,,,22,18,0,2,0,0,0,1,5,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,16,1,27,7,1125:00,20,0,1.000,,,,,,,,,,,,,,,33,42,3,52,27,25,.786
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Kate Walsh,,,,22,13,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,23,5,11,8,768:00,2,0,1.000,,,,,,,,,,,,,,,1,2,1,1,0,1,.500
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Riley Long,,,,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,2,5,0,0,0,0,0,0,0,0,21,0,6,15,1308:00,2,0,1.000,,,,,,,,,,,,,,,1,2,1,0,0,0,.500
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Sofie Steel,,,,22,2,0,4,0,0,0,0,13,0,0,1,0,0,0,1,2,0,0,0,0,0,0,0,0,8,0,19,3,175:00,50,0,1.000,,,,,,,,,,,,,,,37,58,6,27,5,22,.638
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Leigha Saurbaugh,,,,13,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,14,3,6,00:00,0,0,1.000,,,,,,,,,,,,,,,4,6,2,4,0,4,.667
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Molly Rosewag,,,,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,12,0,2,10,1239:00,15,0,1.000,,,,,,,,,,,,,,,1,1,0,0,0,0,1.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Keeley Ballard,,,,13,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,1,00:00,0,0,1.000,,,,,,,,,,,,,,,7,12,2,3,1,2,.583
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Lily-Ann LaComb,,,,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3,0,1,4,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Emily Ackerman,,,,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,8,1,0,4,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Katie Jeanes,,,,21,6,0,2,0,0,0,0,6,1,1,0,0,0,0,3,3,0,0,0,0,0,0,0,0,11,38,18,9,425:00,72,0,1.000,,,,,,,,,,,,,,,13,23,4,15,3,12,.565
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Madison Hamilton,,,,22,22,0,0,0,0,0,0,0,0,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,17,2,9,14,1277:00,30,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Bethany Stoltzfus,,,,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,6,2,3,6,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Julia Bornyek,,,,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,1,1,00:00,0,0,1.000,,,,,,,,,,,,,,,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Kiera McPhillips,,,,19,0,0,4,0,0,0,0,6,0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3,0,8,0,00:00,0,0,1.000,,,,,,,,,,,,,,,14,16,6,12,4,8,.875
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Leah Vacin,,,,14,0,0,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,6,10,3,00:00,0,0,1.000,,,,,,,,,,,,,,,8,9,1,8,4,4,.889
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Logan Ward,,,,22,22,0,4,0,0,0,3,19,1,3,1,0,0,0,6,1,0,0,0,0,0,0,0,0,16,2,28,13,1290:00,59,0,1.000,,,,,,,,,,,,,,,59,77,6,59,18,41,.766
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Audrey Simoes,,,,10,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,6,0,0,2,168:00,57,0,1.000,10,268:13,17,21,0,2,0,0,3,0,0,50,3.80,.553,0,0,0,0,0,0,.000
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Sydney Mentzer,,,,22,22,0,7,0,0,0,2,18,1,6,2,0,0,0,0,4,0,0,0,0,0,0,0,0,41,72,24,28,1303:00,31,0,1.000,,,,,,,,,,,,,,,59,85,15,52,13,39,.694
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Abby Tartal,,,,13,0,0,2,0,0,0,0,2,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,3,1,00:00,0,0,1.000,,,,,,,,,,,,,,,4,5,3,6,3,3,.800
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Holly Krieg,,,,10,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,8,3,1,00:00,0,0,1.000,,,,,,,,,,,,,,,1,2,1,1,0,1,.500
+mac,Middle Atlantic Conferences (MAC),2025-26,wlax,York,Raea Gillis,,,,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,3,1,00:00,0,0,1.000,,,,,,,,,,,,,,,4,5,0,2,1,1,.800
