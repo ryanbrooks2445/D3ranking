@@ -1,8 +1,10 @@
 import Link from "next/link";
 import { getAllSports } from "@/lib/sports";
+import { getSeason } from "@/lib/data";
 
-export default function DashboardPage() {
+export default async function DashboardPage() {
   const sports = getAllSports();
+  const season = await getSeason("mbb");
 
   return (
     <div className="space-y-12">
@@ -11,7 +13,7 @@ export default function DashboardPage() {
           Player Rankings
         </h1>
         <p className="mt-4 max-w-xl mx-auto text-lg text-slate-400">
-          NCAA Division III composite rankings · 2025–26 season
+          NCAA Division III composite rankings · {season} season
         </p>
         <p className="mt-2 text-slate-500">
           Global and by conference · Official conference data
@@ -62,9 +64,9 @@ export default function DashboardPage() {
       <section className="rounded-2xl border border-slate-700 bg-slate-900/50 px-6 py-5 text-center">
         <p className="text-slate-400">
           <span className="font-semibold text-slate-300">Free:</span> Top 25 global + top 5 per conference.{" "}
-          <span className="font-semibold text-slate-300">Pro:</span> Full lists + search.{" "}
+          <span className="font-semibold text-slate-300">Pro:</span> Full lists, OVR, rank, and search.{" "}
           <Link href="/#pricing" className="font-semibold text-blue-400 hover:text-blue-300 underline">
-            Start 7-day free trial
+            Get Pro — $19.99/year
           </Link>
         </p>
       </section>

@@ -1,5 +1,12 @@
 from __future__ import annotations
 
+"""
+Export MBB rankings to frontend/public/data for the dashboard.
+Writes: d3_mbb_player_rankings_2025_26.json, sports/mbb/rankings_2025-26.json,
+sports/mbb/meta.json, and per-conference JSON/CSV. Also exports other sports from
+data/d3_{code}_player_rankings_2025_26.csv to sports/{code}/rankings_2025-26.json
+and meta.json so the site shows season, OVR, composite score, and stats for all sports.
+"""
 import json
 import sys
 from pathlib import Path
@@ -13,6 +20,51 @@ import pandas as pd
 
 from ncaa_rankings.basketball import rank_mbb_players
 from ncaa_rankings.conferences import load_conferences
+
+# Sport codes that have data/d3_{code}_player_rankings_2025_26.csv (excluding mbb, handled above).
+OTHER_SPORT_CODES = [
+    "wbb", "mvb", "wvb", "baseball", "softball",
+    "mhky", "whky", "mlax", "wlax", "msoc", "wsoc",
+]
+# Optional column renames so frontend column keys match (e.g. sports.ts expects earned_run_avg).
+COLUMN_RENAMES = {
+    "pitching_stats_earned_run_average": "pitching_stats_earned_run_avg",
+}
+# Labels for meta.json (match frontend sports.ts).
+SPORT_LABELS = {
+    "wbb": "Women's Basketball",
+    "mvb": "Men's Volleyball",
+    "wvb": "Women's Volleyball",
+    "baseball": "Baseball",
+    "softball": "Softball",
+    "mhky": "Men's Hockey",
+    "whky": "Women's Hockey",
+    "mlax": "Men's Lacrosse",
+    "wlax": "Women's Lacrosse",
+    "msoc": "Men's Soccer",
+    "wsoc": "Women's Soccer",
+}
+
+
+def _rating_from_rank(rank_series: pd.Series) -> pd.Series:
+    """OVR: 3×99, 3×98, 3×97, 3×96, then scale 95 down to 50 for the rest."""
+    n = len(rank_series)
+    out = pd.Series(index=rank_series.index, dtype=float)
+    for idx in rank_series.index:
+        r = int(rank_series.loc[idx])
+        if r <= 3:
+            out.loc[idx] = 99
+        elif r <= 6:
+            out.loc[idx] = 98
+        elif r <= 9:
+            out.loc[idx] = 97
+        elif r <= 12:
+            out.loc[idx] = 96
+        else:
+            rest_count = max(1, n - 12)
+            progress = (r - 13) / rest_count
+            out.loc[idx] = round(95 - progress * (95 - 50))
+    return out
 
 
 def _json_safe(df: pd.DataFrame) -> pd.DataFrame:
@@ -74,36 +126,23 @@ def main() -> None:
     global_rankings = global_rankings.sort_values("global_rank", ascending=True).reset_index(drop=True)
     global_rankings["global_rank"] = range(1, len(global_rankings) + 1)
 
-    # Rating (OVR): 3×99, 3×98, 3×97, 3×96, then scale 95 down to 50 for the rest
-    def _rating_from_rank(rank_series: pd.Series) -> pd.Series:
-        n = len(rank_series)
-        out = pd.Series(index=rank_series.index, dtype=float)
-        for idx in rank_series.index:
-            r = int(rank_series.loc[idx])
-            if r <= 3:
-                out.loc[idx] = 99
-            elif r <= 6:
-                out.loc[idx] = 98
-            elif r <= 9:
-                out.loc[idx] = 97
-            elif r <= 12:
-                out.loc[idx] = 96
-            else:
-                rest_count = max(1, n - 12)
-                progress = (r - 13) / rest_count
-                out.loc[idx] = round(95 - progress * (95 - 50))
-        return out
-
     global_rankings["rating"] = _rating_from_rank(global_rankings["global_rank"]).astype(int)
 
     out_dir = Path("frontend/public/data")
     out_dir.mkdir(parents=True, exist_ok=True)
 
     # Build global payload for /dashboard/players
+    if "season" not in global_rankings.columns and "season" in players.columns:
+        global_rankings["season"] = players["season"].iloc[0] if len(players) else "2025-26"
+    elif "season" not in global_rankings.columns:
+        global_rankings["season"] = "2025-26"
+
     global_keep = [
         "global_rank",
+        "season",
         "player_name",
         "team",
+        "position",
         "conference",
         "conference_code",
         "gp",
@@ -146,7 +185,7 @@ def main() -> None:
     )
     # rating already set from global_rankings (3×99, 3×98, 3×97, 3×96, rest 95→50)
     mbb_keep = [
-        "global_rank", "player_name", "team", "conference", "conference_code",
+        "global_rank", "season", "player_name", "team", "position", "conference", "conference_code",
         "points_per_game", "rebounds_per_game", "assists_per_game", "turnovers_per_game",
         "steals_per_game", "blocked_shots_per_game", "gp", "mpg", "composite_score", "rating",
     ]
@@ -154,6 +193,12 @@ def main() -> None:
     mbb_records = _json_safe(mbb_sports_payload[mbb_keep]).to_dict(orient="records")
     (sports_mbb_dir / "rankings_2025-26.json").write_text(
         json.dumps(mbb_records, allow_nan=False),
+        encoding="utf-8",
+    )
+    # Write meta.json so frontend can read current season
+    season_val = str(mbb_sports_payload["season"].iloc[0]) if "season" in mbb_sports_payload.columns and len(mbb_sports_payload) else "2025-26"
+    (sports_mbb_dir / "meta.json").write_text(
+        json.dumps({"sport_code": "mbb", "sport_label": "Men's Basketball", "season": season_val}, indent=2),
         encoding="utf-8",
     )
     print(f"Wrote {sports_mbb_dir / 'rankings_2025-26.json'}")
@@ -180,8 +225,10 @@ def main() -> None:
         conf_keep = [
             "rank",
             "global_rank",
+            "season",
             "player_name",
             "team",
+            "position",
             "conference",
             "conference_code",
             "gp",
@@ -245,7 +292,7 @@ def main() -> None:
         conf_rankings = conf_rankings.sort_values("global_rank", ascending=True).reset_index(drop=True)
         conf_rankings["rank"] = range(1, len(conf_rankings) + 1)
         conf_keep = [
-            "rank", "global_rank", "player_name", "team", "conference", "conference_code",
+            "rank", "global_rank", "season", "player_name", "team", "position", "conference", "conference_code",
             "gp", "mpg", "ppg", "rpg", "apg", "spg", "bpg", "tov_pg", "composite_score", "rating",
         ]
         conf_keep = [c for c in conf_keep if c in conf_rankings.columns]
@@ -261,6 +308,50 @@ def main() -> None:
     print(f"Wrote {out_json}")
     print(f"Wrote {out_csv}")
     print(f"Wrote {conf_dir/'index.json'}")
+
+    # Export other sports from data/d3_{code}_player_rankings_2025_26.csv -> sports/{code}/rankings_2025-26.json
+    data_dir = Path("data")
+    for code in OTHER_SPORT_CODES:
+        csv_path = data_dir / f"d3_{code}_player_rankings_2025_26.csv"
+        if not csv_path.exists():
+            continue
+        df = pd.read_csv(csv_path, low_memory=False).copy()
+        if df.empty:
+            continue
+        # Ensure global_rank exists and is 1..n
+        if "global_rank" not in df.columns and "rank" in df.columns:
+            df = df.rename(columns={"rank": "global_rank"})
+        if "global_rank" not in df.columns:
+            continue
+        df = df.sort_values("global_rank", ascending=True).reset_index(drop=True)
+        df["global_rank"] = range(1, len(df) + 1)
+        # Ensure rating (OVR) exists
+        if "rating" not in df.columns:
+            df["rating"] = _rating_from_rank(df["global_rank"]).astype(int)
+        # Ensure season exists
+        if "season" not in df.columns:
+            df["season"] = "2025-26"
+        # Rename columns for frontend
+        rename_map = {k: v for k, v in COLUMN_RENAMES.items() if k in df.columns}
+        if rename_map:
+            df = df.rename(columns=rename_map)
+        sport_dir = out_dir / "sports" / code
+        sport_dir.mkdir(parents=True, exist_ok=True)
+        records = _json_safe(df).to_dict(orient="records")
+        (sport_dir / "rankings_2025-26.json").write_text(
+            json.dumps(records, allow_nan=False),
+            encoding="utf-8",
+        )
+        season_val = str(df["season"].iloc[0]) if "season" in df.columns and len(df) else "2025-26"
+        (sport_dir / "meta.json").write_text(
+            json.dumps({
+                "sport_code": code,
+                "sport_label": SPORT_LABELS.get(code, code.upper()),
+                "season": season_val,
+            }, indent=2),
+            encoding="utf-8",
+        )
+        print(f"Wrote {sport_dir / 'rankings_2025-26.json'} ({code})")
 
 
 if __name__ == "__main__":

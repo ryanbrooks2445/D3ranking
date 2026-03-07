@@ -1,4 +1,4 @@
-import { readDataFileSafe } from "@/lib/data";
+import { readDataFileSafe, getSeason } from "@/lib/data";
 import Link from "next/link";
 import { getSport } from "@/lib/sports";
 import { formatConferenceDisplayName } from "@/lib/conferences";
@@ -20,6 +20,7 @@ export default async function SportPage({
   const def = getSport(code);
 
   const indexPath = `sports/${code}/conferences/index.json`;
+  const season = await getSeason(code);
 
   let conferences: ConfIndexRow[] = [];
   try {
@@ -52,7 +53,7 @@ export default async function SportPage({
           {sportLabel}
         </h1>
         <p className="mt-2 text-slate-400">
-          NCAA D3 composite rankings · 2025–26 season
+          NCAA D3 composite rankings · {season} season
         </p>
       </header>
 

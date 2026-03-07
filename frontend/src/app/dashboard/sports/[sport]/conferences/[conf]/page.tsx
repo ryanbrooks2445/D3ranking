@@ -1,9 +1,10 @@
-import { readDataFileSafe } from "@/lib/data";
+import { readDataFileSafe, getSeason } from "@/lib/data";
 import Link from "next/link";
-import { getSport } from "@/lib/sports";
+import { getSport, getSportSegmentColumns, filterRowsBySegment } from "@/lib/sports";
 import { isPro } from "@/lib/auth";
 import { formatConferenceDisplayName } from "@/lib/conferences";
 import { SportPlayerRankingsTable } from "@/components/SportPlayerRankingsTable";
+import { SegmentTabs } from "@/components/SegmentTabs";
 import type { Metadata } from "next";
 
 export async function generateMetadata({
@@ -35,10 +36,13 @@ export async function generateMetadata({
 
 export default async function ConferenceRankingsPage({
   params,
+  searchParams,
 }: {
   params: Promise<{ sport: string; conf: string }>;
+  searchParams: Promise<{ segment?: string }>;
 }) {
   const { sport, conf } = await params;
+  const { segment: segmentParam } = await searchParams;
   const code = sport.toLowerCase();
   const confCode = conf.toLowerCase();
   const def = getSport(code);
@@ -56,13 +60,24 @@ export default async function ConferenceRankingsPage({
     rows = [];
   }
 
+  const segmentId = segmentParam && def?.segments?.some((s) => s.id === segmentParam) ? segmentParam : "";
+  const filteredRows = segmentId
+    ? filterRowsBySegment(code, segmentId, rows)
+    : rows;
+  const segmentRows = filteredRows.map((r, i) => ({
+    ...r,
+    rank: i + 1,
+    global_rank: i + 1,
+  }));
+
   const conferenceName = formatConferenceDisplayName(
     (rows[0] as Record<string, unknown>)?.conference as string | undefined ?? "",
     confCode,
   );
   const sportLabel = def?.label ?? code.toUpperCase();
 
-  const columns = (def?.columns ?? []).map((c) => ({
+  const segmentColumns = getSportSegmentColumns(def ?? undefined, segmentId);
+  const columns = segmentColumns.map((c) => ({
     key: c.key === "global_rank" ? "rank" : c.key,
     label: c.label,
     pct: c.pct,
@@ -75,6 +90,9 @@ export default async function ConferenceRankingsPage({
       { key: "rating", label: "OVR", pct: false },
     );
   }
+
+  const segments = def?.segments ?? [];
+  const season = await getSeason(code);
 
   return (
     <div className="space-y-8">
@@ -97,12 +115,21 @@ export default async function ConferenceRankingsPage({
           {conferenceName}
         </h1>
         <p className="mt-2 text-slate-400">
-          {sportLabel} · 2025–26 · Top 5 free; full list with Pro
+          {sportLabel} · {season} · Top 5 free; full list with Pro
         </p>
       </header>
 
+      {segments.length > 0 && (
+        <SegmentTabs
+          sportCode={code}
+          segments={segments}
+          currentSegmentId={segmentId}
+          baseHref={`/dashboard/sports/${code}/conferences/${confCode}`}
+        />
+      )}
+
       <SportPlayerRankingsTable
-        rows={rows}
+        rows={segmentRows}
         columns={columns}
         isPro={pro}
         freeRowLimit={5}

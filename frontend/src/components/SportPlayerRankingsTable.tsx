@@ -4,6 +4,10 @@ import { useState, useMemo } from "react";
 
 type ColDef = { key: string; label: string; pct?: boolean };
 
+/** Tooltip explaining how OVR relates to rank and composite stats. */
+const OVR_TOOLTIP =
+  "OVR is derived from rank (e.g. top 3 = 99). Score is the stat-based composite used to rank. Table stats show why each player is rated that way.";
+
 function formatVal(val: unknown, pct?: boolean): string {
   if (val == null) return "—";
   if (pct && typeof val === "number") return `${(val * 100).toFixed(1)}%`;
@@ -12,6 +16,14 @@ function formatVal(val: unknown, pct?: boolean): string {
     return val.toFixed(1);
   }
   return String(val);
+}
+
+/** Format composite_score (float) for display. */
+function formatScore(val: unknown): string {
+  if (val == null) return "—";
+  const n = Number(val);
+  if (Number.isNaN(n)) return "—";
+  return n.toFixed(1);
 }
 
 /** Format player name for display. Prefer first+last when present; else show player_name with optional comma fix. */
@@ -96,17 +108,21 @@ export function SportPlayerRankingsTable({
   }, [rows, rankKey]);
 
   const filtered = useMemo(() => {
-    if (!search.trim() || !isPro) return sortedRows;
     const q = search.toLowerCase().trim();
+    if (!q) return sortedRows;
     return sortedRows.filter(
       (r) =>
         String(r.player_name ?? "").toLowerCase().includes(q) ||
         String(r.team ?? "").toLowerCase().includes(q),
     );
-  }, [sortedRows, search, isPro]);
+  }, [sortedRows, search]);
 
-  const showPaywall = !isPro && filtered.length > freeRowLimit;
-  const visibleRows = showPaywall ? filtered.slice(0, freeRowLimit) : filtered;
+  const hasSearch = search.trim().length > 0;
+  const showPaywall = !isPro && !hasSearch && filtered.length > freeRowLimit;
+  const visibleRows =
+    !isPro && !hasSearch && showPaywall
+      ? filtered.slice(0, freeRowLimit)
+      : filtered;
 
   return (
     <div className="space-y-5">
@@ -114,7 +130,7 @@ export function SportPlayerRankingsTable({
         <h2 className="text-lg font-semibold text-white">{title}</h2>
       )}
 
-      {isPro && (
+      <div className="flex items-center justify-between gap-3">
         <div className="flex items-center gap-3">
           <input
             type="search"
@@ -124,7 +140,18 @@ export function SportPlayerRankingsTable({
             className="max-w-xs rounded-lg border border-slate-600 bg-slate-800/80 px-3 py-2.5 text-sm text-white placeholder-slate-500 focus:border-blue-500/50 focus:outline-none focus:ring-2 focus:ring-blue-500/20"
           />
         </div>
-      )}
+        {!isPro && (
+          <p className="hidden text-xs text-slate-500 sm:inline">
+            OVR and Rank are Pro-only.{" "}
+            <a
+              href="/#pricing"
+              className="font-semibold text-blue-400 hover:text-blue-300 underline"
+            >
+              Get Pro to unlock.
+            </a>
+          </p>
+        )}
+      </div>
 
       <div className="overflow-hidden rounded-2xl border-2 border-slate-700 bg-slate-900/60 shadow-xl shadow-black/20">
         <div className="overflow-x-auto">
@@ -163,20 +190,37 @@ export function SportPlayerRankingsTable({
                       const val = row[col.key];
                       const isRank = col.key === "global_rank" || col.key === "rank";
                       const isOvr = col.key === "rating";
+                      const isScore = col.key === "composite_score";
                       const isPlayerName = col.key === "player_name";
                       const displayVal = isPlayerName
                         ? formatPlayerName(row)
-                        : formatVal(val, col.pct);
+                        : isScore
+                          ? formatScore(val)
+                          : formatVal(val, col.pct);
                       const ovrBadgeClass = isOvr ? getOvrBadgeClasses(val) : null;
+                      const isLockedMetric = !isPro && (isRank || isOvr);
+                      const cellContent = isLockedMetric ? (
+                        <a
+                          href="/#pricing"
+                          className="inline-flex items-center gap-1 rounded-md bg-slate-800/80 px-2 py-1 text-xs font-semibold text-amber-300 ring-1 ring-amber-400/50 hover:bg-amber-500/10 hover:text-amber-200"
+                        >
+                          <span className="inline-block h-1.5 w-1.5 rounded-full bg-amber-400" />
+                          Pro
+                        </a>
+                      ) : isOvr && ovrBadgeClass ? (
+                        <span className={ovrBadgeClass}>{displayVal}</span>
+                      ) : (
+                        displayVal
+                      );
                       return (
                         <td
                           key={col.key}
-                          className={`px-4 py-3.5 ${isRank ? "font-bold text-slate-200" : "text-slate-300"} ${isOvr && !ovrBadgeClass ? "text-slate-500" : ""} ${isPlayerName ? "min-w-[140px] whitespace-nowrap font-semibold" : ""}`}
+                          className={`px-4 py-3.5 ${isRank ? "font-bold text-slate-200" : "text-slate-300"} ${isOvr && !ovrBadgeClass ? "text-slate-500" : ""} ${isPlayerName ? "min-w-[140px] whitespace-nowrap font-semibold" : ""} ${isScore ? "tabular-nums" : ""}`}
                         >
-                          {isOvr && ovrBadgeClass ? (
-                            <span className={ovrBadgeClass}>{displayVal}</span>
+                          {isOvr && !isLockedMetric ? (
+                            <span title={OVR_TOOLTIP}>{cellContent}</span>
                           ) : (
-                            displayVal
+                            cellContent
                           )}
                         </td>
                       );
@@ -196,13 +240,13 @@ export function SportPlayerRankingsTable({
             Showing top {freeRowLimit} of {filtered.length.toLocaleString()} players.
           </p>
           <p className="mt-2 text-slate-400">
-            Unlock the full list and search with a 7-day free trial.
+            Unlock full list, OVR, rank, and search with Pro — $19.99/year (7-day free trial).
           </p>
           <a
             href="/#pricing"
             className="mt-6 inline-block rounded-xl bg-blue-600 px-6 py-3 text-base font-semibold text-white transition hover:bg-blue-500"
           >
-            Start 7-day free trial
+            Get Pro — $19.99/year
           </a>
         </div>
       )}

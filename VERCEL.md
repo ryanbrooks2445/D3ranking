@@ -54,3 +54,45 @@ In **Settings** → **Domains**, add your domain and follow Vercel’s DNS instr
 ---
 
 **Summary:** Root directory = **`frontend`**, add **AUTH_SECRET**, **STRIPE_***, and **NEXT_PUBLIC_APP_URL**, and ensure **`frontend/public/data`** is committed after running `export_frontend_data.py`.
+
+---
+
+## 5. Why new features don’t show on Vercel (season, Score, Pos, etc.)
+
+On Vercel the app **does not** serve `public/data` (it’s in `.vercelignore`). It loads data from **GitHub Raw** instead.
+
+- **Default:** `https://raw.githubusercontent.com/ryanbrooks2445/D3ranking/main/frontend/public/data`
+- So the JSON files (rankings, meta.json, etc.) must exist **in that repo and branch** for the live site to show season, Score, position, and full rankings.
+
+**Option A – Data in the same repo as the app (recommended)**
+
+1. In Vercel: **Settings → Environment Variables**. Add:
+   - **Name:** `DATA_BASE_URL`
+   - **Value:** `https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/main/frontend/public/data`  
+     (Replace with the repo Vercel deploys from, e.g. `NCAA_Project`.)
+2. From your project root, export and commit the data:
+   ```bash
+   python export_frontend_data.py
+   git add frontend/public/data
+   git commit -m "Export data with season, position, composite score"
+   git push
+   ```
+3. **Redeploy** the project in Vercel so it picks up the new env var and the new data on GitHub.
+
+The app will then load from your repo’s `frontend/public/data` and the new features will show.
+
+**Option B – Keep using the D3ranking repo for data**
+
+If you keep the default (no `DATA_BASE_URL`), the app will keep loading from **ryanbrooks2445/D3ranking**. Then:
+
+1. Run the export and push the **data** into that repo:
+   ```bash
+   python export_frontend_data.py
+   # Then in your D3ranking repo (or by copying frontend/public/data into it):
+   git add frontend/public/data
+   git commit -m "Export data with season, position, composite score"
+   git push origin main
+   ```
+2. Redeploy on Vercel so it fetches the updated files from GitHub (cache may take a minute).
+
+Either way, the data on GitHub must include the **new** export (with `season`, `position`, `composite_score`, and `sports/mbb/meta.json`). Re-run `export_frontend_data.py` and push the updated `frontend/public/data` to the repo that `DATA_BASE_URL` points to (or to D3ranking if you don’t set it).

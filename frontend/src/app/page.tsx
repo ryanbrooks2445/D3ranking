@@ -1,9 +1,11 @@
 import Link from "next/link";
 import { getAllSports } from "@/lib/sports";
 import { CheckoutButton } from "@/components/CheckoutButton";
+import { getSeason } from "@/lib/data";
 
-export default function Home() {
+export default async function Home() {
   const sports = getAllSports();
+  const season = await getSeason("mbb");
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100">
@@ -36,7 +38,7 @@ export default function Home() {
           <p className="mt-5 max-w-2xl mx-auto text-lg text-slate-400 leading-relaxed">
             Data pulled from official conference sites. One place to compare
             players across 12 sports and 30+ D3 conferences. Free preview;
-            unlock full lists and search with a 7-day trial.
+            unlock full lists, OVR, rank, and search with Pro.
           </p>
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <Link
@@ -66,7 +68,7 @@ export default function Home() {
               <span className="block text-sm text-slate-400 mt-0.5">Conference data</span>
             </div>
             <div className="rounded-xl border border-slate-800 bg-slate-900/50 px-4 py-5">
-              <span className="text-2xl font-bold text-white">2025–26</span>
+              <span className="text-2xl font-bold text-white">{season}</span>
               <span className="block text-sm text-slate-400 mt-0.5">Season</span>
             </div>
           </div>
@@ -95,10 +97,10 @@ export default function Home() {
         >
           <h2 className="text-lg font-semibold text-white">Pricing</h2>
           <p className="mt-2 text-slate-400">
-            Free: Top 25 global + top 5 per conference. Pro: Full lists and search.
+            Free: Top 25 global + top 5 per conference. Pro: Full lists, OVR, rank, and search.
           </p>
           <p className="mt-3 text-lg font-medium text-white">
-            $9.99/mo · $119.88 billed yearly · 7-day free trial
+            $19.99/year · 7-day free trial
           </p>
           <CheckoutButton className="mt-5 inline-block rounded-lg bg-blue-600 px-5 py-2.5 text-sm font-medium text-white transition hover:bg-blue-500">
             Start free trial

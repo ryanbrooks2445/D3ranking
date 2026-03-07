@@ -8,13 +8,25 @@ _project_root = Path(__file__).resolve().parent
 if str(_project_root) not in sys.path:
     sys.path.insert(0, str(_project_root))
 
-import pandas as pd
-
-from ncaa_rankings.composites import SIDEARM_COMPOSITES
-from ncaa_rankings.conferences import load_conferences
-from ncaa_rankings.ranking import rank_by_composite
-from ncaa_rankings.sidearm_generic import scrape_conference_players_sidearm
-from ncaa_rankings.sports import SPORTS
+# Non-MBB sports require ncaa_rankings.sports, composites, ranking, sidearm_generic.
+# MBB is handled by run_basketball_rankings.py + export_frontend_data.py.
+# When those modules exist, this script scrapes/ranks all sports and writes
+# data/d3_{code}_player_rankings_2025_26.csv; export can be extended to write
+# sports/{code}/rankings_2025-26.json with season, rating, composite_score.
+try:
+    import pandas as pd
+    from ncaa_rankings.composites import SIDEARM_COMPOSITES
+    from ncaa_rankings.conferences import load_conferences
+    from ncaa_rankings.ranking import rank_by_composite
+    from ncaa_rankings.sidearm_generic import scrape_conference_players_sidearm
+    from ncaa_rankings.sports import SPORTS
+except ImportError as e:
+    print(
+        "run_all_sports.py requires ncaa_rankings.sports, composites, ranking, sidearm_generic (not yet in repo).",
+        "MBB is handled by run_basketball_rankings.py and export_frontend_data.py.",
+        file=sys.stderr,
+    )
+    raise SystemExit(1) from e
 
 
 def main() -> None:

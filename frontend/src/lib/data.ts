@@ -38,3 +38,21 @@ export async function readDataFileSafe(relativePath: string): Promise<string | n
     return null;
   }
 }
+
+const DEFAULT_SEASON = "2025-26";
+
+/**
+ * Get the current season for a sport. Reads from sports/{code}/meta.json when present;
+ * otherwise returns the default season (e.g. "2025-26").
+ */
+export async function getSeason(sportCode: string): Promise<string> {
+  const code = sportCode.toLowerCase();
+  const raw = await readDataFileSafe(`sports/${code}/meta.json`);
+  if (!raw) return DEFAULT_SEASON;
+  try {
+    const meta = JSON.parse(raw) as { season?: string };
+    return meta.season ?? DEFAULT_SEASON;
+  } catch {
+    return DEFAULT_SEASON;
+  }
+}
