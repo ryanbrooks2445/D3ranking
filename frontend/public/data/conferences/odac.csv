@@ -1,114 +1,114 @@
 rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
-1,36,2025-26,"Brown,Jamarcus",Lynchburg,F,Old Dominion Athletic Conference (ODAC),odac,26,31.76923076923077,20.73,7.42,1.38,1.12,1.73,2.076923076923077,7.775745936934471,95
-2,64,2025-26,"SALTERS, Braylen",Guilford College,g,Old Dominion Athletic Conference (ODAC),odac,26,26.5,23.77,3.62,1.96,2.0,0.15,2.1923076923076925,6.798228307293097,94
-3,101,2025-26,"Deveaux,Omari",Virginia Wesleyan,G,Old Dominion Athletic Conference (ODAC),odac,27,34.74074074074074,21.19,4.59,2.7,1.04,0.26,1.8888888888888888,6.075926507998432,94
-4,189,2025-26,"Moorer,Amari",Virginia Wesleyan,F,Old Dominion Athletic Conference (ODAC),odac,27,31.48148148148148,14.44,7.52,2.33,1.26,1.0,1.9259259259259256,5.14616721273434,93
-5,253,2025-26,"Davis,Dorian",Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,25,31.48,14.52,7.24,0.96,1.36,0.68,1.2,4.660534079574521,92
-6,270,2025-26,"Bell,Jackson",Roanoke College,G,Old Dominion Athletic Conference (ODAC),odac,28,30.214285714285715,16.0,5.39,1.64,1.18,0.39,1.1785714285714286,4.555590393304463,92
-7,308,2025-26,"Sellars,Jackson",Averett University,G,Old Dominion Athletic Conference (ODAC),odac,25,31.28,14.76,6.16,2.72,1.36,0.68,2.36,4.253094894093372,91
-8,363,2025-26,"PROCTOR, Gabe",Guilford College,g,Old Dominion Athletic Conference (ODAC),odac,26,27.192307692307693,16.81,4.19,1.88,1.31,0.08,1.6538461538461535,3.822539788089319,90
-9,470,2025-26,"Morgan,Marcus",Roanoke College,G,Old Dominion Athletic Conference (ODAC),odac,26,27.346153846153847,11.69,5.77,3.46,1.12,0.35,1.8076923076923077,3.267547564322517,89
-10,484,2025-26,"BROOKS, Aaron",Eastern Mennonite University,g,Old Dominion Athletic Conference (ODAC),odac,25,35.8,14.08,3.92,4.0,2.44,0.4,3.72,3.206644618453958,89
-11,524,2025-26,"Wright,Ellis",Shenandoah,F,Old Dominion Athletic Conference (ODAC),odac,25,27.64,17.28,3.72,0.84,0.44,0.64,1.64,3.0252727021887784,88
-12,622,2025-26,"EDWARDS, Ke",Guilford College,0,Old Dominion Athletic Conference (ODAC),odac,14,13.571428571428571,12.07,3.93,0.71,1.71,0.29,0.7142857142857143,2.6641727491009157,87
-13,628,2025-26,"EDWARDS, Dawson",Guilford College,g,Old Dominion Athletic Conference (ODAC),odac,26,23.153846153846153,8.81,4.88,2.54,2.04,0.15,1.0384615384615383,2.6369864474457065,87
-14,649,2025-26,"Robinson,Jabril",Randolph-Macon College,G,Old Dominion Athletic Conference (ODAC),odac,26,24.5,12.58,2.92,2.19,1.04,0.23,0.9230769230769232,2.536089378459239,87
-15,651,2025-26,"Amorosi,Connor",Washington and Lee,F,Old Dominion Athletic Conference (ODAC),odac,26,29.846153846153847,16.5,4.27,1.35,0.77,0.46,2.3461538461538463,2.531634129489865,86
-16,672,2025-26,"Ryan,Colin",Washington and Lee,F,Old Dominion Athletic Conference (ODAC),odac,25,29.16,9.8,5.56,5.12,0.64,0.28,2.24,2.451857282199666,86
-17,681,2025-26,"AXSELLE, Rival",Guilford College,g,Old Dominion Athletic Conference (ODAC),odac,26,21.807692307692307,9.54,5.15,0.77,1.5,0.88,0.8846153846153846,2.4301384430813964,86
-18,715,2025-26,"Lynch,Santana",Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,19,23.31578947368421,11.68,7.53,1.79,0.95,0.05,1.736842105263158,2.283170329491251,86
-19,745,2025-26,"Mitchell,Mason",Averett University,G,Old Dominion Athletic Conference (ODAC),odac,26,31.192307692307693,11.62,5.12,1.46,0.73,0.62,1.3076923076923077,2.181684859606623,85
-20,755,2025-26,"Brown,Jahmir",Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,25,29.08,13.48,3.68,1.92,1.08,0.16,1.64,2.144139089843617,85
-21,831,2025-26,"Stickney,Travis",Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,27,33.925925925925924,10.37,5.85,4.22,1.41,0.11,2.962962962962963,1.9196180898879665,84
-22,881,2025-26,"Newkirk,Addison",Washington and Lee,F,Old Dominion Athletic Conference (ODAC),odac,25,25.88,9.28,7.24,0.84,1.24,0.44,1.36,1.7427088837556588,83
-23,896,2025-26,"Pulley Jr.,Keishawn",Randolph-Macon College,G,Old Dominion Athletic Conference (ODAC),odac,28,25.392857142857142,10.36,3.75,1.79,0.96,0.04,0.5714285714285714,1.6909595453078214,83
-24,965,2025-26,"Tucker,Aveion",Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,19,32.473684210526315,12.89,3.32,4.11,0.74,0.0,2.736842105263158,1.4554578862739205,82
-25,1015,2025-26,"Hammonds,Delani",Randolph-Macon College,G,Old Dominion Athletic Conference (ODAC),odac,26,24.076923076923077,7.69,3.88,3.23,1.27,0.15,1.2307692307692308,1.2836259139129265,82
-26,1052,2025-26,"Young,Piercen",Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,26,25.73076923076923,8.42,5.35,1.85,0.92,0.5,1.3461538461538465,1.1596801730762356,81
-27,1079,2025-26,"Joyce,Liam",Randolph-Macon College,F,Old Dominion Athletic Conference (ODAC),odac,28,18.357142857142858,7.43,4.46,1.32,1.0,0.79,0.8571428571428571,1.0744166176627952,81
-28,1085,2025-26,"Miller,Trey",Randolph College,F,Old Dominion Athletic Conference (ODAC),odac,13,26.076923076923077,9.85,7.85,1.0,0.38,0.23,1.4615384615384617,1.062631067172512,81
-29,1105,2025-26,"Franze,Caleb",Roanoke College,G,Old Dominion Athletic Conference (ODAC),odac,28,24.928571428571427,11.36,2.46,2.25,0.75,0.11,1.3214285714285714,0.9979642734739655,80
-30,1106,2025-26,"ESCHER, Reynolds",Guilford College,0,Old Dominion Athletic Conference (ODAC),odac,25,20.04,8.8,4.6,1.8,1.56,0.0,1.36,0.9940703538119746,80
-31,1107,2025-26,"CARR, Isaiah",Eastern Mennonite University,g,Old Dominion Athletic Conference (ODAC),odac,25,29.76,12.12,5.04,1.4,1.0,0.2,2.24,0.9935314552422352,80
-32,1137,2025-26,"Easton,Jayson",Lynchburg,F,Old Dominion Athletic Conference (ODAC),odac,25,25.04,11.08,4.16,0.72,0.68,0.12,0.84,0.9398147012228264,80
-33,1157,2025-26,"Fernald,Shane",Hampden-Sydney College,F,Old Dominion Athletic Conference (ODAC),odac,23,22.08695652173913,9.13,5.0,2.26,0.91,0.26,1.6956521739130437,0.8956263938468498,80
-34,1170,2025-26,"Moye,Peter",Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,27,24.85185185185185,11.81,3.96,1.04,0.44,0.04,1.0,0.8694383256804309,80
-35,1182,2025-26,"Antinori,Theo",Randolph-Macon College,G,Old Dominion Athletic Conference (ODAC),odac,27,20.40740740740741,9.3,2.78,1.41,0.89,0.3,0.6296296296296297,0.8403746211083422,79
-36,1206,2025-26,"Burgess Jr.,Steven",Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,12,25.75,11.0,2.75,2.5,1.5,0.08,2.25,0.7772108357281468,79
-37,1228,2025-26,"O'Malley,Gavin",Roanoke College,F,Old Dominion Athletic Conference (ODAC),odac,28,23.678571428571427,10.0,6.11,0.71,0.57,0.18,1.2142857142857142,0.7145788922684183,79
-38,1277,2025-26,"East,T.J.",Virginia Wesleyan,F,Old Dominion Athletic Conference (ODAC),odac,27,24.11111111111111,8.37,5.15,1.15,0.78,0.19,0.8518518518518519,0.6109265419456562,78
-39,1320,2025-26,"CLAYTON, Kody",Guilford College,0,Old Dominion Athletic Conference (ODAC),odac,26,20.423076923076923,4.38,3.77,3.77,2.65,0.19,2.230769230769231,0.50417382047316,78
-40,1345,2025-26,"Anderson,Paul",Virginia Wesleyan,G,Old Dominion Athletic Conference (ODAC),odac,27,28.296296296296298,6.96,4.15,0.89,1.22,0.59,0.8518518518518519,0.4398957175428962,77
-41,1393,2025-26,"Bracey,Timayahs",Averett University,G,Old Dominion Athletic Conference (ODAC),odac,26,28.384615384615383,12.08,1.58,3.23,0.81,0.08,2.5,0.3385499240706797,77
-42,1426,2025-26,"Mitchell,Jesse",Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,26,19.96153846153846,8.54,4.5,0.73,0.77,0.12,0.6923076923076923,0.2470951023053411,76
-43,1492,2025-26,"Stephens,Tyler",Averett University,F,Old Dominion Athletic Conference (ODAC),odac,26,24.615384615384617,8.35,6.12,0.85,0.88,0.46,1.8846153846153848,0.0274601778029671,75
-44,1509,2025-26,"Thomas,AJ",Washington and Lee,F,Old Dominion Athletic Conference (ODAC),odac,26,25.46153846153846,8.73,4.08,0.96,0.46,0.12,0.7307692307692307,-0.0201660154923182,75
-45,1541,2025-26,"Caple,Khalil",Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,24,22.125,10.67,3.46,1.5,1.25,0.21,2.4583333333333335,-0.1020680644983,75
-46,1562,2025-26,"Showalter,Ty",Randolph-Macon College,F,Old Dominion Athletic Conference (ODAC),odac,27,15.11111111111111,7.7,4.04,1.26,0.52,0.48,1.1111111111111112,-0.1716075260913949,74
-47,1565,2025-26,"Palmer,Carter",Bridgewater College,F,Old Dominion Athletic Conference (ODAC),odac,24,26.875,7.42,4.75,0.29,0.88,0.21,0.6666666666666666,-0.1803573120855168,74
-48,1568,2025-26,"Baldwin,Joseph",Shenandoah,F,Old Dominion Athletic Conference (ODAC),odac,15,28.4,9.07,5.73,1.53,0.73,0.6,2.6666666666666665,-0.2000202047128165,74
-49,1594,2025-26,"Radcliffe,Colin",Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,25,21.36,10.28,3.08,0.4,0.56,0.12,0.96,-0.2569533096912431,74
-50,1623,2025-26,"Smith,Kyren",Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,22,20.0,8.59,3.82,0.73,0.55,0.14,0.8181818181818182,-0.3107021204782709,74
-51,1668,2025-26,"Hodges,Malcolm",Randolph-Macon College,F,Old Dominion Athletic Conference (ODAC),odac,28,17.75,7.21,3.25,1.5,0.75,0.39,1.1428571428571428,-0.4221386905414213,73
-52,1708,2025-26,"Cox,Elijah",Randolph College,F,Old Dominion Athletic Conference (ODAC),odac,24,30.458333333333332,8.38,4.17,1.42,0.58,0.13,1.4583333333333333,-0.5164701825599849,72
-53,1723,2025-26,"Gray,Michael",Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,22,20.045454545454547,9.41,2.18,1.86,0.86,0.18,1.818181818181818,-0.5543605878384386,72
-54,1788,2025-26,"Clevenger,Patrick",Roanoke College,F,Old Dominion Athletic Conference (ODAC),odac,28,24.821428571428573,4.96,5.43,1.21,0.36,0.29,0.6071428571428571,-0.7087400225039423,71
-55,1797,2025-26,"Cannon,Alex",Hampden-Sydney College,C,Old Dominion Athletic Conference (ODAC),odac,26,18.26923076923077,5.12,5.58,0.31,0.27,1.42,1.4230769230769231,-0.7406093504764252,71
-56,1803,2025-26,"Loughlin,John",Washington and Lee,G,Old Dominion Athletic Conference (ODAC),odac,23,22.217391304347824,7.91,3.43,0.74,0.57,0.0,0.6956521739130435,-0.7548665039077583,71
-57,1826,2025-26,"Bizzelle,Tugg",Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,26,23.923076923076923,8.88,2.58,1.65,0.65,0.12,1.5769230769230769,-0.7932972017706563,71
-58,1878,2025-26,"WALKER, Jazen",Eastern Mennonite University,0,Old Dominion Athletic Conference (ODAC),odac,25,21.04,8.28,4.36,1.12,0.52,0.2,1.68,-0.9137846331779504,70
-59,1885,2025-26,"ARNASON, Donovan",Eastern Mennonite University,0,Old Dominion Athletic Conference (ODAC),odac,21,20.333333333333332,7.43,3.14,0.57,0.86,0.19,0.9523809523809524,-0.9306529702530992,70
-60,2032,2025-26,"Breeden,Bryce",Washington and Lee,G,Old Dominion Athletic Conference (ODAC),odac,26,19.23076923076923,6.58,2.62,0.73,0.65,0.31,0.8076923076923077,-1.258980303490085,68
-61,2033,2025-26,"Parson,Viktor",Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,23,20.73913043478261,7.96,2.09,1.09,0.48,0.04,0.9130434782608696,-1.2592523110557878,68
-62,2045,2025-26,"Areikat,Amr",Randolph-Macon College,G,Old Dominion Athletic Conference (ODAC),odac,28,14.571428571428571,6.43,2.29,1.43,0.57,0.04,0.7142857142857143,-1.292515449616475,68
-63,2069,2025-26,"Skogen,Zach",Averett University,F,Old Dominion Athletic Conference (ODAC),odac,26,22.115384615384617,4.88,4.46,1.04,0.73,0.58,1.3846153846153846,-1.336902228183977,68
-64,2082,2025-26,"Velmar,Malcolm",Virginia Wesleyan,G,Old Dominion Athletic Conference (ODAC),odac,24,26.5,6.83,1.83,1.79,0.63,0.0,1.0,-1.3590512455634427,67
-65,2104,2025-26,"Seiler,Josh",Averett University,G,Old Dominion Athletic Conference (ODAC),odac,25,14.84,6.16,2.48,0.72,0.52,0.36,0.68,-1.414358645592772,67
-66,2113,2025-26,"Thomas,Elijah",Lynchburg,F,Old Dominion Athletic Conference (ODAC),odac,26,12.73076923076923,4.88,3.69,0.35,0.85,0.38,0.6923076923076923,-1.4339558560049996,67
-67,2115,2025-26,"Ross Jr.,Derek",Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,10,17.9,4.5,1.6,3.8,0.7,0.1,1.5,-1.4379582630269103,67
-68,2165,2025-26,"BAILEY, Zach",Eastern Mennonite University,0,Old Dominion Athletic Conference (ODAC),odac,23,21.782608695652176,5.0,4.96,0.39,0.57,0.52,1.173913043478261,-1.5462024754236046,66
-69,2172,2025-26,"Allen,John",Shenandoah,F,Old Dominion Athletic Conference (ODAC),odac,22,20.40909090909091,6.41,3.95,0.59,0.55,0.64,1.6363636363636365,-1.5605346043893122,66
-70,2174,2025-26,"Richardson,Maleek",Bridgewater College,F,Old Dominion Athletic Conference (ODAC),odac,20,17.4,8.55,3.1,0.95,0.75,0.15,2.0,-1.5607829057635794,66
-71,2195,2025-26,"Russ,Landon",Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,25,23.84,5.68,2.32,2.2,1.08,0.28,1.92,-1.623007865034432,66
-72,2201,2025-26,"Barnes,Tyler",Roanoke College,G,Old Dominion Athletic Conference (ODAC),odac,27,13.555555555555555,5.0,3.78,0.74,0.3,0.26,0.5555555555555556,-1.6384457842847868,66
-73,2269,2025-26,"Simmons,Matthew",Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,24,23.333333333333332,3.92,3.5,2.83,0.83,0.21,1.8333333333333333,-1.7661641161148418,65
-74,2300,2025-26,"Hart,Jake",Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,24,25.0,2.5,2.92,3.88,1.38,0.0,2.0416666666666665,-1.825111073687294,64
-75,2353,2025-26,"Ramey,Mason",Bridgewater College,C,Old Dominion Athletic Conference (ODAC),odac,23,16.82608695652174,6.39,2.78,0.87,0.3,0.48,1.3478260869565215,-1.9284172906750552,64
-76,2379,2025-26,"Pollard,Demeir",Virginia Wesleyan,G,Old Dominion Athletic Conference (ODAC),odac,27,21.03703703703704,5.63,2.63,0.7,0.59,0.0,0.6666666666666666,-1.982035632379659,63
-77,2381,2025-26,"Engram,Mi'Kis",Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,25,23.64,4.68,2.56,1.96,0.8,0.08,1.32,-1.9845512639540432,63
-78,2475,2025-26,"Battle,Theartis",Randolph-Macon College,F,Old Dominion Athletic Conference (ODAC),odac,27,10.925925925925926,2.96,2.7,0.96,0.78,0.15,0.3333333333333333,-2.152263840360644,62
-79,2483,2025-26,"Stanley,Porter",Roanoke College,F,Old Dominion Athletic Conference (ODAC),odac,25,14.24,5.4,3.52,0.68,0.28,0.16,0.92,-2.16448953604897,62
-80,2533,2025-26,"NKRUMAH, BJ",Eastern Mennonite University,0,Old Dominion Athletic Conference (ODAC),odac,24,18.541666666666668,4.21,2.46,0.42,0.75,0.17,0.5,-2.26491673700317,61
-81,2591,2025-26,"Palmore,Jaden",Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,24,14.666666666666666,3.46,2.0,1.79,0.42,0.08,0.5833333333333334,-2.36288792627709,61
-82,2615,2025-26,"Truitt,Ryan",Roanoke College,G,Old Dominion Athletic Conference (ODAC),odac,28,17.0,4.07,2.07,2.07,0.79,0.07,1.3571428571428572,-2.4089285900038497,60
-83,2638,2025-26,"Die',Kevin",Washington and Lee,G,Old Dominion Athletic Conference (ODAC),odac,16,13.3125,4.06,1.44,1.44,0.81,0.06,0.8125,-2.439983904389818,60
-84,2659,2025-26,"BROWN, Hezekiah",Eastern Mennonite University,g,Old Dominion Athletic Conference (ODAC),odac,24,23.291666666666668,5.79,2.92,1.08,1.17,0.04,2.0416666666666665,-2.4786540488161357,60
-85,2670,2025-26,"Diop,Moustapha",Bridgewater College,F,Old Dominion Athletic Conference (ODAC),odac,25,16.16,4.96,2.92,0.44,0.52,0.08,0.84,-2.500839317728262,60
-86,2688,2025-26,"Britt,William",Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,27,15.148148148148149,3.22,2.81,0.52,0.44,0.26,0.3703703703703703,-2.538877519773892,59
-87,2704,2025-26,"MCMILLEN, Tripp",Guilford College,g,Old Dominion Athletic Conference (ODAC),odac,15,12.2,3.93,2.87,0.47,0.93,0.07,0.8666666666666667,-2.5687874576391794,59
-88,2741,2025-26,"Gomez,Edixon",Eastern Mennonite University,G,Old Dominion Athletic Conference (ODAC),odac,18,18.22222222222222,4.5,2.89,0.78,0.17,0.11,0.7222222222222222,-2.654650860255686,59
-89,2767,2025-26,"Hancock,Miles",Virginia Wesleyan,C,Old Dominion Athletic Conference (ODAC),odac,23,12.782608695652174,3.35,3.43,0.35,0.39,0.09,0.4347826086956521,-2.7212364199185033,58
-90,2787,2025-26,"James Jr.,TJ",Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,25,16.52,5.16,1.52,0.72,0.32,0.16,0.8,-2.7768817657623703,58
-91,2798,2025-26,"Depriest,Chase",Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,25,18.64,4.8,2.88,0.32,0.36,0.2,0.96,-2.8039551460974463,58
-92,2799,2025-26,"Byrd,Stacy",Randolph College,,Old Dominion Athletic Conference (ODAC),odac,21,17.333333333333332,4.38,3.52,0.1,0.29,0.24,0.8571428571428571,-2.8041122944989563,58
-93,2808,2025-26,"Crumbie,Blair",Averett University,F,Old Dominion Athletic Conference (ODAC),odac,15,12.933333333333334,4.47,1.53,0.53,0.6,0.0,0.5333333333333333,-2.820611460600778,58
-94,2826,2025-26,"Ross,Deondre",Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,19,10.578947368421051,3.84,1.42,0.89,0.47,0.26,0.6842105263157895,-2.8468782911461616,57
-95,2833,2025-26,"Chambers,Jalen",Averett University,G,Old Dominion Athletic Conference (ODAC),odac,21,10.952380952380953,5.57,1.38,0.62,0.52,0.24,1.1904761904761905,-2.858504883444645,57
-96,2839,2025-26,"Buttemere,Daniel",Washington and Lee,G,Old Dominion Athletic Conference (ODAC),odac,25,13.36,4.4,1.88,0.88,0.64,0.08,1.0,-2.873335182738953,57
-97,2842,2025-26,"Jenkins,Javon",Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,20,15.4,4.2,1.4,1.55,0.8,0.15,1.4,-2.878637426040584,57
-98,2853,2025-26,"BACON, Christian",Guilford College,0,Old Dominion Athletic Conference (ODAC),odac,25,19.88,2.0,2.16,1.8,1.0,0.08,1.08,-2.9010282213986383,57
-99,2883,2025-26,"Rosenthal,Zach",Roanoke College,G,Old Dominion Athletic Conference (ODAC),odac,27,10.333333333333334,4.3,1.3,0.48,0.41,0.04,0.3703703703703703,-2.9620775416574983,57
-100,2897,2025-26,"Ransom,Jackson",Washington and Lee,G,Old Dominion Athletic Conference (ODAC),odac,17,18.176470588235293,2.65,2.18,0.29,0.65,0.12,0.2352941176470588,-2.9799575280506527,56
-101,2899,2025-26,"Lee,Isaiah",Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,16,17.875,5.63,1.63,1.19,0.25,0.13,1.375,-2.9805335355859115,56
-102,2902,2025-26,"Daily,Samuel",Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,11,17.727272727272727,3.73,1.64,1.09,0.45,0.55,1.2727272727272727,-2.9893229205085947,56
-103,2989,2025-26,"White,Tyree",Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,27,14.148148148148149,3.89,2.59,1.19,0.52,0.04,1.3333333333333333,-3.17636900586328,55
-104,3003,2025-26,"Sanusi,Seth",Shenandoah,F,Old Dominion Athletic Conference (ODAC),odac,20,12.2,2.7,2.5,0.3,0.45,0.25,0.55,-3.225120395470603,55
-105,3042,2025-26,"Lemon,Jaylen",Shenandoah,F,Old Dominion Athletic Conference (ODAC),odac,13,11.846153846153848,3.92,2.15,0.23,0.38,0.08,0.6923076923076923,-3.3315169020831377,55
-106,3089,2025-26,"Suber,Chris",Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,21,16.047619047619047,2.24,1.1,1.9,0.86,0.0,1.1428571428571428,-3.4248060195643903,54
-107,3096,2025-26,"Owens,Bradley",Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,18,12.38888888888889,3.94,1.28,0.17,0.11,0.0,0.1666666666666666,-3.452752580083633,54
-108,3125,2025-26,"Jackson,Lincoln",Bridgewater College,F,Old Dominion Athletic Conference (ODAC),odac,18,10.77777777777778,4.11,2.11,0.11,0.11,0.06,0.6111111111111112,-3.5502445051138225,53
-109,3142,2025-26,"Seargeant,Khai",Virginia Wesleyan,G,Old Dominion Athletic Conference (ODAC),odac,27,10.25925925925926,3.63,0.89,0.7,0.33,0.07,0.6296296296296297,-3.5785124879555408,53
-110,3156,2025-26,"Ford,Andrew",Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,18,12.055555555555555,3.89,1.44,0.33,0.28,0.0,0.6111111111111112,-3.641965003866486,53
-111,3272,2025-26,"Hayes,Chris",Randolph College,F,Old Dominion Athletic Conference (ODAC),odac,24,11.291666666666666,2.88,1.79,0.17,0.17,0.08,0.5416666666666666,-3.98124850936284,51
-112,3285,2025-26,"Barone,Ayden",Randolph College,F,Old Dominion Athletic Conference (ODAC),odac,16,11.5,2.38,2.06,0.19,0.19,0.13,0.5625,-4.022229946483516,51
-113,3317,2025-26,"Ramazani,Isaiah",Averett University,G,Old Dominion Athletic Conference (ODAC),odac,21,13.095238095238097,2.48,1.71,0.9,0.33,0.0,1.0,-4.149171991145938,51
+1,36,2025-26,Jamarcus Brown,Lynchburg,F,Old Dominion Athletic Conference (ODAC),odac,26,31.76923076923077,20.73,7.42,1.38,1.12,1.73,2.076923076923077,7.775745936934471,95
+2,64,2025-26,Braylen SALTERS,Guilford College,g,Old Dominion Athletic Conference (ODAC),odac,26,26.5,23.77,3.62,1.96,2.0,0.15,2.1923076923076925,6.798228307293097,94
+3,101,2025-26,Omari Deveaux,Virginia Wesleyan,G,Old Dominion Athletic Conference (ODAC),odac,27,34.74074074074074,21.19,4.59,2.7,1.04,0.26,1.8888888888888888,6.075926507998432,94
+4,189,2025-26,Amari Moorer,Virginia Wesleyan,F,Old Dominion Athletic Conference (ODAC),odac,27,31.48148148148148,14.44,7.52,2.33,1.26,1.0,1.9259259259259256,5.14616721273434,93
+5,253,2025-26,Dorian Davis,Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,25,31.48,14.52,7.24,0.96,1.36,0.68,1.2,4.660534079574521,92
+6,270,2025-26,Jackson Bell,Roanoke College,G,Old Dominion Athletic Conference (ODAC),odac,28,30.214285714285715,16.0,5.39,1.64,1.18,0.39,1.1785714285714286,4.555590393304463,92
+7,308,2025-26,Jackson Sellars,Averett University,G,Old Dominion Athletic Conference (ODAC),odac,25,31.28,14.76,6.16,2.72,1.36,0.68,2.36,4.253094894093372,91
+8,363,2025-26,Gabe PROCTOR,Guilford College,g,Old Dominion Athletic Conference (ODAC),odac,26,27.192307692307693,16.81,4.19,1.88,1.31,0.08,1.6538461538461535,3.822539788089319,90
+9,470,2025-26,Marcus Morgan,Roanoke College,G,Old Dominion Athletic Conference (ODAC),odac,26,27.346153846153847,11.69,5.77,3.46,1.12,0.35,1.8076923076923077,3.267547564322517,89
+10,484,2025-26,Aaron BROOKS,Eastern Mennonite University,g,Old Dominion Athletic Conference (ODAC),odac,25,35.8,14.08,3.92,4.0,2.44,0.4,3.72,3.206644618453958,89
+11,524,2025-26,Ellis Wright,Shenandoah,F,Old Dominion Athletic Conference (ODAC),odac,25,27.64,17.28,3.72,0.84,0.44,0.64,1.64,3.0252727021887784,88
+12,622,2025-26,Ke EDWARDS,Guilford College,0,Old Dominion Athletic Conference (ODAC),odac,14,13.571428571428571,12.07,3.93,0.71,1.71,0.29,0.7142857142857143,2.6641727491009157,87
+13,628,2025-26,Dawson EDWARDS,Guilford College,g,Old Dominion Athletic Conference (ODAC),odac,26,23.153846153846153,8.81,4.88,2.54,2.04,0.15,1.0384615384615383,2.6369864474457065,87
+14,649,2025-26,Jabril Robinson,Randolph-Macon College,G,Old Dominion Athletic Conference (ODAC),odac,26,24.5,12.58,2.92,2.19,1.04,0.23,0.9230769230769232,2.536089378459239,87
+15,651,2025-26,Connor Amorosi,Washington and Lee,F,Old Dominion Athletic Conference (ODAC),odac,26,29.846153846153847,16.5,4.27,1.35,0.77,0.46,2.3461538461538463,2.531634129489865,86
+16,672,2025-26,Colin Ryan,Washington and Lee,F,Old Dominion Athletic Conference (ODAC),odac,25,29.16,9.8,5.56,5.12,0.64,0.28,2.24,2.451857282199666,86
+17,681,2025-26,Rival AXSELLE,Guilford College,g,Old Dominion Athletic Conference (ODAC),odac,26,21.807692307692307,9.54,5.15,0.77,1.5,0.88,0.8846153846153846,2.4301384430813964,86
+18,715,2025-26,Santana Lynch,Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,19,23.31578947368421,11.68,7.53,1.79,0.95,0.05,1.736842105263158,2.283170329491251,86
+19,745,2025-26,Mason Mitchell,Averett University,G,Old Dominion Athletic Conference (ODAC),odac,26,31.192307692307693,11.62,5.12,1.46,0.73,0.62,1.3076923076923077,2.181684859606623,85
+20,755,2025-26,Jahmir Brown,Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,25,29.08,13.48,3.68,1.92,1.08,0.16,1.64,2.144139089843617,85
+21,831,2025-26,Travis Stickney,Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,27,33.925925925925924,10.37,5.85,4.22,1.41,0.11,2.962962962962963,1.9196180898879665,84
+22,881,2025-26,Addison Newkirk,Washington and Lee,F,Old Dominion Athletic Conference (ODAC),odac,25,25.88,9.28,7.24,0.84,1.24,0.44,1.36,1.7427088837556588,83
+23,896,2025-26,Keishawn Pulley Jr.,Randolph-Macon College,G,Old Dominion Athletic Conference (ODAC),odac,28,25.392857142857142,10.36,3.75,1.79,0.96,0.04,0.5714285714285714,1.6909595453078214,83
+24,965,2025-26,Aveion Tucker,Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,19,32.473684210526315,12.89,3.32,4.11,0.74,0.0,2.736842105263158,1.4554578862739205,82
+25,1015,2025-26,Delani Hammonds,Randolph-Macon College,G,Old Dominion Athletic Conference (ODAC),odac,26,24.076923076923077,7.69,3.88,3.23,1.27,0.15,1.2307692307692308,1.2836259139129265,82
+26,1052,2025-26,Piercen Young,Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,26,25.73076923076923,8.42,5.35,1.85,0.92,0.5,1.3461538461538465,1.1596801730762356,81
+27,1079,2025-26,Liam Joyce,Randolph-Macon College,F,Old Dominion Athletic Conference (ODAC),odac,28,18.357142857142858,7.43,4.46,1.32,1.0,0.79,0.8571428571428571,1.0744166176627952,81
+28,1085,2025-26,Trey Miller,Randolph College,F,Old Dominion Athletic Conference (ODAC),odac,13,26.076923076923077,9.85,7.85,1.0,0.38,0.23,1.4615384615384617,1.062631067172512,81
+29,1105,2025-26,Caleb Franze,Roanoke College,G,Old Dominion Athletic Conference (ODAC),odac,28,24.928571428571427,11.36,2.46,2.25,0.75,0.11,1.3214285714285714,0.9979642734739655,80
+30,1106,2025-26,Reynolds ESCHER,Guilford College,0,Old Dominion Athletic Conference (ODAC),odac,25,20.04,8.8,4.6,1.8,1.56,0.0,1.36,0.9940703538119746,80
+31,1107,2025-26,Isaiah CARR,Eastern Mennonite University,g,Old Dominion Athletic Conference (ODAC),odac,25,29.76,12.12,5.04,1.4,1.0,0.2,2.24,0.9935314552422352,80
+32,1137,2025-26,Jayson Easton,Lynchburg,F,Old Dominion Athletic Conference (ODAC),odac,25,25.04,11.08,4.16,0.72,0.68,0.12,0.84,0.9398147012228264,80
+33,1157,2025-26,Shane Fernald,Hampden-Sydney College,F,Old Dominion Athletic Conference (ODAC),odac,23,22.08695652173913,9.13,5.0,2.26,0.91,0.26,1.6956521739130437,0.8956263938468498,80
+34,1170,2025-26,Peter Moye,Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,27,24.85185185185185,11.81,3.96,1.04,0.44,0.04,1.0,0.8694383256804309,80
+35,1182,2025-26,Theo Antinori,Randolph-Macon College,G,Old Dominion Athletic Conference (ODAC),odac,27,20.40740740740741,9.3,2.78,1.41,0.89,0.3,0.6296296296296297,0.8403746211083422,79
+36,1206,2025-26,Steven Burgess Jr.,Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,12,25.75,11.0,2.75,2.5,1.5,0.08,2.25,0.7772108357281468,79
+37,1228,2025-26,Gavin O'Malley,Roanoke College,F,Old Dominion Athletic Conference (ODAC),odac,28,23.678571428571427,10.0,6.11,0.71,0.57,0.18,1.2142857142857142,0.7145788922684183,79
+38,1277,2025-26,T.J. East,Virginia Wesleyan,F,Old Dominion Athletic Conference (ODAC),odac,27,24.11111111111111,8.37,5.15,1.15,0.78,0.19,0.8518518518518519,0.6109265419456562,78
+39,1320,2025-26,Kody CLAYTON,Guilford College,0,Old Dominion Athletic Conference (ODAC),odac,26,20.423076923076923,4.38,3.77,3.77,2.65,0.19,2.230769230769231,0.50417382047316,78
+40,1345,2025-26,Paul Anderson,Virginia Wesleyan,G,Old Dominion Athletic Conference (ODAC),odac,27,28.296296296296298,6.96,4.15,0.89,1.22,0.59,0.8518518518518519,0.4398957175428962,77
+41,1393,2025-26,Timayahs Bracey,Averett University,G,Old Dominion Athletic Conference (ODAC),odac,26,28.384615384615383,12.08,1.58,3.23,0.81,0.08,2.5,0.3385499240706797,77
+42,1426,2025-26,Jesse Mitchell,Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,26,19.96153846153846,8.54,4.5,0.73,0.77,0.12,0.6923076923076923,0.2470951023053411,76
+43,1492,2025-26,Tyler Stephens,Averett University,F,Old Dominion Athletic Conference (ODAC),odac,26,24.615384615384617,8.35,6.12,0.85,0.88,0.46,1.8846153846153848,0.0274601778029671,75
+44,1509,2025-26,AJ Thomas,Washington and Lee,F,Old Dominion Athletic Conference (ODAC),odac,26,25.46153846153846,8.73,4.08,0.96,0.46,0.12,0.7307692307692307,-0.0201660154923182,75
+45,1541,2025-26,Khalil Caple,Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,24,22.125,10.67,3.46,1.5,1.25,0.21,2.4583333333333335,-0.1020680644983,75
+46,1562,2025-26,Ty Showalter,Randolph-Macon College,F,Old Dominion Athletic Conference (ODAC),odac,27,15.11111111111111,7.7,4.04,1.26,0.52,0.48,1.1111111111111112,-0.1716075260913949,74
+47,1565,2025-26,Carter Palmer,Bridgewater College,F,Old Dominion Athletic Conference (ODAC),odac,24,26.875,7.42,4.75,0.29,0.88,0.21,0.6666666666666666,-0.1803573120855168,74
+48,1568,2025-26,Joseph Baldwin,Shenandoah,F,Old Dominion Athletic Conference (ODAC),odac,15,28.4,9.07,5.73,1.53,0.73,0.6,2.6666666666666665,-0.2000202047128165,74
+49,1594,2025-26,Colin Radcliffe,Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,25,21.36,10.28,3.08,0.4,0.56,0.12,0.96,-0.2569533096912431,74
+50,1623,2025-26,Kyren Smith,Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,22,20.0,8.59,3.82,0.73,0.55,0.14,0.8181818181818182,-0.3107021204782709,74
+51,1668,2025-26,Malcolm Hodges,Randolph-Macon College,F,Old Dominion Athletic Conference (ODAC),odac,28,17.75,7.21,3.25,1.5,0.75,0.39,1.1428571428571428,-0.4221386905414213,73
+52,1708,2025-26,Elijah Cox,Randolph College,F,Old Dominion Athletic Conference (ODAC),odac,24,30.458333333333332,8.38,4.17,1.42,0.58,0.13,1.4583333333333333,-0.5164701825599849,72
+53,1723,2025-26,Michael Gray,Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,22,20.045454545454547,9.41,2.18,1.86,0.86,0.18,1.818181818181818,-0.5543605878384386,72
+54,1788,2025-26,Patrick Clevenger,Roanoke College,F,Old Dominion Athletic Conference (ODAC),odac,28,24.821428571428573,4.96,5.43,1.21,0.36,0.29,0.6071428571428571,-0.7087400225039423,71
+55,1797,2025-26,Alex Cannon,Hampden-Sydney College,C,Old Dominion Athletic Conference (ODAC),odac,26,18.26923076923077,5.12,5.58,0.31,0.27,1.42,1.4230769230769231,-0.7406093504764252,71
+56,1803,2025-26,John Loughlin,Washington and Lee,G,Old Dominion Athletic Conference (ODAC),odac,23,22.217391304347824,7.91,3.43,0.74,0.57,0.0,0.6956521739130435,-0.7548665039077583,71
+57,1826,2025-26,Tugg Bizzelle,Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,26,23.923076923076923,8.88,2.58,1.65,0.65,0.12,1.5769230769230769,-0.7932972017706563,71
+58,1878,2025-26,Jazen WALKER,Eastern Mennonite University,0,Old Dominion Athletic Conference (ODAC),odac,25,21.04,8.28,4.36,1.12,0.52,0.2,1.68,-0.9137846331779504,70
+59,1885,2025-26,Donovan ARNASON,Eastern Mennonite University,0,Old Dominion Athletic Conference (ODAC),odac,21,20.333333333333332,7.43,3.14,0.57,0.86,0.19,0.9523809523809524,-0.9306529702530992,70
+60,2032,2025-26,Bryce Breeden,Washington and Lee,G,Old Dominion Athletic Conference (ODAC),odac,26,19.23076923076923,6.58,2.62,0.73,0.65,0.31,0.8076923076923077,-1.258980303490085,68
+61,2033,2025-26,Viktor Parson,Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,23,20.73913043478261,7.96,2.09,1.09,0.48,0.04,0.9130434782608696,-1.2592523110557878,68
+62,2045,2025-26,Amr Areikat,Randolph-Macon College,G,Old Dominion Athletic Conference (ODAC),odac,28,14.571428571428571,6.43,2.29,1.43,0.57,0.04,0.7142857142857143,-1.292515449616475,68
+63,2069,2025-26,Zach Skogen,Averett University,F,Old Dominion Athletic Conference (ODAC),odac,26,22.115384615384617,4.88,4.46,1.04,0.73,0.58,1.3846153846153846,-1.336902228183977,68
+64,2082,2025-26,Malcolm Velmar,Virginia Wesleyan,G,Old Dominion Athletic Conference (ODAC),odac,24,26.5,6.83,1.83,1.79,0.63,0.0,1.0,-1.3590512455634427,67
+65,2104,2025-26,Josh Seiler,Averett University,G,Old Dominion Athletic Conference (ODAC),odac,25,14.84,6.16,2.48,0.72,0.52,0.36,0.68,-1.414358645592772,67
+66,2113,2025-26,Elijah Thomas,Lynchburg,F,Old Dominion Athletic Conference (ODAC),odac,26,12.73076923076923,4.88,3.69,0.35,0.85,0.38,0.6923076923076923,-1.4339558560049996,67
+67,2115,2025-26,Derek Ross Jr.,Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,10,17.9,4.5,1.6,3.8,0.7,0.1,1.5,-1.4379582630269103,67
+68,2165,2025-26,Zach BAILEY,Eastern Mennonite University,0,Old Dominion Athletic Conference (ODAC),odac,23,21.782608695652176,5.0,4.96,0.39,0.57,0.52,1.173913043478261,-1.5462024754236046,66
+69,2172,2025-26,John Allen,Shenandoah,F,Old Dominion Athletic Conference (ODAC),odac,22,20.40909090909091,6.41,3.95,0.59,0.55,0.64,1.6363636363636365,-1.5605346043893122,66
+70,2174,2025-26,Maleek Richardson,Bridgewater College,F,Old Dominion Athletic Conference (ODAC),odac,20,17.4,8.55,3.1,0.95,0.75,0.15,2.0,-1.5607829057635794,66
+71,2195,2025-26,Landon Russ,Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,25,23.84,5.68,2.32,2.2,1.08,0.28,1.92,-1.623007865034432,66
+72,2201,2025-26,Tyler Barnes,Roanoke College,G,Old Dominion Athletic Conference (ODAC),odac,27,13.555555555555555,5.0,3.78,0.74,0.3,0.26,0.5555555555555556,-1.6384457842847868,66
+73,2269,2025-26,Matthew Simmons,Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,24,23.333333333333332,3.92,3.5,2.83,0.83,0.21,1.8333333333333333,-1.7661641161148418,65
+74,2300,2025-26,Jake Hart,Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,24,25.0,2.5,2.92,3.88,1.38,0.0,2.0416666666666665,-1.825111073687294,64
+75,2353,2025-26,Mason Ramey,Bridgewater College,C,Old Dominion Athletic Conference (ODAC),odac,23,16.82608695652174,6.39,2.78,0.87,0.3,0.48,1.3478260869565215,-1.9284172906750552,64
+76,2379,2025-26,Demeir Pollard,Virginia Wesleyan,G,Old Dominion Athletic Conference (ODAC),odac,27,21.03703703703704,5.63,2.63,0.7,0.59,0.0,0.6666666666666666,-1.982035632379659,63
+77,2381,2025-26,Mi'Kis Engram,Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,25,23.64,4.68,2.56,1.96,0.8,0.08,1.32,-1.9845512639540432,63
+78,2475,2025-26,Theartis Battle,Randolph-Macon College,F,Old Dominion Athletic Conference (ODAC),odac,27,10.925925925925926,2.96,2.7,0.96,0.78,0.15,0.3333333333333333,-2.152263840360644,62
+79,2483,2025-26,Porter Stanley,Roanoke College,F,Old Dominion Athletic Conference (ODAC),odac,25,14.24,5.4,3.52,0.68,0.28,0.16,0.92,-2.16448953604897,62
+80,2533,2025-26,BJ NKRUMAH,Eastern Mennonite University,0,Old Dominion Athletic Conference (ODAC),odac,24,18.541666666666668,4.21,2.46,0.42,0.75,0.17,0.5,-2.26491673700317,61
+81,2591,2025-26,Jaden Palmore,Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,24,14.666666666666666,3.46,2.0,1.79,0.42,0.08,0.5833333333333334,-2.36288792627709,61
+82,2615,2025-26,Ryan Truitt,Roanoke College,G,Old Dominion Athletic Conference (ODAC),odac,28,17.0,4.07,2.07,2.07,0.79,0.07,1.3571428571428572,-2.4089285900038497,60
+83,2638,2025-26,Kevin Die',Washington and Lee,G,Old Dominion Athletic Conference (ODAC),odac,16,13.3125,4.06,1.44,1.44,0.81,0.06,0.8125,-2.439983904389818,60
+84,2659,2025-26,Hezekiah BROWN,Eastern Mennonite University,g,Old Dominion Athletic Conference (ODAC),odac,24,23.291666666666668,5.79,2.92,1.08,1.17,0.04,2.0416666666666665,-2.4786540488161357,60
+85,2670,2025-26,Moustapha Diop,Bridgewater College,F,Old Dominion Athletic Conference (ODAC),odac,25,16.16,4.96,2.92,0.44,0.52,0.08,0.84,-2.500839317728262,60
+86,2688,2025-26,William Britt,Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,27,15.148148148148149,3.22,2.81,0.52,0.44,0.26,0.3703703703703703,-2.538877519773892,59
+87,2704,2025-26,Tripp MCMILLEN,Guilford College,g,Old Dominion Athletic Conference (ODAC),odac,15,12.2,3.93,2.87,0.47,0.93,0.07,0.8666666666666667,-2.5687874576391794,59
+88,2741,2025-26,Edixon Gomez,Eastern Mennonite University,G,Old Dominion Athletic Conference (ODAC),odac,18,18.22222222222222,4.5,2.89,0.78,0.17,0.11,0.7222222222222222,-2.654650860255686,59
+89,2767,2025-26,Miles Hancock,Virginia Wesleyan,C,Old Dominion Athletic Conference (ODAC),odac,23,12.782608695652174,3.35,3.43,0.35,0.39,0.09,0.4347826086956521,-2.7212364199185033,58
+90,2787,2025-26,TJ James Jr.,Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,25,16.52,5.16,1.52,0.72,0.32,0.16,0.8,-2.7768817657623703,58
+91,2798,2025-26,Chase Depriest,Randolph College,G,Old Dominion Athletic Conference (ODAC),odac,25,18.64,4.8,2.88,0.32,0.36,0.2,0.96,-2.8039551460974463,58
+92,2799,2025-26,Stacy Byrd,Randolph College,,Old Dominion Athletic Conference (ODAC),odac,21,17.333333333333332,4.38,3.52,0.1,0.29,0.24,0.8571428571428571,-2.8041122944989563,58
+93,2808,2025-26,Blair Crumbie,Averett University,F,Old Dominion Athletic Conference (ODAC),odac,15,12.933333333333334,4.47,1.53,0.53,0.6,0.0,0.5333333333333333,-2.820611460600778,58
+94,2826,2025-26,Deondre Ross,Lynchburg,G,Old Dominion Athletic Conference (ODAC),odac,19,10.578947368421051,3.84,1.42,0.89,0.47,0.26,0.6842105263157895,-2.8468782911461616,57
+95,2833,2025-26,Jalen Chambers,Averett University,G,Old Dominion Athletic Conference (ODAC),odac,21,10.952380952380953,5.57,1.38,0.62,0.52,0.24,1.1904761904761905,-2.858504883444645,57
+96,2839,2025-26,Daniel Buttemere,Washington and Lee,G,Old Dominion Athletic Conference (ODAC),odac,25,13.36,4.4,1.88,0.88,0.64,0.08,1.0,-2.873335182738953,57
+97,2842,2025-26,Javon Jenkins,Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,20,15.4,4.2,1.4,1.55,0.8,0.15,1.4,-2.878637426040584,57
+98,2853,2025-26,Christian BACON,Guilford College,0,Old Dominion Athletic Conference (ODAC),odac,25,19.88,2.0,2.16,1.8,1.0,0.08,1.08,-2.9010282213986383,57
+99,2883,2025-26,Zach Rosenthal,Roanoke College,G,Old Dominion Athletic Conference (ODAC),odac,27,10.333333333333334,4.3,1.3,0.48,0.41,0.04,0.3703703703703703,-2.9620775416574983,57
+100,2897,2025-26,Jackson Ransom,Washington and Lee,G,Old Dominion Athletic Conference (ODAC),odac,17,18.176470588235293,2.65,2.18,0.29,0.65,0.12,0.2352941176470588,-2.9799575280506527,56
+101,2899,2025-26,Isaiah Lee,Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,16,17.875,5.63,1.63,1.19,0.25,0.13,1.375,-2.9805335355859115,56
+102,2902,2025-26,Samuel Daily,Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,11,17.727272727272727,3.73,1.64,1.09,0.45,0.55,1.2727272727272727,-2.9893229205085947,56
+103,2989,2025-26,Tyree White,Hampden-Sydney College,G,Old Dominion Athletic Conference (ODAC),odac,27,14.148148148148149,3.89,2.59,1.19,0.52,0.04,1.3333333333333333,-3.17636900586328,55
+104,3003,2025-26,Seth Sanusi,Shenandoah,F,Old Dominion Athletic Conference (ODAC),odac,20,12.2,2.7,2.5,0.3,0.45,0.25,0.55,-3.225120395470603,55
+105,3042,2025-26,Jaylen Lemon,Shenandoah,F,Old Dominion Athletic Conference (ODAC),odac,13,11.846153846153848,3.92,2.15,0.23,0.38,0.08,0.6923076923076923,-3.3315169020831377,55
+106,3089,2025-26,Chris Suber,Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,21,16.047619047619047,2.24,1.1,1.9,0.86,0.0,1.1428571428571428,-3.4248060195643903,54
+107,3096,2025-26,Bradley Owens,Bridgewater College,G,Old Dominion Athletic Conference (ODAC),odac,18,12.38888888888889,3.94,1.28,0.17,0.11,0.0,0.1666666666666666,-3.452752580083633,54
+108,3125,2025-26,Lincoln Jackson,Bridgewater College,F,Old Dominion Athletic Conference (ODAC),odac,18,10.77777777777778,4.11,2.11,0.11,0.11,0.06,0.6111111111111112,-3.5502445051138225,53
+109,3142,2025-26,Khai Seargeant,Virginia Wesleyan,G,Old Dominion Athletic Conference (ODAC),odac,27,10.25925925925926,3.63,0.89,0.7,0.33,0.07,0.6296296296296297,-3.5785124879555408,53
+110,3156,2025-26,Andrew Ford,Shenandoah,G,Old Dominion Athletic Conference (ODAC),odac,18,12.055555555555555,3.89,1.44,0.33,0.28,0.0,0.6111111111111112,-3.641965003866486,53
+111,3272,2025-26,Chris Hayes,Randolph College,F,Old Dominion Athletic Conference (ODAC),odac,24,11.291666666666666,2.88,1.79,0.17,0.17,0.08,0.5416666666666666,-3.98124850936284,51
+112,3285,2025-26,Ayden Barone,Randolph College,F,Old Dominion Athletic Conference (ODAC),odac,16,11.5,2.38,2.06,0.19,0.19,0.13,0.5625,-4.022229946483516,51
+113,3317,2025-26,Isaiah Ramazani,Averett University,G,Old Dominion Athletic Conference (ODAC),odac,21,13.095238095238097,2.48,1.71,0.9,0.33,0.0,1.0,-4.149171991145938,51

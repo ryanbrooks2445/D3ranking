@@ -48,7 +48,7 @@ export default async function Home() {
               Browse rankings
             </Link>
             <CheckoutButton className="min-h-[48px] rounded-lg border border-slate-600 bg-slate-800/50 px-6 py-3 text-base font-medium text-slate-200 transition hover:border-slate-500 hover:bg-slate-800">
-              Start 7-day free trial
+              Get Pro
             </CheckoutButton>
           </div>
         </section>
@@ -97,13 +97,13 @@ export default async function Home() {
         >
           <h2 className="text-lg font-semibold text-white">Pricing</h2>
           <p className="mt-2 text-slate-400">
-            Free: Top 25 global + top 5 per conference. Pro: Full lists, OVR, rank, and search.
+            Free: Top 25 global + top 5 per conference. Pro: Full lists, OVR, rank, score, and search.
           </p>
           <p className="mt-3 text-lg font-medium text-white">
-            $19.99/year · 7-day free trial
+            $19.99/year
           </p>
           <CheckoutButton className="mt-5 inline-block rounded-lg bg-blue-600 px-5 py-2.5 text-sm font-medium text-white transition hover:bg-blue-500">
-            Start free trial
+            Get Pro
           </CheckoutButton>
         </section>
       </main>

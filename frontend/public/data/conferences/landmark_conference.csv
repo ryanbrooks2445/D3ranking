@@ -1,92 +1,92 @@
 rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
 1,5,2025-26,Marquis Ratcliff,Moravian,f,Landmark Conference,landmark_conference,25,34.24,22.36,8.72,2.44,0.88,2.56,2.24,10.301415376027258,98
-2,25,2025-26,"Finarelli,Austin",Elizabethtown,G,Landmark Conference,landmark_conference,26,33.73076923076923,21.19,5.12,2.46,3.08,0.15,1.7307692307692308,8.178451715056164,95
-3,55,2025-26,"Lesko,Lucas",Wilkes,F,Landmark Conference,landmark_conference,25,33.56,19.04,7.36,2.6,0.88,1.08,1.68,7.226114936594427,94
+2,25,2025-26,Austin Finarelli,Elizabethtown,G,Landmark Conference,landmark_conference,26,33.73076923076923,21.19,5.12,2.46,3.08,0.15,1.7307692307692308,8.178451715056164,95
+3,55,2025-26,Lucas Lesko,Wilkes,F,Landmark Conference,landmark_conference,25,33.56,19.04,7.36,2.6,0.88,1.08,1.68,7.226114936594427,94
 4,102,2025-26,Porter Kelly,Moravian,g,Landmark Conference,landmark_conference,17,35.88235294117647,18.0,4.06,4.29,1.71,0.24,2.0588235294117645,6.058854989010504,94
-5,142,2025-26,"Musial,David",Drew,F,Landmark Conference,landmark_conference,26,26.384615384615383,10.88,8.27,3.08,2.5,0.54,1.4615384615384617,5.577292973839059,93
-6,190,2025-26,"Ruoff,CJ",Catholic,G,Landmark Conference,landmark_conference,26,32.53846153846154,19.73,3.92,4.42,0.81,0.12,2.6153846153846154,5.145122837670008,93
-7,215,2025-26,"Spatola,Jon",Scranton,G,Landmark Conference,landmark_conference,25,34.36,11.76,5.04,5.48,2.2,0.24,2.16,4.939648209004977,92
-8,244,2025-26,"Herbert,Brian",Catholic,F,Landmark Conference,landmark_conference,22,30.772727272727273,16.73,4.82,2.64,0.91,0.64,1.7727272727272727,4.720029954827087,92
+5,142,2025-26,David Musial,Drew,F,Landmark Conference,landmark_conference,26,26.384615384615383,10.88,8.27,3.08,2.5,0.54,1.4615384615384617,5.577292973839059,93
+6,190,2025-26,CJ Ruoff,Catholic,G,Landmark Conference,landmark_conference,26,32.53846153846154,19.73,3.92,4.42,0.81,0.12,2.6153846153846154,5.145122837670008,93
+7,215,2025-26,Jon Spatola,Scranton,G,Landmark Conference,landmark_conference,25,34.36,11.76,5.04,5.48,2.2,0.24,2.16,4.939648209004977,92
+8,244,2025-26,Brian Herbert,Catholic,F,Landmark Conference,landmark_conference,22,30.772727272727273,16.73,4.82,2.64,0.91,0.64,1.7727272727272727,4.720029954827087,92
 9,251,2025-26,Ty Kocak,Juniata,*,Landmark Conference,landmark_conference,25,29.4,17.4,4.92,2.32,1.52,0.32,2.08,4.670011991132359,92
-10,326,2025-26,"Machado,Woody",Elizabethtown,G,Landmark Conference,landmark_conference,26,30.26923076923077,13.19,6.65,1.42,1.54,0.81,1.6153846153846154,4.075109869954379,91
+10,326,2025-26,Woody Machado,Elizabethtown,G,Landmark Conference,landmark_conference,26,30.26923076923077,13.19,6.65,1.42,1.54,0.81,1.6153846153846154,4.075109869954379,91
 11,330,2025-26,Chad Kratzer,Moravian,g,Landmark Conference,landmark_conference,25,29.72,17.76,4.24,2.72,1.52,0.16,2.6,4.0538999549783945,91
-12,429,2025-26,"Yusavage,Eli",Drew,G,Landmark Conference,landmark_conference,23,28.652173913043477,16.87,2.91,2.39,1.09,0.09,1.6521739130434785,3.530933739453001,89
-13,482,2025-26,"Ackerman,Colin",Wilkes,G,Landmark Conference,landmark_conference,28,30.964285714285715,12.82,5.07,4.54,1.18,0.25,2.642857142857143,3.211686121752356,89
-14,509,2025-26,"Tornabene,Sammy",Scranton,F,Landmark Conference,landmark_conference,24,27.166666666666668,17.83,6.13,2.0,0.67,0.54,3.3333333333333335,3.085140142941071,88
-15,520,2025-26,"Becker,Eli",Wilkes,F,Landmark Conference,landmark_conference,28,30.607142857142858,13.54,6.5,0.96,1.14,0.64,1.7857142857142858,3.045689419994535,88
-16,558,2025-26,"Argento,Jack",Wilkes,G,Landmark Conference,landmark_conference,28,34.57142857142857,13.5,6.54,3.04,0.82,0.14,2.3214285714285716,2.8721619042613087,88
-17,563,2025-26,"Lavitt,Brandon",Susquehanna,F,Landmark Conference,landmark_conference,28,28.571428571428573,12.14,6.25,2.18,0.86,0.29,1.4285714285714286,2.8561864568193016,88
-18,580,2025-26,"Carr,Brendan",Scranton,G,Landmark Conference,landmark_conference,26,30.884615384615383,13.38,3.81,1.54,1.42,0.31,1.3076923076923077,2.8023746119179447,87
-19,642,2025-26,"Ntiamoah,Jamie",Catholic,G,Landmark Conference,landmark_conference,15,27.133333333333333,7.27,7.6,1.87,1.0,0.67,0.6666666666666666,2.5578451760130165,87
+12,429,2025-26,Eli Yusavage,Drew,G,Landmark Conference,landmark_conference,23,28.652173913043477,16.87,2.91,2.39,1.09,0.09,1.6521739130434785,3.530933739453001,89
+13,482,2025-26,Colin Ackerman,Wilkes,G,Landmark Conference,landmark_conference,28,30.964285714285715,12.82,5.07,4.54,1.18,0.25,2.642857142857143,3.211686121752356,89
+14,509,2025-26,Sammy Tornabene,Scranton,F,Landmark Conference,landmark_conference,24,27.166666666666668,17.83,6.13,2.0,0.67,0.54,3.3333333333333335,3.085140142941071,88
+15,520,2025-26,Eli Becker,Wilkes,F,Landmark Conference,landmark_conference,28,30.607142857142858,13.54,6.5,0.96,1.14,0.64,1.7857142857142858,3.045689419994535,88
+16,558,2025-26,Jack Argento,Wilkes,G,Landmark Conference,landmark_conference,28,34.57142857142857,13.5,6.54,3.04,0.82,0.14,2.3214285714285716,2.8721619042613087,88
+17,563,2025-26,Brandon Lavitt,Susquehanna,F,Landmark Conference,landmark_conference,28,28.571428571428573,12.14,6.25,2.18,0.86,0.29,1.4285714285714286,2.8561864568193016,88
+18,580,2025-26,Brendan Carr,Scranton,G,Landmark Conference,landmark_conference,26,30.884615384615383,13.38,3.81,1.54,1.42,0.31,1.3076923076923077,2.8023746119179447,87
+19,642,2025-26,Jamie Ntiamoah,Catholic,G,Landmark Conference,landmark_conference,15,27.133333333333333,7.27,7.6,1.87,1.0,0.67,0.6666666666666666,2.5578451760130165,87
 20,676,2025-26,Princeton Layton,Lycoming,0,Landmark Conference,landmark_conference,16,28.4375,14.38,4.38,1.69,0.94,0.5,2.0625,2.443952811033369,86
-21,680,2025-26,"Valentine,Isaiah",Lycoming,G,Landmark Conference,landmark_conference,24,34.375,12.71,4.42,3.0,0.71,0.25,1.75,2.4335210468674795,86
+21,680,2025-26,Isaiah Valentine,Lycoming,G,Landmark Conference,landmark_conference,24,34.375,12.71,4.42,3.0,0.71,0.25,1.75,2.4335210468674795,86
 22,700,2025-26,Hayden Pardoe,Lycoming,0,Landmark Conference,landmark_conference,23,29.130434782608695,12.04,6.65,1.48,1.04,0.52,1.9565217391304348,2.3646696394137305,86
-23,729,2025-26,"Finney,EJ",Elizabethtown,G,Landmark Conference,landmark_conference,26,31.23076923076923,9.31,4.58,4.62,1.65,0.42,2.6923076923076925,2.236211841267271,85
-24,765,2025-26,"Hepting,Charley",Catholic,F,Landmark Conference,landmark_conference,26,28.76923076923077,10.62,5.42,0.88,0.54,1.0,1.0,2.1246222362741376,85
+23,729,2025-26,EJ Finney,Elizabethtown,G,Landmark Conference,landmark_conference,26,31.23076923076923,9.31,4.58,4.62,1.65,0.42,2.6923076923076925,2.236211841267271,85
+24,765,2025-26,Charley Hepting,Catholic,F,Landmark Conference,landmark_conference,26,28.76923076923077,10.62,5.42,0.88,0.54,1.0,1.0,2.1246222362741376,85
 25,785,2025-26,Joel Baez,Moravian,g,Landmark Conference,landmark_conference,22,25.772727272727273,11.0,4.77,1.95,1.05,0.77,1.818181818181818,2.0617473397617507,85
-26,854,2025-26,"Castro Sanchez,Mario",Susquehanna,G,Landmark Conference,landmark_conference,21,27.714285714285715,13.57,3.62,1.95,0.81,0.14,1.6666666666666667,1.8550785578393831,84
-27,917,2025-26,"Manns,Benjamin",Drew,F,Landmark Conference,landmark_conference,26,19.153846153846153,10.85,5.5,1.19,0.58,0.42,1.1153846153846154,1.6158643902967376,83
-28,932,2025-26,"De Los Reyes,Andre",Drew,G,Landmark Conference,landmark_conference,26,22.653846153846153,15.5,1.88,1.81,1.0,0.12,2.1538461538461537,1.57134562277913,83
-29,1022,2025-26,"Ruisi,Nick",Scranton,F,Landmark Conference,landmark_conference,22,21.272727272727273,9.14,5.0,1.86,1.32,0.5,1.7727272727272727,1.2641613232519244,82
-30,1026,2025-26,"Thornton,Charlie",Drew,F,Landmark Conference,landmark_conference,26,23.653846153846153,10.88,3.38,1.42,1.23,0.35,1.4230769230769231,1.238360801933717,81
+26,854,2025-26,Mario Castro Sanchez,Susquehanna,G,Landmark Conference,landmark_conference,21,27.714285714285715,13.57,3.62,1.95,0.81,0.14,1.6666666666666667,1.8550785578393831,84
+27,917,2025-26,Benjamin Manns,Drew,F,Landmark Conference,landmark_conference,26,19.153846153846153,10.85,5.5,1.19,0.58,0.42,1.1153846153846154,1.6158643902967376,83
+28,932,2025-26,Andre De Los Reyes,Drew,G,Landmark Conference,landmark_conference,26,22.653846153846153,15.5,1.88,1.81,1.0,0.12,2.1538461538461537,1.57134562277913,83
+29,1022,2025-26,Nick Ruisi,Scranton,F,Landmark Conference,landmark_conference,22,21.272727272727273,9.14,5.0,1.86,1.32,0.5,1.7727272727272727,1.2641613232519244,82
+30,1026,2025-26,Charlie Thornton,Drew,F,Landmark Conference,landmark_conference,26,23.653846153846153,10.88,3.38,1.42,1.23,0.35,1.4230769230769231,1.238360801933717,81
 31,1049,2025-26,Liam Cummiskey,Moravian,f,Landmark Conference,landmark_conference,25,29.28,7.96,5.08,1.96,0.8,0.64,1.2,1.1698856437378864,81
-32,1057,2025-26,"Kong,Liech",Goucher,F,Landmark Conference,landmark_conference,23,28.869565217391305,12.57,6.7,1.22,0.7,0.78,3.0869565217391304,1.1500015365631244,81
-33,1095,2025-26,"Washington,Audric",Susquehanna,C,Landmark Conference,landmark_conference,28,21.142857142857142,7.82,5.46,1.43,0.39,1.14,1.2857142857142858,1.030742787430326,81
-34,1132,2025-26,"Seidman,Googie",Catholic,G,Landmark Conference,landmark_conference,26,23.76923076923077,7.12,3.69,1.42,2.08,0.08,0.8076923076923077,0.9488590726195656,80
-35,1192,2025-26,"Harris,Zuri",Elizabethtown,G,Landmark Conference,landmark_conference,24,21.875,10.04,3.25,2.13,1.04,0.17,1.5,0.8042570642254274,79
-36,1197,2025-26,"Santaniello,Daniel",Wilkes,G,Landmark Conference,landmark_conference,28,30.571428571428573,12.32,2.89,0.57,0.68,0.11,0.9285714285714286,0.7984295170285585,79
-37,1234,2025-26,"Van Wagener,Jackson",Susquehanna,G,Landmark Conference,landmark_conference,28,31.107142857142858,8.93,4.21,3.18,0.64,0.36,1.9642857142857144,0.7064442506325898,79
-38,1295,2025-26,"Friedman,Noa'Sosa",Lycoming,G,Landmark Conference,landmark_conference,24,29.666666666666668,10.25,4.67,2.21,1.13,0.0,2.1666666666666665,0.5683097473527091,78
+32,1057,2025-26,Liech Kong,Goucher,F,Landmark Conference,landmark_conference,23,28.869565217391305,12.57,6.7,1.22,0.7,0.78,3.0869565217391304,1.1500015365631244,81
+33,1095,2025-26,Audric Washington,Susquehanna,C,Landmark Conference,landmark_conference,28,21.142857142857142,7.82,5.46,1.43,0.39,1.14,1.2857142857142858,1.030742787430326,81
+34,1132,2025-26,Googie Seidman,Catholic,G,Landmark Conference,landmark_conference,26,23.76923076923077,7.12,3.69,1.42,2.08,0.08,0.8076923076923077,0.9488590726195656,80
+35,1192,2025-26,Zuri Harris,Elizabethtown,G,Landmark Conference,landmark_conference,24,21.875,10.04,3.25,2.13,1.04,0.17,1.5,0.8042570642254274,79
+36,1197,2025-26,Daniel Santaniello,Wilkes,G,Landmark Conference,landmark_conference,28,30.571428571428573,12.32,2.89,0.57,0.68,0.11,0.9285714285714286,0.7984295170285585,79
+37,1234,2025-26,Jackson Van Wagener,Susquehanna,G,Landmark Conference,landmark_conference,28,31.107142857142858,8.93,4.21,3.18,0.64,0.36,1.9642857142857144,0.7064442506325898,79
+38,1295,2025-26,Noa'Sosa Friedman,Lycoming,G,Landmark Conference,landmark_conference,24,29.666666666666668,10.25,4.67,2.21,1.13,0.0,2.1666666666666665,0.5683097473527091,78
 39,1308,2025-26,Malcolm Griffith,Juniata,0,Landmark Conference,landmark_conference,24,20.333333333333332,8.21,4.71,1.33,1.04,0.5,1.4166666666666667,0.5310905892358702,78
-40,1347,2025-26,"Shanahan,Connor",Lycoming,G,Landmark Conference,landmark_conference,25,21.12,8.12,2.24,2.72,1.04,0.04,1.0,0.4248871391684512,77
+40,1347,2025-26,Connor Shanahan,Lycoming,G,Landmark Conference,landmark_conference,25,21.12,8.12,2.24,2.72,1.04,0.04,1.0,0.4248871391684512,77
 41,1374,2025-26,Joe Bruce,Juniata,*,Landmark Conference,landmark_conference,24,26.375,10.29,2.33,1.63,1.29,0.04,1.4583333333333333,0.3725475535449031,77
-42,1383,2025-26,"Morris,Darnell",Goucher,G,Landmark Conference,landmark_conference,25,29.28,12.32,4.08,2.12,0.92,0.36,3.12,0.3541711183295359,77
-43,1479,2025-26,"Ziegler,Reese",Elizabethtown,G,Landmark Conference,landmark_conference,25,25.52,6.36,4.16,0.88,1.12,0.44,0.68,0.0817147519916279,75
-44,1527,2025-26,"Dankert,Michael",Catholic,F,Landmark Conference,landmark_conference,19,20.63157894736842,5.37,6.89,0.89,0.32,0.47,0.631578947368421,-0.063904159024789,75
-45,1561,2025-26,"Anderson,Billy",Susquehanna,C,Landmark Conference,landmark_conference,27,16.185185185185187,8.74,3.7,1.33,0.44,0.26,1.1111111111111112,-0.1701113360484282,74
-46,1582,2025-26,"Marion,Will",Scranton,G,Landmark Conference,landmark_conference,24,24.375,6.92,2.29,2.96,0.88,0.13,1.25,-0.2304051093355895,74
-47,1647,2025-26,"Cronin,Kevin",Drew,F,Landmark Conference,landmark_conference,26,23.307692307692307,5.85,4.27,1.85,0.81,0.31,1.0769230769230769,-0.3683229816708863,73
-48,1648,2025-26,"Fifer,Jadyss",Goucher,G,Landmark Conference,landmark_conference,25,23.0,11.72,4.28,0.6,0.76,0.44,2.64,-0.3687090402212005,73
+42,1383,2025-26,Darnell Morris,Goucher,G,Landmark Conference,landmark_conference,25,29.28,12.32,4.08,2.12,0.92,0.36,3.12,0.3541711183295359,77
+43,1479,2025-26,Reese Ziegler,Elizabethtown,G,Landmark Conference,landmark_conference,25,25.52,6.36,4.16,0.88,1.12,0.44,0.68,0.0817147519916279,75
+44,1527,2025-26,Michael Dankert,Catholic,F,Landmark Conference,landmark_conference,19,20.63157894736842,5.37,6.89,0.89,0.32,0.47,0.631578947368421,-0.063904159024789,75
+45,1561,2025-26,Billy Anderson,Susquehanna,C,Landmark Conference,landmark_conference,27,16.185185185185187,8.74,3.7,1.33,0.44,0.26,1.1111111111111112,-0.1701113360484282,74
+46,1582,2025-26,Will Marion,Scranton,G,Landmark Conference,landmark_conference,24,24.375,6.92,2.29,2.96,0.88,0.13,1.25,-0.2304051093355895,74
+47,1647,2025-26,Kevin Cronin,Drew,F,Landmark Conference,landmark_conference,26,23.307692307692307,5.85,4.27,1.85,0.81,0.31,1.0769230769230769,-0.3683229816708863,73
+48,1648,2025-26,Jadyss Fifer,Goucher,G,Landmark Conference,landmark_conference,25,23.0,11.72,4.28,0.6,0.76,0.44,2.64,-0.3687090402212005,73
 49,1710,2025-26,Jayden Bilger,Juniata,*,Landmark Conference,landmark_conference,25,23.88,7.4,5.28,1.52,0.44,0.6,1.92,-0.5206879475026562,72
-50,1765,2025-26,"Robinson,Ben",Scranton,G,Landmark Conference,landmark_conference,26,28.846153846153847,6.88,3.46,1.58,1.0,0.19,1.3461538461538465,-0.6733235946782626,72
-51,1783,2025-26,"Beagle,J.J.",Lycoming,F,Landmark Conference,landmark_conference,25,21.36,6.16,3.92,0.64,0.28,0.88,0.84,-0.7000875079185486,71
-52,1875,2025-26,"Musial,Devon",Drew,G,Landmark Conference,landmark_conference,22,20.772727272727273,6.59,4.0,1.64,0.73,0.23,1.4545454545454546,-0.9039046161676492,70
-53,1912,2025-26,"Lilly,Anthony",Elizabethtown,F,Landmark Conference,landmark_conference,26,19.384615384615383,6.77,3.31,0.73,0.27,0.62,0.8846153846153846,-0.996374341350377,70
-54,1915,2025-26,"Egeonu,Chima",Goucher,F,Landmark Conference,landmark_conference,25,17.96,4.44,4.96,0.28,0.36,1.12,0.92,-1.0009805668540626,70
+50,1765,2025-26,Ben Robinson,Scranton,G,Landmark Conference,landmark_conference,26,28.846153846153847,6.88,3.46,1.58,1.0,0.19,1.3461538461538465,-0.6733235946782626,72
+51,1783,2025-26,J.J. Beagle,Lycoming,F,Landmark Conference,landmark_conference,25,21.36,6.16,3.92,0.64,0.28,0.88,0.84,-0.7000875079185486,71
+52,1875,2025-26,Devon Musial,Drew,G,Landmark Conference,landmark_conference,22,20.772727272727273,6.59,4.0,1.64,0.73,0.23,1.4545454545454546,-0.9039046161676492,70
+53,1912,2025-26,Anthony Lilly,Elizabethtown,F,Landmark Conference,landmark_conference,26,19.384615384615383,6.77,3.31,0.73,0.27,0.62,0.8846153846153846,-0.996374341350377,70
+54,1915,2025-26,Chima Egeonu,Goucher,F,Landmark Conference,landmark_conference,25,17.96,4.44,4.96,0.28,0.36,1.12,0.92,-1.0009805668540626,70
 55,1953,2025-26,Tre Yawn,Juniata,0,Landmark Conference,landmark_conference,23,24.17391304347826,5.09,1.87,3.57,1.43,0.13,2.0434782608695654,-1.0930698194229094,69
-56,1963,2025-26,"Carson,KJ",Susquehanna,G,Landmark Conference,landmark_conference,28,21.285714285714285,8.54,2.68,1.18,0.54,0.07,1.3214285714285714,-1.1051875612370703,69
+56,1963,2025-26,KJ Carson,Susquehanna,G,Landmark Conference,landmark_conference,28,21.285714285714285,8.54,2.68,1.18,0.54,0.07,1.3214285714285714,-1.1051875612370703,69
 57,2066,2025-26,Jaiden Aze,Juniata,*,Landmark Conference,landmark_conference,25,18.32,5.56,5.36,0.52,0.88,0.04,1.12,-1.330836061415146,68
 58,2097,2025-26,Ayden Hurley,Juniata,0,Landmark Conference,landmark_conference,19,17.57894736842105,6.58,2.79,1.05,0.47,0.16,0.8421052631578947,-1.3959842570307726,67
 59,2168,2025-26,Littles jr William,Juniata,0,Landmark Conference,landmark_conference,25,22.32,6.96,1.56,1.12,0.84,0.0,0.92,-1.5523480738075093,66
-60,2251,2025-26,"Stanton,Ben",Elizabethtown,G,Landmark Conference,landmark_conference,26,18.03846153846154,5.46,2.04,0.88,0.35,0.19,0.3076923076923077,-1.7296855021063935,65
-61,2305,2025-26,"Griffin,Brian",Goucher,G,Landmark Conference,landmark_conference,21,26.666666666666668,7.62,2.19,2.38,0.86,0.24,2.6666666666666665,-1.8416598766357088,64
-62,2362,2025-26,"Gorman,Matthew",Catholic,G,Landmark Conference,landmark_conference,22,19.727272727272727,5.77,2.82,1.14,0.36,0.09,0.9090909090909092,-1.9449995080569005,64
-63,2398,2025-26,"Carbon,Josias",Scranton,G,Landmark Conference,landmark_conference,26,15.192307692307692,6.0,2.35,0.35,0.58,0.08,0.6153846153846154,-2.0093465968902526,63
-64,2527,2025-26,"Slabach,Elisha",Lycoming,G,Landmark Conference,landmark_conference,22,19.0,6.27,2.77,0.64,0.55,0.09,1.2272727272727273,-2.258698699127023,61
-65,2528,2025-26,"Gellene,Peter",Catholic,G,Landmark Conference,landmark_conference,25,17.04,7.56,1.16,1.08,0.32,0.0,1.16,-2.2590078157131632,61
-66,2560,2025-26,"Harris,Avree",Goucher,G,Landmark Conference,landmark_conference,25,22.84,6.4,2.64,1.28,0.76,0.16,1.92,-2.300769917633589,61
-67,2586,2025-26,"Cumbo,Mikey",Susquehanna,F,Landmark Conference,landmark_conference,20,13.9,5.15,1.8,1.0,0.35,0.2,0.75,-2.353493866018184,61
+60,2251,2025-26,Ben Stanton,Elizabethtown,G,Landmark Conference,landmark_conference,26,18.03846153846154,5.46,2.04,0.88,0.35,0.19,0.3076923076923077,-1.7296855021063935,65
+61,2305,2025-26,Brian Griffin,Goucher,G,Landmark Conference,landmark_conference,21,26.666666666666668,7.62,2.19,2.38,0.86,0.24,2.6666666666666665,-1.8416598766357088,64
+62,2362,2025-26,Matthew Gorman,Catholic,G,Landmark Conference,landmark_conference,22,19.727272727272727,5.77,2.82,1.14,0.36,0.09,0.9090909090909092,-1.9449995080569005,64
+63,2398,2025-26,Josias Carbon,Scranton,G,Landmark Conference,landmark_conference,26,15.192307692307692,6.0,2.35,0.35,0.58,0.08,0.6153846153846154,-2.0093465968902526,63
+64,2527,2025-26,Elisha Slabach,Lycoming,G,Landmark Conference,landmark_conference,22,19.0,6.27,2.77,0.64,0.55,0.09,1.2272727272727273,-2.258698699127023,61
+65,2528,2025-26,Peter Gellene,Catholic,G,Landmark Conference,landmark_conference,25,17.04,7.56,1.16,1.08,0.32,0.0,1.16,-2.2590078157131632,61
+66,2560,2025-26,Avree Harris,Goucher,G,Landmark Conference,landmark_conference,25,22.84,6.4,2.64,1.28,0.76,0.16,1.92,-2.300769917633589,61
+67,2586,2025-26,Mikey Cumbo,Susquehanna,F,Landmark Conference,landmark_conference,20,13.9,5.15,1.8,1.0,0.35,0.2,0.75,-2.353493866018184,61
 68,2720,2025-26,Noah Bailey,Juniata,*,Landmark Conference,landmark_conference,25,13.0,4.56,1.96,0.92,0.32,0.12,0.64,-2.6102879578997467,59
-69,2723,2025-26,"Egeonu,Emezie",Susquehanna,F,Landmark Conference,landmark_conference,26,10.846153846153848,4.92,4.23,0.23,0.15,0.08,0.8846153846153846,-2.6128487554251585,59
-70,2731,2025-26,"Rogers,Seamus",Susquehanna,G,Landmark Conference,landmark_conference,19,13.36842105263158,4.74,1.53,0.68,0.32,0.05,0.3684210526315789,-2.6329599137239743,59
-71,2834,2025-26,"Mathis,Noah",Lycoming,F,Landmark Conference,landmark_conference,25,16.56,2.08,1.88,0.52,0.48,0.88,0.68,-2.859228368155197,57
-72,2844,2025-26,"Herasme,Marc",Drew,G,Landmark Conference,landmark_conference,26,13.384615384615383,5.73,1.46,1.12,0.54,0.04,1.3846153846153846,-2.8839314000522736,57
-73,2866,2025-26,"Murdaugh,Jack",Goucher,G,Landmark Conference,landmark_conference,25,15.88,4.56,1.68,0.56,0.44,0.12,0.72,-2.923982673447949,57
-74,2894,2025-26,"Wells,Crew",Elizabethtown,F,Landmark Conference,landmark_conference,26,11.884615384615383,2.73,2.35,0.15,0.31,0.38,0.2307692307692307,-2.976888976437317,57
-75,2919,2025-26,"Porch,Erik",Drew,G,Landmark Conference,landmark_conference,17,12.0,3.06,1.59,0.76,1.0,0.06,0.7647058823529411,-3.026228531352373,56
-76,2967,2025-26,"Pegg,Ryan",Catholic,G,Landmark Conference,landmark_conference,21,11.428571428571429,2.62,3.0,0.24,0.38,0.1,0.3333333333333333,-3.140894513397731,56
-77,3021,2025-26,"Rhoades,Logan",Susquehanna,G,Landmark Conference,landmark_conference,10,10.5,4.0,1.0,0.5,0.3,0.0,0.3,-3.2651850860597382,55
-78,3029,2025-26,"Baratta,Luca",Scranton,G,Landmark Conference,landmark_conference,26,15.807692307692308,3.73,1.42,1.35,0.19,0.04,0.8076923076923077,-3.288389814251861,55
-79,3037,2025-26,"Styer,Brendan",Wilkes,G,Landmark Conference,landmark_conference,28,15.678571428571429,1.18,1.43,1.57,0.86,0.07,0.6428571428571429,-3.3229099289897253,55
+69,2723,2025-26,Emezie Egeonu,Susquehanna,F,Landmark Conference,landmark_conference,26,10.846153846153848,4.92,4.23,0.23,0.15,0.08,0.8846153846153846,-2.6128487554251585,59
+70,2731,2025-26,Seamus Rogers,Susquehanna,G,Landmark Conference,landmark_conference,19,13.36842105263158,4.74,1.53,0.68,0.32,0.05,0.3684210526315789,-2.6329599137239743,59
+71,2834,2025-26,Noah Mathis,Lycoming,F,Landmark Conference,landmark_conference,25,16.56,2.08,1.88,0.52,0.48,0.88,0.68,-2.859228368155197,57
+72,2844,2025-26,Marc Herasme,Drew,G,Landmark Conference,landmark_conference,26,13.384615384615383,5.73,1.46,1.12,0.54,0.04,1.3846153846153846,-2.8839314000522736,57
+73,2866,2025-26,Jack Murdaugh,Goucher,G,Landmark Conference,landmark_conference,25,15.88,4.56,1.68,0.56,0.44,0.12,0.72,-2.923982673447949,57
+74,2894,2025-26,Crew Wells,Elizabethtown,F,Landmark Conference,landmark_conference,26,11.884615384615383,2.73,2.35,0.15,0.31,0.38,0.2307692307692307,-2.976888976437317,57
+75,2919,2025-26,Erik Porch,Drew,G,Landmark Conference,landmark_conference,17,12.0,3.06,1.59,0.76,1.0,0.06,0.7647058823529411,-3.026228531352373,56
+76,2967,2025-26,Ryan Pegg,Catholic,G,Landmark Conference,landmark_conference,21,11.428571428571429,2.62,3.0,0.24,0.38,0.1,0.3333333333333333,-3.140894513397731,56
+77,3021,2025-26,Logan Rhoades,Susquehanna,G,Landmark Conference,landmark_conference,10,10.5,4.0,1.0,0.5,0.3,0.0,0.3,-3.2651850860597382,55
+78,3029,2025-26,Luca Baratta,Scranton,G,Landmark Conference,landmark_conference,26,15.807692307692308,3.73,1.42,1.35,0.19,0.04,0.8076923076923077,-3.288389814251861,55
+79,3037,2025-26,Brendan Styer,Wilkes,G,Landmark Conference,landmark_conference,28,15.678571428571429,1.18,1.43,1.57,0.86,0.07,0.6428571428571429,-3.3229099289897253,55
 80,3060,2025-26,Riley Flood,Moravian,0,Landmark Conference,landmark_conference,23,11.173913043478262,2.65,2.09,0.43,0.52,0.35,0.782608695652174,-3.3681411946477895,54
-81,3067,2025-26,"Lomax,AJ",Susquehanna,G,Landmark Conference,landmark_conference,21,13.857142857142858,4.0,0.95,0.86,0.43,0.0,0.7142857142857143,-3.378808843682043,54
+81,3067,2025-26,AJ Lomax,Susquehanna,G,Landmark Conference,landmark_conference,21,13.857142857142858,4.0,0.95,0.86,0.43,0.0,0.7142857142857143,-3.378808843682043,54
 82,3086,2025-26,George Cutler,Moravian,0,Landmark Conference,landmark_conference,24,14.208333333333334,2.21,1.13,1.71,0.75,0.21,1.1666666666666667,-3.419239361722387,54
-83,3137,2025-26,"Perlmutter,Taylor",Drew,G,Landmark Conference,landmark_conference,24,10.75,2.29,1.63,1.63,0.25,0.0,0.75,-3.5620969887877756,53
+83,3137,2025-26,Taylor Perlmutter,Drew,G,Landmark Conference,landmark_conference,24,10.75,2.29,1.63,1.63,0.25,0.0,0.75,-3.5620969887877756,53
 84,3141,2025-26,Colin Farrell,Moravian,0,Landmark Conference,landmark_conference,10,13.1,1.7,1.3,1.4,0.8,0.1,0.9,-3.5755606179735393,53
-85,3188,2025-26,"Sims,Charlie",Lycoming,F,Landmark Conference,landmark_conference,14,11.857142857142858,2.86,1.71,0.71,0.29,0.07,0.7142857142857143,-3.74186126211059,53
+85,3188,2025-26,Charlie Sims,Lycoming,F,Landmark Conference,landmark_conference,14,11.857142857142858,2.86,1.71,0.71,0.29,0.07,0.7142857142857143,-3.74186126211059,53
 86,3202,2025-26,Dylan Costa,Moravian,0,Landmark Conference,landmark_conference,25,12.72,5.8,0.84,1.28,0.28,0.08,1.92,-3.781323409610017,52
-87,3228,2025-26,"Carter,Austin",Goucher,G,Landmark Conference,landmark_conference,18,15.666666666666666,3.33,1.78,0.83,0.61,0.0,1.2777777777777777,-3.845288719490152,52
-88,3229,2025-26,"Fedor,Mason",Wilkes,F,Landmark Conference,landmark_conference,28,10.785714285714286,2.46,1.96,0.5,0.25,0.25,0.7857142857142857,-3.851261489109115,52
-89,3262,2025-26,"Kolumber,JJ",Moravian,G,Landmark Conference,landmark_conference,16,10.5625,1.63,1.0,1.06,0.44,0.06,0.5625,-3.9718342063324057,52
-90,3299,2025-26,"Katusha,Alex",Susquehanna,G,Landmark Conference,landmark_conference,15,13.466666666666669,2.4,0.87,1.73,0.4,0.07,1.2666666666666666,-4.062900614501337,51
-91,3354,2025-26,"Davis,Langston",Goucher,G,Landmark Conference,landmark_conference,21,12.857142857142858,1.0,2.43,0.71,0.38,0.0,0.8571428571428571,-4.437092725313673,50
+87,3228,2025-26,Austin Carter,Goucher,G,Landmark Conference,landmark_conference,18,15.666666666666666,3.33,1.78,0.83,0.61,0.0,1.2777777777777777,-3.845288719490152,52
+88,3229,2025-26,Mason Fedor,Wilkes,F,Landmark Conference,landmark_conference,28,10.785714285714286,2.46,1.96,0.5,0.25,0.25,0.7857142857142857,-3.851261489109115,52
+89,3262,2025-26,JJ Kolumber,Moravian,G,Landmark Conference,landmark_conference,16,10.5625,1.63,1.0,1.06,0.44,0.06,0.5625,-3.9718342063324057,52
+90,3299,2025-26,Alex Katusha,Susquehanna,G,Landmark Conference,landmark_conference,15,13.466666666666669,2.4,0.87,1.73,0.4,0.07,1.2666666666666666,-4.062900614501337,51
+91,3354,2025-26,Langston Davis,Goucher,G,Landmark Conference,landmark_conference,21,12.857142857142858,1.0,2.43,0.71,0.38,0.0,0.8571428571428571,-4.437092725313673,50

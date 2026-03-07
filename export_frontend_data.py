@@ -74,6 +74,55 @@ def _json_safe(df: pd.DataFrame) -> pd.DataFrame:
     return out
 
 
+def _expand_player_full_names(
+    rankings: pd.DataFrame,
+    players: pd.DataFrame,
+    lookup_path: Path,
+) -> pd.DataFrame:
+    """
+    Replace "FirstInitial LastName" (e.g. MASCAC "K Rogers") with full names when possible.
+    1) Where players has first_name + last_name and first_name is more than one character, use "First Last".
+    2) Where data/player_full_name_lookup.csv has a row (conference_code, team, player_name_short), use player_name_full.
+    """
+    out = rankings.copy()
+    merge_key = ["conference_code", "team", "player_name"]
+    if not all(c in out.columns for c in merge_key):
+        return out
+    # 1) Full name from players when first_name is not a single initial
+    if all(c in players.columns for c in merge_key + ["first_name", "last_name"]):
+        sub = players[merge_key + ["first_name", "last_name"]].drop_duplicates(merge_key)
+        sub["_full_name"] = sub["first_name"].astype(str).str.strip() + " " + sub["last_name"].astype(str).str.strip()
+        mask_full = sub["first_name"].astype(str).str.strip().str.len() > 1
+        sub = sub.loc[mask_full, merge_key + ["_full_name"]]
+        if not sub.empty:
+            out = out.merge(sub, on=merge_key, how="left")
+            out["player_name"] = out["_full_name"].fillna(out["player_name"])
+            out = out.drop(columns=["_full_name"], errors="ignore")
+    # 2) Optional lookup for "Initial LastName" -> full name (e.g. MASCAC)
+    if lookup_path.exists():
+        try:
+            lookup = pd.read_csv(lookup_path)
+            for c in ["conference_code", "team", "player_name_short", "player_name_full"]:
+                if c not in lookup.columns:
+                    break
+            else:
+                lookup["player_name_short"] = lookup["player_name_short"].astype(str).str.strip()
+                lookup["player_name_full"] = lookup["player_name_full"].astype(str).str.strip()
+                for _, row in lookup.iterrows():
+                    full = str(row["player_name_full"]).strip()
+                    if not full:
+                        continue
+                    mask = (
+                        (out["conference_code"].astype(str) == str(row["conference_code"]).strip())
+                        & (out["team"].astype(str).str.strip() == str(row["team"]).strip())
+                        & (out["player_name"].astype(str).str.strip() == str(row["player_name_short"]).strip())
+                    )
+                    out.loc[mask, "player_name"] = full
+        except Exception:
+            pass
+    return out
+
+
 def main() -> None:
     data_csv = Path("data/d3_mbb_player_rankings_2025_26.csv")
     players_csv = Path("data/d3_mbb_players_2025_26.csv")
@@ -127,6 +176,10 @@ def main() -> None:
     global_rankings["global_rank"] = range(1, len(global_rankings) + 1)
 
     global_rankings["rating"] = _rating_from_rank(global_rankings["global_rank"]).astype(int)
+
+    # Expand "Initial LastName" to full name where we have first_name/last_name (len > 1) or optional lookup
+    lookup_path = Path("data/player_full_name_lookup.csv")
+    global_rankings = _expand_player_full_names(global_rankings, players, lookup_path)
 
     out_dir = Path("frontend/public/data")
     out_dir.mkdir(parents=True, exist_ok=True)
@@ -335,6 +388,13 @@ def main() -> None:
         else:
             df = df.sort_values("global_rank", ascending=True).reset_index(drop=True)
         df["global_rank"] = range(1, len(df) + 1)
+        # Hockey: if best composite_score is 0 or all NaN, assign scores from rank so #1 has a real score
+        if code in HOCKEY_CODES:
+            cs = pd.to_numeric(df["composite_score"], errors="coerce")
+            if cs.isna().all() or cs.max() == 0 or (cs <= 0).all():
+                n = len(df)
+                # Rank 1 = 10, rank n ≈ 0 (linear scale)
+                df["composite_score"] = 10.0 * (1.0 - (df["global_rank"] - 1) / max(1, n))
         # Ensure rating (OVR) exists
         if "rating" not in df.columns:
             df["rating"] = _rating_from_rank(df["global_rank"]).astype(int)

@@ -1,105 +1,105 @@
 rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
 1,63,2025-26,Scott Gyimesi,Tufts,*,New England Small College Athletic Conference (NESCAC),nescac,24,31.166666666666668,16.38,9.75,2.67,0.92,0.96,1.7083333333333333,6.849045140240789,94
-2,127,2025-26,"Cuevas,Ray",Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,25,32.88,22.16,4.4,2.64,1.2,0.44,2.8,5.741724565525403,93
-3,166,2025-26,"Civello,Dan",Colby,C,New England Small College Athletic Conference (NESCAC),nescac,25,26.6,18.28,5.68,3.0,0.36,1.12,2.4,5.291595931206353,93
-4,191,2025-26,"Okorougo,Jarrel",Trinity,F,New England Small College Athletic Conference (NESCAC),nescac,27,25.925925925925927,15.78,6.63,1.33,1.33,0.81,1.4074074074074074,5.131801837842434,93
+2,127,2025-26,Ray Cuevas,Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,25,32.88,22.16,4.4,2.64,1.2,0.44,2.8,5.741724565525403,93
+3,166,2025-26,Dan Civello,Colby,C,New England Small College Athletic Conference (NESCAC),nescac,25,26.6,18.28,5.68,3.0,0.36,1.12,2.4,5.291595931206353,93
+4,191,2025-26,Jarrel Okorougo,Trinity,F,New England Small College Athletic Conference (NESCAC),nescac,27,25.925925925925927,15.78,6.63,1.33,1.33,0.81,1.4074074074074074,5.131801837842434,93
 5,228,2025-26,Joshua Bernstein,Tufts,*,New England Small College Athletic Conference (NESCAC),nescac,25,24.68,10.56,8.76,2.12,0.56,1.88,1.44,4.793803765250779,92
-6,269,2025-26,"Lazarre,Drew",Trinity,G,New England Small College Athletic Conference (NESCAC),nescac,27,26.03703703703704,10.89,4.52,2.44,2.41,0.78,1.0,4.555883982101638,92
-7,283,2025-26,"Pouye,Babacar",Bates,F,New England Small College Athletic Conference (NESCAC),nescac,23,24.52173913043478,14.48,7.91,1.96,0.7,1.26,2.260869565217391,4.4510897870171195,91
-8,295,2025-26,"Wolinski,Zach",Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,27,33.888888888888886,18.19,3.81,2.07,0.78,0.19,1.3333333333333333,4.37690465540198,91
-9,353,2025-26,"Pohlman,Sam",Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,27,30.444444444444443,12.44,5.59,6.44,0.67,0.11,2.592592592592593,3.884692492619767,90
+6,269,2025-26,Drew Lazarre,Trinity,G,New England Small College Athletic Conference (NESCAC),nescac,27,26.03703703703704,10.89,4.52,2.44,2.41,0.78,1.0,4.555883982101638,92
+7,283,2025-26,Babacar Pouye,Bates,F,New England Small College Athletic Conference (NESCAC),nescac,23,24.52173913043478,14.48,7.91,1.96,0.7,1.26,2.260869565217391,4.4510897870171195,91
+8,295,2025-26,Zach Wolinski,Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,27,33.888888888888886,18.19,3.81,2.07,0.78,0.19,1.3333333333333333,4.37690465540198,91
+9,353,2025-26,Sam Pohlman,Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,27,30.444444444444443,12.44,5.59,6.44,0.67,0.11,2.592592592592593,3.884692492619767,90
 10,401,2025-26,Elias Chin,Amherst,*,New England Small College Athletic Conference (NESCAC),nescac,24,27.833333333333332,10.29,6.71,3.88,1.04,0.88,2.0416666666666665,3.6363709663212926,90
-11,404,2025-26,"Watson,Dylan",Conn. College,F,New England Small College Athletic Conference (NESCAC),nescac,25,25.84,11.76,8.36,1.36,0.92,0.64,1.24,3.6218296256117486,90
-12,412,2025-26,"Reese,Jalen",Hamilton,F,New England Small College Athletic Conference (NESCAC),nescac,24,29.708333333333332,9.13,7.92,1.92,1.25,1.42,1.6666666666666667,3.5876610880188653,90
-13,427,2025-26,"Vetter,Henry",Trinity,F,New England Small College Athletic Conference (NESCAC),nescac,27,26.40740740740741,13.93,3.63,2.89,1.67,0.07,1.5555555555555556,3.541159509743965,89
-14,433,2025-26,"LaFrance,James",Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,25,29.4,16.0,3.88,1.24,1.36,0.48,1.64,3.521276055979218,89
-15,477,2025-26,"Espinosa,Elias",Conn. College,F,New England Small College Athletic Conference (NESCAC),nescac,25,26.52,13.04,3.56,2.16,1.24,0.48,1.12,3.2412365392945404,89
-16,494,2025-26,"Yates,Aidan",Williams,G,New England Small College Athletic Conference (NESCAC),nescac,24,30.583333333333332,12.46,4.42,1.29,0.88,0.92,0.9166666666666666,3.156099746844108,89
-17,506,2025-26,"Keyhani,Garret",Hamilton,F,New England Small College Athletic Conference (NESCAC),nescac,15,26.666666666666668,13.47,5.6,1.07,0.8,0.93,1.5333333333333334,3.091909493053468,88
-18,564,2025-26,"Rein,Jackson",Williams,F,New England Small College Athletic Conference (NESCAC),nescac,24,29.083333333333332,13.79,6.0,0.83,0.88,0.42,1.3333333333333333,2.8518782029433445,88
-19,566,2025-26,"Dawkins,Mason",Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,25,30.24,11.4,5.24,2.48,1.8,0.56,2.16,2.847228196036364,88
-20,627,2025-26,"Poulton,Max",Colby,G,New England Small College Athletic Conference (NESCAC),nescac,25,29.04,11.6,5.88,2.72,0.6,0.4,1.52,2.639384415950075,87
+11,404,2025-26,Dylan Watson,Conn. College,F,New England Small College Athletic Conference (NESCAC),nescac,25,25.84,11.76,8.36,1.36,0.92,0.64,1.24,3.6218296256117486,90
+12,412,2025-26,Jalen Reese,Hamilton,F,New England Small College Athletic Conference (NESCAC),nescac,24,29.708333333333332,9.13,7.92,1.92,1.25,1.42,1.6666666666666667,3.5876610880188653,90
+13,427,2025-26,Henry Vetter,Trinity,F,New England Small College Athletic Conference (NESCAC),nescac,27,26.40740740740741,13.93,3.63,2.89,1.67,0.07,1.5555555555555556,3.541159509743965,89
+14,433,2025-26,James LaFrance,Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,25,29.4,16.0,3.88,1.24,1.36,0.48,1.64,3.521276055979218,89
+15,477,2025-26,Elias Espinosa,Conn. College,F,New England Small College Athletic Conference (NESCAC),nescac,25,26.52,13.04,3.56,2.16,1.24,0.48,1.12,3.2412365392945404,89
+16,494,2025-26,Aidan Yates,Williams,G,New England Small College Athletic Conference (NESCAC),nescac,24,30.583333333333332,12.46,4.42,1.29,0.88,0.92,0.9166666666666666,3.156099746844108,89
+17,506,2025-26,Garret Keyhani,Hamilton,F,New England Small College Athletic Conference (NESCAC),nescac,15,26.666666666666668,13.47,5.6,1.07,0.8,0.93,1.5333333333333334,3.091909493053468,88
+18,564,2025-26,Jackson Rein,Williams,F,New England Small College Athletic Conference (NESCAC),nescac,24,29.083333333333332,13.79,6.0,0.83,0.88,0.42,1.3333333333333333,2.8518782029433445,88
+19,566,2025-26,Mason Dawkins,Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,25,30.24,11.4,5.24,2.48,1.8,0.56,2.16,2.847228196036364,88
+20,627,2025-26,Max Poulton,Colby,G,New England Small College Athletic Conference (NESCAC),nescac,25,29.04,11.6,5.88,2.72,0.6,0.4,1.52,2.639384415950075,87
 21,631,2025-26,Jon Medley,Tufts,*,New England Small College Athletic Conference (NESCAC),nescac,20,26.65,10.6,3.4,3.75,1.3,0.65,1.9,2.6208440531994106,87
 22,643,2025-26,Chris Hammond,Amherst,*,New England Small College Athletic Conference (NESCAC),nescac,25,30.68,10.04,6.8,1.08,1.4,0.48,1.12,2.5540821079298213,87
-23,659,2025-26,"Cantwell,Greg",Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,25,27.64,11.72,5.08,2.72,1.12,0.36,1.84,2.510604607668613,86
-24,733,2025-26,"Coyne,Brady",Bates,G,New England Small College Athletic Conference (NESCAC),nescac,26,26.0,12.81,3.62,1.73,0.96,0.12,1.0384615384615383,2.2190441816169857,85
-25,793,2025-26,"Hansen,Hudson",Williams,F,New England Small College Athletic Conference (NESCAC),nescac,23,25.17391304347826,11.78,4.7,2.35,0.61,0.74,1.9130434782608696,2.0517695615432503,85
-26,850,2025-26,"Hauser,Fritz",Wesleyan,F,New England Small College Athletic Conference (NESCAC),nescac,27,28.37037037037037,9.19,5.26,1.74,0.96,0.96,1.4814814814814814,1.864603608517713,84
-27,880,2025-26,"Rideout,Matthew",Hamilton,G,New England Small College Athletic Conference (NESCAC),nescac,17,28.705882352941178,15.18,1.47,2.0,0.94,0.18,1.8823529411764703,1.7429934760271255,83
+23,659,2025-26,Greg Cantwell,Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,25,27.64,11.72,5.08,2.72,1.12,0.36,1.84,2.510604607668613,86
+24,733,2025-26,Brady Coyne,Bates,G,New England Small College Athletic Conference (NESCAC),nescac,26,26.0,12.81,3.62,1.73,0.96,0.12,1.0384615384615383,2.2190441816169857,85
+25,793,2025-26,Hudson Hansen,Williams,F,New England Small College Athletic Conference (NESCAC),nescac,23,25.17391304347826,11.78,4.7,2.35,0.61,0.74,1.9130434782608696,2.0517695615432503,85
+26,850,2025-26,Fritz Hauser,Wesleyan,F,New England Small College Athletic Conference (NESCAC),nescac,27,28.37037037037037,9.19,5.26,1.74,0.96,0.96,1.4814814814814814,1.864603608517713,84
+27,880,2025-26,Matthew Rideout,Hamilton,G,New England Small College Athletic Conference (NESCAC),nescac,17,28.705882352941178,15.18,1.47,2.0,0.94,0.18,1.8823529411764703,1.7429934760271255,83
 28,887,2025-26,Zion Watt,Tufts,0,New England Small College Athletic Conference (NESCAC),nescac,25,24.88,8.64,4.12,0.72,1.6,0.76,0.76,1.7321175143748886,83
-29,938,2025-26,"Murray,Ian",Middlebury,G,New England Small College Athletic Conference (NESCAC),nescac,24,25.958333333333332,12.08,4.5,2.71,0.71,0.13,2.0,1.5598077499361225,83
-30,963,2025-26,"Ayles,David",Trinity,G,New England Small College Athletic Conference (NESCAC),nescac,27,22.555555555555557,6.7,2.44,2.74,1.96,0.37,0.8148148148148148,1.46540491537657,82
-31,972,2025-26,"Lyttle,Ben",Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,26,24.0,8.12,7.23,1.27,0.65,0.5,1.0,1.433013890703054,82
-32,1010,2025-26,"Davis,Tristan",Trinity,F,New England Small College Athletic Conference (NESCAC),nescac,25,20.44,7.16,4.92,0.68,1.28,0.96,0.76,1.302338225069064,82
+29,938,2025-26,Ian Murray,Middlebury,G,New England Small College Athletic Conference (NESCAC),nescac,24,25.958333333333332,12.08,4.5,2.71,0.71,0.13,2.0,1.5598077499361225,83
+30,963,2025-26,David Ayles,Trinity,G,New England Small College Athletic Conference (NESCAC),nescac,27,22.555555555555557,6.7,2.44,2.74,1.96,0.37,0.8148148148148148,1.46540491537657,82
+31,972,2025-26,Ben Lyttle,Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,26,24.0,8.12,7.23,1.27,0.65,0.5,1.0,1.433013890703054,82
+32,1010,2025-26,Tristan Davis,Trinity,F,New England Small College Athletic Conference (NESCAC),nescac,25,20.44,7.16,4.92,0.68,1.28,0.96,0.76,1.302338225069064,82
 33,1016,2025-26,K.J. Neville,Amherst,0,New England Small College Athletic Conference (NESCAC),nescac,25,25.36,10.36,4.32,2.08,1.0,0.24,1.56,1.270999997593951,82
-34,1065,2025-26,"Hinman,Sam",Colby,G,New England Small College Athletic Conference (NESCAC),nescac,25,26.52,11.08,3.72,1.52,0.76,0.12,1.08,1.1316677940151718,81
-35,1096,2025-26,"Reeves,Kevin",Bowdoin,F,New England Small College Athletic Conference (NESCAC),nescac,25,19.6,9.8,6.12,0.6,0.44,1.64,2.36,1.0292696687113827,81
+34,1065,2025-26,Sam Hinman,Colby,G,New England Small College Athletic Conference (NESCAC),nescac,25,26.52,11.08,3.72,1.52,0.76,0.12,1.08,1.1316677940151718,81
+35,1096,2025-26,Kevin Reeves,Bowdoin,F,New England Small College Athletic Conference (NESCAC),nescac,25,19.6,9.8,6.12,0.6,0.44,1.64,2.36,1.0292696687113827,81
 36,1138,2025-26,Dylan Reilly,Tufts,*,New England Small College Athletic Conference (NESCAC),nescac,20,27.6,9.75,2.85,1.1,0.8,0.5,0.7,0.9371278299366548,80
-37,1162,2025-26,"Edelman,Oscar",Wesleyan,F,New England Small College Athletic Conference (NESCAC),nescac,27,23.666666666666668,9.78,5.89,1.0,0.44,0.37,1.1851851851851851,0.8885539469159761,80
-38,1274,2025-26,"Witherington,Edward",Middlebury,F,New England Small College Athletic Conference (NESCAC),nescac,23,23.347826086956523,7.87,5.26,0.96,0.48,0.52,0.6956521739130435,0.61533044524627,78
-39,1300,2025-26,"Stroud,Savion",Colby,G,New England Small College Athletic Conference (NESCAC),nescac,25,28.52,6.2,4.88,3.88,1.56,0.36,2.52,0.5505307005801654,78
-40,1318,2025-26,"Sparks,Keenan",Bates,G,New England Small College Athletic Conference (NESCAC),nescac,16,24.5,7.38,5.56,3.13,0.63,0.19,1.75,0.5080830811932402,78
-41,1353,2025-26,"Ducree,Dominick",Middlebury,G,New England Small College Athletic Conference (NESCAC),nescac,20,22.1,13.05,2.85,1.0,0.65,0.1,1.75,0.4115995734663009,77
-42,1396,2025-26,"Montiel,Marcos",Colby,G,New England Small College Athletic Conference (NESCAC),nescac,13,20.46153846153846,8.38,4.15,2.62,0.85,0.23,1.7692307692307692,0.33510541103109,77
+37,1162,2025-26,Oscar Edelman,Wesleyan,F,New England Small College Athletic Conference (NESCAC),nescac,27,23.666666666666668,9.78,5.89,1.0,0.44,0.37,1.1851851851851851,0.8885539469159761,80
+38,1274,2025-26,Edward Witherington,Middlebury,F,New England Small College Athletic Conference (NESCAC),nescac,23,23.347826086956523,7.87,5.26,0.96,0.48,0.52,0.6956521739130435,0.61533044524627,78
+39,1300,2025-26,Savion Stroud,Colby,G,New England Small College Athletic Conference (NESCAC),nescac,25,28.52,6.2,4.88,3.88,1.56,0.36,2.52,0.5505307005801654,78
+40,1318,2025-26,Keenan Sparks,Bates,G,New England Small College Athletic Conference (NESCAC),nescac,16,24.5,7.38,5.56,3.13,0.63,0.19,1.75,0.5080830811932402,78
+41,1353,2025-26,Dominick Ducree,Middlebury,G,New England Small College Athletic Conference (NESCAC),nescac,20,22.1,13.05,2.85,1.0,0.65,0.1,1.75,0.4115995734663009,77
+42,1396,2025-26,Marcos Montiel,Colby,G,New England Small College Athletic Conference (NESCAC),nescac,13,20.46153846153846,8.38,4.15,2.62,0.85,0.23,1.7692307692307692,0.33510541103109,77
 43,1398,2025-26,Marc Garraud,Amherst,*,New England Small College Athletic Conference (NESCAC),nescac,23,25.695652173913043,10.7,2.3,1.43,1.39,0.04,1.608695652173913,0.3304775766897991,77
-44,1399,2025-26,"Berry,Jared",Trinity,G,New England Small College Athletic Conference (NESCAC),nescac,26,14.653846153846152,10.08,4.08,1.08,0.46,0.35,1.2692307692307692,0.3231514281136156,76
-45,1448,2025-26,"O'Leary,Sean",Bates,G,New England Small College Athletic Conference (NESCAC),nescac,26,25.384615384615383,8.0,4.27,2.58,0.77,0.12,1.5769230769230769,0.1843900718846787,76
-46,1497,2025-26,"Cwalina,Kuba",Middlebury,G,New England Small College Athletic Conference (NESCAC),nescac,24,20.75,12.0,2.42,0.88,0.33,0.17,1.2916666666666667,0.0214281918987591,75
-47,1514,2025-26,"Bessire,Nolan",Bowdoin,F,New England Small College Athletic Conference (NESCAC),nescac,24,19.916666666666668,4.04,5.92,1.29,0.38,1.08,0.7916666666666666,-0.0326115921987058,75
-48,1517,2025-26,"Ramey,Sawyer",Middlebury,G,New England Small College Athletic Conference (NESCAC),nescac,24,19.625,6.0,3.92,2.67,0.96,0.04,1.0416666666666667,-0.0364778139232553,75
+44,1399,2025-26,Jared Berry,Trinity,G,New England Small College Athletic Conference (NESCAC),nescac,26,14.653846153846152,10.08,4.08,1.08,0.46,0.35,1.2692307692307692,0.3231514281136156,76
+45,1448,2025-26,Sean O'Leary,Bates,G,New England Small College Athletic Conference (NESCAC),nescac,26,25.384615384615383,8.0,4.27,2.58,0.77,0.12,1.5769230769230769,0.1843900718846787,76
+46,1497,2025-26,Kuba Cwalina,Middlebury,G,New England Small College Athletic Conference (NESCAC),nescac,24,20.75,12.0,2.42,0.88,0.33,0.17,1.2916666666666667,0.0214281918987591,75
+47,1514,2025-26,Nolan Bessire,Bowdoin,F,New England Small College Athletic Conference (NESCAC),nescac,24,19.916666666666668,4.04,5.92,1.29,0.38,1.08,0.7916666666666666,-0.0326115921987058,75
+48,1517,2025-26,Sawyer Ramey,Middlebury,G,New England Small College Athletic Conference (NESCAC),nescac,24,19.625,6.0,3.92,2.67,0.96,0.04,1.0416666666666667,-0.0364778139232553,75
 49,1521,2025-26,Ricardo Nieves,Tufts,0,New England Small College Athletic Conference (NESCAC),nescac,25,17.0,6.68,2.28,1.76,1.16,0.68,1.16,-0.0500280603820446,75
 50,1577,2025-26,Sherron Woodberry,Amherst,0,New England Small College Athletic Conference (NESCAC),nescac,23,24.956521739130434,7.26,2.48,1.0,0.74,0.39,0.4347826086956521,-0.2218226583213898,74
-51,1581,2025-26,"Raub,Nate",Hamilton,F,New England Small College Athletic Conference (NESCAC),nescac,20,24.1,6.6,4.35,1.2,0.6,1.15,1.65,-0.2277760210784664,74
-52,1629,2025-26,"Psyhogeos,Peter",Bates,G,New England Small College Athletic Conference (NESCAC),nescac,25,21.04,7.28,4.2,1.24,0.84,0.44,1.36,-0.320089917072415,73
-53,1660,2025-26,"Robinson,Jamari",Bates,G,New England Small College Athletic Conference (NESCAC),nescac,26,18.307692307692307,10.04,3.42,1.35,0.69,0.04,1.6923076923076923,-0.3986663944865635,73
-54,1700,2025-26,"Flaks,Evan",Middlebury,G,New England Small College Athletic Conference (NESCAC),nescac,23,20.82608695652174,8.83,2.17,2.35,0.48,0.0,1.3043478260869563,-0.5051564718136778,72
+51,1581,2025-26,Nate Raub,Hamilton,F,New England Small College Athletic Conference (NESCAC),nescac,20,24.1,6.6,4.35,1.2,0.6,1.15,1.65,-0.2277760210784664,74
+52,1629,2025-26,Peter Psyhogeos,Bates,G,New England Small College Athletic Conference (NESCAC),nescac,25,21.04,7.28,4.2,1.24,0.84,0.44,1.36,-0.320089917072415,73
+53,1660,2025-26,Jamari Robinson,Bates,G,New England Small College Athletic Conference (NESCAC),nescac,26,18.307692307692307,10.04,3.42,1.35,0.69,0.04,1.6923076923076923,-0.3986663944865635,73
+54,1700,2025-26,Evan Flaks,Middlebury,G,New England Small College Athletic Conference (NESCAC),nescac,23,20.82608695652174,8.83,2.17,2.35,0.48,0.0,1.3043478260869563,-0.5051564718136778,72
 55,1725,2025-26,Drew Martin,Amherst,*,New England Small College Athletic Conference (NESCAC),nescac,25,20.64,5.24,5.4,1.28,0.4,0.32,0.68,-0.5568200263178377,72
-56,1748,2025-26,"Chilson,Ben",Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,25,26.68,7.6,3.0,0.96,0.64,0.28,0.84,-0.6207246654020827,72
-57,1791,2025-26,"Johnson Jr.,PJ",Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,24,18.708333333333332,6.63,2.38,1.17,1.08,0.38,1.0,-0.7229140621599699,71
-58,1816,2025-26,"Belcher,Justin",Williams,G,New England Small College Athletic Conference (NESCAC),nescac,19,19.789473684210527,3.84,4.68,3.0,1.26,0.68,2.3157894736842106,-0.7698279121543556,71
-59,1820,2025-26,"Melson,David",Hamilton,G,New England Small College Athletic Conference (NESCAC),nescac,23,27.043478260869566,7.83,4.13,1.04,0.78,0.22,1.5217391304347827,-0.7757540575616381,71
-60,1827,2025-26,"Cravitz,Elliott",Bates,G,New England Small College Athletic Conference (NESCAC),nescac,26,23.346153846153847,7.19,2.77,0.96,0.85,0.12,0.7692307692307693,-0.7946152312862323,71
+56,1748,2025-26,Ben Chilson,Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,25,26.68,7.6,3.0,0.96,0.64,0.28,0.84,-0.6207246654020827,72
+57,1791,2025-26,PJ Johnson Jr.,Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,24,18.708333333333332,6.63,2.38,1.17,1.08,0.38,1.0,-0.7229140621599699,71
+58,1816,2025-26,Justin Belcher,Williams,G,New England Small College Athletic Conference (NESCAC),nescac,19,19.789473684210527,3.84,4.68,3.0,1.26,0.68,2.3157894736842106,-0.7698279121543556,71
+59,1820,2025-26,David Melson,Hamilton,G,New England Small College Athletic Conference (NESCAC),nescac,23,27.043478260869566,7.83,4.13,1.04,0.78,0.22,1.5217391304347827,-0.7757540575616381,71
+60,1827,2025-26,Elliott Cravitz,Bates,G,New England Small College Athletic Conference (NESCAC),nescac,26,23.346153846153847,7.19,2.77,0.96,0.85,0.12,0.7692307692307693,-0.7946152312862323,71
 61,1835,2025-26,Benedek Maly,Bowdoin,0,New England Small College Athletic Conference (NESCAC),nescac,13,20.153846153846153,5.69,5.77,0.92,0.85,0.54,1.6153846153846154,-0.8001974557468156,71
 62,1884,2025-26,Nate Pabis,Amherst,0,New England Small College Athletic Conference (NESCAC),nescac,25,19.16,8.12,2.84,0.76,0.48,0.32,1.04,-0.92664106904513,70
-63,1968,2025-26,"Cormier,Jackson",Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,26,18.615384615384617,5.58,3.54,1.0,0.77,0.23,0.7692307692307693,-1.113220924499743,69
+63,1968,2025-26,Jackson Cormier,Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,26,18.615384615384617,5.58,3.54,1.0,0.77,0.23,0.7692307692307693,-1.113220924499743,69
 64,1988,2025-26,Zane Adnan,Amherst,*,New England Small College Athletic Conference (NESCAC),nescac,21,19.428571428571427,6.05,2.52,1.57,1.05,0.1,1.0952380952380951,-1.150535198670507,69
-65,1991,2025-26,"Fuerbacher,Justin",Middlebury,G,New England Small College Athletic Conference (NESCAC),nescac,24,21.666666666666668,5.13,3.42,1.38,0.75,0.25,0.8333333333333334,-1.1568274733555812,69
-66,2005,2025-26,"Clar,Garrett",Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,25,22.16,5.64,2.64,1.84,0.88,0.04,0.96,-1.1941452467516411,68
-67,2099,2025-26,"Stowell,Jack",Hamilton,G,New England Small College Athletic Conference (NESCAC),nescac,24,22.625,5.58,2.25,1.54,1.38,0.25,1.5,-1.3999241253243215,67
-68,2100,2025-26,"Halpern,Alex",Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,25,27.64,5.96,3.04,2.08,0.76,0.12,1.52,-1.403469337135742,67
-69,2131,2025-26,"Sommers,EJ",Williams,F,New England Small College Athletic Conference (NESCAC),nescac,20,14.95,6.8,3.35,0.65,0.5,0.5,1.35,-1.476253256758222,67
-70,2140,2025-26,"Kwiecinski,Nate",Colby,F,New England Small College Athletic Conference (NESCAC),nescac,25,11.52,4.16,2.88,1.04,0.44,0.88,0.84,-1.4895998224274036,67
-71,2243,2025-26,"Chibuogwu,Onyeraluobu",Williams,G,New England Small College Athletic Conference (NESCAC),nescac,20,16.95,4.6,4.2,2.35,0.5,0.05,1.5,-1.7127039565272888,65
-72,2275,2025-26,"Dobie,Mason",Colby,G,New England Small College Athletic Conference (NESCAC),nescac,24,13.416666666666666,6.5,3.21,0.96,0.42,0.0,1.0,-1.7775841614674046,65
-73,2295,2025-26,"McKersie,Jackson",Middlebury,F,New England Small College Athletic Conference (NESCAC),nescac,22,15.0,5.09,3.27,1.05,0.32,0.68,1.2727272727272727,-1.818800668278501,65
+65,1991,2025-26,Justin Fuerbacher,Middlebury,G,New England Small College Athletic Conference (NESCAC),nescac,24,21.666666666666668,5.13,3.42,1.38,0.75,0.25,0.8333333333333334,-1.1568274733555812,69
+66,2005,2025-26,Garrett Clar,Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,25,22.16,5.64,2.64,1.84,0.88,0.04,0.96,-1.1941452467516411,68
+67,2099,2025-26,Jack Stowell,Hamilton,G,New England Small College Athletic Conference (NESCAC),nescac,24,22.625,5.58,2.25,1.54,1.38,0.25,1.5,-1.3999241253243215,67
+68,2100,2025-26,Alex Halpern,Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,25,27.64,5.96,3.04,2.08,0.76,0.12,1.52,-1.403469337135742,67
+69,2131,2025-26,EJ Sommers,Williams,F,New England Small College Athletic Conference (NESCAC),nescac,20,14.95,6.8,3.35,0.65,0.5,0.5,1.35,-1.476253256758222,67
+70,2140,2025-26,Nate Kwiecinski,Colby,F,New England Small College Athletic Conference (NESCAC),nescac,25,11.52,4.16,2.88,1.04,0.44,0.88,0.84,-1.4895998224274036,67
+71,2243,2025-26,Onyeraluobu Chibuogwu,Williams,G,New England Small College Athletic Conference (NESCAC),nescac,20,16.95,4.6,4.2,2.35,0.5,0.05,1.5,-1.7127039565272888,65
+72,2275,2025-26,Mason Dobie,Colby,G,New England Small College Athletic Conference (NESCAC),nescac,24,13.416666666666666,6.5,3.21,0.96,0.42,0.0,1.0,-1.7775841614674046,65
+73,2295,2025-26,Jackson McKersie,Middlebury,F,New England Small College Athletic Conference (NESCAC),nescac,22,15.0,5.09,3.27,1.05,0.32,0.68,1.2727272727272727,-1.818800668278501,65
 74,2344,2025-26,Sidney Wooten,Tufts,0,New England Small College Athletic Conference (NESCAC),nescac,25,18.68,5.32,1.64,1.48,0.56,0.16,0.8,-1.9127421630424104,64
-75,2376,2025-26,"Newell,Mark",Middlebury,F,New England Small College Athletic Conference (NESCAC),nescac,24,16.333333333333332,2.92,5.79,0.71,0.29,0.21,0.625,-1.9780474025538637,63
-76,2403,2025-26,"Blandburg,Robert",Conn. College,F,New England Small College Athletic Conference (NESCAC),nescac,12,13.416666666666666,5.75,3.5,0.58,0.33,0.25,1.0,-2.0142712003974603,63
-77,2448,2025-26,"Norris,Samuel",Trinity,F,New England Small College Athletic Conference (NESCAC),nescac,25,12.96,3.8,3.12,0.28,0.56,0.52,0.56,-2.101131501958033,62
-78,2454,2025-26,"McDonald,Trevor",Trinity,C,New England Small College Athletic Conference (NESCAC),nescac,23,17.043478260869566,2.78,3.35,0.78,0.83,0.17,0.391304347826087,-2.1080572436636165,62
-79,2457,2025-26,"DeVine,Matt",Williams,G,New England Small College Athletic Conference (NESCAC),nescac,24,15.541666666666666,6.79,1.08,0.46,0.46,0.46,1.0,-2.114336805553414,62
-80,2485,2025-26,"Shepherd,Dylan",Williams,G,New England Small College Athletic Conference (NESCAC),nescac,19,14.526315789473683,3.63,2.42,0.63,0.68,0.32,0.4210526315789473,-2.169128158743951,62
+75,2376,2025-26,Mark Newell,Middlebury,F,New England Small College Athletic Conference (NESCAC),nescac,24,16.333333333333332,2.92,5.79,0.71,0.29,0.21,0.625,-1.9780474025538637,63
+76,2403,2025-26,Robert Blandburg,Conn. College,F,New England Small College Athletic Conference (NESCAC),nescac,12,13.416666666666666,5.75,3.5,0.58,0.33,0.25,1.0,-2.0142712003974603,63
+77,2448,2025-26,Samuel Norris,Trinity,F,New England Small College Athletic Conference (NESCAC),nescac,25,12.96,3.8,3.12,0.28,0.56,0.52,0.56,-2.101131501958033,62
+78,2454,2025-26,Trevor McDonald,Trinity,C,New England Small College Athletic Conference (NESCAC),nescac,23,17.043478260869566,2.78,3.35,0.78,0.83,0.17,0.391304347826087,-2.1080572436636165,62
+79,2457,2025-26,Matt DeVine,Williams,G,New England Small College Athletic Conference (NESCAC),nescac,24,15.541666666666666,6.79,1.08,0.46,0.46,0.46,1.0,-2.114336805553414,62
+80,2485,2025-26,Dylan Shepherd,Williams,G,New England Small College Athletic Conference (NESCAC),nescac,19,14.526315789473683,3.63,2.42,0.63,0.68,0.32,0.4210526315789473,-2.169128158743951,62
 81,2486,2025-26,Quron Zene,Conn. College,0,New England Small College Athletic Conference (NESCAC),nescac,10,12.9,5.3,3.4,0.4,0.1,0.4,0.8,-2.1711429267998423,62
-82,2487,2025-26,"Bianco,Chris",Bates,G,New England Small College Athletic Conference (NESCAC),nescac,19,11.68421052631579,4.89,1.42,1.47,1.0,0.0,1.0,-2.174881267770764,62
-83,2493,2025-26,"Watson,Jaalan",Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,27,11.925925925925926,5.22,1.52,1.07,0.44,0.04,0.4814814814814814,-2.1903349511432837,62
-84,2593,2025-26,"Pow,Theo",Colby,F,New England Small College Athletic Conference (NESCAC),nescac,22,13.181818181818182,5.55,3.18,0.77,0.45,0.14,1.2272727272727273,-2.3651764929729397,61
-85,2645,2025-26,"Ippolito,Paul",Trinity,G,New England Small College Athletic Conference (NESCAC),nescac,27,10.74074074074074,4.93,1.07,1.33,0.63,0.07,0.8148148148148148,-2.4466589802365437,60
-86,2718,2025-26,"Berete,Bangaly",Trinity,F,New England Small College Athletic Conference (NESCAC),nescac,27,12.666666666666666,3.22,2.19,0.44,0.52,0.26,0.2592592592592592,-2.608317214396517,59
-87,2719,2025-26,"Cameron,Josh",Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,27,15.62962962962963,2.41,3.41,0.96,0.7,0.07,0.5925925925925926,-2.6098542177468507,59
-88,2772,2025-26,"Mayen,Chiwer",Bates,C,New England Small College Athletic Conference (NESCAC),nescac,26,11.115384615384617,2.77,3.27,0.38,0.27,0.35,0.3846153846153846,-2.7294898632407616,58
-89,2778,2025-26,"O'Reilly,Evan",Hamilton,G,New England Small College Athletic Conference (NESCAC),nescac,21,11.952380952380953,5.57,1.67,0.29,0.29,0.05,0.5714285714285714,-2.7540909545451036,58
+82,2487,2025-26,Chris Bianco,Bates,G,New England Small College Athletic Conference (NESCAC),nescac,19,11.68421052631579,4.89,1.42,1.47,1.0,0.0,1.0,-2.174881267770764,62
+83,2493,2025-26,Jaalan Watson,Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,27,11.925925925925926,5.22,1.52,1.07,0.44,0.04,0.4814814814814814,-2.1903349511432837,62
+84,2593,2025-26,Theo Pow,Colby,F,New England Small College Athletic Conference (NESCAC),nescac,22,13.181818181818182,5.55,3.18,0.77,0.45,0.14,1.2272727272727273,-2.3651764929729397,61
+85,2645,2025-26,Paul Ippolito,Trinity,G,New England Small College Athletic Conference (NESCAC),nescac,27,10.74074074074074,4.93,1.07,1.33,0.63,0.07,0.8148148148148148,-2.4466589802365437,60
+86,2718,2025-26,Bangaly Berete,Trinity,F,New England Small College Athletic Conference (NESCAC),nescac,27,12.666666666666666,3.22,2.19,0.44,0.52,0.26,0.2592592592592592,-2.608317214396517,59
+87,2719,2025-26,Josh Cameron,Wesleyan,G,New England Small College Athletic Conference (NESCAC),nescac,27,15.62962962962963,2.41,3.41,0.96,0.7,0.07,0.5925925925925926,-2.6098542177468507,59
+88,2772,2025-26,Chiwer Mayen,Bates,C,New England Small College Athletic Conference (NESCAC),nescac,26,11.115384615384617,2.77,3.27,0.38,0.27,0.35,0.3846153846153846,-2.7294898632407616,58
+89,2778,2025-26,Evan O'Reilly,Hamilton,G,New England Small College Athletic Conference (NESCAC),nescac,21,11.952380952380953,5.57,1.67,0.29,0.29,0.05,0.5714285714285714,-2.7540909545451036,58
 90,2809,2025-26,James Morakis,Tufts,*,New England Small College Athletic Conference (NESCAC),nescac,25,15.04,6.72,1.2,1.52,0.12,0.0,1.44,-2.82087173695864,58
-91,2823,2025-26,"Casey,RJ",Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,24,12.416666666666666,4.04,0.75,1.71,0.67,0.04,0.9583333333333334,-2.843224979267658,57
-92,2861,2025-26,"Humphrey,Mitch",Colby,F,New England Small College Athletic Conference (NESCAC),nescac,22,17.227272727272727,4.0,2.23,0.86,0.14,0.0,0.4545454545454545,-2.9181319571551194,57
-93,2865,2025-26,"Lamy,Matthew",Colby,G,New England Small College Athletic Conference (NESCAC),nescac,22,15.545454545454543,3.5,2.05,0.59,0.14,0.27,0.3636363636363636,-2.923168210920184,57
-94,2880,2025-26,"Decker,Cole",Bates,G,New England Small College Athletic Conference (NESCAC),nescac,25,12.48,4.4,1.76,0.76,0.24,0.0,0.52,-2.957711153305545,57
+91,2823,2025-26,RJ Casey,Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,24,12.416666666666666,4.04,0.75,1.71,0.67,0.04,0.9583333333333334,-2.843224979267658,57
+92,2861,2025-26,Mitch Humphrey,Colby,F,New England Small College Athletic Conference (NESCAC),nescac,22,17.227272727272727,4.0,2.23,0.86,0.14,0.0,0.4545454545454545,-2.9181319571551194,57
+93,2865,2025-26,Matthew Lamy,Colby,G,New England Small College Athletic Conference (NESCAC),nescac,22,15.545454545454543,3.5,2.05,0.59,0.14,0.27,0.3636363636363636,-2.923168210920184,57
+94,2880,2025-26,Cole Decker,Bates,G,New England Small College Athletic Conference (NESCAC),nescac,25,12.48,4.4,1.76,0.76,0.24,0.0,0.52,-2.957711153305545,57
 95,2900,2025-26,Robbie Nyamwaya,Tufts,0,New England Small College Athletic Conference (NESCAC),nescac,20,11.05,3.45,2.6,0.7,0.15,0.1,0.45,-2.982569090403624,56
-96,2931,2025-26,"Cain,Robert",Hamilton,G,New England Small College Athletic Conference (NESCAC),nescac,22,11.954545454545457,4.36,1.73,0.64,0.41,0.14,0.8181818181818182,-3.052122853929731,56
-97,2994,2025-26,"Holmes,Will",Hamilton,F,New England Small College Athletic Conference (NESCAC),nescac,21,10.666666666666666,2.57,2.29,0.57,0.48,0.57,0.9523809523809524,-3.1824501751591487,55
-98,2996,2025-26,"Craffey,Cole",Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,18,10.72222222222222,3.22,1.94,0.56,0.22,0.06,0.2777777777777778,-3.1972209214207776,55
-99,3017,2025-26,"Cooley,Sammy",Williams,G,New England Small College Athletic Conference (NESCAC),nescac,21,19.904761904761905,2.05,1.9,1.29,0.62,0.14,0.7619047619047619,-3.258977405545457,55
-100,3055,2025-26,"Kulenovic,Omar",Hamilton,F,New England Small College Athletic Conference (NESCAC),nescac,22,10.863636363636363,2.59,2.32,0.45,0.23,0.32,0.5454545454545454,-3.358505312544604,54
-101,3143,2025-26,"Dickens,Isiaha",Williams,F,New England Small College Athletic Conference (NESCAC),nescac,23,13.434782608695652,2.7,1.65,1.26,0.17,0.13,0.782608695652174,-3.5789127095634528,53
-102,3152,2025-26,"Bello,Adam",Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,10,16.1,4.8,3.0,0.9,0.4,0.2,2.1,-3.6198234467021897,53
-103,3162,2025-26,"Doran,Alden",Conn. College,F,New England Small College Athletic Conference (NESCAC),nescac,22,11.409090909090908,2.0,1.86,0.32,0.27,0.32,0.4090909090909091,-3.66644462074284,53
-104,3347,2025-26,"McBride,Liam",Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,14,12.214285714285714,2.64,0.71,0.43,0.21,0.14,0.7142857142857143,-4.370122502987593,50
+96,2931,2025-26,Robert Cain,Hamilton,G,New England Small College Athletic Conference (NESCAC),nescac,22,11.954545454545457,4.36,1.73,0.64,0.41,0.14,0.8181818181818182,-3.052122853929731,56
+97,2994,2025-26,Will Holmes,Hamilton,F,New England Small College Athletic Conference (NESCAC),nescac,21,10.666666666666666,2.57,2.29,0.57,0.48,0.57,0.9523809523809524,-3.1824501751591487,55
+98,2996,2025-26,Cole Craffey,Conn. College,G,New England Small College Athletic Conference (NESCAC),nescac,18,10.72222222222222,3.22,1.94,0.56,0.22,0.06,0.2777777777777778,-3.1972209214207776,55
+99,3017,2025-26,Sammy Cooley,Williams,G,New England Small College Athletic Conference (NESCAC),nescac,21,19.904761904761905,2.05,1.9,1.29,0.62,0.14,0.7619047619047619,-3.258977405545457,55
+100,3055,2025-26,Omar Kulenovic,Hamilton,F,New England Small College Athletic Conference (NESCAC),nescac,22,10.863636363636363,2.59,2.32,0.45,0.23,0.32,0.5454545454545454,-3.358505312544604,54
+101,3143,2025-26,Isiaha Dickens,Williams,F,New England Small College Athletic Conference (NESCAC),nescac,23,13.434782608695652,2.7,1.65,1.26,0.17,0.13,0.782608695652174,-3.5789127095634528,53
+102,3152,2025-26,Adam Bello,Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,10,16.1,4.8,3.0,0.9,0.4,0.2,2.1,-3.6198234467021897,53
+103,3162,2025-26,Alden Doran,Conn. College,F,New England Small College Athletic Conference (NESCAC),nescac,22,11.409090909090908,2.0,1.86,0.32,0.27,0.32,0.4090909090909091,-3.66644462074284,53
+104,3347,2025-26,Liam McBride,Bowdoin,G,New England Small College Athletic Conference (NESCAC),nescac,14,12.214285714285714,2.64,0.71,0.43,0.21,0.14,0.7142857142857143,-4.370122502987593,50

@@ -1,11 +1,11 @@
 rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
-1,53,2025-26,K Rogers,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,36.3,20.1,8.0,4.6,1.7,0.4,3.4,7.2445593206562275,94
+1,53,2025-26,Kenney Rogers Jr.,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,36.3,20.1,8.0,4.6,1.7,0.4,3.4,7.2445593206562275,94
 2,74,2025-26,J Jackson,Fitchburg St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,20,33.3,21.9,7.9,1.8,0.8,0.3,2.1,6.5228897725167485,94
 3,150,2025-26,A Barry,Salem St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,32.4,15.2,5.2,2.3,2.1,0.8,1.7,5.456560566799174,93
 4,172,2025-26,C Williams,MCLA,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,35.7,19.8,5.6,2.4,1.3,0.3,2.5,5.263732783017484,93
-5,179,2025-26,J Annan,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,27.4,11.5,6.2,3.0,2.0,1.6,2.1,5.202810869195649,93
+5,179,2025-26,Johnny Annan,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,27.4,11.5,6.2,3.0,2.0,1.6,2.1,5.202810869195649,93
 6,219,2025-26,J Thomson,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,27.6,10.1,11.6,1.1,1.0,1.3,1.2,4.880349978825775,92
-7,262,2025-26,J Okla,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,31.7,14.9,9.0,1.8,1.6,0.1,2.0,4.5977214694560535,92
+7,262,2025-26,Joe Okla,Worcester St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,31.7,14.9,9.0,1.8,1.6,0.1,2.0,4.5977214694560535,92
 8,293,2025-26,D Kikuba,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,29.3,13.1,4.5,5.6,2.1,0.1,2.8,4.390355933016434,91
 9,310,2025-26,X Lewis,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,33.6,14.2,3.4,2.9,1.9,0.0,1.1,4.23515380733647,91
 10,359,2025-26,R Orleans,Salem St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,28.6,13.4,9.7,0.4,1.2,0.5,1.6,3.8376567318137913,90
@@ -14,11 +14,11 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 13,423,2025-26,A Allah,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,26,33.2,12.7,4.3,3.1,1.9,0.4,2.0,3.555704285484846,90
 14,462,2025-26,L Washington,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,35.1,9.4,5.6,4.2,2.7,0.0,2.3,3.3025685562797715,89
 15,483,2025-26,J Saint Jean,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,31.3,13.4,9.2,0.8,0.8,1.3,2.8,3.210801791577717,89
-16,491,2025-26,L Jennings,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,24.8,12.0,7.3,1.4,0.8,0.8,1.5,3.166218636554769,89
+16,491,2025-26,Louis Jennings,Bridgewater St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,24.8,12.0,7.3,1.4,0.8,0.8,1.5,3.166218636554769,89
 17,541,2025-26,F Field,MCLA,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,31.7,11.9,6.9,1.5,1.7,0.3,1.8,2.959102700050404,88
 18,624,2025-26,D Rogers,Framingham St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,18,29.2,15.6,3.8,2.0,1.6,0.4,2.8,2.659285222954983,87
-19,644,2025-26,J James,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,29.9,13.3,3.0,1.9,1.4,0.1,1.2,2.5517433635992677,87
-20,709,2025-26,J Walker,Salem St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,28.8,13.1,3.8,3.4,1.3,0.2,2.5,2.3239955439056983,86
+19,644,2025-26,Jason James,Westfield St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,27,29.9,13.3,3.0,1.9,1.4,0.1,1.2,2.5517433635992677,87
+20,709,2025-26,Jamel Walker,Salem St.,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,28.8,13.1,3.8,3.4,1.3,0.2,2.5,2.3239955439056983,86
 21,1001,2025-26,L Miglionico,Anna Maria,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,25,29.2,16.4,3.9,0.8,0.5,0.3,2.5,1.3335881961142,82
 22,1019,2025-26,K Franks,MCLA,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,23,25.9,9.0,4.7,2.1,1.6,0.4,1.9,1.2658013602844962,82
 23,1148,2025-26,C Quinn,MCLA,,Massachusetts State Collegiate Athletic Conference (MASCAC),mascac,24,24.8,13.5,3.1,1.5,0.5,0.0,1.6,0.9194521846846072,80

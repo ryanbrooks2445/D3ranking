@@ -1,70 +1,70 @@
 rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
-1,10,2025-26,"Overway,Jalen",Calvin,C,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,32.0,23.15,10.7,3.33,0.41,1.07,2.407407407407407,9.348567396896284,96
-2,39,2025-26,"Hovey,Parker",Hope,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,23,31.08695652173913,16.65,7.7,3.04,1.83,2.04,2.652173913043478,7.727192775667912,95
+1,10,2025-26,Jalen Overway,Calvin,C,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,32.0,23.15,10.7,3.33,0.41,1.07,2.407407407407407,9.348567396896284,96
+2,39,2025-26,Parker Hovey,Hope,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,23,31.08695652173913,16.65,7.7,3.04,1.83,2.04,2.652173913043478,7.727192775667912,95
 3,249,2025-26,Conner Schipper,Olivet,c,Michigan Intercollegiate Athletic Association (MIAA),miaa,23,29.043478260869566,11.09,6.17,2.87,0.91,2.39,2.260869565217391,4.685014793230279,92
-4,290,2025-26,"Heitzman,Korbin",Alma,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,31.36,17.08,8.72,1.16,0.68,0.72,2.4,4.423664058925975,91
-5,329,2025-26,"Bradshaw,Jayden",Trine,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,28,27.678571428571427,15.96,5.54,1.89,1.21,0.79,2.2857142857142856,4.057492534992148,91
-6,332,2025-26,"Welch,Darrius",Adrian,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,32.48,15.56,6.36,1.8,1.8,1.0,3.12,4.037752519830443,91
+4,290,2025-26,Korbin Heitzman,Alma,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,31.36,17.08,8.72,1.16,0.68,0.72,2.4,4.423664058925975,91
+5,329,2025-26,Jayden Bradshaw,Trine,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,28,27.678571428571427,15.96,5.54,1.89,1.21,0.79,2.2857142857142856,4.057492534992148,91
+6,332,2025-26,Darrius Welch,Adrian,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,32.48,15.56,6.36,1.8,1.8,1.0,3.12,4.037752519830443,91
 7,348,2025-26,Porter Kretschman,Olivet,f,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,30.076923076923077,10.38,9.15,3.0,1.12,0.73,1.9615384615384617,3.926121165479208,91
-8,355,2025-26,"Umeh,Michael",Albion,C,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,23.615384615384617,14.0,8.08,0.54,0.92,1.23,1.9615384615384617,3.868446201058426,90
+8,355,2025-26,Michael Umeh,Albion,C,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,23.615384615384617,14.0,8.08,0.54,0.92,1.23,1.9615384615384617,3.868446201058426,90
 9,398,2025-26,Nathan Richardson,Olivet,g,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,33.19230769230769,14.62,2.92,3.54,2.0,0.08,2.1923076923076925,3.641982040396513,90
-10,446,2025-26,"Winkle,Trevin",Calvin,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,31.333333333333332,13.07,6.04,3.11,1.11,0.59,2.3333333333333335,3.4198670744789723,89
-11,549,2025-26,"Ressler,Luka",Calvin,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,29.74074074074074,9.22,4.44,4.63,1.52,0.44,1.9259259259259256,2.918433399317675,88
-12,620,2025-26,"Tucker,Nate",Trine,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,28,26.5,12.21,5.36,2.0,1.25,0.14,1.3928571428571428,2.6822352215160064,87
-13,705,2025-26,"Mayes,Kameron",Albion,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,30.46153846153846,13.31,5.92,3.0,1.27,0.19,2.9615384615384617,2.3335961630967432,86
-14,746,2025-26,"Logan,Seth",Adrian,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,28.44,14.64,3.72,1.12,0.56,0.16,1.12,2.178953542170599,85
-15,794,2025-26,"Brenner,Cade",Trine,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,28,22.25,10.21,5.46,1.64,1.29,0.25,1.1785714285714286,2.051431981720073,85
-16,859,2025-26,"Hanifan,Lucas",Kalamazoo,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,22,30.0,12.45,3.68,1.77,1.5,0.05,1.681818181818182,1.8353052351035697,84
-17,876,2025-26,"Cargill,Brendan",Hope,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,27.925925925925927,13.04,3.67,1.11,1.33,0.04,1.4074074074074074,1.763889250537228,83
-18,977,2025-26,"Wourman,Marcus",Hope,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,29.074074074074073,10.81,3.04,1.63,1.56,0.0,1.148148148148148,1.4155916275984484,82
-19,1068,2025-26,"Yant,Orion",Hope,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,17.73076923076923,9.35,5.0,1.0,0.85,0.96,1.5769230769230769,1.1217692582768135,81
-20,1134,2025-26,"Rhodes,Kurtis",Albion,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,25.166666666666668,10.21,3.96,1.42,0.58,0.75,1.5,0.9437739437961415,80
-21,1193,2025-26,"Swartz,Parker",Calvin,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,28.703703703703702,8.96,4.15,1.59,0.56,0.78,1.3333333333333333,0.8035922690480036,79
-22,1216,2025-26,"McKenzie,Logan",Trine,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,28,25.785714285714285,8.54,5.25,1.75,0.82,0.29,1.3214285714285714,0.7624844584412466,79
-23,1301,2025-26,"Flood,Danny",Trine,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,28,26.535714285714285,10.32,2.11,3.29,1.07,0.0,2.0,0.5432355564886685,78
-24,1319,2025-26,"Lewis,Elias",Trine,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,28,24.392857142857142,8.07,3.04,1.29,0.93,0.54,0.7857142857142857,0.505231345500128,78
+10,446,2025-26,Trevin Winkle,Calvin,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,31.333333333333332,13.07,6.04,3.11,1.11,0.59,2.3333333333333335,3.4198670744789723,89
+11,549,2025-26,Luka Ressler,Calvin,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,29.74074074074074,9.22,4.44,4.63,1.52,0.44,1.9259259259259256,2.918433399317675,88
+12,620,2025-26,Nate Tucker,Trine,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,28,26.5,12.21,5.36,2.0,1.25,0.14,1.3928571428571428,2.6822352215160064,87
+13,705,2025-26,Kameron Mayes,Albion,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,30.46153846153846,13.31,5.92,3.0,1.27,0.19,2.9615384615384617,2.3335961630967432,86
+14,746,2025-26,Seth Logan,Adrian,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,28.44,14.64,3.72,1.12,0.56,0.16,1.12,2.178953542170599,85
+15,794,2025-26,Cade Brenner,Trine,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,28,22.25,10.21,5.46,1.64,1.29,0.25,1.1785714285714286,2.051431981720073,85
+16,859,2025-26,Lucas Hanifan,Kalamazoo,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,22,30.0,12.45,3.68,1.77,1.5,0.05,1.681818181818182,1.8353052351035697,84
+17,876,2025-26,Brendan Cargill,Hope,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,27.925925925925927,13.04,3.67,1.11,1.33,0.04,1.4074074074074074,1.763889250537228,83
+18,977,2025-26,Marcus Wourman,Hope,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,29.074074074074073,10.81,3.04,1.63,1.56,0.0,1.148148148148148,1.4155916275984484,82
+19,1068,2025-26,Orion Yant,Hope,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,17.73076923076923,9.35,5.0,1.0,0.85,0.96,1.5769230769230769,1.1217692582768135,81
+20,1134,2025-26,Kurtis Rhodes,Albion,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,25.166666666666668,10.21,3.96,1.42,0.58,0.75,1.5,0.9437739437961415,80
+21,1193,2025-26,Parker Swartz,Calvin,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,28.703703703703702,8.96,4.15,1.59,0.56,0.78,1.3333333333333333,0.8035922690480036,79
+22,1216,2025-26,Logan McKenzie,Trine,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,28,25.785714285714285,8.54,5.25,1.75,0.82,0.29,1.3214285714285714,0.7624844584412466,79
+23,1301,2025-26,Danny Flood,Trine,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,28,26.535714285714285,10.32,2.11,3.29,1.07,0.0,2.0,0.5432355564886685,78
+24,1319,2025-26,Elias Lewis,Trine,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,28,24.392857142857142,8.07,3.04,1.29,0.93,0.54,0.7857142857142857,0.505231345500128,78
 25,1338,2025-26,Sean Shenker,Olivet,f,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,28.73076923076923,10.96,1.5,2.08,1.65,0.04,1.9615384615384617,0.4551308591400533,77
-26,1348,2025-26,"Bandemer,Carter",Kalamazoo,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,28.458333333333332,10.33,3.88,1.08,0.63,0.29,1.2916666666666667,0.4245015787538101,77
-27,1490,2025-26,"Bradley,Joss",Alma,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,20.92,6.6,4.12,2.52,1.04,0.24,1.48,0.0318189780906796,75
-28,1503,2025-26,"Rager,Luke",Adrian,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,23,28.652173913043477,9.3,2.35,3.65,0.57,0.09,2.0434782608695654,0.0070451762091383,75
+26,1348,2025-26,Carter Bandemer,Kalamazoo,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,28.458333333333332,10.33,3.88,1.08,0.63,0.29,1.2916666666666667,0.4245015787538101,77
+27,1490,2025-26,Joss Bradley,Alma,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,20.92,6.6,4.12,2.52,1.04,0.24,1.48,0.0318189780906796,75
+28,1503,2025-26,Luke Rager,Adrian,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,23,28.652173913043477,9.3,2.35,3.65,0.57,0.09,2.0434782608695654,0.0070451762091383,75
 29,1555,2025-26,Mike Okello,Olivet,0,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,19.153846153846153,6.65,4.77,1.15,0.77,0.54,1.1538461538461535,-0.1515957620153907,74
-30,1557,2025-26,"Hooser,Malachi",Albion,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,23,25.73913043478261,9.09,2.74,2.3,0.87,0.13,1.7391304347826086,-0.1586175665801999,74
-31,1601,2025-26,"Brodi,Mason",Albion,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,18.76923076923077,7.58,3.35,1.15,0.88,0.15,0.8076923076923077,-0.2684091778967484,74
-32,1652,2025-26,"Dallas,Jeremiah",Adrian,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,21.916666666666668,7.33,3.29,2.83,1.58,0.04,2.2916666666666665,-0.3838581265876239,73
-33,1671,2025-26,"Lutz,Carson",Adrian,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,23,23.73913043478261,10.74,2.3,1.48,0.96,0.09,2.0,-0.4266746488842984,73
-34,1672,2025-26,"Perez,Patrick",Kalamazoo,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,21.68,9.16,4.12,0.76,0.96,0.2,1.68,-0.4292580738332466,73
-35,1693,2025-26,"Schlink,Brendon",Adrian,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,10,22.6,8.6,3.2,0.7,0.3,0.1,0.5,-0.4896141611840711,73
-36,1767,2025-26,"Ray,Dwayne",Albion,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,18.958333333333332,8.33,1.67,1.63,0.79,0.0,0.9583333333333334,-0.680517154307223,72
-37,1793,2025-26,"St. Martin,Logan",Alma,C,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,22.8,5.6,4.08,1.4,0.48,0.52,0.92,-0.7256167035652351,71
-38,1809,2025-26,"Sykes,Elijah",Alma,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,23,21.60869565217391,10.96,2.52,1.74,0.39,0.04,2.0434782608695654,-0.7632469095495272,71
-39,1874,2025-26,"Scott,Jordan",Calvin,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,20,22.35,8.7,3.0,1.85,0.4,0.0,1.5,-0.9035532050888516,70
-40,1948,2025-26,"Collins,Donovan",Alma,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,25.84,8.08,2.32,0.76,0.88,0.08,1.08,-1.0863508163358808,69
-41,1951,2025-26,"Ruckard,Zion",Calvin,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,19.296296296296298,6.26,2.48,1.3,0.81,0.04,0.6666666666666666,-1.090863004629806,69
-42,1955,2025-26,"Sompa,Nelson",Kalamazoo,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,27.2,5.6,2.72,3.4,1.04,0.08,2.0,-1.0939719491578903,69
-43,1981,2025-26,"King,Truman",Albion,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,25.384615384615383,5.0,2.81,0.88,1.19,0.04,0.4230769230769231,-1.1359647251956784,69
-44,2028,2025-26,"Mims,Justice",Hope,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,19.846153846153847,6.58,3.31,1.0,0.62,0.08,0.8846153846153846,-1.2463974303688703,68
-45,2029,2025-26,"Panning,Drew",Trine,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,14.074074074074074,5.04,3.93,0.7,0.56,0.52,0.7777777777777778,-1.2487364494337263,68
+30,1557,2025-26,Malachi Hooser,Albion,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,23,25.73913043478261,9.09,2.74,2.3,0.87,0.13,1.7391304347826086,-0.1586175665801999,74
+31,1601,2025-26,Mason Brodi,Albion,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,18.76923076923077,7.58,3.35,1.15,0.88,0.15,0.8076923076923077,-0.2684091778967484,74
+32,1652,2025-26,Jeremiah Dallas,Adrian,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,21.916666666666668,7.33,3.29,2.83,1.58,0.04,2.2916666666666665,-0.3838581265876239,73
+33,1671,2025-26,Carson Lutz,Adrian,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,23,23.73913043478261,10.74,2.3,1.48,0.96,0.09,2.0,-0.4266746488842984,73
+34,1672,2025-26,Patrick Perez,Kalamazoo,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,21.68,9.16,4.12,0.76,0.96,0.2,1.68,-0.4292580738332466,73
+35,1693,2025-26,Brendon Schlink,Adrian,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,10,22.6,8.6,3.2,0.7,0.3,0.1,0.5,-0.4896141611840711,73
+36,1767,2025-26,Dwayne Ray,Albion,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,18.958333333333332,8.33,1.67,1.63,0.79,0.0,0.9583333333333334,-0.680517154307223,72
+37,1793,2025-26,Logan St. Martin,Alma,C,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,22.8,5.6,4.08,1.4,0.48,0.52,0.92,-0.7256167035652351,71
+38,1809,2025-26,Elijah Sykes,Alma,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,23,21.60869565217391,10.96,2.52,1.74,0.39,0.04,2.0434782608695654,-0.7632469095495272,71
+39,1874,2025-26,Jordan Scott,Calvin,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,20,22.35,8.7,3.0,1.85,0.4,0.0,1.5,-0.9035532050888516,70
+40,1948,2025-26,Donovan Collins,Alma,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,25.84,8.08,2.32,0.76,0.88,0.08,1.08,-1.0863508163358808,69
+41,1951,2025-26,Zion Ruckard,Calvin,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,19.296296296296298,6.26,2.48,1.3,0.81,0.04,0.6666666666666666,-1.090863004629806,69
+42,1955,2025-26,Nelson Sompa,Kalamazoo,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,27.2,5.6,2.72,3.4,1.04,0.08,2.0,-1.0939719491578903,69
+43,1981,2025-26,Truman King,Albion,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,25.384615384615383,5.0,2.81,0.88,1.19,0.04,0.4230769230769231,-1.1359647251956784,69
+44,2028,2025-26,Justice Mims,Hope,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,19.846153846153847,6.58,3.31,1.0,0.62,0.08,0.8846153846153846,-1.2463974303688703,68
+45,2029,2025-26,Drew Panning,Trine,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,14.074074074074074,5.04,3.93,0.7,0.56,0.52,0.7777777777777778,-1.2487364494337263,68
 46,2035,2025-26,Sam Howard,Olivet,0,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,16.375,8.67,1.79,1.0,0.71,0.08,1.2916666666666667,-1.272445515433891,68
 47,2170,2025-26,Lee Hardy,Olivet,c,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,18.96,6.6,3.84,0.92,0.56,0.4,1.6,-1.556899858257815,66
-48,2262,2025-26,"Elliott,Josh",Alma,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,25.416666666666668,7.13,2.21,1.0,0.42,0.29,1.25,-1.7460513219540128,65
-49,2267,2025-26,"Stevens,JJ",Kalamazoo,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,20,12.95,6.0,3.8,0.75,0.4,0.4,1.3,-1.7610079569070862,65
-50,2351,2025-26,"Burns,Austin",Adrian,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,17,17.235294117647058,3.47,3.18,0.65,0.88,0.59,0.8823529411764706,-1.9238089557832647,64
-51,2461,2025-26,"Sanchez,Avery",Hope,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,17.37037037037037,6.26,1.7,1.48,0.37,0.0,1.0,-2.1167135450999455,62
-52,2515,2025-26,"Kouki,Connor",Kalamazoo,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,20.84,6.8,2.84,1.2,0.4,0.2,1.76,-2.2405443664098152,62
-53,2667,2025-26,"Hunter,BJ",Albion,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,20,19.4,4.95,1.75,1.2,1.0,0.05,1.3,-2.4887671394608657,60
-54,2676,2025-26,"Ewing,Brady",Calvin,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,14.37037037037037,4.67,2.37,0.74,0.3,0.37,0.8888888888888888,-2.515843340345268,59
-55,2684,2025-26,"Keefer,Jackson",Kalamazoo,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,16.96,5.16,2.68,0.52,0.28,0.2,0.84,-2.53152812213142,59
-56,2698,2025-26,"McIllwain,JT",Calvin,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,15.25925925925926,4.22,2.11,0.67,0.74,0.0,0.5925925925925926,-2.55234427362413,59
-57,2717,2025-26,"Rodich,Raine",Alma,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,17.4,6.96,2.32,1.96,0.52,0.08,2.4,-2.6051211119000044,59
-58,2814,2025-26,"Howell,Charles",Hope,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,15.407407407407408,2.52,2.41,0.78,0.74,0.3,0.7037037037037037,-2.8283908857190303,58
-59,2819,2025-26,"Crane,Paxton",Trine,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,18,12.5,3.0,3.78,0.67,0.22,0.33,0.8333333333333334,-2.837979129186966,58
-60,2859,2025-26,"Gira,Dylan",Adrian,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,19,10.578947368421051,3.68,1.63,0.42,0.42,0.21,0.3684210526315789,-2.9148984679982126,57
-61,3046,2025-26,"Nash,Zander",Kalamazoo,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,18,17.22222222222222,4.67,3.39,0.67,0.11,0.22,1.5555555555555556,-3.3388883720210507,54
-62,3065,2025-26,"Neuhaus,Simon",Hope,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,13.076923076923077,2.96,1.85,0.77,0.35,0.15,0.6538461538461539,-3.3765772572631625,54
-63,3073,2025-26,"Van Kampen,Gavin",Kalamazoo,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,22,13.772727272727272,4.18,2.91,1.14,0.32,0.14,1.6363636363636365,-3.385986641523627,54
-64,3079,2025-26,"Smiley,Jayden",Adrian,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,22,14.545454545454543,3.18,2.64,0.36,0.23,0.09,0.5909090909090909,-3.4051284743583596,54
-65,3083,2025-26,"Jones,Elisha",Trine,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,13.576923076923077,3.69,1.08,0.92,0.5,0.27,1.0769230769230769,-3.4131252707832145,54
-66,3151,2025-26,"Guerrazzi,Luciano",Alma,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,11.583333333333334,2.63,2.83,0.58,0.25,0.21,0.9166666666666666,-3.6149600810597766,53
-67,3208,2025-26,"Vanlaningham,Noah",Adrian,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,10.166666666666666,3.29,1.08,0.42,0.42,0.0,0.5833333333333334,-3.792782940641252,52
-68,3212,2025-26,"Malpass,Preston",Alma,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,22,10.363636363636363,2.05,2.05,0.36,0.18,0.55,0.8181818181818182,-3.8046290786620873,52
+48,2262,2025-26,Josh Elliott,Alma,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,25.416666666666668,7.13,2.21,1.0,0.42,0.29,1.25,-1.7460513219540128,65
+49,2267,2025-26,JJ Stevens,Kalamazoo,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,20,12.95,6.0,3.8,0.75,0.4,0.4,1.3,-1.7610079569070862,65
+50,2351,2025-26,Austin Burns,Adrian,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,17,17.235294117647058,3.47,3.18,0.65,0.88,0.59,0.8823529411764706,-1.9238089557832647,64
+51,2461,2025-26,Avery Sanchez,Hope,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,17.37037037037037,6.26,1.7,1.48,0.37,0.0,1.0,-2.1167135450999455,62
+52,2515,2025-26,Connor Kouki,Kalamazoo,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,20.84,6.8,2.84,1.2,0.4,0.2,1.76,-2.2405443664098152,62
+53,2667,2025-26,BJ Hunter,Albion,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,20,19.4,4.95,1.75,1.2,1.0,0.05,1.3,-2.4887671394608657,60
+54,2676,2025-26,Brady Ewing,Calvin,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,14.37037037037037,4.67,2.37,0.74,0.3,0.37,0.8888888888888888,-2.515843340345268,59
+55,2684,2025-26,Jackson Keefer,Kalamazoo,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,16.96,5.16,2.68,0.52,0.28,0.2,0.84,-2.53152812213142,59
+56,2698,2025-26,JT McIllwain,Calvin,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,15.25925925925926,4.22,2.11,0.67,0.74,0.0,0.5925925925925926,-2.55234427362413,59
+57,2717,2025-26,Raine Rodich,Alma,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,25,17.4,6.96,2.32,1.96,0.52,0.08,2.4,-2.6051211119000044,59
+58,2814,2025-26,Charles Howell,Hope,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,27,15.407407407407408,2.52,2.41,0.78,0.74,0.3,0.7037037037037037,-2.8283908857190303,58
+59,2819,2025-26,Paxton Crane,Trine,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,18,12.5,3.0,3.78,0.67,0.22,0.33,0.8333333333333334,-2.837979129186966,58
+60,2859,2025-26,Dylan Gira,Adrian,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,19,10.578947368421051,3.68,1.63,0.42,0.42,0.21,0.3684210526315789,-2.9148984679982126,57
+61,3046,2025-26,Zander Nash,Kalamazoo,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,18,17.22222222222222,4.67,3.39,0.67,0.11,0.22,1.5555555555555556,-3.3388883720210507,54
+62,3065,2025-26,Simon Neuhaus,Hope,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,13.076923076923077,2.96,1.85,0.77,0.35,0.15,0.6538461538461539,-3.3765772572631625,54
+63,3073,2025-26,Gavin Van Kampen,Kalamazoo,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,22,13.772727272727272,4.18,2.91,1.14,0.32,0.14,1.6363636363636365,-3.385986641523627,54
+64,3079,2025-26,Jayden Smiley,Adrian,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,22,14.545454545454543,3.18,2.64,0.36,0.23,0.09,0.5909090909090909,-3.4051284743583596,54
+65,3083,2025-26,Elisha Jones,Trine,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,26,13.576923076923077,3.69,1.08,0.92,0.5,0.27,1.0769230769230769,-3.4131252707832145,54
+66,3151,2025-26,Luciano Guerrazzi,Alma,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,11.583333333333334,2.63,2.83,0.58,0.25,0.21,0.9166666666666666,-3.6149600810597766,53
+67,3208,2025-26,Noah Vanlaningham,Adrian,G,Michigan Intercollegiate Athletic Association (MIAA),miaa,24,10.166666666666666,3.29,1.08,0.42,0.42,0.0,0.5833333333333334,-3.792782940641252,52
+68,3212,2025-26,Preston Malpass,Alma,F,Michigan Intercollegiate Athletic Association (MIAA),miaa,22,10.363636363636363,2.05,2.05,0.36,0.18,0.55,0.8181818181818182,-3.8046290786620873,52
 69,3249,2025-26,Alex Genuise,Olivet,0,Michigan Intercollegiate Athletic Association (MIAA),miaa,17,10.176470588235292,3.65,1.47,0.35,0.18,0.0,0.7058823529411765,-3.926867551149827,52

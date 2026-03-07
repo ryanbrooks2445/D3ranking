@@ -8,8 +8,16 @@ type ColDef = { key: string; label: string; pct?: boolean };
 const OVR_TOOLTIP =
   "OVR is derived from rank (e.g. top players = 99). Score is the stat-based composite used to rank players.";
 
-function formatVal(val: unknown, pct?: boolean): string {
+/** Keys that are identity/rank, not stats — we always show the value (including 0). */
+const NON_STAT_KEYS = new Set([
+  "global_rank", "rank", "player_name", "team", "position", "conference", "rating",
+]);
+
+function formatVal(val: unknown, pct?: boolean, colKey?: string): string {
   if (val == null) return "—";
+  const isStat = colKey && !NON_STAT_KEYS.has(colKey);
+  const numVal = typeof val === "number" ? val : Number(val);
+  if (isStat && (numVal === 0 || (typeof val === "string" && val.trim() === "0"))) return "—";
   if (pct && typeof val === "number") return `${(val * 100).toFixed(1)}%`;
   if (typeof val === "number") {
     if (Number.isInteger(val)) return String(val);
@@ -18,11 +26,11 @@ function formatVal(val: unknown, pct?: boolean): string {
   return String(val);
 }
 
-/** Format composite_score (float) for display. */
+/** Format composite_score (float) for display. Show — for null/NaN/0 so we don't show zeros. */
 function formatScore(val: unknown): string {
   if (val == null) return "—";
   const n = Number(val);
-  if (Number.isNaN(n)) return "—";
+  if (Number.isNaN(n) || n === 0) return "—";
   return n.toFixed(1);
 }
 
@@ -142,7 +150,7 @@ export function SportPlayerRankingsTable({
         </div>
         {!isPro && (
           <p className="hidden text-xs text-slate-500 sm:inline">
-            OVR and Rank are Pro-only.{" "}
+            OVR, Rank, and Score are Pro-only.{" "}
             <a
               href="/#pricing"
               className="font-semibold text-blue-400 hover:text-blue-300 underline"
@@ -199,16 +207,17 @@ export function SportPlayerRankingsTable({
                           ? formatScore(val)
                           : isPosition && (val === "0" || val === 0)
                             ? "—"
-                            : formatVal(val, col.pct);
+                            : formatVal(val, col.pct, col.key);
                       const ovrBadgeClass = isOvr ? getOvrBadgeClasses(val) : null;
-                      const isLockedMetric = !isPro && (isRank || isOvr);
+                      const isLockedMetric = !isPro && (isRank || isOvr || isScore);
+                      const lockedLabel = isOvr ? "Get OVR" : isScore ? "Get score" : "Unlock";
                       const cellContent = isLockedMetric ? (
                         <a
                           href="/#pricing"
                           className="inline-flex items-center gap-1 rounded-md bg-slate-800/80 px-2 py-1 text-xs font-semibold text-amber-300 ring-1 ring-amber-400/50 hover:bg-amber-500/10 hover:text-amber-200"
                         >
                           <span className="inline-block h-1.5 w-1.5 rounded-full bg-amber-400" />
-                          Pro
+                          {lockedLabel}
                         </a>
                       ) : isOvr && ovrBadgeClass ? (
                         <span className={ovrBadgeClass}>{displayVal}</span>
@@ -243,7 +252,7 @@ export function SportPlayerRankingsTable({
             Showing top {freeRowLimit} of {filtered.length.toLocaleString()} players.
           </p>
           <p className="mt-2 text-slate-400">
-            Unlock full list, OVR, rank, and search with Pro — $19.99/year (7-day free trial).
+            Unlock full list, OVR, rank, score, and search with Pro — $19.99/year.
           </p>
           <a
             href="/#pricing"

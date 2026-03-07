@@ -1,69 +1,69 @@
 rank,global_rank,season,player_name,team,position,conference,conference_code,gp,mpg,ppg,rpg,apg,spg,bpg,tov_pg,composite_score,rating
-1,26,2025-26,"Smith,Doug",Pfeiffer,F,USA South Athletic Conference,usa_south_athletic_confe,26,28.615384615384617,16.46,9.42,1.81,0.73,2.81,2.0,8.068202954252959,95
-2,118,2025-26,"Carnes,Jadon",Brevard,F,USA South Athletic Conference,usa_south_athletic_confe,25,34.36,18.2,4.28,3.92,1.08,0.2,1.56,5.8550624958461395,94
-3,137,2025-26,"Smith,Rashod",N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,26,32.11538461538461,15.54,3.38,5.0,2.0,0.08,1.7692307692307692,5.661869813301114,93
-4,164,2025-26,"Johnson,Nasir",N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,27,33.81481481481482,17.26,3.85,2.11,1.85,0.07,1.0,5.314706564249377,93
-5,213,2025-26,"Jackson,DJ",Greensboro,G,USA South Athletic Conference,usa_south_athletic_confe,23,33.73913043478261,18.43,4.26,2.48,1.43,0.87,2.652173913043478,4.956829998452279,92
-6,299,2025-26,"Johnson,Tillman",Southern Virginia,F,USA South Athletic Conference,usa_south_athletic_confe,26,35.15384615384615,14.73,4.5,4.58,1.54,0.23,2.5,4.341616937950409,91
-7,315,2025-26,"Green,DJ",Southern Virginia,G,USA South Athletic Conference,usa_south_athletic_confe,27,35.592592592592595,15.37,5.44,4.15,1.15,0.0,2.2962962962962963,4.199791508827184,91
-8,336,2025-26,"Brooks,KJ",Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,32.69230769230769,15.38,5.27,2.15,1.5,0.27,1.8461538461538465,4.002500652699358,91
-9,410,2025-26,"Gray,Will",Greensboro,G,USA South Athletic Conference,usa_south_athletic_confe,24,29.916666666666668,13.17,4.75,2.92,1.96,0.38,2.2083333333333335,3.5922188506786275,90
-10,532,2025-26,"Jones,Shawn",William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,25,30.08,11.04,7.2,1.92,0.8,1.32,2.16,3.003071135685072,88
-11,561,2025-26,"Hodgson,Parker",William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,23,31.47826086956522,12.65,7.17,2.13,1.17,0.39,2.260869565217391,2.86469129003892,88
-12,579,2025-26,"Wilson,Twain",Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,22,30.045454545454547,15.0,3.55,1.36,1.36,0.36,1.7272727272727273,2.805519961151535,87
-13,645,2025-26,"Horton,KK",Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,25,30.92,11.48,3.4,4.04,0.96,0.4,1.88,2.548067560368139,87
-14,667,2025-26,"Pettaway,Dontavious",Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,22,27.318181818181817,11.5,4.55,1.73,1.14,0.68,1.4090909090909092,2.482958634671231,86
-15,671,2025-26,"Benton,Raymond",Mary Baldwin,F,USA South Athletic Conference,usa_south_athletic_confe,25,28.88,12.76,6.48,0.76,1.32,0.08,1.4,2.461289243151445,86
-16,779,2025-26,"Brown,Dre'Shaun",Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,25,29.76,7.52,5.8,2.96,1.24,0.92,1.76,2.08544675512626,85
-17,795,2025-26,"Robinson,Clayton",Pfeiffer,G,USA South Athletic Conference,usa_south_athletic_confe,26,25.76923076923077,11.35,3.65,2.38,1.15,0.04,1.1153846153846154,2.048230067829545,85
-18,800,2025-26,"Sucarichi,Sean",Pfeiffer,G,USA South Athletic Conference,usa_south_athletic_confe,26,28.384615384615383,13.42,4.04,2.23,0.85,0.19,1.8461538461538465,2.032193977633838,84
-19,872,2025-26,"Williams,Tre'",Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,30.0,13.08,2.73,2.04,0.88,0.08,1.3076923076923077,1.7888644669108758,84
-20,979,2025-26,"Hogarth,Rony",Mary Baldwin,F,USA South Athletic Conference,usa_south_athletic_confe,24,27.291666666666668,14.04,4.58,1.17,0.54,0.21,1.9166666666666667,1.4079854093731865,82
-21,998,2025-26,"Jones,James",N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,27,30.185185185185187,10.22,3.7,0.63,1.15,0.56,0.8888888888888888,1.3363011699043672,82
-22,1047,2025-26,"Burden,Justin",N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,27,23.62962962962963,10.7,6.22,0.85,0.59,0.37,1.4074074074074074,1.193754050612107,81
-23,1060,2025-26,"Via,DJ",Mary Baldwin,G,USA South Athletic Conference,usa_south_athletic_confe,25,32.24,10.32,3.36,1.64,1.56,0.0,1.32,1.1340009229573784,81
-24,1238,2025-26,"Ballstaedt,Jude",Southern Virginia,G,USA South Athletic Conference,usa_south_athletic_confe,27,26.14814814814815,11.67,2.67,2.67,1.3,0.22,2.6296296296296298,0.7000845745433792,79
-25,1239,2025-26,"Gilbert,Markquan",N.C. Wesleyan,F,USA South Athletic Conference,usa_south_athletic_confe,27,18.59259259259259,12.48,3.37,0.63,0.7,0.22,1.4074074074074074,0.6989635329913777,79
-26,1257,2025-26,"Ukaegbu,Jamal",Mary Baldwin,G,USA South Athletic Conference,usa_south_athletic_confe,25,24.48,7.44,4.56,1.12,0.84,1.24,1.52,0.6536339137565232,78
-27,1286,2025-26,"Cox,Deejayy",N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,27,25.925925925925927,5.78,6.19,1.04,1.19,0.22,0.5555555555555556,0.5927480147609858,78
-28,1302,2025-26,"Goode,CJ",Mary Baldwin,G,USA South Athletic Conference,usa_south_athletic_confe,13,21.0,8.08,5.08,1.15,1.15,0.23,1.1538461538461535,0.5429183252192149,78
-29,1360,2025-26,"Ingram,Quamir",Greensboro,,USA South Athletic Conference,usa_south_athletic_confe,14,22.0,13.21,3.29,0.5,0.43,0.0,1.3571428571428572,0.3934577496383816,77
-30,1367,2025-26,"Gaten,Justin",Pfeiffer,F,USA South Athletic Conference,usa_south_athletic_confe,26,26.884615384615383,9.96,4.12,1.92,0.81,0.19,1.8076923076923077,0.3864692564140574,77
-31,1389,2025-26,"Baldwin,Tyler",Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,24,17.875,8.38,1.38,1.71,1.46,0.04,0.6666666666666666,0.3433307721905048,77
-32,1402,2025-26,"Daniels,O'Montae",Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,28.115384615384617,5.12,4.35,2.15,1.77,0.46,1.4230769230769231,0.3159702772983419,76
-33,1454,2025-26,"Davis,Ashton",Southern Virginia,C,USA South Athletic Conference,usa_south_athletic_confe,26,15.76923076923077,11.19,3.73,0.58,0.38,0.35,1.3461538461538465,0.1644874110508338,76
-34,1607,2025-26,"Howard,Jeremiah",Greensboro,F,USA South Athletic Conference,usa_south_athletic_confe,23,14.608695652173912,7.7,5.43,0.57,0.22,0.7,1.2173913043478262,-0.2763396517516717,74
-35,1684,2025-26,"Roberts,Ryan",Greensboro,F,USA South Athletic Conference,usa_south_athletic_confe,22,29.454545454545453,4.77,6.23,1.82,1.05,0.09,1.318181818181818,-0.4668496900971628,73
-36,1730,2025-26,"McConkie,Hyrum",Southern Virginia,F,USA South Athletic Conference,usa_south_athletic_confe,27,19.48148148148148,7.41,4.85,1.07,0.3,0.41,1.2222222222222223,-0.5708244050749097,72
-37,1770,2025-26,"Green,Elijah",William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,24,26.916666666666668,8.92,2.17,3.0,0.42,0.04,1.875,-0.6818097973609851,72
-38,1772,2025-26,"Ezeonu,Chuks",William Peace,F,USA South Athletic Conference,usa_south_athletic_confe,25,22.68,7.64,5.52,1.04,0.24,0.56,1.72,-0.683063295234136,72
-39,1821,2025-26,"Stevens,Tomas",Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,25,18.72,8.2,2.24,1.44,0.84,0.08,1.2,-0.7803650485522571,71
-40,1832,2025-26,"Sloan,Zach",Pfeiffer,G,USA South Athletic Conference,usa_south_athletic_confe,26,23.423076923076923,6.69,2.65,1.96,0.73,0.12,1.0384615384615383,-0.7987300444855264,71
-41,1850,2025-26,"Vincent,Dwight",Greensboro,G,USA South Athletic Conference,usa_south_athletic_confe,21,24.61904761904762,8.19,2.14,1.14,0.57,0.43,1.1904761904761905,-0.8273013045400177,70
-42,1862,2025-26,"Bullock,Brian",Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,20.884615384615383,8.31,3.69,0.42,0.62,0.27,1.1923076923076923,-0.8699533344890944,70
-43,1879,2025-26,"Dunklin,Marquise",Mary Baldwin,G,USA South Athletic Conference,usa_south_athletic_confe,25,27.52,7.68,3.48,3.0,0.84,0.04,2.4,-0.9151767727348838,70
-44,1883,2025-26,"Cathcart,Elijah",William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,21,25.61904761904762,10.0,3.33,0.9,0.38,0.0,1.5238095238095235,-0.9229497558328524,70
-45,1942,2025-26,"Stewart,Drake",Pfeiffer,G,USA South Athletic Conference,usa_south_athletic_confe,26,18.0,7.04,2.96,1.23,1.0,0.12,1.3076923076923077,-1.067672319796172,69
-46,1952,2025-26,"Whitehurst,Tyler",William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,19,28.57894736842105,8.16,2.32,1.63,0.26,0.05,1.0526315789473684,-1.0924696000053928,69
-47,2088,2025-26,"Thorns,Jalen",Greensboro,G,USA South Athletic Conference,usa_south_athletic_confe,15,21.266666666666666,8.07,2.2,1.27,0.13,0.2,1.0666666666666669,-1.3676312220631053,67
-48,2176,2025-26,"McKnight,Brock",Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,25,27.24,5.72,2.76,1.24,0.6,0.12,0.84,-1.5629073631114436,66
-49,2193,2025-26,"Caruso,Sully",William Peace,C,USA South Athletic Conference,usa_south_athletic_confe,17,17.235294117647058,4.06,5.0,0.71,0.29,0.76,1.1176470588235294,-1.619011185078734,66
-50,2280,2025-26,"Mitchell,Austin",Southern Virginia,F,USA South Athletic Conference,usa_south_athletic_confe,26,15.692307692307692,5.69,3.5,0.35,0.35,0.31,0.7307692307692307,-1.79238188377337,65
-51,2386,2025-26,"Washington,Malachi",Mary Baldwin,C,USA South Athletic Conference,usa_south_athletic_confe,19,16.842105263157894,4.32,3.47,0.74,0.47,0.37,0.7894736842105263,-1.9894979923675664,63
-52,2616,2025-26,"Powell,Griffin",Greensboro,F,USA South Athletic Conference,usa_south_athletic_confe,14,17.928571428571427,5.43,1.79,0.5,0.14,0.21,0.4285714285714285,-2.4091412532869043,60
-53,2643,2025-26,"McLean,Malachi",Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,14,14.357142857142858,9.5,0.79,0.36,0.64,0.0,1.7857142857142858,-2.442549982455123,60
-54,2666,2025-26,"Hunter,Mason",Southern Virginia,G,USA South Athletic Conference,usa_south_athletic_confe,27,18.444444444444443,5.56,1.74,0.89,0.59,0.07,1.0,-2.4872186020444778,60
-55,2682,2025-26,"Bolden,Omari",N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,15,16.533333333333335,4.53,1.4,1.2,0.67,0.07,0.8,-2.5297703784632786,59
-56,2712,2025-26,"Chivers,Nigel",Greensboro,G,USA South Athletic Conference,usa_south_athletic_confe,10,16.5,6.1,2.2,0.8,0.7,0.0,1.4,-2.5885849460056822,59
-57,2725,2025-26,"Black,Khalil",Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,22,11.181818181818182,5.05,1.5,0.41,0.36,0.27,0.5909090909090909,-2.620506020192849,59
-58,2740,2025-26,"Pegues,Ro'Mello",N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,23,12.304347826086955,5.26,1.57,0.3,0.52,0.22,0.7391304347826086,-2.65353960186411,59
-59,2743,2025-26,"Sutton,EJ",Greensboro,F,USA South Athletic Conference,usa_south_athletic_confe,16,13.4375,2.56,4.06,0.5,0.06,0.56,0.625,-2.664923494503458,59
-60,2955,2025-26,"Chudgar Benitez,Yariel",Greensboro,G,USA South Athletic Conference,usa_south_athletic_confe,18,15.0,3.11,1.11,1.0,0.67,0.0,0.5,-3.122315924144703,56
-61,3061,2025-26,"Fee,Mike",Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,16.384615384615383,2.35,2.77,0.62,0.54,0.0,0.6153846153846154,-3.3700573898712394,54
-62,3110,2025-26,"Rice,Deuce",Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,11.307692307692308,2.96,0.77,0.81,0.62,0.0,0.5,-3.4856124560502457,54
-63,3168,2025-26,"Connolly,Abe",Southern Virginia,F,USA South Athletic Conference,usa_south_athletic_confe,26,12.192307692307692,1.85,2.65,0.42,0.31,0.23,0.6153846153846154,-3.6912430234692737,53
-64,3180,2025-26,"Johnson,Dalton",William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,24,11.416666666666666,3.46,0.75,1.08,0.42,0.08,0.9583333333333334,-3.712985201380689,53
-65,3195,2025-26,"O'Connor,Sean",Methodist,F,USA South Athletic Conference,usa_south_athletic_confe,25,10.0,3.68,1.28,0.16,0.12,0.04,0.4,-3.772014011779007,53
-66,3291,2025-26,"Jones,Ron",Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,17,14.117647058823527,3.76,1.18,1.06,0.24,0.0,1.2352941176470589,-4.043258140019458,51
-67,3312,2025-26,"Bowling,Zaquan",Greensboro,,USA South Athletic Conference,usa_south_athletic_confe,19,10.63157894736842,1.58,2.16,0.63,0.21,0.32,0.8947368421052632,-4.137988608648409,51
-68,3361,2025-26,"Lominack,Ryan",William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,24,11.083333333333334,3.21,0.92,0.42,0.04,0.0,0.875,-4.5939069058637205,50
+1,26,2025-26,Doug Smith,Pfeiffer,F,USA South Athletic Conference,usa_south_athletic_confe,26,28.615384615384617,16.46,9.42,1.81,0.73,2.81,2.0,8.068202954252959,95
+2,118,2025-26,Jadon Carnes,Brevard,F,USA South Athletic Conference,usa_south_athletic_confe,25,34.36,18.2,4.28,3.92,1.08,0.2,1.56,5.8550624958461395,94
+3,137,2025-26,Rashod Smith,N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,26,32.11538461538461,15.54,3.38,5.0,2.0,0.08,1.7692307692307692,5.661869813301114,93
+4,164,2025-26,Nasir Johnson,N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,27,33.81481481481482,17.26,3.85,2.11,1.85,0.07,1.0,5.314706564249377,93
+5,213,2025-26,DJ Jackson,Greensboro,G,USA South Athletic Conference,usa_south_athletic_confe,23,33.73913043478261,18.43,4.26,2.48,1.43,0.87,2.652173913043478,4.956829998452279,92
+6,299,2025-26,Tillman Johnson,Southern Virginia,F,USA South Athletic Conference,usa_south_athletic_confe,26,35.15384615384615,14.73,4.5,4.58,1.54,0.23,2.5,4.341616937950409,91
+7,315,2025-26,DJ Green,Southern Virginia,G,USA South Athletic Conference,usa_south_athletic_confe,27,35.592592592592595,15.37,5.44,4.15,1.15,0.0,2.2962962962962963,4.199791508827184,91
+8,336,2025-26,KJ Brooks,Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,32.69230769230769,15.38,5.27,2.15,1.5,0.27,1.8461538461538465,4.002500652699358,91
+9,410,2025-26,Will Gray,Greensboro,G,USA South Athletic Conference,usa_south_athletic_confe,24,29.916666666666668,13.17,4.75,2.92,1.96,0.38,2.2083333333333335,3.5922188506786275,90
+10,532,2025-26,Shawn Jones,William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,25,30.08,11.04,7.2,1.92,0.8,1.32,2.16,3.003071135685072,88
+11,561,2025-26,Parker Hodgson,William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,23,31.47826086956522,12.65,7.17,2.13,1.17,0.39,2.260869565217391,2.86469129003892,88
+12,579,2025-26,Twain Wilson,Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,22,30.045454545454547,15.0,3.55,1.36,1.36,0.36,1.7272727272727273,2.805519961151535,87
+13,645,2025-26,KK Horton,Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,25,30.92,11.48,3.4,4.04,0.96,0.4,1.88,2.548067560368139,87
+14,667,2025-26,Dontavious Pettaway,Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,22,27.318181818181817,11.5,4.55,1.73,1.14,0.68,1.4090909090909092,2.482958634671231,86
+15,671,2025-26,Raymond Benton,Mary Baldwin,F,USA South Athletic Conference,usa_south_athletic_confe,25,28.88,12.76,6.48,0.76,1.32,0.08,1.4,2.461289243151445,86
+16,779,2025-26,Dre'Shaun Brown,Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,25,29.76,7.52,5.8,2.96,1.24,0.92,1.76,2.08544675512626,85
+17,795,2025-26,Clayton Robinson,Pfeiffer,G,USA South Athletic Conference,usa_south_athletic_confe,26,25.76923076923077,11.35,3.65,2.38,1.15,0.04,1.1153846153846154,2.048230067829545,85
+18,800,2025-26,Sean Sucarichi,Pfeiffer,G,USA South Athletic Conference,usa_south_athletic_confe,26,28.384615384615383,13.42,4.04,2.23,0.85,0.19,1.8461538461538465,2.032193977633838,84
+19,872,2025-26,Tre' Williams,Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,30.0,13.08,2.73,2.04,0.88,0.08,1.3076923076923077,1.7888644669108758,84
+20,979,2025-26,Rony Hogarth,Mary Baldwin,F,USA South Athletic Conference,usa_south_athletic_confe,24,27.291666666666668,14.04,4.58,1.17,0.54,0.21,1.9166666666666667,1.4079854093731865,82
+21,998,2025-26,James Jones,N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,27,30.185185185185187,10.22,3.7,0.63,1.15,0.56,0.8888888888888888,1.3363011699043672,82
+22,1047,2025-26,Justin Burden,N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,27,23.62962962962963,10.7,6.22,0.85,0.59,0.37,1.4074074074074074,1.193754050612107,81
+23,1060,2025-26,DJ Via,Mary Baldwin,G,USA South Athletic Conference,usa_south_athletic_confe,25,32.24,10.32,3.36,1.64,1.56,0.0,1.32,1.1340009229573784,81
+24,1238,2025-26,Jude Ballstaedt,Southern Virginia,G,USA South Athletic Conference,usa_south_athletic_confe,27,26.14814814814815,11.67,2.67,2.67,1.3,0.22,2.6296296296296298,0.7000845745433792,79
+25,1239,2025-26,Markquan Gilbert,N.C. Wesleyan,F,USA South Athletic Conference,usa_south_athletic_confe,27,18.59259259259259,12.48,3.37,0.63,0.7,0.22,1.4074074074074074,0.6989635329913777,79
+26,1257,2025-26,Jamal Ukaegbu,Mary Baldwin,G,USA South Athletic Conference,usa_south_athletic_confe,25,24.48,7.44,4.56,1.12,0.84,1.24,1.52,0.6536339137565232,78
+27,1286,2025-26,Deejayy Cox,N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,27,25.925925925925927,5.78,6.19,1.04,1.19,0.22,0.5555555555555556,0.5927480147609858,78
+28,1302,2025-26,CJ Goode,Mary Baldwin,G,USA South Athletic Conference,usa_south_athletic_confe,13,21.0,8.08,5.08,1.15,1.15,0.23,1.1538461538461535,0.5429183252192149,78
+29,1360,2025-26,Quamir Ingram,Greensboro,,USA South Athletic Conference,usa_south_athletic_confe,14,22.0,13.21,3.29,0.5,0.43,0.0,1.3571428571428572,0.3934577496383816,77
+30,1367,2025-26,Justin Gaten,Pfeiffer,F,USA South Athletic Conference,usa_south_athletic_confe,26,26.884615384615383,9.96,4.12,1.92,0.81,0.19,1.8076923076923077,0.3864692564140574,77
+31,1389,2025-26,Tyler Baldwin,Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,24,17.875,8.38,1.38,1.71,1.46,0.04,0.6666666666666666,0.3433307721905048,77
+32,1402,2025-26,O'Montae Daniels,Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,28.115384615384617,5.12,4.35,2.15,1.77,0.46,1.4230769230769231,0.3159702772983419,76
+33,1454,2025-26,Ashton Davis,Southern Virginia,C,USA South Athletic Conference,usa_south_athletic_confe,26,15.76923076923077,11.19,3.73,0.58,0.38,0.35,1.3461538461538465,0.1644874110508338,76
+34,1607,2025-26,Jeremiah Howard,Greensboro,F,USA South Athletic Conference,usa_south_athletic_confe,23,14.608695652173912,7.7,5.43,0.57,0.22,0.7,1.2173913043478262,-0.2763396517516717,74
+35,1684,2025-26,Ryan Roberts,Greensboro,F,USA South Athletic Conference,usa_south_athletic_confe,22,29.454545454545453,4.77,6.23,1.82,1.05,0.09,1.318181818181818,-0.4668496900971628,73
+36,1730,2025-26,Hyrum McConkie,Southern Virginia,F,USA South Athletic Conference,usa_south_athletic_confe,27,19.48148148148148,7.41,4.85,1.07,0.3,0.41,1.2222222222222223,-0.5708244050749097,72
+37,1770,2025-26,Elijah Green,William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,24,26.916666666666668,8.92,2.17,3.0,0.42,0.04,1.875,-0.6818097973609851,72
+38,1772,2025-26,Chuks Ezeonu,William Peace,F,USA South Athletic Conference,usa_south_athletic_confe,25,22.68,7.64,5.52,1.04,0.24,0.56,1.72,-0.683063295234136,72
+39,1821,2025-26,Tomas Stevens,Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,25,18.72,8.2,2.24,1.44,0.84,0.08,1.2,-0.7803650485522571,71
+40,1832,2025-26,Zach Sloan,Pfeiffer,G,USA South Athletic Conference,usa_south_athletic_confe,26,23.423076923076923,6.69,2.65,1.96,0.73,0.12,1.0384615384615383,-0.7987300444855264,71
+41,1850,2025-26,Dwight Vincent,Greensboro,G,USA South Athletic Conference,usa_south_athletic_confe,21,24.61904761904762,8.19,2.14,1.14,0.57,0.43,1.1904761904761905,-0.8273013045400177,70
+42,1862,2025-26,Brian Bullock,Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,20.884615384615383,8.31,3.69,0.42,0.62,0.27,1.1923076923076923,-0.8699533344890944,70
+43,1879,2025-26,Marquise Dunklin,Mary Baldwin,G,USA South Athletic Conference,usa_south_athletic_confe,25,27.52,7.68,3.48,3.0,0.84,0.04,2.4,-0.9151767727348838,70
+44,1883,2025-26,Elijah Cathcart,William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,21,25.61904761904762,10.0,3.33,0.9,0.38,0.0,1.5238095238095235,-0.9229497558328524,70
+45,1942,2025-26,Drake Stewart,Pfeiffer,G,USA South Athletic Conference,usa_south_athletic_confe,26,18.0,7.04,2.96,1.23,1.0,0.12,1.3076923076923077,-1.067672319796172,69
+46,1952,2025-26,Tyler Whitehurst,William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,19,28.57894736842105,8.16,2.32,1.63,0.26,0.05,1.0526315789473684,-1.0924696000053928,69
+47,2088,2025-26,Jalen Thorns,Greensboro,G,USA South Athletic Conference,usa_south_athletic_confe,15,21.266666666666666,8.07,2.2,1.27,0.13,0.2,1.0666666666666669,-1.3676312220631053,67
+48,2176,2025-26,Brock McKnight,Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,25,27.24,5.72,2.76,1.24,0.6,0.12,0.84,-1.5629073631114436,66
+49,2193,2025-26,Sully Caruso,William Peace,C,USA South Athletic Conference,usa_south_athletic_confe,17,17.235294117647058,4.06,5.0,0.71,0.29,0.76,1.1176470588235294,-1.619011185078734,66
+50,2280,2025-26,Austin Mitchell,Southern Virginia,F,USA South Athletic Conference,usa_south_athletic_confe,26,15.692307692307692,5.69,3.5,0.35,0.35,0.31,0.7307692307692307,-1.79238188377337,65
+51,2386,2025-26,Malachi Washington,Mary Baldwin,C,USA South Athletic Conference,usa_south_athletic_confe,19,16.842105263157894,4.32,3.47,0.74,0.47,0.37,0.7894736842105263,-1.9894979923675664,63
+52,2616,2025-26,Griffin Powell,Greensboro,F,USA South Athletic Conference,usa_south_athletic_confe,14,17.928571428571427,5.43,1.79,0.5,0.14,0.21,0.4285714285714285,-2.4091412532869043,60
+53,2643,2025-26,Malachi McLean,Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,14,14.357142857142858,9.5,0.79,0.36,0.64,0.0,1.7857142857142858,-2.442549982455123,60
+54,2666,2025-26,Mason Hunter,Southern Virginia,G,USA South Athletic Conference,usa_south_athletic_confe,27,18.444444444444443,5.56,1.74,0.89,0.59,0.07,1.0,-2.4872186020444778,60
+55,2682,2025-26,Omari Bolden,N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,15,16.533333333333335,4.53,1.4,1.2,0.67,0.07,0.8,-2.5297703784632786,59
+56,2712,2025-26,Nigel Chivers,Greensboro,G,USA South Athletic Conference,usa_south_athletic_confe,10,16.5,6.1,2.2,0.8,0.7,0.0,1.4,-2.5885849460056822,59
+57,2725,2025-26,Khalil Black,Brevard,G,USA South Athletic Conference,usa_south_athletic_confe,22,11.181818181818182,5.05,1.5,0.41,0.36,0.27,0.5909090909090909,-2.620506020192849,59
+58,2740,2025-26,Ro'Mello Pegues,N.C. Wesleyan,G,USA South Athletic Conference,usa_south_athletic_confe,23,12.304347826086955,5.26,1.57,0.3,0.52,0.22,0.7391304347826086,-2.65353960186411,59
+59,2743,2025-26,EJ Sutton,Greensboro,F,USA South Athletic Conference,usa_south_athletic_confe,16,13.4375,2.56,4.06,0.5,0.06,0.56,0.625,-2.664923494503458,59
+60,2955,2025-26,Yariel Chudgar Benitez,Greensboro,G,USA South Athletic Conference,usa_south_athletic_confe,18,15.0,3.11,1.11,1.0,0.67,0.0,0.5,-3.122315924144703,56
+61,3061,2025-26,Mike Fee,Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,16.384615384615383,2.35,2.77,0.62,0.54,0.0,0.6153846153846154,-3.3700573898712394,54
+62,3110,2025-26,Deuce Rice,Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,26,11.307692307692308,2.96,0.77,0.81,0.62,0.0,0.5,-3.4856124560502457,54
+63,3168,2025-26,Abe Connolly,Southern Virginia,F,USA South Athletic Conference,usa_south_athletic_confe,26,12.192307692307692,1.85,2.65,0.42,0.31,0.23,0.6153846153846154,-3.6912430234692737,53
+64,3180,2025-26,Dalton Johnson,William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,24,11.416666666666666,3.46,0.75,1.08,0.42,0.08,0.9583333333333334,-3.712985201380689,53
+65,3195,2025-26,Sean O'Connor,Methodist,F,USA South Athletic Conference,usa_south_athletic_confe,25,10.0,3.68,1.28,0.16,0.12,0.04,0.4,-3.772014011779007,53
+66,3291,2025-26,Ron Jones,Methodist,G,USA South Athletic Conference,usa_south_athletic_confe,17,14.117647058823527,3.76,1.18,1.06,0.24,0.0,1.2352941176470589,-4.043258140019458,51
+67,3312,2025-26,Zaquan Bowling,Greensboro,,USA South Athletic Conference,usa_south_athletic_confe,19,10.63157894736842,1.58,2.16,0.63,0.21,0.32,0.8947368421052632,-4.137988608648409,51
+68,3361,2025-26,Ryan Lominack,William Peace,G,USA South Athletic Conference,usa_south_athletic_confe,24,11.083333333333334,3.21,0.92,0.42,0.04,0.0,0.875,-4.5939069058637205,50

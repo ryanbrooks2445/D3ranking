@@ -81,9 +81,9 @@ export async function getSeasonDisplay(sportCode: string): Promise<{
 /** Sports that show a data-quality disclaimer (e.g. hockey). */
 const DATA_QUALITY_NOTE_SPORTS: Record<string, string> = {
   mhky:
-    "Hockey rankings use conference stats. Use Skaters vs Goalies tabs to filter. Some rows may show incomplete data.",
+    "Hockey rankings use conference stats. Use the Skaters tab to filter to non-goalies. Some rows may show incomplete data.",
   whky:
-    "Hockey rankings use conference stats. Use Skaters vs Goalies tabs to filter. Some rows may show incomplete data.",
+    "Hockey rankings use conference stats. Use the Skaters tab to filter to non-goalies. Some rows may show incomplete data.",
 };
 
 /**
