@@ -1,10 +1,11 @@
 import { readDataFileSafe, getSeasonDisplay, getDataQualityNote } from "@/lib/data";
 import Link from "next/link";
-import { getSport, getSportSegmentColumns, filterRowsBySegment } from "@/lib/sports";
+import { getSport, getSportSegmentColumns, filterRowsBySegment, isSportUnderConstruction } from "@/lib/sports";
 import { isPro } from "@/lib/auth";
 import { SportPlayerRankingsTable } from "@/components/SportPlayerRankingsTable";
 import { SegmentTabs } from "@/components/SegmentTabs";
 import { CompositeScoreExplainer } from "@/components/CompositeScoreExplainer";
+import { UnderConstructionBanner } from "@/components/UnderConstructionBanner";
 import type { Metadata } from "next";
 
 export async function generateMetadata({
@@ -32,6 +33,31 @@ export default async function GlobalRankingsPage({
   const code = sport.toLowerCase();
   const def = getSport(code);
   const pro = await isPro();
+
+  if (isSportUnderConstruction(code)) {
+    const sportLabel = def?.label ?? code.toUpperCase();
+    return (
+      <div className="space-y-8">
+        <header>
+          <nav className="flex items-center gap-2 text-sm text-slate-500" aria-label="Breadcrumb">
+            <Link href="/dashboard" className="hover:text-slate-300 transition">
+              Player Rankings
+            </Link>
+            <span className="text-slate-600" aria-hidden>›</span>
+            <Link href={`/dashboard/sports/${code}`} className="hover:text-slate-300 transition">
+              {sportLabel}
+            </Link>
+            <span className="text-slate-600" aria-hidden>›</span>
+            <span className="font-semibold text-slate-300">Global</span>
+          </nav>
+          <h1 className="mt-5 text-3xl font-bold tracking-tight text-white sm:text-4xl">
+            Global rankings — {sportLabel}
+          </h1>
+        </header>
+        <UnderConstructionBanner sportLabel={sportLabel} />
+      </div>
+    );
+  }
 
   let rows: Record<string, unknown>[] = [];
   const rankingsPath = `sports/${code}/rankings_2025-26.json`;

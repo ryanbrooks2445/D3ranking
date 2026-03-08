@@ -1,7 +1,8 @@
 import { readDataFileSafe, getSeasonDisplay, getDataQualityNote } from "@/lib/data";
 import Link from "next/link";
-import { getSport } from "@/lib/sports";
+import { getSport, isSportUnderConstruction } from "@/lib/sports";
 import { formatConferenceDisplayName } from "@/lib/conferences";
+import { UnderConstructionBanner } from "@/components/UnderConstructionBanner";
 
 type ConfIndexRow = {
   conference_code: string;
@@ -37,6 +38,26 @@ export default async function SportPage({
   }
 
   const sportLabel = def?.label ?? code.toUpperCase();
+
+  if (isSportUnderConstruction(code)) {
+    return (
+      <div className="space-y-8">
+        <header>
+          <nav className="flex items-center gap-2 text-sm text-slate-500" aria-label="Breadcrumb">
+            <Link href="/dashboard" className="hover:text-slate-300 transition">
+              Player Rankings
+            </Link>
+            <span className="text-slate-600" aria-hidden>›</span>
+            <span className="font-semibold text-slate-300">{sportLabel}</span>
+          </nav>
+          <h1 className="mt-5 text-3xl font-bold tracking-tight text-white sm:text-4xl">
+            {sportLabel}
+          </h1>
+        </header>
+        <UnderConstructionBanner sportLabel={sportLabel} />
+      </div>
+    );
+  }
 
   return (
     <div className="space-y-8">
