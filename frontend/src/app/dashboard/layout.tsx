@@ -1,16 +1,14 @@
 import Link from "next/link";
 import { getAllSports } from "@/lib/sports";
-import { isPro, getSessionForHeader } from "@/lib/auth";
+import { isPro } from "@/lib/auth";
 import { CheckoutButton } from "@/components/CheckoutButton";
-import { SignOutButton } from "@/components/SignOutButton";
 
 export default async function DashboardLayout({
   children,
 }: {
   children: React.ReactNode;
 }) {
-  const [pro, session] = await Promise.all([isPro(), getSessionForHeader()]);
-  const loggedIn = !!session?.user?.email;
+  const pro = await isPro();
 
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100">
@@ -38,25 +36,18 @@ export default async function DashboardLayout({
             >
               Rankings
             </Link>
-            {loggedIn ? (
-              <>
-                <span className="hidden max-w-[140px] truncate text-sm text-slate-500 sm:max-w-[160px] sm:inline" title="Signed in">
-                  {session?.user?.email}
-                </span>
-                <SignOutButton className="min-h-[44px] rounded-lg px-3 py-2.5 text-sm text-slate-400 transition hover:text-white" />
-              </>
-            ) : (
-              <Link
-                href="/login"
-                className="min-h-[44px] rounded-lg px-3 py-2.5 text-sm text-slate-400 transition hover:text-white"
-              >
-                Sign in
-              </Link>
-            )}
             {pro ? (
-              <span className="rounded-md bg-emerald-500/25 px-2.5 py-1.5 text-xs font-semibold text-emerald-400 ring-1 ring-emerald-500/40">
-                Pro
-              </span>
+              <>
+                <span className="rounded-md bg-emerald-500/25 px-2.5 py-1.5 text-xs font-semibold text-emerald-400 ring-1 ring-emerald-500/40">
+                  Pro
+                </span>
+                <Link
+                  href="/api/billing/portal"
+                  className="min-h-[44px] rounded-lg px-3 py-2.5 text-sm text-slate-400 transition hover:text-white"
+                >
+                  Manage subscription
+                </Link>
+              </>
             ) : (
               <CheckoutButton className="min-h-[44px] rounded-lg bg-blue-600 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-blue-500">
                 Upgrade
