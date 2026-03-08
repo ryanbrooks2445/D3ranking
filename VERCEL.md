@@ -43,6 +43,8 @@ In the Vercel project: **Settings** → **Environment Variables**. Add:
 | `AUTH_SECRET` | (generate a long random string) | e.g. `openssl rand -base64 32` |
 | `STRIPE_SECRET_KEY` | `sk_live_...` or `sk_test_...` | From [Stripe Dashboard](https://dashboard.stripe.com/apikeys) |
 | `STRIPE_PRICE_ID` | `price_...` | Your subscription Price ID (live or test) |
+| `STRIPE_WEBHOOK_SECRET` | `whsec_...` | From Stripe Dashboard → Developers → Webhooks (see [§ Webhooks](#webhooks) below) |
+| `DATABASE_URL` | Connection string | For production use a hosted DB (e.g. [Turso](https://turso.tech), [Neon](https://neon.tech), or Vercel Postgres). SQLite `file:./dev.db` only works locally. |
 | `NEXT_PUBLIC_APP_URL` | `https://your-project.vercel.app` | Your Vercel URL (or custom domain later) |
 
 Then **Redeploy** the project (Deployments → ⋮ on latest → Redeploy) so the new env vars are used.
@@ -53,7 +55,21 @@ In **Settings** → **Domains**, add your domain and follow Vercel’s DNS instr
 
 ---
 
-**Summary:** Root directory = **`frontend`**, add **AUTH_SECRET**, **STRIPE_***, and **NEXT_PUBLIC_APP_URL**, and ensure **`frontend/public/data`** is committed after running `export_frontend_data.py`.
+**Summary:** Root directory = **`frontend`**, add **AUTH_SECRET**, **STRIPE_***, **DATABASE_URL** (production), **STRIPE_WEBHOOK_SECRET**, and **NEXT_PUBLIC_APP_URL**, and ensure **`frontend/public/data`** is committed after running `export_frontend_data.py`.
+
+---
+
+## Webhooks (Pro subscription sync)
+
+So the app reliably knows who has Pro (who paid), set up Stripe webhooks and **STRIPE_WEBHOOK_SECRET**:
+
+1. **Stripe Dashboard** → [Developers → Webhooks](https://dashboard.stripe.com/webhooks) → **Add endpoint**.
+2. **Endpoint URL:** `https://d3rank.com/api/webhooks/stripe` (or your production URL).
+3. **Events to send:** `checkout.session.completed`, `customer.subscription.updated`, `customer.subscription.deleted`.
+4. After creating the endpoint, click it and **Reveal** the **Signing secret** (starts with `whsec_`).
+5. In Vercel: **Settings → Environment Variables** → add **STRIPE_WEBHOOK_SECRET** = that value, then **Redeploy**.
+
+For local testing you can use the Stripe CLI: `stripe listen --forward-to localhost:3000/api/webhooks/stripe` and use the printed `whsec_...` in `frontend/.env`.
 
 ---
 

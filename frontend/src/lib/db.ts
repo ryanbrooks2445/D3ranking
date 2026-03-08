@@ -1,13 +1,11 @@
-/**
- * Minimal db stub so the app builds without Prisma/schema.
- * Replace with real Prisma client when you add a database.
- */
-export const prisma = {
-  user: {
-    findUnique: async () => null,
-  },
-} as unknown as {
-  user: {
-    findUnique: (args: { where: { id: string }; select: { subscriptionActive: true } }) => Promise<{ subscriptionActive: boolean } | null>;
-  };
-};
+import { PrismaClient } from "@prisma/client";
+
+const globalForPrisma = globalThis as unknown as { prisma: PrismaClient };
+
+export const prisma =
+  globalForPrisma.prisma ??
+  new PrismaClient({
+    log: process.env.NODE_ENV === "development" ? ["error", "warn"] : ["error"],
+  });
+
+if (process.env.NODE_ENV !== "production") globalForPrisma.prisma = prisma;

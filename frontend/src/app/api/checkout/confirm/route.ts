@@ -1,8 +1,10 @@
 import { NextResponse } from "next/server";
 import Stripe from "stripe";
+import { prisma } from "@/lib/db";
 
 /**
  * After Stripe redirects here with session_id, verify the session and set the Pro cookie.
+ * Also set d3_pro_customer and upsert ProSubscription so isPro() can use DB.
  */
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
@@ -37,6 +39,33 @@ export async function GET(request: Request) {
       return NextResponse.redirect(new URL("/dashboard", request.url));
     }
 
+    const customerId = session.customer as string | null;
+    const subId = session.subscription as string | null;
+    const userId = session.client_reference_id as string | null;
+
+    if (customerId) {
+      const proStatus = subStatus === "active" || subStatus === "trialing" ? subStatus : "active";
+      await prisma.proSubscription.upsert({
+        where: { stripeCustomerId: customerId },
+        create: {
+          stripeCustomerId: customerId,
+          stripeSubscriptionId: typeof subId === "string" ? subId : sub?.id ?? null,
+          status: proStatus,
+        },
+        update: {
+          stripeSubscriptionId: typeof subId === "string" ? subId : sub?.id ?? null,
+          status: proStatus,
+        },
+      });
+      // Link Stripe customer to logged-in user so isPro() and webhooks can use User.subscriptionActive
+      if (userId) {
+        await prisma.user.update({
+          where: { id: userId },
+          data: { stripeCustomerId: customerId, subscriptionActive: true },
+        }).catch(() => { /* user may not exist */ });
+      }
+    }
+
     const res = NextResponse.redirect(new URL("/dashboard", request.url));
     res.cookies.set("d3_pro", "true", {
       path: "/",
@@ -45,6 +74,15 @@ export async function GET(request: Request) {
       secure: process.env.NODE_ENV === "production",
       sameSite: "lax",
     });
+    if (customerId) {
+      res.cookies.set("d3_pro_customer", customerId, {
+        path: "/",
+        maxAge: 60 * 60 * 24 * 365,
+        httpOnly: true,
+        secure: process.env.NODE_ENV === "production",
+        sameSite: "lax",
+      });
+    }
     return res;
   } catch {
     return NextResponse.redirect(new URL("/dashboard", request.url));

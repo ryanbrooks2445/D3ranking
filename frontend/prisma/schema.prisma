@@ -1,0 +1,28 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id                 String   @id @default(cuid())
+  email              String?  @unique
+  passwordHash       String?
+  stripeCustomerId   String?  @unique // set when they complete checkout; links to ProSubscription
+  subscriptionActive Boolean  @default(false)
+  createdAt          DateTime @default(now())
+}
+
+model ProSubscription {
+  id                   String   @id @default(cuid())
+  stripeCustomerId      String   @unique
+  stripeSubscriptionId  String?
+  status                String   // active | canceled | past_due | unpaid | trialing
+  createdAt             DateTime @default(now())
+  updatedAt             DateTime @updatedAt
+
+  @@index([stripeCustomerId, status])
+}
