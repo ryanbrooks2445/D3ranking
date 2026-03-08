@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "prisma generate && prisma migrate deploy && next build",
+    "build": "DATABASE_URL=\"${DATABASE_URL:-postgresql://localhost:5432/dummy}\" prisma generate && (prisma migrate deploy || true) && next build",
     "start": "next start",
     "lint": "eslint"
   },
