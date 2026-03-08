@@ -41,28 +41,24 @@ export async function GET(request: Request) {
 
     const customerId = session.customer as string | null;
     const subId = session.subscription as string | null;
-    const userId = session.client_reference_id as string | null;
 
     if (customerId) {
-      const proStatus = subStatus === "active" || subStatus === "trialing" ? subStatus : "active";
-      await prisma.proSubscription.upsert({
-        where: { stripeCustomerId: customerId },
-        create: {
-          stripeCustomerId: customerId,
-          stripeSubscriptionId: typeof subId === "string" ? subId : sub?.id ?? null,
-          status: proStatus,
-        },
-        update: {
-          stripeSubscriptionId: typeof subId === "string" ? subId : sub?.id ?? null,
-          status: proStatus,
-        },
-      });
-      // Link Stripe customer to logged-in user so isPro() and webhooks can use User.subscriptionActive
-      if (userId) {
-        await prisma.user.update({
-          where: { id: userId },
-          data: { stripeCustomerId: customerId, subscriptionActive: true },
-        }).catch(() => { /* user may not exist */ });
+      try {
+        const proStatus = subStatus === "active" || subStatus === "trialing" ? subStatus : "active";
+        await prisma.proSubscription.upsert({
+          where: { stripeCustomerId: customerId },
+          create: {
+            stripeCustomerId: customerId,
+            stripeSubscriptionId: typeof subId === "string" ? subId : sub?.id ?? null,
+            status: proStatus,
+          },
+          update: {
+            stripeSubscriptionId: typeof subId === "string" ? subId : sub?.id ?? null,
+            status: proStatus,
+          },
+        });
+      } catch {
+        // DB not available (e.g. local with wrong DATABASE_URL) — cookies below still grant Pro
       }
     }
 

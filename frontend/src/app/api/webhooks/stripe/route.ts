@@ -3,8 +3,6 @@ import { headers } from "next/headers";
 import Stripe from "stripe";
 import { prisma } from "@/lib/db";
 
-const ACTIVE_STATUSES = new Set(["active", "trialing"]);
-
 export async function POST(req: Request) {
   const secret = process.env.STRIPE_WEBHOOK_SECRET;
   if (!secret) {
@@ -49,13 +47,6 @@ export async function POST(req: Request) {
             status,
           },
         });
-        const userId = session.client_reference_id as string | null;
-        if (userId) {
-          await prisma.user.update({
-            where: { id: userId },
-            data: { stripeCustomerId: customerId, subscriptionActive: true },
-          }).catch(() => {});
-        }
         break;
       }
 
@@ -76,11 +67,6 @@ export async function POST(req: Request) {
             stripeSubscriptionId: sub.id,
             status,
           },
-        });
-        const isActive = ACTIVE_STATUSES.has(status);
-        await prisma.user.updateMany({
-          where: { stripeCustomerId: customerId },
-          data: { subscriptionActive: isActive },
         });
         break;
       }
