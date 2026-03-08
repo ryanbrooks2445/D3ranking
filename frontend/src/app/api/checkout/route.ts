@@ -42,6 +42,9 @@ export async function POST() {
       metadata: {
         product: "d3_pro",
       },
+      subscription_data: {
+        trial_period_days: 0,
+      },
     });
 
     if (!checkoutSession.url) {
