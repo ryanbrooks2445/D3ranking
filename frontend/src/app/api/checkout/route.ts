@@ -42,6 +42,10 @@ export async function POST() {
       metadata: {
         product: "d3_pro",
       },
+      // 7-day free trial (Stripe UI often hides this on Prices; set here so Checkout matches site copy)
+      subscription_data: {
+        trial_period_days: 7,
+      },
     });
 
     if (!checkoutSession.url) {
