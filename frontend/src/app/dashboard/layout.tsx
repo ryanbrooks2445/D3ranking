@@ -36,18 +36,16 @@ export default async function DashboardLayout({
             >
               Rankings
             </Link>
+            <Link
+              href="/dashboard/settings"
+              className="min-h-[44px] rounded-lg px-3 py-2.5 text-sm text-slate-400 transition hover:bg-slate-800 hover:text-white"
+            >
+              Settings
+            </Link>
             {pro ? (
-              <>
-                <span className="rounded-md bg-emerald-500/25 px-2.5 py-1.5 text-xs font-semibold text-emerald-400 ring-1 ring-emerald-500/40">
-                  Pro
-                </span>
-                <Link
-                  href="/api/billing/portal"
-                  className="min-h-[44px] rounded-lg px-3 py-2.5 text-sm text-slate-400 transition hover:text-white"
-                >
-                  Manage subscription
-                </Link>
-              </>
+              <span className="rounded-md bg-emerald-500/25 px-2.5 py-1.5 text-xs font-semibold text-emerald-400 ring-1 ring-emerald-500/40">
+                Pro
+              </span>
             ) : (
               <CheckoutButton className="min-h-[44px] rounded-lg bg-blue-600 px-4 py-2.5 text-sm font-semibold text-white transition hover:bg-blue-500">
                 Upgrade
