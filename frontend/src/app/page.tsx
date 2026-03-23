@@ -96,9 +96,9 @@ export default async function Home() {
         >
           <h2 className="text-lg font-semibold text-white">Pricing</h2>
           <p className="mt-2 text-slate-400">
-            Free: Top 25 global + top 5 per conference. Pro: Full lists, OVR, rank, score, and search after a 7-day free trial, then $49.99/year.
+            Free: Top 25 global + top 5 per conference. Pro: Full lists, OVR, rank, score, and search after a 7-day free trial, then $19.99/year.
           </p>
-          <p className="mt-3 text-lg font-medium text-white">$49.99/year</p>
+          <p className="mt-3 text-lg font-medium text-white">$19.99/year</p>
           <CheckoutButton className="mt-5 inline-block rounded-lg bg-blue-600 px-5 py-2.5 text-sm font-medium text-white transition hover:bg-blue-500">
             Try Pro free
           </CheckoutButton>
