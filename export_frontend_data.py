@@ -456,6 +456,13 @@ def main() -> None:
             rankings_filename="rankings_2026-27.json",
             default_season="2026-27",
         )
+        # Backward compatibility for older frontend builds that still read rankings_2025-26.json.
+        export_sidearm_global_and_meta(
+            "baseball",
+            baseball_2627,
+            rankings_filename="rankings_2025-26.json",
+            default_season="2026-27",
+        )
         _export_baseball_conference_jsons(data_dir, out_dir, file_tag="2026_27")
 
 

@@ -101,7 +101,12 @@ export default async function ConferenceRankingsPage({
     }
   }
 
-  const segmentId = segmentParam && def?.segments?.some((s) => s.id === segmentParam) ? segmentParam : "";
+  const segmentId =
+    segmentParam && def?.segments?.some((s) => s.id === segmentParam)
+      ? segmentParam
+      : code === "baseball"
+        ? "batting"
+        : "";
   const filteredRows = segmentId
     ? filterRowsBySegment(code, segmentId, rows)
     : rows;

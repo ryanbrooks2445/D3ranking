@@ -93,13 +93,13 @@ const SPORTS: SportDef[] = [
       { key: "conference", label: "Conference" },
       { key: "rating", label: "OVR" },
       { key: "composite_score", label: "Score" },
-      { key: "hitting_stats_batting_average", label: "AVG", pct: true },
+      { key: "hitting_stats_batting_average", label: "AVG" },
       { key: "hitting_stats_home_runs", label: "HR" },
       { key: "hitting_stats_runs_batted_in", label: "RBI" },
       { key: "hitting_stats_runs", label: "R" },
       { key: "hitting_stats_stolen_bases", label: "SB" },
-      { key: "hitting_stats_onbase_percentage", label: "OBP", pct: true },
-      { key: "hitting_stats_slugging_percentage", label: "SLG", pct: true },
+      { key: "hitting_stats_onbase_percentage", label: "OBP" },
+      { key: "hitting_stats_slugging_percentage", label: "SLG" },
     ],
     segments: [
       {
@@ -112,13 +112,11 @@ const SPORTS: SportDef[] = [
           { key: "conference", label: "Conference" },
           { key: "rating", label: "OVR" },
           { key: "composite_score", label: "Score" },
-          { key: "hitting_stats_batting_average", label: "AVG", pct: true },
+          { key: "hitting_stats_batting_average", label: "AVG" },
+          { key: "hitting_stats_onbase_percentage", label: "OBP" },
+          { key: "hitting_stats_slugging_percentage", label: "SLG" },
           { key: "hitting_stats_home_runs", label: "HR" },
           { key: "hitting_stats_runs_batted_in", label: "RBI" },
-          { key: "hitting_stats_runs", label: "R" },
-          { key: "hitting_stats_stolen_bases", label: "SB" },
-          { key: "hitting_stats_onbase_percentage", label: "OBP", pct: true },
-          { key: "hitting_stats_slugging_percentage", label: "SLG", pct: true },
         ],
       },
       {
@@ -131,13 +129,10 @@ const SPORTS: SportDef[] = [
           { key: "conference", label: "Conference" },
           { key: "rating", label: "OVR" },
           { key: "composite_score", label: "Score" },
-          { key: "pitching_stats_innings_pitched", label: "IP" },
-          { key: "pitching_stats_earned_run_avg", label: "ERA" },
-          { key: "pitching_stats_strikeouts", label: "K" },
-          { key: "pitching_stats_wins", label: "W" },
-          { key: "pitching_stats_losses", label: "L" },
-          { key: "pitching_stats_saves", label: "SV" },
-          { key: "pitching_stats_walks_allowed", label: "BB" },
+          { key: "pitching_stats_k_per_9", label: "K/9" },
+          { key: "pitching_stats_whip", label: "WHIP" },
+          { key: "pitching_stats_opponent_batting_average", label: "Opp AVG" },
+          { key: "pitching_stats_earned_run_average", label: "ERA" },
         ],
       },
     ],
@@ -334,6 +329,90 @@ const SPORTS: SportDef[] = [
     ],
   },
   {
+    code: "football",
+    label: "Football",
+    columns: [
+      { key: "global_rank", label: RANK_LABEL },
+      { key: "player_name", label: "Player" },
+      { key: "team", label: "Team" },
+      { key: "position", label: "Pos" },
+      { key: "conference", label: "Conference" },
+      { key: "rating", label: "OVR" },
+      { key: "composite_score", label: "Score" },
+      { key: "passing_stats_passing_yards", label: "Pass Yds" },
+      { key: "rushing_stats_rushing_yards", label: "Rush Yds" },
+      { key: "receiving_stats_receiving_yards", label: "Rec Yds" },
+      { key: "defensive_stats_tackles", label: "Tackles" },
+      { key: "defensive_stats_interceptions", label: "INT" },
+    ],
+  },
+  {
+    code: "mgolf",
+    label: "Men's Golf",
+    columns: [
+      { key: "global_rank", label: RANK_LABEL },
+      { key: "player_name", label: "Player" },
+      { key: "team", label: "Team" },
+      { key: "conference", label: "Conference" },
+      { key: "rating", label: "OVR" },
+      { key: "composite_score", label: "Score" },
+      { key: "scoring_stats_scoring_average", label: "Scoring Avg" },
+      { key: "scoring_stats_vs_par", label: "Vs Par" },
+      { key: "scoring_stats_rounds", label: "Rounds" },
+      { key: "top10_finishes", label: "Top 10" },
+    ],
+  },
+  {
+    code: "wgolf",
+    label: "Women's Golf",
+    columns: [
+      { key: "global_rank", label: RANK_LABEL },
+      { key: "player_name", label: "Player" },
+      { key: "team", label: "Team" },
+      { key: "conference", label: "Conference" },
+      { key: "rating", label: "OVR" },
+      { key: "composite_score", label: "Score" },
+      { key: "scoring_stats_scoring_average", label: "Scoring Avg" },
+      { key: "scoring_stats_vs_par", label: "Vs Par" },
+      { key: "scoring_stats_rounds", label: "Rounds" },
+      { key: "top10_finishes", label: "Top 10" },
+    ],
+  },
+  {
+    code: "mten",
+    label: "Men's Tennis",
+    columns: [
+      { key: "global_rank", label: RANK_LABEL },
+      { key: "player_name", label: "Player" },
+      { key: "team", label: "Team" },
+      { key: "conference", label: "Conference" },
+      { key: "rating", label: "OVR" },
+      { key: "composite_score", label: "Score" },
+      { key: "overall_stats_singles_wins", label: "Singles W" },
+      { key: "overall_stats_singles_losses", label: "Singles L" },
+      { key: "overall_stats_doubles_wins", label: "Doubles W" },
+      { key: "overall_stats_doubles_losses", label: "Doubles L" },
+      { key: "overall_stats_win_pct", label: "Win%", pct: true },
+    ],
+  },
+  {
+    code: "wten",
+    label: "Women's Tennis",
+    columns: [
+      { key: "global_rank", label: RANK_LABEL },
+      { key: "player_name", label: "Player" },
+      { key: "team", label: "Team" },
+      { key: "conference", label: "Conference" },
+      { key: "rating", label: "OVR" },
+      { key: "composite_score", label: "Score" },
+      { key: "overall_stats_singles_wins", label: "Singles W" },
+      { key: "overall_stats_singles_losses", label: "Singles L" },
+      { key: "overall_stats_doubles_wins", label: "Doubles W" },
+      { key: "overall_stats_doubles_losses", label: "Doubles L" },
+      { key: "overall_stats_win_pct", label: "Win%", pct: true },
+    ],
+  },
+  {
     code: "msoc",
     label: "Men's Soccer",
     columns: [
@@ -479,7 +558,28 @@ export function filterRowsBySegment(
   if (!segmentId || segmentId === "all") return rows;
   const code = sportCode.toLowerCase();
 
-  if (code === "baseball" || code === "softball") {
+  if (code === "baseball") {
+    if (segmentId === "batting") {
+      return rows.filter((r) => {
+        const ab = r.hitting_stats_at_bats;
+        const gp = r.games_played;
+        return ab != null && Number(ab) >= 30 && gp != null && Number(gp) >= 8;
+      });
+    }
+    if (segmentId === "pitching") {
+      return rows.filter((r) => {
+        const gs = r.pitching_stats_games_started;
+        const ip = r.pitching_stats_innings_pitched;
+        return (
+          gs != null &&
+          Number(gs) >= 1 &&
+          ip != null &&
+          Number(ip) >= 15
+        );
+      });
+    }
+  }
+  if (code === "softball") {
     if (segmentId === "batting") {
       return rows.filter((r) => {
         const ab = r.hitting_stats_at_bats;

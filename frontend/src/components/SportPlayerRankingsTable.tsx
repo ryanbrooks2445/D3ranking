@@ -12,12 +12,21 @@ const OVR_TOOLTIP =
 const NON_STAT_KEYS = new Set([
   "global_rank", "rank", "player_name", "team", "position", "conference", "rating",
 ]);
+const DECIMAL_RATE_KEYS = new Set([
+  "hitting_stats_batting_average",
+  "hitting_stats_onbase_percentage",
+  "hitting_stats_slugging_percentage",
+  "pitching_stats_opponent_batting_average",
+]);
 
 function formatVal(val: unknown, pct?: boolean, colKey?: string): string {
   if (val == null) return "—";
   const isStat = colKey && !NON_STAT_KEYS.has(colKey);
   const numVal = typeof val === "number" ? val : Number(val);
   if (isStat && (numVal === 0 || (typeof val === "string" && val.trim() === "0"))) return "—";
+  if (colKey && DECIMAL_RATE_KEYS.has(colKey) && Number.isFinite(numVal)) {
+    return numVal.toFixed(3).replace(/^0/, "");
+  }
   if (pct && typeof val === "number") return `${(val * 100).toFixed(1)}%`;
   if (typeof val === "number") {
     if (Number.isInteger(val)) return String(val);
@@ -259,7 +268,7 @@ export function SportPlayerRankingsTable({
             href="/#pricing"
             className="mt-6 inline-block rounded-xl bg-blue-600 px-6 py-3 text-base font-semibold text-white transition hover:bg-blue-500"
           >
-            Try Pro free — then $19.99/year
+            Try Pro free
           </a>
         </div>
       )}

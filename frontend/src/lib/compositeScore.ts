@@ -19,9 +19,10 @@ const COMPOSITE_EXPLANATIONS: Record<string, string> = {
     "Composite score is a weighted combination of key volleyball stats (e.g. kills, digs, blocks, aces, hitting %) " +
     "normalized (z-scores) across all players. Higher score = better overall contribution. OVR is derived from rank.",
   baseball:
-    "Composite score is a weighted combination of key stats for the segment (batting or pitching), " +
-    "normalized (z-scores) across all players. Batting: e.g. AVG, HR, RBI, runs, SB, OBP, SLG. " +
-    "Pitching: e.g. IP, ERA, strikeouts, wins, saves. Higher score = better overall contribution. OVR is derived from rank.",
+    "Baseball uses tiered ranking by segment. Batting is tiered by AVG first " +
+    "(.400+, .350-.399, .300-.349, .250-.299, below .250), then tie-breakers in order: RBI, SLG, HR, runs, SB. " +
+    "Pitching priority is strikeout rate (K/9), then WHIP, opponent AVG, then ERA (lower is better for WHIP/opp AVG/ERA). " +
+    "Only players with meaningful playing time are ranked. OVR is derived from rank.",
   softball:
     "Composite score is a weighted combination of key stats for the segment (batting or pitching), " +
     "normalized (z-scores) across all players. Batting: e.g. AVG, HR, RBI, runs, SB, OBP, SLG. " +
@@ -42,6 +43,26 @@ const COMPOSITE_EXPLANATIONS: Record<string, string> = {
     "Composite score is a weighted combination of key stats for the segment (field or goalies), " +
     "normalized (z-scores) across all players. Field: e.g. goals, assists, points, ground balls, caused turnovers. " +
     "Goalies: e.g. save %, GAA, saves, shutouts. Higher score = better overall contribution. OVR is derived from rank.",
+  football:
+    "Composite score is a weighted combination of key football production stats, normalized (z-scores) across all players: " +
+    "passing/rushing/receiving yards and TDs plus defensive impact (e.g. tackles, sacks, interceptions). " +
+    "Higher score = stronger all-around contribution. OVR is derived from rank.",
+  mgolf:
+    "Composite score is a weighted combination of golf scoring metrics, normalized (z-scores) across all players: " +
+    "scoring average, vs par, rounds/strokes, and top finishes. Lower scoring averages are weighted positively via inverse weighting. " +
+    "Higher score = better season performance. OVR is derived from rank.",
+  wgolf:
+    "Composite score is a weighted combination of golf scoring metrics, normalized (z-scores) across all players: " +
+    "scoring average, vs par, rounds/strokes, and top finishes. Lower scoring averages are weighted positively via inverse weighting. " +
+    "Higher score = better season performance. OVR is derived from rank.",
+  mten:
+    "Composite score is a weighted combination of tennis results, normalized (z-scores) across all players: " +
+    "singles wins, doubles wins, total wins, and win percentage, with losses negatively weighted. " +
+    "Higher score = stronger season performance. OVR is derived from rank.",
+  wten:
+    "Composite score is a weighted combination of tennis results, normalized (z-scores) across all players: " +
+    "singles wins, doubles wins, total wins, and win percentage, with losses negatively weighted. " +
+    "Higher score = stronger season performance. OVR is derived from rank.",
   msoc:
     "Composite score is a weighted combination of key stats for the segment (field players or goalkeepers), " +
     "normalized (z-scores) across all players. Field: e.g. goals, assists, points, shots, SOG. " +

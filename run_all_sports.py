@@ -15,6 +15,7 @@ if str(_project_root) not in sys.path:
 # sports/{code}/rankings_2025-26.json with season, rating, composite_score.
 try:
     import pandas as pd
+    from ncaa_rankings.baseball import rank_baseball_players
     from ncaa_rankings.composites import SIDEARM_COMPOSITES
     from ncaa_rankings.conferences import load_conferences
     from ncaa_rankings.ranking import rank_by_composite
@@ -70,7 +71,10 @@ def main() -> None:
             comp = SIDEARM_COMPOSITES.get(sport.sidearm_path)
             if comp is not None:
                 try:
-                    ranked = rank_by_composite(players, weights=comp.weights)
+                    if sport.code == "baseball":
+                        ranked = rank_baseball_players(players)
+                    else:
+                        ranked = rank_by_composite(players, weights=comp.weights)
                     ranked_path = out_dir / f"{conf.code}_{sport.code}_player_rankings_2025_26.csv"
                     ranked.to_csv(ranked_path, index=False)
                     print(f"{conf.code}: wrote {len(ranked)} ranked -> {ranked_path.name}", flush=True)
@@ -100,7 +104,10 @@ def main() -> None:
             comp = SIDEARM_COMPOSITES.get(sport.sidearm_path)
             if comp is not None:
                 try:
-                    all_ranked = rank_by_composite(all_players, weights=comp.weights)
+                    if sport.code == "baseball":
+                        all_ranked = rank_baseball_players(all_players)
+                    else:
+                        all_ranked = rank_by_composite(all_players, weights=comp.weights)
                     all_ranked_path = out_dir / f"d3_{sport.code}_player_rankings_2025_26.csv"
                     all_ranked.to_csv(all_ranked_path, index=False)
                     print(f"ALL-D3: wrote {len(all_ranked)} ranked -> {all_ranked_path.name}", flush=True)

@@ -66,7 +66,7 @@ export default async function DashboardPage() {
           <span className="font-semibold text-slate-300">Free:</span> Top 25 global + top 5 per conference.{" "}
           <span className="font-semibold text-slate-300">Pro:</span> Full lists, OVR, rank, score, and search after a 7-day free trial, then $19.99/year.{" "}
           <Link href="/#pricing" className="font-semibold text-blue-400 hover:text-blue-300 underline">
-            Try Pro free — then $19.99/year
+            Try Pro free
           </Link>
         </p>
       </section>

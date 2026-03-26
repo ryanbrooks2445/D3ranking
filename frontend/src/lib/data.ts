@@ -41,8 +41,8 @@ export async function readDataFileSafe(relativePath: string): Promise<string | n
 
 const DEFAULT_SEASON = "2025-26";
 
-/** Sports whose current data is from the prior season (spring sports; next season not yet available). */
-const PRIOR_YEAR_DATA_SPORTS = ["baseball", "softball", "mlax", "wlax"];
+/** Sports whose current data is from the prior season (spring sports; next season not yet available). Baseball uses meta.json season when present. */
+const PRIOR_YEAR_DATA_SPORTS = ["softball", "mlax", "wlax", "mgolf", "wgolf", "mten", "wten"];
 const PRIOR_YEAR_SEASON_LABEL = "2024-25";
 const PRIOR_YEAR_NOTE = "Last season's data. Current season rankings will update when available.";
 
@@ -60,6 +60,26 @@ export async function getSeason(sportCode: string): Promise<string> {
   } catch {
     return DEFAULT_SEASON;
   }
+}
+
+/** Map meta season (e.g. "2026-27") to rankings filename slug. */
+export function seasonToRankingsFilename(season: string): string {
+  const slug = season.trim();
+  return `rankings_${slug}.json`;
+}
+
+/**
+ * Path under public/data to the rankings JSON for a sport.
+ * Tries meta season first (e.g. rankings_2026-27.json), then rankings_2025-26.json.
+ */
+export async function getSportRankingsJsonPath(sportCode: string): Promise<string> {
+  const code = sportCode.toLowerCase();
+  const season = await getSeason(code);
+  const primary = `sports/${code}/${seasonToRankingsFilename(season)}`;
+  if (await readDataFileSafe(primary)) return primary;
+  const fallback = `sports/${code}/rankings_2025-26.json`;
+  if (await readDataFileSafe(fallback)) return fallback;
+  return primary;
 }
 
 /**

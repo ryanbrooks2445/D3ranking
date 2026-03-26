@@ -1,4 +1,9 @@
-import { readDataFileSafe, getSeasonDisplay, getDataQualityNote } from "@/lib/data";
+import {
+  readDataFileSafe,
+  getSeasonDisplay,
+  getDataQualityNote,
+  getSportRankingsJsonPath,
+} from "@/lib/data";
 import Link from "next/link";
 import { getSport, getSportSegmentColumns, filterRowsBySegment, isSportUnderConstruction } from "@/lib/sports";
 import { isPro } from "@/lib/auth";
@@ -60,7 +65,7 @@ export default async function GlobalRankingsPage({
   }
 
   let rows: Record<string, unknown>[] = [];
-  const rankingsPath = `sports/${code}/rankings_2025-26.json`;
+  const rankingsPath = await getSportRankingsJsonPath(code);
   let raw = await readDataFileSafe(rankingsPath);
   if (raw) {
     rows = JSON.parse(raw) as Record<string, unknown>[];
@@ -88,7 +93,12 @@ export default async function GlobalRankingsPage({
     (a, b) => (Number(a.global_rank) ?? 0) - (Number(b.global_rank) ?? 0),
   );
 
-  const segmentId = segmentParam && def?.segments?.some((s) => s.id === segmentParam) ? segmentParam : "";
+  const segmentId =
+    segmentParam && def?.segments?.some((s) => s.id === segmentParam)
+      ? segmentParam
+      : code === "baseball"
+        ? "batting"
+        : "";
   const filteredRows = segmentId
     ? filterRowsBySegment(code, segmentId, rows)
     : rows;
