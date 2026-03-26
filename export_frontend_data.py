@@ -467,22 +467,38 @@ def main() -> None:
 
 
 def _export_baseball_conference_jsons(data_dir: Path, out_dir: Path, *, file_tag: str) -> None:
-    """Write sports/baseball/conferences/{code}.json from data/*_baseball_player_rankings_{file_tag}.csv."""
+    """
+    Write sports/baseball/conferences/{code}.json for the given season.
+    IMPORTANT: Conference rows are derived from the GLOBAL baseball rankings so `rating`
+    matches global (a player cannot be 99 in conference but 95 globally).
+    """
     conf_dir = out_dir / "sports" / "baseball" / "conferences"
     conf_dir.mkdir(parents=True, exist_ok=True)
-    suffix = f"_baseball_player_rankings_{file_tag}.csv"
+    global_rankings_path = data_dir / f"d3_baseball_player_rankings_{file_tag}.csv"
+    if not global_rankings_path.exists():
+        print(f"Skipping baseball conference export; missing {global_rankings_path.name}")
+        return
+    global_df = pd.read_csv(global_rankings_path, low_memory=False).copy()
+    if global_df.empty or "conference_code" not in global_df.columns:
+        print(f"Skipping baseball conference export; global rankings missing conference_code")
+        return
+    # Normalize global order and ensure global_rank is present
+    if "global_rank" not in global_df.columns and "rank" in global_df.columns:
+        global_df = global_df.rename(columns={"rank": "global_rank"})
+    if "global_rank" not in global_df.columns:
+        global_df["global_rank"] = range(1, len(global_df) + 1)
+    global_df = global_df.sort_values("global_rank", ascending=True).reset_index(drop=True)
+    rename_map = {k: v for k, v in COLUMN_RENAMES.items() if k in global_df.columns}
+    if rename_map:
+        global_df = global_df.rename(columns=rename_map)
+
     index_rows: list[dict[str, object]] = []
 
-    for csv_path in sorted(data_dir.glob(f"*{suffix}")):
-        if csv_path.name.startswith("d3_"):
-            continue
-        conf_code = csv_path.name[: -len(suffix)]
-        df = pd.read_csv(csv_path, low_memory=False).copy()
-        if df.empty:
-            continue
-        rename_map = {k: v for k, v in COLUMN_RENAMES.items() if k in df.columns}
-        if rename_map:
-            df = df.rename(columns=rename_map)
+    for conf_code, df in global_df.groupby("conference_code", dropna=True):
+        conf_code = str(conf_code)
+        df = df.copy()
+        # Keep global order; conference page assigns its own 1..n rank display
+        df = df.sort_values("global_rank", ascending=True).reset_index(drop=True)
         records = _json_safe(df).to_dict(orient="records")
         (conf_dir / f"{conf_code}.json").write_text(
             json.dumps(records, allow_nan=False),

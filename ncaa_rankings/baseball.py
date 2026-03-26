@@ -48,11 +48,11 @@ def rank_baseball_players(players: pd.DataFrame) -> pd.DataFrame:
     base = players.copy()
 
     batting_pool = base[
-        (_num(base, "games_played") >= 8) & (_num(base, "hitting_stats_at_bats") >= 30)
+        (_num(base, "games_played") >= 5) & (_num(base, "hitting_stats_at_bats") >= 15)
     ].copy()
     pitching_pool = base[
         (_num(base, "pitching_stats_games_started") >= 1)
-        & (_num(base, "pitching_stats_innings_pitched") >= 15)
+        & (_num(base, "pitching_stats_innings_pitched") >= 5)
     ].copy()
 
     parts: list[pd.DataFrame] = []

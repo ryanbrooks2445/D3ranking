@@ -563,7 +563,7 @@ export function filterRowsBySegment(
       return rows.filter((r) => {
         const ab = r.hitting_stats_at_bats;
         const gp = r.games_played;
-        return ab != null && Number(ab) >= 30 && gp != null && Number(gp) >= 8;
+        return ab != null && Number(ab) >= 15 && gp != null && Number(gp) >= 5;
       });
     }
     if (segmentId === "pitching") {
@@ -574,7 +574,7 @@ export function filterRowsBySegment(
           gs != null &&
           Number(gs) >= 1 &&
           ip != null &&
-          Number(ip) >= 15
+          Number(ip) >= 5
         );
       });
     }
