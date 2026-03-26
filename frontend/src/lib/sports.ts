@@ -132,7 +132,7 @@ const SPORTS: SportDef[] = [
           { key: "pitching_stats_k_per_9", label: "K/9" },
           { key: "pitching_stats_whip", label: "WHIP" },
           { key: "pitching_stats_opponent_batting_average", label: "Opp AVG" },
-          { key: "pitching_stats_earned_run_average", label: "ERA" },
+          { key: "pitching_stats_earned_run_avg", label: "ERA" },
         ],
       },
     ],
