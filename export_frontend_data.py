@@ -6,6 +6,9 @@ Writes: d3_mbb_player_rankings_2025_26.json, sports/mbb/rankings_2025-26.json,
 sports/mbb/meta.json, and per-conference JSON/CSV. Also exports other sports from
 data/d3_{code}_player_rankings_2025_26.csv to sports/{code}/rankings_2025-26.json
 and meta.json so the site shows season, OVR, composite score, and stats for all sports.
+When data/d3_baseball_player_rankings_2026_27.csv exists, also writes
+sports/baseball/rankings_2026-27.json, updates meta to 2026-27, and refreshes
+sports/baseball/conferences/*.json.
 """
 import json
 import sys
@@ -25,6 +28,7 @@ from ncaa_rankings.conferences import load_conferences
 OTHER_SPORT_CODES = [
     "wbb", "mvb", "wvb", "baseball", "softball",
     "mhky", "whky", "mlax", "wlax", "msoc", "wsoc",
+    "football", "mgolf", "wgolf", "mten", "wten",
 ]
 # Optional column renames so frontend column keys match (e.g. sports.ts expects earned_run_avg).
 COLUMN_RENAMES = {
@@ -43,6 +47,11 @@ SPORT_LABELS = {
     "wlax": "Women's Lacrosse",
     "msoc": "Men's Soccer",
     "wsoc": "Women's Soccer",
+    "football": "Football",
+    "mgolf": "Men's Golf",
+    "wgolf": "Women's Golf",
+    "mten": "Men's Tennis",
+    "wten": "Women's Tennis",
 }
 
 
@@ -365,20 +374,26 @@ def main() -> None:
     # Export other sports from data/d3_{code}_player_rankings_2025_26.csv -> sports/{code}/rankings_2025-26.json
     data_dir = Path("data")
     HOCKEY_CODES = ("mhky", "whky")
-    for code in OTHER_SPORT_CODES:
-        csv_path = data_dir / f"d3_{code}_player_rankings_2025_26.csv"
-        if not csv_path.exists():
-            continue
-        df = pd.read_csv(csv_path, low_memory=False).copy()
+
+    def export_sidearm_global_and_meta(
+        code: str,
+        csv_path: Path,
+        *,
+        rankings_filename: str,
+        default_season: str,
+    ) -> None:
+        """Shared path: d3_*_player_rankings CSV -> sports/{code}/{rankings_filename} + meta.json."""
+        try:
+            df = pd.read_csv(csv_path, low_memory=False).copy()
+        except (pd.errors.EmptyDataError, pd.errors.ParserError):
+            print(f"Skipping empty/unreadable export: {csv_path.name}", flush=True)
+            return
         if df.empty:
-            continue
-        # Ensure global_rank exists and is 1..n
+            return
         if "global_rank" not in df.columns and "rank" in df.columns:
             df = df.rename(columns={"rank": "global_rank"})
         if "global_rank" not in df.columns:
-            continue
-        # Hockey: backend often has composite_score only for some players; rest are NaN and end up in conference order.
-        # Re-rank by composite_score (best first), then by player name so the list is not grouped by conference.
+            return
         if code in HOCKEY_CODES and "composite_score" in df.columns:
             df = df.sort_values(
                 ["composite_score", "player_name"],
@@ -388,40 +403,102 @@ def main() -> None:
         else:
             df = df.sort_values("global_rank", ascending=True).reset_index(drop=True)
         df["global_rank"] = range(1, len(df) + 1)
-        # Hockey: if best composite_score is 0 or all NaN, assign scores from rank so #1 has a real score
         if code in HOCKEY_CODES:
             cs = pd.to_numeric(df["composite_score"], errors="coerce")
             if cs.isna().all() or cs.max() == 0 or (cs <= 0).all():
                 n = len(df)
-                # Rank 1 = 10, rank n ≈ 0 (linear scale)
                 df["composite_score"] = 10.0 * (1.0 - (df["global_rank"] - 1) / max(1, n))
-        # Ensure rating (OVR) exists
         if "rating" not in df.columns:
             df["rating"] = _rating_from_rank(df["global_rank"]).astype(int)
-        # Ensure season exists
         if "season" not in df.columns:
-            df["season"] = "2025-26"
-        # Rename columns for frontend
+            df["season"] = default_season
         rename_map = {k: v for k, v in COLUMN_RENAMES.items() if k in df.columns}
         if rename_map:
             df = df.rename(columns=rename_map)
         sport_dir = out_dir / "sports" / code
         sport_dir.mkdir(parents=True, exist_ok=True)
         records = _json_safe(df).to_dict(orient="records")
-        (sport_dir / "rankings_2025-26.json").write_text(
+        (sport_dir / rankings_filename).write_text(
             json.dumps(records, allow_nan=False),
             encoding="utf-8",
         )
-        season_val = str(df["season"].iloc[0]) if "season" in df.columns and len(df) else "2025-26"
+        season_val = str(df["season"].iloc[0]) if "season" in df.columns and len(df) else default_season
         (sport_dir / "meta.json").write_text(
-            json.dumps({
-                "sport_code": code,
-                "sport_label": SPORT_LABELS.get(code, code.upper()),
-                "season": season_val,
-            }, indent=2),
+            json.dumps(
+                {
+                    "sport_code": code,
+                    "sport_label": SPORT_LABELS.get(code, code.upper()),
+                    "season": season_val,
+                },
+                indent=2,
+            ),
             encoding="utf-8",
         )
-        print(f"Wrote {sport_dir / 'rankings_2025-26.json'} ({code})")
+        print(f"Wrote {sport_dir / rankings_filename} ({code}, {season_val})")
+
+    for code in OTHER_SPORT_CODES:
+        csv_path = data_dir / f"d3_{code}_player_rankings_2025_26.csv"
+        if not csv_path.exists():
+            continue
+        export_sidearm_global_and_meta(
+            code,
+            csv_path,
+            rankings_filename="rankings_2025-26.json",
+            default_season="2025-26",
+        )
+
+    # Prefer 2026–27 baseball when scraped; overwrites sports/baseball/* from the loop above.
+    baseball_2627 = data_dir / "d3_baseball_player_rankings_2026_27.csv"
+    if baseball_2627.exists():
+        export_sidearm_global_and_meta(
+            "baseball",
+            baseball_2627,
+            rankings_filename="rankings_2026-27.json",
+            default_season="2026-27",
+        )
+        _export_baseball_conference_jsons(data_dir, out_dir, file_tag="2026_27")
+
+
+def _export_baseball_conference_jsons(data_dir: Path, out_dir: Path, *, file_tag: str) -> None:
+    """Write sports/baseball/conferences/{code}.json from data/*_baseball_player_rankings_{file_tag}.csv."""
+    conf_dir = out_dir / "sports" / "baseball" / "conferences"
+    conf_dir.mkdir(parents=True, exist_ok=True)
+    suffix = f"_baseball_player_rankings_{file_tag}.csv"
+    index_rows: list[dict[str, object]] = []
+
+    for csv_path in sorted(data_dir.glob(f"*{suffix}")):
+        if csv_path.name.startswith("d3_"):
+            continue
+        conf_code = csv_path.name[: -len(suffix)]
+        df = pd.read_csv(csv_path, low_memory=False).copy()
+        if df.empty:
+            continue
+        rename_map = {k: v for k, v in COLUMN_RENAMES.items() if k in df.columns}
+        if rename_map:
+            df = df.rename(columns=rename_map)
+        records = _json_safe(df).to_dict(orient="records")
+        (conf_dir / f"{conf_code}.json").write_text(
+            json.dumps(records, allow_nan=False),
+            encoding="utf-8",
+        )
+        players_path = data_dir / f"{conf_code}_baseball_players_{file_tag}.csv"
+        player_count = len(pd.read_csv(players_path, low_memory=False)) if players_path.exists() else len(df)
+        conf_name = str(df["conference"].iloc[0]) if "conference" in df.columns and len(df) else conf_code
+        index_rows.append(
+            {
+                "conference_code": conf_code,
+                "conference": conf_name,
+                "player_count": int(player_count),
+                "ranked_count": int(len(df)),
+            }
+        )
+
+    index_rows = sorted(index_rows, key=lambda r: str(r["conference"]).lower())
+    (conf_dir / "index.json").write_text(
+        json.dumps(index_rows, allow_nan=False, indent=2),
+        encoding="utf-8",
+    )
+    print(f"Wrote baseball conference JSONs ({file_tag}) -> {conf_dir}")
 
 
 if __name__ == "__main__":
