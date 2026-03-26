@@ -559,7 +559,11 @@ export function filterRowsBySegment(
   const code = sportCode.toLowerCase();
 
   if (code === "baseball") {
+    const hasRankingSegment = rows.some((r) => r.ranking_segment != null);
     if (segmentId === "batting") {
+      if (hasRankingSegment) {
+        return rows.filter((r) => String(r.ranking_segment ?? "").toLowerCase() === "batting");
+      }
       return rows.filter((r) => {
         const ab = r.hitting_stats_at_bats;
         const gp = r.games_played;
@@ -567,6 +571,9 @@ export function filterRowsBySegment(
       });
     }
     if (segmentId === "pitching") {
+      if (hasRankingSegment) {
+        return rows.filter((r) => String(r.ranking_segment ?? "").toLowerCase() === "pitching");
+      }
       return rows.filter((r) => {
         const gs = r.pitching_stats_games_started;
         const ip = r.pitching_stats_innings_pitched;
