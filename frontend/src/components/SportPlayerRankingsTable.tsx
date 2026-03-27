@@ -164,7 +164,7 @@ export function SportPlayerRankingsTable({
               href="/#pricing"
               className="font-semibold text-blue-400 hover:text-blue-300 underline"
             >
-              Try Pro free to unlock.
+              Try Pro Free to unlock.
             </a>
           </p>
         )}
@@ -262,13 +262,13 @@ export function SportPlayerRankingsTable({
             Showing top {freeRowLimit} of {filtered.length.toLocaleString()} players.
           </p>
           <p className="mt-2 text-slate-400">
-            Unlock full list, OVR, rank, score, and search with Pro after a 7-day free trial, then $19.99/year.
+            Unlock full list, OVR, rank, score, and search with Pro after a 7-day free trial.
           </p>
           <a
             href="/#pricing"
             className="mt-6 inline-block rounded-xl bg-blue-600 px-6 py-3 text-base font-semibold text-white transition hover:bg-blue-500"
           >
-            Try Pro free
+            Try Pro Free
           </a>
         </div>
       )}

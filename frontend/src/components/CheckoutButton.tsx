@@ -4,7 +4,7 @@ import { useState } from "react";
 
 export function CheckoutButton({
   className = "",
-  children = "Try Pro free",
+  children = "Try Pro Free",
 }: {
   className?: string;
   children?: React.ReactNode;

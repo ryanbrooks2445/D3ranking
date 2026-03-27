@@ -64,9 +64,9 @@ export default async function DashboardPage() {
       <section className="rounded-2xl border border-slate-700 bg-slate-900/50 px-6 py-5 text-center">
         <p className="text-slate-400">
           <span className="font-semibold text-slate-300">Free:</span> Top 25 global + top 5 per conference.{" "}
-          <span className="font-semibold text-slate-300">Pro:</span> Full lists, OVR, rank, score, and search after a 7-day free trial, then $19.99/year.{" "}
+          <span className="font-semibold text-slate-300">Pro:</span> Full lists, OVR, rank, score, and search after a 7-day free trial.{" "}
           <Link href="/#pricing" className="font-semibold text-blue-400 hover:text-blue-300 underline">
-            Try Pro free
+            Try Pro Free
           </Link>
         </p>
       </section>
