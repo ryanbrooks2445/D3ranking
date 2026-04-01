@@ -262,7 +262,7 @@ export function SportPlayerRankingsTable({
             Showing top {freeRowLimit} of {filtered.length.toLocaleString()} players.
           </p>
           <p className="mt-2 text-slate-400">
-            Unlock full list, OVR, rank, score, and search with Pro after a 7-day free trial.
+            Unlock full list, OVR, rank, score, and search with Pro after a 3-day free trial.
           </p>
           <a
             href="/#pricing"

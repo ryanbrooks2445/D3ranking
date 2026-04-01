@@ -48,9 +48,9 @@ export async function POST() {
       metadata: {
         product: "d3_pro",
       },
-      // 7-day free trial (Stripe UI often hides this on Prices; set here so Checkout matches site copy)
+      // 3-day free trial (Stripe UI often hides this on Prices; set here so Checkout matches site copy)
       subscription_data: {
-        trial_period_days: 7,
+        trial_period_days: 3,
         payment_settings: {
           // Critical for trial-to-paid renewals: keep the Checkout card as the
           // subscription default payment method so Stripe can retry correctly.
