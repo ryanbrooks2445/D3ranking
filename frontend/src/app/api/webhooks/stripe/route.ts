@@ -71,6 +71,89 @@ export async function POST(req: Request) {
         break;
       }
 
+      case "invoice.payment_failed": {
+        const invoice = event.data.object as Stripe.Invoice;
+        const customerId = invoice.customer as string | null;
+        const subId = (invoice as Stripe.Invoice & { subscription?: string | Stripe.Subscription | null }).subscription;
+        if (!customerId) break;
+        const normalizedSubId =
+          typeof subId === "string"
+            ? subId
+            : subId && typeof subId === "object" && "id" in subId
+              ? String(subId.id)
+              : null;
+
+        await prisma.proSubscription.upsert({
+          where: { stripeCustomerId: customerId },
+          create: {
+            stripeCustomerId: customerId,
+            stripeSubscriptionId: normalizedSubId,
+            status: "past_due",
+          },
+          update: {
+            stripeSubscriptionId: normalizedSubId,
+            status: "past_due",
+          },
+        });
+        break;
+      }
+
+      case "invoice.payment_succeeded": {
+        const invoice = event.data.object as Stripe.Invoice;
+        const customerId = invoice.customer as string | null;
+        const subId = (invoice as Stripe.Invoice & { subscription?: string | Stripe.Subscription | null }).subscription;
+        if (!customerId) break;
+        const normalizedSubId =
+          typeof subId === "string"
+            ? subId
+            : subId && typeof subId === "object" && "id" in subId
+              ? String(subId.id)
+              : null;
+
+        await prisma.proSubscription.upsert({
+          where: { stripeCustomerId: customerId },
+          create: {
+            stripeCustomerId: customerId,
+            stripeSubscriptionId: normalizedSubId,
+            status: "active",
+          },
+          update: {
+            stripeSubscriptionId: normalizedSubId,
+            status: "active",
+          },
+        });
+        break;
+      }
+
+      case "invoice.payment_action_required": {
+        const invoice = event.data.object as Stripe.Invoice;
+        const customerId = invoice.customer as string | null;
+        const subId = (invoice as Stripe.Invoice & { subscription?: string | Stripe.Subscription | null }).subscription;
+        if (!customerId) break;
+        const normalizedSubId =
+          typeof subId === "string"
+            ? subId
+            : subId && typeof subId === "object" && "id" in subId
+              ? String(subId.id)
+              : null;
+
+        // Customer must come on-session to authenticate (3DS/SCA). Keep access
+        // non-active until they complete payment in hosted invoice/portal.
+        await prisma.proSubscription.upsert({
+          where: { stripeCustomerId: customerId },
+          create: {
+            stripeCustomerId: customerId,
+            stripeSubscriptionId: normalizedSubId,
+            status: "past_due",
+          },
+          update: {
+            stripeSubscriptionId: normalizedSubId,
+            status: "past_due",
+          },
+        });
+        break;
+      }
+
       default:
         // Unhandled event type
         break;

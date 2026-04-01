@@ -30,6 +30,12 @@ export async function POST() {
     const checkoutSession = await stripe.checkout.sessions.create({
       mode: "subscription",
       payment_method_types: ["card"],
+      // Collect stronger billing details to improve issuer trust/authorization.
+      billing_address_collection: "required",
+      phone_number_collection: { enabled: true },
+      // Ensure Checkout always collects and stores a reusable payment method
+      // for off-session trial-to-paid renewals.
+      payment_method_collection: "always",
       line_items: [
         {
           price: priceId,
@@ -45,6 +51,18 @@ export async function POST() {
       // 7-day free trial (Stripe UI often hides this on Prices; set here so Checkout matches site copy)
       subscription_data: {
         trial_period_days: 7,
+        payment_settings: {
+          // Critical for trial-to-paid renewals: keep the Checkout card as the
+          // subscription default payment method so Stripe can retry correctly.
+          save_default_payment_method: "on_subscription",
+        },
+        trial_settings: {
+          end_behavior: {
+            // With payment_method_collection="always", this should be rare, but it
+            // avoids creating unpaid zombie subscriptions when no method is available.
+            missing_payment_method: "cancel",
+          },
+        },
       },
     });
 
