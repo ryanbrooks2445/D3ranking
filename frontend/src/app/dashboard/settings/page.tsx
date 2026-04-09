@@ -41,7 +41,7 @@ export default async function SettingsPage() {
         ) : (
           <div className="mt-6 space-y-4">
             <p className="text-sm text-slate-300">
-              You’re on the free tier. Upgrade for full rankings, search, and more after a 7-day
+              You’re on the free tier. Upgrade for full rankings, search, and more after a 3-day
               free trial.
             </p>
             <div className="flex flex-wrap items-center gap-3">
