@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import Stripe from "stripe";
 import { auth } from "@/auth";
+import { PRO_TRIAL_DAYS, getStripeTrialEnd } from "@/lib/billing";
 
 /** Create a Stripe Checkout Session for Pro subscription. */
 export async function POST() {
@@ -47,10 +48,12 @@ export async function POST() {
       client_reference_id: session?.user?.id ?? undefined,
       metadata: {
         product: "d3_pro",
+        trial_days: String(PRO_TRIAL_DAYS),
       },
-      // 3-day free trial (Stripe UI often hides this on Prices; set here so Checkout matches site copy)
+      // Use an explicit trial end so hosted Checkout reflects the app's trial copy
+      // even if the Stripe Price has older/default trial settings attached.
       subscription_data: {
-        trial_period_days: 3,
+        trial_end: getStripeTrialEnd(),
         payment_settings: {
           // Critical for trial-to-paid renewals: keep the Checkout card as the
           // subscription default payment method so Stripe can retry correctly.

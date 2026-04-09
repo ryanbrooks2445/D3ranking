@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getAllSports } from "@/lib/sports";
 import { CheckoutButton } from "@/components/CheckoutButton";
 import { getSeason } from "@/lib/data";
+import { PRO_TRIAL_DAYS, PRO_TRIAL_LABEL } from "@/lib/billing";
 
 export default async function Home() {
   const sports = getAllSports();
@@ -37,7 +38,8 @@ export default async function Home() {
           </h1>
           <p className="mt-5 max-w-2xl mx-auto text-lg text-slate-400 leading-relaxed">
             Data pulled from official conference sites. One place to compare
-            players across 12 sports and 30+ D3 conferences. Free preview; then Try Pro Free for 3 days to unlock full lists, OVR, rank, and search.
+            players across 12 sports and 30+ D3 conferences. Free preview; then Try Pro Free for{" "}
+            {PRO_TRIAL_DAYS} days to unlock full lists, OVR, rank, and search.
           </p>
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <Link
@@ -96,7 +98,7 @@ export default async function Home() {
         >
           <h2 className="text-lg font-semibold text-white">Pricing</h2>
           <p className="mt-2 text-slate-400">
-            Free: Top 25 global + top 5 per conference. Pro: Full lists, OVR, rank, score, and search after a 3-day free trial.
+            Free: Top 25 global + top 5 per conference. Pro: Full lists, OVR, rank, score, and search after a {PRO_TRIAL_LABEL}.
           </p>
           <CheckoutButton className="mt-5 inline-block rounded-lg bg-blue-600 px-5 py-2.5 text-sm font-medium text-white transition hover:bg-blue-500">
             Try Pro Free

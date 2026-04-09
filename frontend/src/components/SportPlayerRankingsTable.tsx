@@ -1,6 +1,8 @@
 "use client";
 
+import Link from "next/link";
 import { useState, useMemo } from "react";
+import { PRO_TRIAL_LABEL } from "@/lib/billing";
 
 type ColDef = { key: string; label: string; pct?: boolean };
 
@@ -160,12 +162,12 @@ export function SportPlayerRankingsTable({
         {!isPro && (
           <p className="hidden text-xs text-slate-500 sm:inline">
             OVR, Rank, and Score in search results are Pro-only.{" "}
-            <a
+            <Link
               href="/#pricing"
               className="font-semibold text-blue-400 hover:text-blue-300 underline"
             >
               Try Pro Free to unlock.
-            </a>
+            </Link>
           </p>
         )}
       </div>
@@ -222,13 +224,13 @@ export function SportPlayerRankingsTable({
                       const isLockedMetric = !isPro && hasSearch && (isRank || isOvr || isScore);
                       const lockedLabel = isOvr ? "Get OVR" : isScore ? "Get score" : "Unlock";
                       const cellContent = isLockedMetric ? (
-                        <a
+                        <Link
                           href="/#pricing"
                           className="inline-flex items-center gap-1 rounded-md bg-slate-800/80 px-2 py-1 text-xs font-semibold text-amber-300 ring-1 ring-amber-400/50 hover:bg-amber-500/10 hover:text-amber-200"
                         >
                           <span className="inline-block h-1.5 w-1.5 rounded-full bg-amber-400" />
                           {lockedLabel}
-                        </a>
+                        </Link>
                       ) : isOvr && ovrBadgeClass ? (
                         <span className={ovrBadgeClass}>{displayVal}</span>
                       ) : (
@@ -262,14 +264,14 @@ export function SportPlayerRankingsTable({
             Showing top {freeRowLimit} of {filtered.length.toLocaleString()} players.
           </p>
           <p className="mt-2 text-slate-400">
-            Unlock full list, OVR, rank, score, and search with Pro after a 3-day free trial.
+            Unlock full list, OVR, rank, score, and search with Pro after a {PRO_TRIAL_LABEL}.
           </p>
-          <a
+          <Link
             href="/#pricing"
             className="mt-6 inline-block rounded-xl bg-blue-600 px-6 py-3 text-base font-semibold text-white transition hover:bg-blue-500"
           >
             Try Pro Free
-          </a>
+          </Link>
         </div>
       )}
     </div>
