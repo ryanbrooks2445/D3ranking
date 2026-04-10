@@ -54,11 +54,6 @@ export async function POST() {
       // even if the Stripe Price has older/default trial settings attached.
       subscription_data: {
         trial_end: getStripeTrialEnd(),
-        payment_settings: {
-          // Critical for trial-to-paid renewals: keep the Checkout card as the
-          // subscription default payment method so Stripe can retry correctly.
-          save_default_payment_method: "on_subscription",
-        },
         trial_settings: {
           end_behavior: {
             // With payment_method_collection="always", this should be rare, but it
