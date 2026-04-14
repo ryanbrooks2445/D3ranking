@@ -11,8 +11,8 @@ const OVR_TOOLTIP =
   "OVR is derived from rank (e.g. top players = 99). Score is the stat-based composite used to rank players.";
 
 /** Keys that are identity/rank, not stats — we always show the value (including 0). */
-const NON_STAT_KEYS = new Set([
-  "global_rank", "rank", "player_name", "team", "position", "conference", "rating",
+const ALWAYS_VISIBLE_KEYS = new Set([
+  "global_rank", "rank", "player_name", "team", "position", "conference", "rating", "composite_score",
 ]);
 const DECIMAL_RATE_KEYS = new Set([
   "hitting_stats_batting_average",
@@ -23,7 +23,7 @@ const DECIMAL_RATE_KEYS = new Set([
 
 function formatVal(val: unknown, pct?: boolean, colKey?: string): string {
   if (val == null) return "—";
-  const isStat = colKey && !NON_STAT_KEYS.has(colKey);
+  const isStat = colKey && !ALWAYS_VISIBLE_KEYS.has(colKey);
   const numVal = typeof val === "number" ? val : Number(val);
   if (isStat && (numVal === 0 || (typeof val === "string" && val.trim() === "0"))) return "—";
   if (colKey && DECIMAL_RATE_KEYS.has(colKey) && Number.isFinite(numVal)) {
@@ -103,10 +103,26 @@ export function SportPlayerRankingsTable({
   title?: string;
 }) {
   const [search, setSearch] = useState("");
+  const visibleColumns = useMemo(() => {
+    return columns.filter((col) => {
+      if (ALWAYS_VISIBLE_KEYS.has(col.key)) return true;
+      return rows.some((row) => {
+        const val = row[col.key];
+        if (val == null) return false;
+        if (typeof val === "string") {
+          const trimmed = val.trim();
+          if (!trimmed || trimmed === "0" || trimmed === "0.0" || trimmed === ".000") return false;
+        }
+        const numVal = typeof val === "number" ? val : Number(val);
+        if (Number.isFinite(numVal)) return numVal !== 0;
+        return true;
+      });
+    });
+  }, [columns, rows]);
 
   // CRITICAL: Always sort by rank column. Global JSON is often ordered by conference;
   // if the page forgets to sort, the table still shows correct #1, #2, #3... order.
-  const rankKey = columns.find((c) => c.key === "global_rank" || c.key === "rank")?.key;
+  const rankKey = visibleColumns.find((c) => c.key === "global_rank" || c.key === "rank")?.key;
 
   const sortedRows = useMemo(() => {
     if (rows.length === 0) return rows;
@@ -184,7 +200,7 @@ export function SportPlayerRankingsTable({
           <table className="w-full min-w-[640px] text-left text-sm">
             <thead>
               <tr className="border-b-2 border-slate-600 bg-slate-800">
-                {columns.map((col) => (
+                {visibleColumns.map((col) => (
                   <th
                     key={col.key}
                     className="px-4 py-4 text-xs font-bold uppercase tracking-wider text-slate-300"
@@ -205,7 +221,7 @@ export function SportPlayerRankingsTable({
                       i % 2 === 1 ? "bg-slate-800/30" : ""
                     } ${isTopThree ? "bg-amber-500/5" : ""}`}
                   >
-                    {columns.map((col) => {
+                    {visibleColumns.map((col) => {
                       const val = row[col.key];
                       const isRank = col.key === "global_rank" || col.key === "rank";
                       const isOvr = col.key === "rating";

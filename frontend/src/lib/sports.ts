@@ -48,7 +48,10 @@ function footballIsQuarterback(row: Record<string, unknown>): boolean {
 function footballIsSkill(row: Record<string, unknown>): boolean {
   if (footballIsQuarterback(row)) return false;
   const offensive = normalizeFootballRole(row.offensive_position);
+  const defensive = normalizeFootballRole(row.defensive_position);
+  if (defensive && !offensive) return false;
   if (["RB", "WR", "TE", "FB", "TB", "SL"].includes(offensive)) return true;
+  if (footballIsDefense(row)) return false;
   return footballHasPositiveStat(row, [
     "rush_stats_attempts",
     "rush_stats_net_yards",
