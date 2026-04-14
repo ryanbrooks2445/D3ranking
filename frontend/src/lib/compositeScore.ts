@@ -44,9 +44,9 @@ const COMPOSITE_EXPLANATIONS: Record<string, string> = {
     "normalized (z-scores) across all players. Field: e.g. goals, assists, points, ground balls, caused turnovers. " +
     "Goalies: e.g. save %, GAA, saves, shutouts. Higher score = better overall contribution. OVR is derived from rank.",
   football:
-    "Composite score is a weighted combination of key football production stats, normalized (z-scores) across all players: " +
-    "passing/rushing/receiving yards and TDs plus defensive impact (e.g. tackles, sacks, interceptions). " +
-    "Higher score = stronger all-around contribution. OVR is derived from rank.",
+    "Football rankings are shown by segment so players are compared against similar roles instead of one all-position leaderboard. " +
+    "QB emphasizes passing and efficiency, Skill blends rushing/receiving production, Defense leans on tackles, sacks, interceptions, and disruptions, " +
+    "and Special Teams highlights kicking, punting, and return value. Composite score is normalized within the football dataset and OVR is derived from rank.",
   mgolf:
     "Composite score is a weighted combination of golf scoring metrics, normalized (z-scores) across all players: " +
     "scoring average, vs par, rounds/strokes, and top finishes. Lower scoring averages are weighted positively via inverse weighting. " +

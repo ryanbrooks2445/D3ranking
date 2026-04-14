@@ -66,7 +66,7 @@ export default async function GlobalRankingsPage({
 
   let rows: Record<string, unknown>[] = [];
   const rankingsPath = await getSportRankingsJsonPath(code);
-  let raw = await readDataFileSafe(rankingsPath);
+  const raw = await readDataFileSafe(rankingsPath);
   if (raw) {
     rows = JSON.parse(raw) as Record<string, unknown>[];
   }
@@ -98,6 +98,8 @@ export default async function GlobalRankingsPage({
       ? segmentParam
       : code === "baseball"
         ? "batting"
+        : code === "football"
+          ? "qb"
         : "";
   const filteredRows = segmentId
     ? filterRowsBySegment(code, segmentId, rows)

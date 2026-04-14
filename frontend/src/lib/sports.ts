@@ -9,6 +9,90 @@ export type SportDef = {
 };
 
 const RANK_LABEL = "Rank";
+const FOOTBALL_POSITION_ZERO = "0";
+
+function normalizeFootballRole(value: unknown): string {
+  const role = String(value ?? "").trim().toUpperCase();
+  if (!role || role === FOOTBALL_POSITION_ZERO) return "";
+  return role;
+}
+
+function footballHasPositiveStat(row: Record<string, unknown>, keys: string[]): boolean {
+  return keys.some((key) => {
+    const value = Number(row[key] ?? 0);
+    return Number.isFinite(value) && value > 0;
+  });
+}
+
+function getFootballDisplayPosition(row: Record<string, unknown>): string | null {
+  const offensive = normalizeFootballRole(row.offensive_position);
+  if (offensive) return offensive;
+  const defensive = normalizeFootballRole(row.defensive_position);
+  if (defensive) return defensive;
+  return null;
+}
+
+function footballIsQuarterback(row: Record<string, unknown>): boolean {
+  const offensive = normalizeFootballRole(row.offensive_position);
+  if (offensive === "QB") return true;
+  const attempts = Number(row.pass_stats_attempts ?? 0);
+  const completions = Number(row.pass_stats_completions ?? 0);
+  const yards = Number(row.pass_stats_yards ?? 0);
+  return (
+    (Number.isFinite(attempts) && attempts >= 10) ||
+    (Number.isFinite(completions) && completions >= 5) ||
+    (Number.isFinite(yards) && yards >= 100)
+  );
+}
+
+function footballIsSkill(row: Record<string, unknown>): boolean {
+  if (footballIsQuarterback(row)) return false;
+  const offensive = normalizeFootballRole(row.offensive_position);
+  if (["RB", "WR", "TE", "FB", "TB", "SL"].includes(offensive)) return true;
+  return footballHasPositiveStat(row, [
+    "rush_stats_attempts",
+    "rush_stats_net_yards",
+    "receiving_stats_number",
+    "receiving_stats_yards",
+  ]);
+}
+
+function footballIsDefense(row: Record<string, unknown>): boolean {
+  const defensive = normalizeFootballRole(row.defensive_position);
+  if (["DB", "LB", "DL", "DE", "DT", "CB", "SAF", "S", "SS", "FS", "NG", "OLB", "MLB", "WS"].includes(defensive)) {
+    return true;
+  }
+  const totalTackles = Number(row.defense_stats_total_tackles ?? row.defense_stats_tackles ?? 0);
+  return (
+    (Number.isFinite(totalTackles) && totalTackles >= 5) ||
+    footballHasPositiveStat(row, [
+      "defense_stats_sacks",
+      "defense_stats_interceptions",
+      "defense_stats_passes_defended",
+      "defense_stats_tackles_for_loss",
+      "defense_stats_fumbles_forced",
+    ])
+  );
+}
+
+function footballIsSpecialTeams(row: Record<string, unknown>): boolean {
+  if (footballIsQuarterback(row) || footballIsSkill(row) || footballIsDefense(row)) return false;
+  return footballHasPositiveStat(row, [
+    "fieldgoal_stats_attempts",
+    "fieldgoal_stats_made",
+    "punt_stats_number",
+    "kickreturn_stats_number",
+    "puntreturn_stats_number",
+    "pat_stats_kick_attempts",
+  ]);
+}
+
+function normalizeFootballRow(row: Record<string, unknown>): Record<string, unknown> {
+  const position = getFootballDisplayPosition(row);
+  return position && (!row.position || String(row.position).trim() === FOOTBALL_POSITION_ZERO)
+    ? { ...row, position }
+    : row;
+}
 
 const SPORTS: SportDef[] = [
   {
@@ -339,11 +423,89 @@ const SPORTS: SportDef[] = [
       { key: "conference", label: "Conference" },
       { key: "rating", label: "OVR" },
       { key: "composite_score", label: "Score" },
-      { key: "passing_stats_passing_yards", label: "Pass Yds" },
-      { key: "rushing_stats_rushing_yards", label: "Rush Yds" },
-      { key: "receiving_stats_receiving_yards", label: "Rec Yds" },
-      { key: "defensive_stats_tackles", label: "Tackles" },
-      { key: "defensive_stats_interceptions", label: "INT" },
+      { key: "pass_stats_yards", label: "Pass Yds" },
+      { key: "rush_stats_net_yards", label: "Rush Yds" },
+      { key: "receiving_stats_yards", label: "Rec Yds" },
+      { key: "defense_stats_total_tackles", label: "Tackles" },
+      { key: "defense_stats_interceptions", label: "INT" },
+    ],
+    segments: [
+      {
+        id: "qb",
+        label: "QB",
+        columns: [
+          { key: "global_rank", label: "Rank (QB)" },
+          { key: "player_name", label: "Player" },
+          { key: "team", label: "Team" },
+          { key: "position", label: "Pos" },
+          { key: "conference", label: "Conference" },
+          { key: "rating", label: "OVR" },
+          { key: "composite_score", label: "Score" },
+          { key: "pass_stats_yards", label: "Pass Yds" },
+          { key: "pass_stats_touchdowns", label: "Pass TD" },
+          { key: "pass_stats_completions", label: "Comp" },
+          { key: "pass_stats_attempts", label: "Att" },
+          { key: "pass_stats_efficiency", label: "Eff" },
+          { key: "rush_stats_net_yards", label: "Rush Yds" },
+        ],
+      },
+      {
+        id: "skill",
+        label: "Skill",
+        columns: [
+          { key: "global_rank", label: "Rank (Skill)" },
+          { key: "player_name", label: "Player" },
+          { key: "team", label: "Team" },
+          { key: "position", label: "Pos" },
+          { key: "conference", label: "Conference" },
+          { key: "rating", label: "OVR" },
+          { key: "composite_score", label: "Score" },
+          { key: "rush_stats_net_yards", label: "Rush Yds" },
+          { key: "rush_stats_touchdowns", label: "Rush TD" },
+          { key: "receiving_stats_yards", label: "Rec Yds" },
+          { key: "receiving_stats_touchdowns", label: "Rec TD" },
+          { key: "receiving_stats_number", label: "Rec" },
+          { key: "kickreturn_stats_yards", label: "KR Yds" },
+        ],
+      },
+      {
+        id: "defense",
+        label: "Defense",
+        columns: [
+          { key: "global_rank", label: "Rank (Defense)" },
+          { key: "player_name", label: "Player" },
+          { key: "team", label: "Team" },
+          { key: "position", label: "Pos" },
+          { key: "conference", label: "Conference" },
+          { key: "rating", label: "OVR" },
+          { key: "composite_score", label: "Score" },
+          { key: "defense_stats_total_tackles", label: "Tackles" },
+          { key: "defense_stats_tackles_for_loss", label: "TFL" },
+          { key: "defense_stats_sacks", label: "Sacks" },
+          { key: "defense_stats_interceptions", label: "INT" },
+          { key: "defense_stats_passes_defended", label: "PD" },
+          { key: "defense_stats_fumbles_forced", label: "FF" },
+        ],
+      },
+      {
+        id: "special-teams",
+        label: "Special teams",
+        columns: [
+          { key: "global_rank", label: "Rank (Special Teams)" },
+          { key: "player_name", label: "Player" },
+          { key: "team", label: "Team" },
+          { key: "position", label: "Pos" },
+          { key: "conference", label: "Conference" },
+          { key: "rating", label: "OVR" },
+          { key: "composite_score", label: "Score" },
+          { key: "fieldgoal_stats_made", label: "FGM" },
+          { key: "fieldgoal_stats_attempts", label: "FGA" },
+          { key: "punt_stats_avg_per_punt", label: "Punt Avg" },
+          { key: "punt_stats_inside_twenty", label: "Inside 20" },
+          { key: "kickreturn_stats_yards", label: "KR Yds" },
+          { key: "puntreturn_stats_yards", label: "PR Yds" },
+        ],
+      },
     ],
   },
   {
@@ -557,14 +719,15 @@ export function filterRowsBySegment(
 ): Record<string, unknown>[] {
   if (!segmentId || segmentId === "all") return rows;
   const code = sportCode.toLowerCase();
+  const normalizedRows = code === "football" ? rows.map(normalizeFootballRow) : rows;
 
   if (code === "baseball") {
-    const hasRankingSegment = rows.some((r) => r.ranking_segment != null);
+    const hasRankingSegment = normalizedRows.some((r) => r.ranking_segment != null);
     if (segmentId === "batting") {
       if (hasRankingSegment) {
-        return rows.filter((r) => String(r.ranking_segment ?? "").toLowerCase() === "batting");
+        return normalizedRows.filter((r) => String(r.ranking_segment ?? "").toLowerCase() === "batting");
       }
-      return rows.filter((r) => {
+      return normalizedRows.filter((r) => {
         const ab = r.hitting_stats_at_bats;
         const gp = r.games_played;
         return ab != null && Number(ab) >= 15 && gp != null && Number(gp) >= 5;
@@ -572,9 +735,9 @@ export function filterRowsBySegment(
     }
     if (segmentId === "pitching") {
       if (hasRankingSegment) {
-        return rows.filter((r) => String(r.ranking_segment ?? "").toLowerCase() === "pitching");
+        return normalizedRows.filter((r) => String(r.ranking_segment ?? "").toLowerCase() === "pitching");
       }
-      return rows.filter((r) => {
+      return normalizedRows.filter((r) => {
         const gs = r.pitching_stats_games_started;
         const ip = r.pitching_stats_innings_pitched;
         return (
@@ -588,13 +751,13 @@ export function filterRowsBySegment(
   }
   if (code === "softball") {
     if (segmentId === "batting") {
-      return rows.filter((r) => {
+      return normalizedRows.filter((r) => {
         const ab = r.hitting_stats_at_bats;
         return ab != null && Number(ab) > 0;
       });
     }
     if (segmentId === "pitching") {
-      return rows.filter((r) => {
+      return normalizedRows.filter((r) => {
         return (
           r.pitching_stats_innings_pitched != null ||
           r.pitching_stats_earned_run_avg != null ||
@@ -604,9 +767,24 @@ export function filterRowsBySegment(
     }
   }
 
+  if (code === "football") {
+    if (segmentId === "qb") {
+      return normalizedRows.filter(footballIsQuarterback);
+    }
+    if (segmentId === "skill") {
+      return normalizedRows.filter(footballIsSkill);
+    }
+    if (segmentId === "defense") {
+      return normalizedRows.filter(footballIsDefense);
+    }
+    if (segmentId === "special-teams") {
+      return normalizedRows.filter(footballIsSpecialTeams);
+    }
+  }
+
   if (code === "msoc" || code === "wsoc") {
     if (segmentId === "goalies") {
-      return rows.filter(
+      return normalizedRows.filter(
         (r) =>
           r.goalie_stats_games_played != null ||
           r.goalie_stats_saves != null ||
@@ -614,7 +792,7 @@ export function filterRowsBySegment(
       );
     }
     if (segmentId === "field") {
-      return rows.filter(
+      return normalizedRows.filter(
         (r) =>
           r.goalie_stats_games_played == null &&
           r.goalie_stats_saves == null &&
@@ -625,7 +803,7 @@ export function filterRowsBySegment(
 
   if (code === "mhky" || code === "whky") {
     if (segmentId === "skaters") {
-      return rows.filter(
+      return normalizedRows.filter(
         (r) =>
           r.goalie_stats_games_played == null &&
           r.goalie_stats_save_pct == null &&
@@ -636,7 +814,7 @@ export function filterRowsBySegment(
 
   if (code === "mlax" || code === "wlax") {
     if (segmentId === "goalies") {
-      return rows.filter(
+      return normalizedRows.filter(
         (r) =>
           r.goalie_stats_games_played != null ||
           r.goalie_stats_save_pct != null ||
@@ -644,7 +822,7 @@ export function filterRowsBySegment(
       );
     }
     if (segmentId === "field") {
-      return rows.filter(
+      return normalizedRows.filter(
         (r) =>
           r.goalie_stats_games_played == null &&
           r.goalie_stats_save_pct == null &&
@@ -653,7 +831,7 @@ export function filterRowsBySegment(
     }
   }
 
-  return rows;
+  return normalizedRows;
 }
 
 export function getAllSports(): SportDef[] {

@@ -446,6 +446,8 @@ def main() -> None:
             rankings_filename="rankings_2025-26.json",
             default_season="2025-26",
         )
+        if code == "football":
+            _export_sidearm_conference_jsons(data_dir, out_dir, sport_code="football", file_tag="2025_26")
 
     # Prefer 2026–27 baseball when scraped; overwrites sports/baseball/* from the loop above.
     baseball_2627 = data_dir / "d3_baseball_player_rankings_2026_27.csv"
@@ -522,6 +524,65 @@ def _export_baseball_conference_jsons(data_dir: Path, out_dir: Path, *, file_tag
         encoding="utf-8",
     )
     print(f"Wrote baseball conference JSONs ({file_tag}) -> {conf_dir}")
+
+
+def _export_sidearm_conference_jsons(
+    data_dir: Path,
+    out_dir: Path,
+    *,
+    sport_code: str,
+    file_tag: str,
+) -> None:
+    """
+    Write sports/{sport_code}/conferences/{code}.json from global rankings for a sidearm sport.
+    """
+    conf_dir = out_dir / "sports" / sport_code / "conferences"
+    conf_dir.mkdir(parents=True, exist_ok=True)
+    global_rankings_path = data_dir / f"d3_{sport_code}_player_rankings_{file_tag}.csv"
+    if not global_rankings_path.exists():
+        print(f"Skipping {sport_code} conference export; missing {global_rankings_path.name}")
+        return
+    global_df = pd.read_csv(global_rankings_path, low_memory=False).copy()
+    if global_df.empty or "conference_code" not in global_df.columns:
+        print(f"Skipping {sport_code} conference export; global rankings missing conference_code")
+        return
+    if "global_rank" not in global_df.columns and "rank" in global_df.columns:
+        global_df = global_df.rename(columns={"rank": "global_rank"})
+    if "global_rank" not in global_df.columns:
+        global_df["global_rank"] = range(1, len(global_df) + 1)
+    global_df = global_df.sort_values("global_rank", ascending=True).reset_index(drop=True)
+    rename_map = {k: v for k, v in COLUMN_RENAMES.items() if k in global_df.columns}
+    if rename_map:
+        global_df = global_df.rename(columns=rename_map)
+
+    index_rows: list[dict[str, object]] = []
+
+    for conf_code, df in global_df.groupby("conference_code", dropna=True):
+        conf_code = str(conf_code)
+        df = df.sort_values("global_rank", ascending=True).reset_index(drop=True)
+        records = _json_safe(df).to_dict(orient="records")
+        (conf_dir / f"{conf_code}.json").write_text(
+            json.dumps(records, allow_nan=False),
+            encoding="utf-8",
+        )
+        players_path = data_dir / f"{conf_code}_{sport_code}_players_{file_tag}.csv"
+        player_count = len(pd.read_csv(players_path, low_memory=False)) if players_path.exists() else len(df)
+        conf_name = str(df["conference"].iloc[0]) if "conference" in df.columns and len(df) else conf_code
+        index_rows.append(
+            {
+                "conference_code": conf_code,
+                "conference": conf_name,
+                "player_count": int(player_count),
+                "ranked_count": int(len(df)),
+            }
+        )
+
+    index_rows = sorted(index_rows, key=lambda r: str(r["conference"]).lower())
+    (conf_dir / "index.json").write_text(
+        json.dumps(index_rows, allow_nan=False, indent=2),
+        encoding="utf-8",
+    )
+    print(f"Wrote {sport_code} conference JSONs ({file_tag}) -> {conf_dir}")
 
 
 if __name__ == "__main__":

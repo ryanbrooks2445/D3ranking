@@ -106,6 +106,8 @@ export default async function ConferenceRankingsPage({
       ? segmentParam
       : code === "baseball"
         ? "batting"
+        : code === "football"
+          ? "qb"
         : "";
   const filteredRows = segmentId
     ? filterRowsBySegment(code, segmentId, rows)
