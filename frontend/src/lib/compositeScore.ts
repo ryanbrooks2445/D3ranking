@@ -48,13 +48,11 @@ const COMPOSITE_EXPLANATIONS: Record<string, string> = {
     "QB emphasizes passing and efficiency, Skill blends rushing/receiving production, Defense leans on tackles, sacks, interceptions, and disruptions, " +
     "and Special Teams highlights kicking, punting, and return value. Composite score is normalized within the football dataset and OVR is derived from rank.",
   mgolf:
-    "Composite score is a weighted combination of golf scoring metrics, normalized (z-scores) across all players: " +
-    "scoring average, vs par, rounds/strokes, and top finishes. Lower scoring averages are weighted positively via inverse weighting. " +
-    "Higher score = better season performance. OVR is derived from rank.",
+    "Rankings use Clippd Scoreboard NCAA Division III data. D3Rank orders eligible players (minimum stroke-play rounds) by " +
+    "scoring average, then Clippd average points and event wins. Score shows Clippd average points. OVR is derived from D3Rank rank.",
   wgolf:
-    "Composite score is a weighted combination of golf scoring metrics, normalized (z-scores) across all players: " +
-    "scoring average, vs par, rounds/strokes, and top finishes. Lower scoring averages are weighted positively via inverse weighting. " +
-    "Higher score = better season performance. OVR is derived from rank.",
+    "Rankings use Clippd Scoreboard NCAA Division III data. D3Rank orders eligible players (minimum stroke-play rounds) by " +
+    "scoring average, then Clippd average points and event wins. Score shows Clippd average points. OVR is derived from D3Rank rank.",
   mten:
     "Composite score is a weighted combination of tennis results, normalized (z-scores) across all players: " +
     "singles wins, doubles wins, total wins, and win percentage, with losses negatively weighted. " +

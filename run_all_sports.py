@@ -39,6 +39,9 @@ def main() -> None:
     for sport in SPORTS:
         if sport.sidearm_path is None:
             continue
+        # Golf uses Clippd leaderboard ingest (run_golf_rankings.py), not Sidearm.
+        if sport.code in ("mgolf", "wgolf"):
+            continue
 
         sport_players_parts: list[pd.DataFrame] = []
 

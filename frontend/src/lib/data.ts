@@ -42,7 +42,7 @@ export async function readDataFileSafe(relativePath: string): Promise<string | n
 const DEFAULT_SEASON = "2025-26";
 
 /** Sports whose current data is from the prior season (spring sports; next season not yet available). Baseball uses meta.json season when present. */
-const PRIOR_YEAR_DATA_SPORTS = ["softball", "mlax", "wlax", "mgolf", "wgolf", "mten", "wten"];
+const PRIOR_YEAR_DATA_SPORTS = ["softball", "mlax", "wlax", "mten", "wten"];
 const PRIOR_YEAR_SEASON_LABEL = "2024-25";
 const PRIOR_YEAR_NOTE = "Last season's data. Current season rankings will update when available.";
 

@@ -1,0 +1,7 @@
+{
+  "sport_code": "wgolf",
+  "sport_label": "Women's Golf",
+  "season": "2025-26",
+  "data_source": "clippd_scoreboard",
+  "data_source_url": "https://scoreboard.clippd.com/players/search?division=NCAA+Division+III"
+}

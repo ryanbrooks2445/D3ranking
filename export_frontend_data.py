@@ -28,8 +28,9 @@ from ncaa_rankings.conferences import load_conferences
 OTHER_SPORT_CODES = [
     "wbb", "mvb", "wvb", "baseball", "softball",
     "mhky", "whky", "mlax", "wlax", "msoc", "wsoc",
-    "football", "mgolf", "wgolf", "mten", "wten",
+    "football", "mten", "wten",
 ]
+GOLF_SPORT_CODES = ("mgolf", "wgolf")
 # Optional column renames so frontend column keys match (e.g. sports.ts expects earned_run_avg).
 COLUMN_RENAMES = {
     "pitching_stats_earned_run_average": "pitching_stats_earned_run_avg",
@@ -448,6 +449,26 @@ def main() -> None:
         )
         if code == "football":
             _export_sidearm_conference_jsons(data_dir, out_dir, sport_code="football", file_tag="2025_26")
+
+    for code in GOLF_SPORT_CODES:
+        csv_path = data_dir / f"d3_{code}_player_rankings_2025_26.csv"
+        if not csv_path.exists():
+            print(f"Skipping {code}; run: python run_golf_rankings.py", flush=True)
+            continue
+        export_sidearm_global_and_meta(
+            code,
+            csv_path,
+            rankings_filename="rankings_2025-26.json",
+            default_season="2025-26",
+        )
+        _export_sidearm_conference_jsons(data_dir, out_dir, sport_code=code, file_tag="2025_26")
+        sport_dir = out_dir / "sports" / code
+        meta_path = sport_dir / "meta.json"
+        if meta_path.exists():
+            meta = json.loads(meta_path.read_text(encoding="utf-8"))
+            meta["data_source"] = "clippd_scoreboard"
+            meta["data_source_url"] = "https://scoreboard.clippd.com/players/search?division=NCAA+Division+III"
+            meta_path.write_text(json.dumps(meta, indent=2), encoding="utf-8")
 
     # Prefer 2026–27 baseball when scraped; overwrites sports/baseball/* from the loop above.
     baseball_2627 = data_dir / "d3_baseball_player_rankings_2026_27.csv"
