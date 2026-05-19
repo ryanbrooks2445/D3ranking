@@ -13,7 +13,7 @@ export default async function DashboardLayout({
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100">
       <header className="sticky top-0 z-20 border-b-2 border-blue-500/30 bg-slate-900/95 backdrop-blur-md">
-        <div className="mx-auto flex h-14 min-h-[3.5rem] max-w-6xl flex-wrap items-center justify-between gap-2 px-4 py-2 sm:h-16 sm:px-6">
+        <div className="site-container flex h-14 min-h-[3.5rem] flex-wrap items-center justify-between gap-2 px-4 py-2 sm:h-16 sm:px-6">
           <Link
             href="/dashboard"
             className="flex items-center gap-2 text-lg font-bold tracking-tight text-white sm:text-xl"
@@ -56,7 +56,7 @@ export default async function DashboardLayout({
       </header>
 
       {/* Mobile: horizontal sport strip. Desktop: sidebar + main */}
-      <div className="mx-auto flex max-w-6xl flex-col px-4 py-4 sm:px-6 md:flex-row md:gap-0 md:py-8">
+      <div className="site-container flex flex-col px-4 py-4 sm:px-6 md:flex-row md:gap-0 md:py-8">
         {/* Mobile sport strip: scroll horizontally */}
         <div className="md:hidden -mx-4 mb-4 overflow-x-auto overflow-y-hidden px-4 pb-1" style={{ WebkitOverflowScrolling: "touch" }}>
           <div className="flex min-w-max gap-2">

@@ -26,10 +26,25 @@
   -webkit-overflow-scrolling: touch;
 }
 
+html {
+  overflow-x: clip;
+}
+
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: clip;
+}
+
+/* Site content width — keep header/main aligned on desktop */
+.site-container {
+  width: 100%;
+  max-width: 80rem; /* 1280px — matches max-w-7xl */
+  margin-left: auto;
+  margin-right: auto;
 }

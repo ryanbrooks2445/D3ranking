@@ -168,7 +168,7 @@ export function SportPlayerRankingsTable({
       : filtered;
 
   return (
-    <div className="space-y-5">
+    <div className="w-full min-w-0 max-w-full space-y-5">
       {title && (
         <h2 className="text-lg font-semibold text-white">{title}</h2>
       )}
@@ -235,6 +235,8 @@ export function SportPlayerRankingsTable({
                       const isOvr = col.key === "rating";
                       const isScore = col.key === "composite_score";
                       const isPlayerName = col.key === "player_name";
+                      const isTeam = col.key === "team";
+                      const isConference = col.key === "conference";
                       const isPosition = col.key === "position";
                       const displayVal = isPlayerName
                         ? formatPlayerName(row)
@@ -286,7 +288,8 @@ export function SportPlayerRankingsTable({
                       return (
                         <td
                           key={col.key}
-                          className={`px-4 py-3.5 ${isRank ? "font-bold text-slate-200" : "text-slate-300"} ${isOvr && !ovrBadgeClass ? "text-slate-500" : ""} ${isPlayerName ? "min-w-[140px] whitespace-nowrap font-semibold" : ""} ${isScore ? "tabular-nums" : ""}`}
+                          className={`px-4 py-3.5 ${isRank ? "font-bold text-slate-200" : "text-slate-300"} ${isOvr && !ovrBadgeClass ? "text-slate-500" : ""} ${isPlayerName ? "min-w-[8rem] max-w-[11rem] whitespace-nowrap font-semibold" : ""} ${isTeam || isConference ? "max-w-[10rem] truncate" : ""} ${isScore ? "tabular-nums" : ""}`}
+                          title={isTeam || isConference ? String(displayVal) : undefined}
                         >
                           {isOvr && !isLockedMetric ? (
                             <span title={OVR_TOOLTIP}>{cellContent}</span>

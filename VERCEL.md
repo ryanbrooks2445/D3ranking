@@ -135,3 +135,33 @@ Either way, the data on GitHub must include the **new** export (with `season`, `
 5. Refresh the page. The site will treat you as Pro until the cookie is removed or expires.
 
 Use this to check what paying users see (full lists, OVR, Score, search) before you launch.
+
+---
+
+## 7. Athlete profiles (Postgres sync)
+
+Public profile pages (`/athletes/...`), search, trending, and ranking-table links need a **real** PostgreSQL `DATABASE_URL` — not the placeholder `your-postgres-url`.
+
+1. Create a database (pick one):
+   - **Vercel:** Project → **Storage** → Create Postgres → copy `POSTGRES_URL` into env as `DATABASE_URL`
+   - **Neon:** [neon.tech](https://neon.tech) → connection string (must start with `postgresql://`)
+2. In `frontend/`, copy env template and set the URL:
+   ```bash
+   cp .env.example .env.local
+   # Edit .env.local — paste your real connection string
+   ```
+3. Install deps and migrate (from `frontend/`):
+   ```bash
+   npm install
+   export $(grep -v '^#' .env.local | xargs)   # loads DATABASE_URL on macOS
+   npx prisma migrate deploy
+   npm run db:sync-rankings
+   ```
+   Or in one line if you already exported `DATABASE_URL`:
+   ```bash
+   DATABASE_URL="postgresql://..." npx prisma migrate deploy && npm run db:sync-rankings
+   ```
+
+Re-run `npm run db:sync-rankings` after each `export_frontend_data.py` push for MBB and baseball.
+
+If you see `tsx: command not found`, run `npm install` in `frontend/` first (the script uses `npx tsx`).

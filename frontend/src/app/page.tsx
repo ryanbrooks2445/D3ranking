@@ -12,7 +12,7 @@ export default async function Home() {
   return (
     <div className="min-h-screen bg-slate-950 text-slate-100">
       <header className="border-b border-slate-800/80 bg-slate-950/95 backdrop-blur-sm">
-        <div className="mx-auto flex h-14 min-h-[3.5rem] max-w-5xl flex-wrap items-center justify-between gap-2 px-4 py-2 sm:h-16 sm:px-6">
+        <div className="site-container flex h-14 min-h-[3.5rem] flex-wrap items-center justify-between gap-2 px-4 py-2 sm:h-16 sm:px-6">
           <Link
             href="/"
             className="text-lg font-semibold tracking-tight text-white"
@@ -30,7 +30,7 @@ export default async function Home() {
         </div>
       </header>
 
-      <main className="mx-auto max-w-5xl px-4 sm:px-6 py-16 sm:py-20">
+      <main className="site-container px-4 sm:px-6 py-16 sm:py-20">
         <section className="text-center">
           <h1 className="text-3xl font-bold tracking-tight text-white sm:text-4xl lg:text-5xl">
             NCAA Division III
@@ -76,7 +76,7 @@ export default async function Home() {
           </div>
         </section>
 
-        <section className="mt-16 sm:mt-20 max-w-2xl mx-auto">
+        <section className="mt-16 sm:mt-20">
           <TrendingAthletes limit={6} />
         </section>
 
