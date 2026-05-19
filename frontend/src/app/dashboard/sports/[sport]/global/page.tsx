@@ -8,6 +8,7 @@ import Link from "next/link";
 import { getSport, getSportSegmentColumns, filterRowsBySegment, isSportUnderConstruction } from "@/lib/sports";
 import { isPro } from "@/lib/auth";
 import { SportPlayerRankingsTable } from "@/components/SportPlayerRankingsTable";
+import { getProfileSlugMapForSport, slugMapToRecord } from "@/lib/athletes";
 import { SegmentTabs } from "@/components/SegmentTabs";
 import { CompositeScoreExplainer } from "@/components/CompositeScoreExplainer";
 import { UnderConstructionBanner } from "@/components/UnderConstructionBanner";
@@ -129,6 +130,15 @@ export default async function GlobalRankingsPage({
   const { seasonLabel, note: seasonNote } = await getSeasonDisplay(code);
   const dataQualityNote = getDataQualityNote(code);
 
+  let profileSlugLookup: Record<string, string> | undefined;
+  if (code === "mbb" || code === "baseball") {
+    try {
+      profileSlugLookup = slugMapToRecord(await getProfileSlugMapForSport(code));
+    } catch {
+      profileSlugLookup = undefined;
+    }
+  }
+
   return (
     <div className="space-y-8">
       <header>
@@ -179,6 +189,9 @@ export default async function GlobalRankingsPage({
         columns={columns}
         isPro={pro}
         freeRowLimit={25}
+        profileSlugLookup={profileSlugLookup}
+        sportCode={code}
+        segmentId={segmentId || undefined}
       />
     </div>
   );

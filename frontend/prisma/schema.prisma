@@ -7,22 +7,208 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+enum UserRole {
+  user
+  admin
+}
+
+enum ClaimStatus {
+  unclaimed
+  pending
+  verified
+}
+
+enum ProfileClaimRequestStatus {
+  pending
+  approved
+  rejected
+}
+
+enum RankingEngine {
+  mbb
+  baseball_tiered
+  composite
+  clippd_golf
+}
+
 model User {
   id                 String   @id @default(cuid())
   email              String?  @unique
   passwordHash       String?
-  stripeCustomerId   String?  @unique // set when they complete checkout; links to ProSubscription
+  name               String?
+  role               UserRole @default(user)
+  stripeCustomerId   String?  @unique
   subscriptionActive Boolean  @default(false)
   createdAt          DateTime @default(now())
+
+  claimedAthletes      Athlete[]             @relation("ClaimedAthletes")
+  profileClaimRequests ProfileClaimRequest[]
 }
 
 model ProSubscription {
   id                   String   @id @default(cuid())
-  stripeCustomerId      String   @unique
-  stripeSubscriptionId  String?
-  status                String   // active | canceled | past_due | unpaid | trialing
-  createdAt             DateTime @default(now())
-  updatedAt             DateTime @updatedAt
+  stripeCustomerId     String   @unique
+  stripeSubscriptionId String?
+  status               String
+  createdAt            DateTime @default(now())
+  updatedAt            DateTime @updatedAt
 
   @@index([stripeCustomerId, status])
+}
+
+model Sport {
+  id            String        @id @default(cuid())
+  code          String        @unique
+  label         String
+  sidearmPath   String?
+  rankingEngine RankingEngine @default(composite)
+  isActive      Boolean       @default(true)
+  createdAt     DateTime      @default(now())
+
+  seasons Season[]
+  teams   Team[]
+}
+
+model Conference {
+  id     String  @id @default(cuid())
+  code   String  @unique
+  name   String
+  region String?
+
+  teams          Team[]
+  athleteSeasons AthleteSeason[]
+}
+
+model Season {
+  id        String  @id @default(cuid())
+  label     String
+  sportId   String
+  sport     Sport   @relation(fields: [sportId], references: [id], onDelete: Cascade)
+  startYear Int?
+  endYear   Int?
+  isCurrent Boolean @default(false)
+
+  athleteSeasons AthleteSeason[]
+  teams          Team[]
+
+  @@unique([sportId, label])
+  @@index([sportId, isCurrent])
+}
+
+model Team {
+  id               String  @id @default(cuid())
+  slug             String
+  name             String
+  sportId          String
+  sport            Sport       @relation(fields: [sportId], references: [id], onDelete: Cascade)
+  conferenceId     String?
+  conference       Conference? @relation(fields: [conferenceId], references: [id], onDelete: SetNull)
+  seasonId         String?
+  season           Season?     @relation(fields: [seasonId], references: [id], onDelete: SetNull)
+  externalSchoolId String?
+
+  athleteSeasons AthleteSeason[]
+
+  @@unique([sportId, seasonId, slug])
+  @@index([conferenceId])
+  @@index([sportId, name])
+}
+
+model Athlete {
+  id              String      @id @default(cuid())
+  slug            String      @unique
+  displayName     String
+  firstName       String?
+  lastName        String?
+  claimStatus     ClaimStatus @default(unclaimed)
+  claimedByUserId String?
+  claimedByUser   User?       @relation("ClaimedAthletes", fields: [claimedByUserId], references: [id], onDelete: SetNull)
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
+
+  externalIds          AthleteExternalId[]
+  seasons              AthleteSeason[]
+  profileViews         ProfileView[]
+  profileClaimRequests ProfileClaimRequest[]
+
+  @@index([displayName])
+}
+
+model AthleteExternalId {
+  id         String @id @default(cuid())
+  athleteId  String
+  athlete    Athlete @relation(fields: [athleteId], references: [id], onDelete: Cascade)
+  source     String
+  externalId String
+
+  @@unique([source, externalId])
+  @@index([athleteId])
+}
+
+model AthleteSeason {
+  id             String  @id @default(cuid())
+  athleteId      String
+  athlete        Athlete @relation(fields: [athleteId], references: [id], onDelete: Cascade)
+  seasonId       String
+  season         Season  @relation(fields: [seasonId], references: [id], onDelete: Cascade)
+  teamId         String?
+  team           Team?   @relation(fields: [teamId], references: [id], onDelete: SetNull)
+  conferenceId   String?
+  conference     Conference? @relation(fields: [conferenceId], references: [id], onDelete: SetNull)
+  position       String?
+  classYear      String?
+  segment        String  @default("")
+  globalRank     Int?
+  rating         Int?
+  compositeScore Float?
+  stats          Json
+  eligibilityMeta Json?
+  sourceRank     Int?
+  dataSource     String?
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  aiSummary AiPlayerSummary?
+
+  @@unique([athleteId, seasonId, segment])
+  @@index([seasonId, globalRank])
+  @@index([seasonId, rating(sort: Desc)])
+  @@index([teamId])
+  @@index([conferenceId])
+}
+
+model ProfileView {
+  id        String   @id @default(cuid())
+  athleteId String
+  athlete   Athlete  @relation(fields: [athleteId], references: [id], onDelete: Cascade)
+  sessionId String?
+  ipHash    String?
+  createdAt DateTime @default(now())
+
+  @@index([athleteId, createdAt])
+}
+
+model AiPlayerSummary {
+  id              String        @id @default(cuid())
+  athleteSeasonId String        @unique
+  athleteSeason   AthleteSeason @relation(fields: [athleteSeasonId], references: [id], onDelete: Cascade)
+  model           String
+  summaryMarkdown String        @db.Text
+  generatedAt     DateTime      @default(now())
+}
+
+model ProfileClaimRequest {
+  id        String                    @id @default(cuid())
+  athleteId String
+  athlete   Athlete                   @relation(fields: [athleteId], references: [id], onDelete: Cascade)
+  userId    String?
+  user      User?                     @relation(fields: [userId], references: [id], onDelete: SetNull)
+  email     String
+  message   String?
+  status    ProfileClaimRequestStatus @default(pending)
+  createdAt DateTime                  @default(now())
+  updatedAt DateTime                  @updatedAt
+
+  @@index([athleteId, status])
+  @@index([email])
 }

@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { useState, useMemo } from "react";
 import { PRO_TRIAL_LABEL } from "@/lib/billing";
+import { lookupSlugFromMap } from "@/lib/athletes";
 
 type ColDef = { key: string; label: string; pct?: boolean };
 
@@ -95,12 +96,19 @@ export function SportPlayerRankingsTable({
   isPro,
   freeRowLimit,
   title,
+  profileSlugLookup,
+  sportCode,
+  segmentId,
 }: {
   rows: Record<string, unknown>[];
   columns: ColDef[];
   isPro: boolean;
   freeRowLimit: number;
   title?: string;
+  /** Slug lookup from getProfileSlugMapForSport (plain object for client serialization). */
+  profileSlugLookup?: Record<string, string>;
+  sportCode?: string;
+  segmentId?: string;
 }) {
   const [search, setSearch] = useState("");
   const visibleColumns = useMemo(() => {
@@ -239,6 +247,22 @@ export function SportPlayerRankingsTable({
                       // Free preview (top N rows): show real Rank, OVR, Score. Search results: show locked look.
                       const isLockedMetric = !isPro && hasSearch && (isRank || isOvr || isScore);
                       const lockedLabel = isOvr ? "Get OVR" : isScore ? "Get score" : "Unlock";
+                      let profileSlug: string | null = null;
+                      if (isPlayerName && profileSlugLookup && sportCode) {
+                        const nameForLookup = formatPlayerName(row);
+                        const team = row.team != null ? String(row.team) : undefined;
+                        const seg =
+                          segmentId ??
+                          (row.segment != null ? String(row.segment) : undefined);
+                        profileSlug = lookupSlugFromMap(
+                          profileSlugLookup,
+                          sportCode,
+                          nameForLookup,
+                          team,
+                          seg,
+                        );
+                      }
+
                       const cellContent = isLockedMetric ? (
                         <Link
                           href="/#pricing"
@@ -246,6 +270,13 @@ export function SportPlayerRankingsTable({
                         >
                           <span className="inline-block h-1.5 w-1.5 rounded-full bg-amber-400" />
                           {lockedLabel}
+                        </Link>
+                      ) : isPlayerName && profileSlug ? (
+                        <Link
+                          href={`/athletes/${profileSlug}`}
+                          className="text-blue-400 hover:text-blue-300 hover:underline"
+                        >
+                          {displayVal}
                         </Link>
                       ) : isOvr && ovrBadgeClass ? (
                         <span className={ovrBadgeClass}>{displayVal}</span>

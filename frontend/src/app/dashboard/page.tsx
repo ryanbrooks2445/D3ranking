@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getAllSports } from "@/lib/sports";
 import { getSeason } from "@/lib/data";
 import { PRO_TRIAL_LABEL } from "@/lib/billing";
+import { TrendingAthletes } from "@/components/athlete/TrendingAthletes";
 
 export default async function DashboardPage() {
   const sports = getAllSports();
@@ -31,6 +32,8 @@ export default async function DashboardPage() {
           </span>
         </div>
       </section>
+
+      <TrendingAthletes limit={10} />
 
       <section>
         <h2 className="mb-5 text-base font-bold uppercase tracking-wider text-slate-400">

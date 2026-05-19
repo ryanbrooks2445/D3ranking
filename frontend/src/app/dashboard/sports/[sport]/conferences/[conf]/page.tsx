@@ -4,6 +4,7 @@ import { getSport, getSportSegmentColumns, filterRowsBySegment, isSportUnderCons
 import { isPro } from "@/lib/auth";
 import { formatConferenceDisplayName } from "@/lib/conferences";
 import { SportPlayerRankingsTable } from "@/components/SportPlayerRankingsTable";
+import { getProfileSlugMapForSport, slugMapToRecord } from "@/lib/athletes";
 import { SegmentTabs } from "@/components/SegmentTabs";
 import { CompositeScoreExplainer } from "@/components/CompositeScoreExplainer";
 import { UnderConstructionBanner } from "@/components/UnderConstructionBanner";
@@ -143,6 +144,15 @@ export default async function ConferenceRankingsPage({
   const { seasonLabel, note: seasonNote } = await getSeasonDisplay(code);
   const dataQualityNote = getDataQualityNote(code);
 
+  let profileSlugLookup: Record<string, string> | undefined;
+  if (code === "mbb" || code === "baseball") {
+    try {
+      profileSlugLookup = slugMapToRecord(await getProfileSlugMapForSport(code));
+    } catch {
+      profileSlugLookup = undefined;
+    }
+  }
+
   return (
     <div className="space-y-8">
       <header>
@@ -191,6 +201,9 @@ export default async function ConferenceRankingsPage({
         isPro={pro}
         freeRowLimit={5}
         title={`${sportLabel} · ${conferenceName}`}
+        profileSlugLookup={profileSlugLookup}
+        sportCode={code}
+        segmentId={segmentId || undefined}
       />
     </div>
   );

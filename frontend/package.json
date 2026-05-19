@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "DATABASE_URL=\"${DATABASE_URL:-postgresql://localhost:5432/dummy}\" prisma generate && (prisma migrate deploy || true) && next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "db:generate": "prisma generate",
+    "db:migrate": "prisma migrate deploy",
+    "db:sync-rankings": "npx tsx scripts/sync-rankings-to-db.ts"
   },
   "dependencies": {
     "@prisma/client": "^5.22.0",
@@ -25,9 +28,11 @@
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "dotenv": "^16.6.1",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
     "tailwindcss": "^4",
+    "tsx": "^4.19.0",
     "typescript": "^5"
   }
 }

@@ -3,6 +3,7 @@ import { getAllSports } from "@/lib/sports";
 import { CheckoutButton } from "@/components/CheckoutButton";
 import { getSeason } from "@/lib/data";
 import { PRO_TRIAL_DAYS, PRO_TRIAL_LABEL } from "@/lib/billing";
+import { TrendingAthletes } from "@/components/athlete/TrendingAthletes";
 
 export default async function Home() {
   const sports = getAllSports();
@@ -73,6 +74,10 @@ export default async function Home() {
               <span className="block text-sm text-slate-400 mt-0.5">Season</span>
             </div>
           </div>
+        </section>
+
+        <section className="mt-16 sm:mt-20 max-w-2xl mx-auto">
+          <TrendingAthletes limit={6} />
         </section>
 
         <section className="mt-16 sm:mt-20">
