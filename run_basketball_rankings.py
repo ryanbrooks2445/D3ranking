@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import sys
 from pathlib import Path
 
@@ -15,6 +16,14 @@ from ncaa_rankings.conferences import load_conferences
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Scrape and rank D3 men's basketball.")
+    parser.add_argument(
+        "--refresh",
+        action="store_true",
+        help="Re-scrape Sidearm/C2C instead of reading cached data/*_mbb_players_*.csv files.",
+    )
+    args = parser.parse_args()
+
     out_dir = Path("data")
     out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -23,7 +32,15 @@ def main() -> None:
     for conf in conferences:
         print(f"Scraping {conf.code} ({conf.name}) men’s basketball 2025–26...", flush=True)
         try:
-            players = scrape_conference_mbb_players(conference=conf, year="2025", season_label="2025-26")
+            players = scrape_conference_mbb_players(
+                conference=conf,
+                year="2025",
+                season_label="2025-26",
+                refresh=args.refresh,
+            )
+            if players.empty:
+                print(f"  {conf.code}: skipping MBB (0 players)", flush=True)
+                continue
             rankings = rank_mbb_players(players, min_gp=10, min_mpg=10.0)
         except Exception as e:
             print(f"  {conf.code}: skipping MBB scrape/rank: {e}", flush=True)

@@ -54,6 +54,10 @@ def main() -> None:
             print(f"Skipping {conf.code} {SIDEARM_PATH}: {e}", flush=True)
             continue
 
+        if players.empty:
+            print(f"Skipping {conf.code} {SIDEARM_PATH}: 0 players (keeping existing CSV)", flush=True)
+            continue
+
         players_path = out_dir / f"{conf.code}_{SPORT_CODE}_players_{FILE_TAG}.csv"
         players.to_csv(players_path, index=False)
         print(f"{conf.code}: wrote {len(players)} players -> {players_path.name}", flush=True)

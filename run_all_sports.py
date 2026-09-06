@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import sys
 from pathlib import Path
 
@@ -31,6 +32,15 @@ except ImportError as e:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Scrape and rank non-MBB Sidearm sports.")
+    parser.add_argument(
+        "--skip-codes",
+        default="",
+        help="Comma-separated sport codes to skip (e.g. baseball when using run_baseball_2026_27.py).",
+    )
+    args = parser.parse_args()
+    skip_codes = {c.strip() for c in args.skip_codes.split(",") if c.strip()}
+
     out_dir = Path("data")
     out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -41,6 +51,9 @@ def main() -> None:
             continue
         # Golf uses Clippd leaderboard ingest (run_golf_rankings.py), not Sidearm.
         if sport.code in ("mgolf", "wgolf"):
+            continue
+        if sport.code in skip_codes:
+            print(f"Skipping {sport.code} (--skip-codes)", flush=True)
             continue
 
         sport_players_parts: list[pd.DataFrame] = []
@@ -62,6 +75,10 @@ def main() -> None:
                 )
             except Exception as e:
                 print(f"Skipping {conf.code} {sport.sidearm_path}: {e}", flush=True)
+                continue
+
+            if players.empty:
+                print(f"Skipping {conf.code} {sport.sidearm_path}: 0 players (keeping existing CSV)", flush=True)
                 continue
 
             players_path = out_dir / f"{conf.code}_{sport.code}_players_2025_26.csv"
