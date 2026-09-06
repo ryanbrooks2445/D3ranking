@@ -56,6 +56,14 @@ SPORT_LABELS = {
 }
 
 
+def _csv_row_count(path: Path, fallback: int) -> int:
+    """Row count for an optional per-conference players CSV; empty files are not fatal."""
+    try:
+        return len(pd.read_csv(path, low_memory=False))
+    except (pd.errors.EmptyDataError, pd.errors.ParserError, OSError):
+        return fallback
+
+
 def _rating_from_rank(rank_series: pd.Series) -> pd.Series:
     """OVR: 3×99, 3×98, 3×97, 3×96, then scale 95 down to 50 for the rest."""
     n = len(rank_series)
@@ -528,7 +536,7 @@ def _export_baseball_conference_jsons(data_dir: Path, out_dir: Path, *, file_tag
             encoding="utf-8",
         )
         players_path = data_dir / f"{conf_code}_baseball_players_{file_tag}.csv"
-        player_count = len(pd.read_csv(players_path, low_memory=False)) if players_path.exists() else len(df)
+        player_count = _csv_row_count(players_path, len(df)) if players_path.exists() else len(df)
         conf_name = str(df["conference"].iloc[0]) if "conference" in df.columns and len(df) else conf_code
         index_rows.append(
             {
@@ -587,7 +595,7 @@ def _export_sidearm_conference_jsons(
             encoding="utf-8",
         )
         players_path = data_dir / f"{conf_code}_{sport_code}_players_{file_tag}.csv"
-        player_count = len(pd.read_csv(players_path, low_memory=False)) if players_path.exists() else len(df)
+        player_count = _csv_row_count(players_path, len(df)) if players_path.exists() else len(df)
         conf_name = str(df["conference"].iloc[0]) if "conference" in df.columns and len(df) else conf_code
         index_rows.append(
             {

@@ -143,23 +143,32 @@ def _normalize_sidearm_mbb_players(
         return raw
 
     out = raw.copy()
-    rename = {src: dst for src, dst in _SIDEARM_MBB_COLUMN_MAP.items() if src in out.columns}
+    rename: dict[str, str] = {}
+    used_dest: set[str] = set()
+    for src, dst in _SIDEARM_MBB_COLUMN_MAP.items():
+        if src not in out.columns or dst in used_dest:
+            continue
+        rename[src] = dst
+        used_dest.add(dst)
     if rename:
         out = out.rename(columns=rename)
+    # Guard against duplicate names if the raw payload already had dest columns.
+    out = out.loc[:, ~out.columns.duplicated()].copy()
 
     if "gp" not in out.columns:
         return pd.DataFrame()
 
-    out["gp"] = pd.to_numeric(out["gp"], errors="coerce")
+    gp = pd.to_numeric(out["gp"], errors="coerce")
+    out["gp"] = gp
     if "mp_total" in out.columns:
         out["mp_total"] = pd.to_numeric(out["mp_total"], errors="coerce")
-        out["mpg"] = out["mp_total"] / out["gp"].replace(0, pd.NA)
+        out["mpg"] = out["mp_total"] / gp.replace(0, pd.NA)
     elif "mpg" not in out.columns:
         out["mpg"] = pd.NA
 
     if "tov_total" in out.columns:
         out["tov_total"] = pd.to_numeric(out["tov_total"], errors="coerce")
-        out["tov_pg"] = out["tov_total"] / out["gp"].replace(0, pd.NA)
+        out["tov_pg"] = out["tov_total"] / gp.replace(0, pd.NA)
     elif "tov_pg" not in out.columns:
         out["tov_pg"] = pd.NA
 
