@@ -18,6 +18,10 @@ on:
         description: "Optional jobs: mbb,sidearm,baseball,golf,export (empty = all)"
         type: string
         default: ""
+      skip_instagram:
+        description: "Skip the Instagram @d3rank post"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -63,6 +67,19 @@ jobs:
           fi
           python scripts/run_daily_refresh.py "${args[@]+"${args[@]}"}"
 
+      - name: Generate Instagram graphic
+        continue-on-error: true
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: python scripts/instagram_daily_post.py --generate
+
+      - name: Upload Instagram graphic
+        uses: actions/upload-artifact@v4
+        with:
+          name: instagram-daily-graphic
+          path: artifacts/instagram/
+          if-no-files-found: warn
+
       - name: Optional Postgres sync
         env:
           DATABASE_URL: ${{ secrets.DATABASE_URL }}
@@ -84,7 +101,7 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data frontend/public/data
+          git add data frontend/public/data artifacts/instagram
           if git diff --cached --quiet; then
             echo "No ranking data changes to commit."
             exit 0
@@ -102,3 +119,30 @@ jobs:
           done
           echo "Push failed after retries."
           exit 1
+
+      - name: Post to Instagram @d3rank
+        if: ${{ github.event_name == 'schedule' || inputs.skip_instagram != true }}
+        env:
+          PYTHONUNBUFFERED: "1"
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_IMAGE_PUBLIC_URL: ${{ secrets.IG_IMAGE_PUBLIC_URL }}
+        run: |
+          set -euo pipefail
+          if [ -z "${IG_USER_ID:-}" ] || [ -z "${IG_ACCESS_TOKEN:-}" ]; then
+            echo "IG_USER_ID / IG_ACCESS_TOKEN not set; skipping Instagram post."
+            exit 0
+          fi
+          if [ -z "${IG_IMAGE_PUBLIC_URL:-}" ]; then
+            if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.skip_commit }}" = "true" ]; then
+              echo "skip_commit is set and IG_IMAGE_PUBLIC_URL is empty; cannot publish (need a public JPEG URL)."
+              exit 0
+            fi
+            sha="$(git rev-parse HEAD)"
+            export IG_IMAGE_PUBLIC_URL="https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/${sha}/artifacts/instagram/daily-rankings.jpg"
+            export IG_IMAGE_REF="$sha"
+          fi
+          python scripts/instagram_daily_post.py --publish --skip-if-no-secrets || {
+            echo "Instagram post failed (non-fatal); rankings refresh still succeeded."
+            exit 0
+          }

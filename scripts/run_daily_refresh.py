@@ -79,6 +79,7 @@ def _check_pipeline() -> int:
             "run_golf_rankings.py",
             "export_frontend_data.py",
             "scripts/sync_rankings_to_db.py",
+            "scripts/instagram_daily_post.py",
             "requirements.txt",
             "ncaa_rankings/sports.py",
             "ncaa_rankings/sidearm_generic.py",
@@ -115,6 +116,15 @@ def _check_pipeline() -> int:
     print(f"OK  sidearm sports: {', '.join(sidearm_sports)}")
     print(f"OK  composite defs: {len(SIDEARM_COMPOSITES)}")
     print(f"OK  imported {len(_imported)} ranking/scrape callables")
+
+    ig = subprocess.run(
+        [sys.executable, str(ROOT / "scripts" / "instagram_daily_post.py"), "--check"],
+        cwd=str(ROOT),
+        check=False,
+    )
+    if ig.returncode != 0:
+        print("Instagram graphic check failed", file=sys.stderr)
+        return ig.returncode
     print("OK  daily refresh pipeline check")
     return 0
 

@@ -6,6 +6,7 @@ on:
       - ".github/workflows/**"
       - "scripts/run_daily_refresh.py"
       - "scripts/sync_rankings_to_db.py"
+      - "scripts/instagram_daily_post.py"
       - "run_*.py"
       - "export_frontend_data.py"
       - "requirements.txt"

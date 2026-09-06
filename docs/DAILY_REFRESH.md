@@ -6,6 +6,7 @@ d3rank.com does **not** scrape at request time. Vercel serves the Next.js app an
 Sidearm / Clippd  →  data/*.csv  →  export_frontend_data.py  →  frontend/public/data/**
                                                               →  GitHub raw (live site)
                                                               →  optional Postgres sync (profiles)
+                                                              →  optional Instagram @d3rank post
 ```
 
 ## What runs automatically
@@ -23,8 +24,10 @@ The job:
    - `run_baseball_2026_27.py` — current baseball season
    - `run_golf_rankings.py` — men’s/women’s golf via Clippd
    - `export_frontend_data.py` — writes `frontend/public/data`
-3. If repo secret `DATABASE_URL` is set, runs `frontend` `npm run db:sync-rankings`. If the secret is missing, this step is skipped (the public site uses GitHub JSON).
-4. Commits and pushes changes under `data/` and `frontend/public/data` to the branch that triggered the workflow (`main` for the schedule).
+3. Generates `artifacts/instagram/daily-rankings.jpg` + caption (MBB top 5).
+4. If repo secret `DATABASE_URL` is set, runs `frontend` `npm run db:sync-rankings`. If the secret is missing, this step is skipped (the public site uses GitHub JSON).
+5. Commits and pushes `data/`, `frontend/public/data`, and `artifacts/instagram` to the branch that triggered the workflow (`main` for the schedule).
+6. If `IG_USER_ID` and `IG_ACCESS_TOKEN` are set, publishes the graphic to Instagram @d3rank. Missing secrets or a publish error do **not** fail the job. Setup: **[docs/INSTAGRAM.md](INSTAGRAM.md)**.
 
 Per-conference scrape failures are skipped; yesterday’s CSV is left in place. Empty scrapes do not overwrite existing conference files. Export still runs so a flaky conference does not block the rest of the site. The Actions log prints a per-job **OK / FAILED** summary.
 
@@ -46,6 +49,9 @@ python scripts/run_daily_refresh.py --only golf,export
 
 # Import / file check (no network, no writes)
 python scripts/run_daily_refresh.py --check
+
+# Instagram graphic only (no post)
+python scripts/instagram_daily_post.py --generate
 ```
 
 Same scripts as the workflow. After a local export:
@@ -60,7 +66,7 @@ The live site reads GitHub raw with a short cache (`revalidate: 60`). A Vercel r
 
 ## Manual trigger and pause
 
-- **Run now:** GitHub → **Actions** → **Daily rankings refresh** → **Run workflow**. Optional inputs: skip scrape, skip commit (dry run), or a subset of jobs.
+- **Run now:** GitHub → **Actions** → **Daily rankings refresh** → **Run workflow**. Optional inputs: skip scrape, skip commit (dry run), skip Instagram, or a subset of jobs.
 - **Pause the schedule:** Actions → **Daily rankings refresh** → ⋮ → **Disable workflow**. Re-enable the same way. Or comment out the `schedule:` block in the YAML.
 
 ## Confirm the first scheduled run
@@ -83,6 +89,7 @@ If a site blocks GitHub Actions IPs, the job still exports last-good CSVs. Re-ru
 | Baseball 2025–26 | Not scraped daily. Production baseball is 2026–27 via `run_baseball_2026_27.py`. |
 | Full-name lookup | `scripts/fetch_full_names_from_rosters.py` is manual (needs `data/roster_urls.csv`). |
 | Postgres / athlete profiles | Optional. Add Actions secret `DATABASE_URL` to enable sync after export. Do not commit credentials. |
+| Instagram @d3rank | Optional. Add `IG_USER_ID` + `IG_ACCESS_TOKEN` (see [INSTAGRAM.md](INSTAGRAM.md)). |
 | Branch protection on `main` | Data commits use `github-actions[bot]`. Allow that actor to push, or run the workflow from a data branch. |
 
 The ranking formula and frontend UI are unchanged. This path only automates scrape → export → git.
