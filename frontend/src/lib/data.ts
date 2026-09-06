@@ -39,7 +39,7 @@ export async function readDataFileSafe(relativePath: string): Promise<string | n
   }
 }
 
-const DEFAULT_SEASON = "2025-26";
+const DEFAULT_SEASON = "2026-27";
 
 /** Sports whose current data is from the prior season (spring sports; next season not yet available). Baseball uses meta.json season when present. */
 const PRIOR_YEAR_DATA_SPORTS = ["softball", "mlax", "wlax", "mten", "wten"];
@@ -48,7 +48,7 @@ const PRIOR_YEAR_NOTE = "Last season's data. Current season rankings will update
 
 /**
  * Get the current season for a sport. Reads from sports/{code}/meta.json when present;
- * otherwise returns the default season (e.g. "2025-26").
+ * otherwise returns the default season (e.g. "2026-27").
  */
 export async function getSeason(sportCode: string): Promise<string> {
   const code = sportCode.toLowerCase();
@@ -70,15 +70,17 @@ export function seasonToRankingsFilename(season: string): string {
 
 /**
  * Path under public/data to the rankings JSON for a sport.
- * Tries meta season first (e.g. rankings_2026-27.json), then rankings_2025-26.json.
+ * Tries meta season first (e.g. rankings_2026-27.json), then prior-season files.
  */
 export async function getSportRankingsJsonPath(sportCode: string): Promise<string> {
   const code = sportCode.toLowerCase();
   const season = await getSeason(code);
   const primary = `sports/${code}/${seasonToRankingsFilename(season)}`;
   if (await readDataFileSafe(primary)) return primary;
-  const fallback = `sports/${code}/rankings_2025-26.json`;
-  if (await readDataFileSafe(fallback)) return fallback;
+  for (const name of ["rankings_2026-27.json", "rankings_2025-26.json"]) {
+    const fallback = `sports/${code}/${name}`;
+    if (fallback !== primary && (await readDataFileSafe(fallback))) return fallback;
+  }
   return primary;
 }
 
@@ -92,8 +94,8 @@ export async function getSeasonDisplay(sportCode: string): Promise<{
 }> {
   const code = sportCode.toLowerCase();
   const season = await getSeason(code);
-  if (PRIOR_YEAR_DATA_SPORTS.includes(code)) {
-    return { seasonLabel: PRIOR_YEAR_SEASON_LABEL, note: PRIOR_YEAR_NOTE };
+  if (PRIOR_YEAR_DATA_SPORTS.includes(code) && season < DEFAULT_SEASON) {
+    return { seasonLabel: season, note: PRIOR_YEAR_NOTE };
   }
   return { seasonLabel: season, note: null };
 }

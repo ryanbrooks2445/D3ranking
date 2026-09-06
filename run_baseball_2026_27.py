@@ -20,13 +20,12 @@ import pandas as pd
 
 from ncaa_rankings.baseball import rank_baseball_players
 from ncaa_rankings.conferences import load_conferences
+from ncaa_rankings.season import FILE_TAG, SEASON_LABEL, SIDEARM_YEAR
 from ncaa_rankings.sidearm_generic import scrape_conference_players_sidearm
 
-YEAR = "2026"
-SEASON_LABEL = "2026-27"
+YEAR = SIDEARM_YEAR
 SPORT_CODE = "baseball"
 SIDEARM_PATH = "baseball"
-FILE_TAG = "2026_27"
 
 
 def main() -> None:

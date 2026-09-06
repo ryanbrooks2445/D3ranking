@@ -19,10 +19,10 @@ The job:
 
 1. Installs Python 3.12 and `requirements.txt`
 2. Runs `scripts/run_daily_refresh.py`, which calls:
-   - `run_basketball_rankings.py --refresh` — live MBB Sidearm/C2C scrape + rank
-   - `run_all_sports.py --skip-codes baseball` — other Sidearm sports (2025–26)
-   - `run_baseball_2026_27.py` — current baseball season
-   - `run_golf_rankings.py` — men’s/women’s golf via Clippd
+   - `run_basketball_rankings.py --refresh` — live MBB Sidearm/C2C scrape + rank (default season 2026–27)
+   - `run_all_sports.py --skip-codes baseball` — other Sidearm sports (Sidearm year=2026 / 2026–27)
+   - `run_baseball_2026_27.py` — baseball 2026–27 (same season constants)
+   - `run_golf_rankings.py` — men’s/women’s golf via Clippd (season 2026–27 / Clippd 2027, falls back if empty)
    - `export_frontend_data.py` — writes `frontend/public/data`
 3. Generates `artifacts/instagram/daily-rankings.jpg` + caption (MBB top 5).
 4. If repo secret `DATABASE_URL` is set, runs `frontend` `npm run db:sync-rankings`. If the secret is missing, this step is skipped (the public site uses GitHub JSON).
@@ -86,7 +86,7 @@ If a site blocks GitHub Actions IPs, the job still exports last-good CSVs. Re-ru
 |------|--------|
 | Presto conferences (4) | No multi-sport scraper. MBB keeps cached CSVs when Sidearm does not apply. |
 | C2C | MBB has a dedicated scraper; other C2C sports are not Sidearm. |
-| Baseball 2025–26 | Not scraped daily. Production baseball is 2026–27 via `run_baseball_2026_27.py`. |
+| Season constants | Production default is 2026–27 (`ncaa_rankings/season.py`). Empty 2026–27 scrapes keep last year’s CSVs. |
 | Full-name lookup | `scripts/fetch_full_names_from_rosters.py` is manual (needs `data/roster_urls.csv`). |
 | Postgres / athlete profiles | Optional. Add Actions secret `DATABASE_URL` to enable sync after export. Do not commit credentials. |
 | Instagram @d3rank | Optional. Add `IG_USER_ID` + `IG_ACCESS_TOKEN` (see [INSTAGRAM.md](INSTAGRAM.md)). |

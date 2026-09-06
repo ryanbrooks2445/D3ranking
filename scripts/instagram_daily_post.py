@@ -76,7 +76,7 @@ def _today_et() -> datetime:
 
 def _mbb_rankings_path() -> Path | None:
     sport_dir = ROOT / "frontend" / "public" / "data" / "sports" / "mbb"
-    season = "2025-26"
+    season = "2026-27"
     meta = sport_dir / "meta.json"
     if meta.exists():
         try:
@@ -86,8 +86,11 @@ def _mbb_rankings_path() -> Path | None:
     primary = sport_dir / f"rankings_{season}.json"
     if primary.exists():
         return primary
-    fallback = sport_dir / "rankings_2025-26.json"
-    return fallback if fallback.exists() else None
+    for fallback_name in ("rankings_2026-27.json", "rankings_2025-26.json"):
+        fallback = sport_dir / fallback_name
+        if fallback.exists():
+            return fallback
+    return None
 
 
 def _load_json_rows(path: Path) -> list[dict[str, Any]]:
@@ -147,10 +150,10 @@ def _fmt_ppg(row: dict[str, Any]) -> str:
 def top_mbb(n: int = 5) -> tuple[str, list[dict[str, Any]]]:
     path = _mbb_rankings_path()
     if path is None:
-        return "2025-26", []
+        return "2026-27", []
     rows = _load_json_rows(path)
     rows = sorted(rows, key=lambda r: int(r.get("global_rank") or 10**9))
-    season = str(rows[0].get("season") or "2025-26") if rows else "2025-26"
+    season = str(rows[0].get("season") or "2026-27") if rows else "2026-27"
     return season, rows[:n]
 
 

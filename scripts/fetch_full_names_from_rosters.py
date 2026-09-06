@@ -115,8 +115,9 @@ def fetch_roster_names(roster_url: str) -> list[str]:
 
 def load_short_name_players() -> pd.DataFrame:
     """Load all MBB players that have single-initial first name (need full name)."""
-    pattern = "*_mbb_players_2025_26.csv"
-    files = list(DATA_DIR.glob(pattern))
+    files = list(DATA_DIR.glob("*_mbb_players_2026_27.csv"))
+    if not files:
+        files = list(DATA_DIR.glob("*_mbb_players_2025_26.csv"))
     files = [f for f in files if not f.name.startswith("d3_")]
     if not files:
         return pd.DataFrame()

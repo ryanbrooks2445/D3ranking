@@ -159,7 +159,7 @@ def scrape_c2c_mbb_players(
     merged = merged[merged["player_name"].str.match(r"^[A-Za-z]", na=False)]
     merged = merged[merged["gp"].notna() & (merged["gp"] > 0)]
 
-    merged["season"] = f"{year}-{int(year) + 1}"
+    merged["season"] = season_label
     merged["conference_code"] = conference.code
     merged["conference"] = conference.name
 

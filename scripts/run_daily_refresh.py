@@ -100,6 +100,7 @@ def _check_pipeline() -> int:
     from ncaa_rankings.conferences import load_conferences
     from ncaa_rankings.golf import ingest_and_rank_clippd_golf
     from ncaa_rankings.ranking import rank_by_composite
+    from ncaa_rankings.season import SEASON_LABEL, SIDEARM_YEAR
     from ncaa_rankings.sidearm_generic import scrape_conference_players_sidearm
     from ncaa_rankings.sports import SPORTS
 
@@ -116,6 +117,7 @@ def _check_pipeline() -> int:
     print(f"OK  sidearm sports: {', '.join(sidearm_sports)}")
     print(f"OK  composite defs: {len(SIDEARM_COMPOSITES)}")
     print(f"OK  imported {len(_imported)} ranking/scrape callables")
+    print(f"OK  production season {SEASON_LABEL} (Sidearm year={SIDEARM_YEAR})")
 
     ig = subprocess.run(
         [sys.executable, str(ROOT / "scripts" / "instagram_daily_post.py"), "--check"],

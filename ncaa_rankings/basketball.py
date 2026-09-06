@@ -8,6 +8,7 @@ import pandas as pd
 
 from .c2c_mbb import scrape_c2c_mbb_players
 from .conferences import Conference
+from .season import FILE_TAG, LEGACY_FILE_TAG, file_tag_from_label
 from .sidearm_generic import scrape_conference_players_sidearm
 
 SIDEARM_MBB_PATH = "mbball"
@@ -232,17 +233,18 @@ def scrape_conference_mbb_players(
     Load men’s basketball players for a conference.
 
     Resolution order:
-    1) data/{code}_mbb_players_{year}_26.csv if present (unless refresh=True).
+    1) data/{code}_mbb_players_{file_tag}.csv if present (unless refresh=True).
     2) Live Sidearm scrape (platform=sidearm) via conf_stats, normalized to MBB columns.
     3) Conference-specific scraper (currently only C2C), then update the cache.
     4) Cached conference CSV if a live scrape returned nothing.
-    5) Filter data/d3_mbb_players_2025_26.csv by conference_code.
+    5) Filter data/d3_mbb_players_{file_tag}.csv by conference_code.
     6) Raise RuntimeError so caller can skip this conference.
     """
     data_dir = Path("data")
+    tag = file_tag_from_label(season_label) if season_label else f"{year}_26"
 
     # 1) Conference-level CSV if it exists (use cached data first, avoids network when site is down)
-    csv_path = data_dir / f"{conference.code}_mbb_players_{year}_26.csv"
+    csv_path = data_dir / f"{conference.code}_mbb_players_{tag}.csv"
     if not refresh and csv_path.exists():
         return pd.read_csv(csv_path)
 
@@ -283,8 +285,12 @@ def scrape_conference_mbb_players(
         return pd.read_csv(csv_path)
 
     # 5) Fallback to global players file, filtered by conference_code
-    global_players_path = data_dir / "d3_mbb_players_2025_26.csv"
-    if global_players_path.exists():
+    global_players_path = None
+    for candidate in (data_dir / f"d3_mbb_players_{tag}.csv", data_dir / f"d3_mbb_players_{FILE_TAG}.csv", data_dir / f"d3_mbb_players_{LEGACY_FILE_TAG}.csv"):
+        if candidate.exists():
+            global_players_path = candidate
+            break
+    if global_players_path is not None:
         all_players = pd.read_csv(global_players_path)
         if "conference_code" in all_players.columns:
             conf_players = all_players[all_players["conference_code"] == conference.code].copy()

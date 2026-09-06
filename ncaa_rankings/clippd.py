@@ -10,7 +10,7 @@ from typing import Any
 
 CLIPPD_SCOREBOARD_BASE = "https://scoreboard.clippd.com"
 DEFAULT_DIVISION = "NCAA Division III"
-DEFAULT_SEASON = "2026"
+DEFAULT_SEASON = "2027"
 DEFAULT_PAGE_SIZE = 500
 DEFAULT_USER_AGENT = (
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "

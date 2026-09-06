@@ -13,6 +13,7 @@ import pandas as pd
 
 from ncaa_rankings.basketball import rank_mbb_players, scrape_conference_mbb_players
 from ncaa_rankings.conferences import load_conferences
+from ncaa_rankings.season import FILE_TAG, SEASON_LABEL, SIDEARM_YEAR
 
 
 def main() -> None:
@@ -30,12 +31,12 @@ def main() -> None:
     conferences = load_conferences()
     all_players: list[pd.DataFrame] = []
     for conf in conferences:
-        print(f"Scraping {conf.code} ({conf.name}) men’s basketball 2025–26...", flush=True)
+        print(f"Scraping {conf.code} ({conf.name}) men’s basketball {SEASON_LABEL}...", flush=True)
         try:
             players = scrape_conference_mbb_players(
                 conference=conf,
-                year="2025",
-                season_label="2025-26",
+                year=SIDEARM_YEAR,
+                season_label=SEASON_LABEL,
                 refresh=args.refresh,
             )
             if players.empty:
@@ -46,8 +47,8 @@ def main() -> None:
             print(f"  {conf.code}: skipping MBB scrape/rank: {e}", flush=True)
             continue
 
-        players_path = out_dir / f"{conf.code}_mbb_players_2025_26.csv"
-        rankings_path = out_dir / f"{conf.code}_mbb_player_rankings_2025_26.csv"
+        players_path = out_dir / f"{conf.code}_mbb_players_{FILE_TAG}.csv"
+        rankings_path = out_dir / f"{conf.code}_mbb_player_rankings_{FILE_TAG}.csv"
         players.to_csv(players_path, index=False)
         rankings.to_csv(rankings_path, index=False)
 
@@ -78,8 +79,8 @@ def main() -> None:
 
         d3_rankings = rank_mbb_players(d3_players, min_gp=10, min_mpg=10.0)
 
-        d3_players_path = out_dir / "d3_mbb_players_2025_26.csv"
-        d3_rankings_path = out_dir / "d3_mbb_player_rankings_2025_26.csv"
+        d3_players_path = out_dir / f"d3_mbb_players_{FILE_TAG}.csv"
+        d3_rankings_path = out_dir / f"d3_mbb_player_rankings_{FILE_TAG}.csv"
         d3_players.to_csv(d3_players_path, index=False)
         d3_rankings.to_csv(d3_rankings_path, index=False)
 

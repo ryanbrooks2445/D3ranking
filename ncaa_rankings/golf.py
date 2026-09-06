@@ -8,6 +8,7 @@ import pandas as pd
 from .clippd import fetch_player_leaderboard
 from .conferences import load_conferences
 from .ranking import _rating_from_rank
+from .season import CLIPPD_SEASON
 
 # Minimum stroke-play rounds to qualify for D3Rank OVR (filters tiny samples).
 DEFAULT_MIN_STROKE_PLAY_ROUNDS = 6
@@ -63,7 +64,7 @@ def clippd_rows_to_players(
     *,
     sport_code: str,
     gender: str,
-    season_label: str = "2025-26",
+    season_label: str = "2026-27",
     conference_lookup: dict[str, str] | None = None,
 ) -> pd.DataFrame:
     lookup = conference_lookup or build_conference_lookup()
@@ -176,8 +177,8 @@ def ingest_and_rank_clippd_golf(
     *,
     sport_code: str,
     gender: str,
-    season_label: str = "2025-26",
-    clippd_season: str = "2026",
+    season_label: str = "2026-27",
+    clippd_season: str = CLIPPD_SEASON,
     min_stroke_play_rounds: int = DEFAULT_MIN_STROKE_PLAY_ROUNDS,
 ) -> tuple[pd.DataFrame, pd.DataFrame]:
     rows = fetch_player_leaderboard(gender=gender, season=clippd_season)
