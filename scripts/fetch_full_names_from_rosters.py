@@ -4,7 +4,7 @@ Build data/player_full_name_lookup.csv by scraping full names from team roster p
 
 Reads:
   - data/roster_urls.csv (conference_code, team, roster_url) — one row per team
-  - data/*_mbb_players_2025_26.csv — finds players with single-initial first names
+  - data/*_mbb_players_{season}.csv — finds players with single-initial first names
 
 For each roster URL, fetches the page and parses player names from roster links (e.g. Sidearm
 bios). Matches by (team, last_name, first_initial) and writes lookup rows.
@@ -27,6 +27,11 @@ import requests
 from bs4 import BeautifulSoup
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
+if str(PROJECT_ROOT) not in sys.path:
+    sys.path.insert(0, str(PROJECT_ROOT))
+
+from ncaa_rankings.season import FILE_TAG, LEGACY_FILE_TAG
+
 DATA_DIR = PROJECT_ROOT / "data"
 ROSTER_URLS_CSV = DATA_DIR / "roster_urls.csv"
 LOOKUP_CSV = DATA_DIR / "player_full_name_lookup.csv"
@@ -115,9 +120,9 @@ def fetch_roster_names(roster_url: str) -> list[str]:
 
 def load_short_name_players() -> pd.DataFrame:
     """Load all MBB players that have single-initial first name (need full name)."""
-    files = list(DATA_DIR.glob("*_mbb_players_2026_27.csv"))
+    files = list(DATA_DIR.glob(f"*_mbb_players_{FILE_TAG}.csv"))
     if not files:
-        files = list(DATA_DIR.glob("*_mbb_players_2025_26.csv"))
+        files = list(DATA_DIR.glob(f"*_mbb_players_{LEGACY_FILE_TAG}.csv"))
     files = [f for f in files if not f.name.startswith("d3_")]
     if not files:
         return pd.DataFrame()
@@ -188,7 +193,7 @@ def main() -> None:
 
     players = load_short_name_players()
     if players.empty:
-        print("No short-name MBB players found in data/*_mbb_players_2025_26.csv", file=sys.stderr)
+        print(f"No short-name MBB players found in data/*_mbb_players_{FILE_TAG}.csv", file=sys.stderr)
         sys.exit(0)
 
     print("Building roster map from roster URLs...")

@@ -26,6 +26,21 @@ def file_tag_from_label(season_label: str) -> str:
     return season_label.strip().replace("-", "_")
 
 
+def season_value_matches(value: str, expected: str) -> bool:
+    """True if a row's season belongs to the expected academic year.
+
+    Accepts both ``2026-27`` and ``2026-2027`` for expected ``2026-27``.
+    """
+    got = (value or "").strip()
+    want = (expected or "").strip()
+    if not got or not want:
+        return False
+    if got == want:
+        return True
+    year = want.split("-", 1)[0]
+    return got.startswith(year)
+
+
 def rankings_json_name(season_label: str) -> str:
     return f"rankings_{season_label.strip()}.json"
 

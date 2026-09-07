@@ -28,9 +28,10 @@ from ncaa_rankings.season import (
     SEASON_LABEL,
     rankings_json_name,
     season_candidates,
+    season_value_matches,
 )
 
-# Sport codes that have data/d3_{code}_player_rankings_2025_26.csv (excluding mbb, handled above).
+# Sport codes that have data/d3_{code}_player_rankings_{FILE_TAG}.csv (excluding mbb, handled above).
 OTHER_SPORT_CODES = [
     "wbb", "mvb", "wvb", "baseball", "softball",
     "mhky", "whky", "mlax", "wlax", "msoc", "wsoc",
@@ -71,10 +72,21 @@ def _nonempty_csv(path: Path) -> bool:
         return False
 
 
+def _csv_season_matches_label(path: Path, expected: str) -> bool:
+    """Skip files whose rows are still last season (filename bumped, data was not)."""
+    try:
+        sample = pd.read_csv(path, usecols=lambda c: c == "season", nrows=50)
+    except (ValueError, pd.errors.EmptyDataError, pd.errors.ParserError, OSError):
+        return True
+    if "season" not in sample.columns or sample.empty:
+        return True
+    return any(season_value_matches(str(s), expected) for s in sample["season"].dropna())
+
+
 def _prefer_sport_csv(data_dir: Path, prefix: str) -> tuple[Path | None, str, str]:
     for tag, label in season_candidates():
         path = data_dir / f"{prefix}_{tag}.csv"
-        if _nonempty_csv(path):
+        if _nonempty_csv(path) and _csv_season_matches_label(path, label):
             return path, tag, label
     return None, FILE_TAG, SEASON_LABEL
 
@@ -93,6 +105,9 @@ def _resolve_mbb_inputs() -> tuple[Path, Path, str, str]:
         if not parts:
             continue
         players = pd.concat([pd.read_csv(p) for p in parts], ignore_index=True)
+        if "season" in players.columns:
+            if not any(season_value_matches(str(s), cand_label) for s in players["season"].dropna().unique()):
+                continue
         if "player_name" in players.columns:
             players["player_name"] = (
                 players["player_name"].astype(str).str.strip().str.replace(r"\s+", " ", regex=True)

@@ -86,7 +86,7 @@ If a site blocks GitHub Actions IPs, the job still exports last-good CSVs. Re-ru
 |------|--------|
 | Presto conferences (4) | No multi-sport scraper. MBB keeps cached CSVs when Sidearm does not apply. |
 | C2C | MBB has a dedicated scraper; other C2C sports are not Sidearm. |
-| Season constants | Production default is 2026–27 (`ncaa_rankings/season.py`). Empty 2026–27 scrapes keep last year’s CSVs. |
+| Season constants | Production default is 2026–27 (`ncaa_rankings/season.py`). Empty 2026–27 scrapes keep last year’s CSVs and do not copy last year’s rows into `*_2026_27.csv` files. |
 | Full-name lookup | `scripts/fetch_full_names_from_rosters.py` is manual (needs `data/roster_urls.csv`). |
 | Postgres / athlete profiles | Optional. Add Actions secret `DATABASE_URL` to enable sync after export. Do not commit credentials. |
 | Instagram @d3rank | Optional. Add `IG_USER_ID` + `IG_ACCESS_TOKEN` (see [INSTAGRAM.md](INSTAGRAM.md)). |

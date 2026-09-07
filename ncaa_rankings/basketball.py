@@ -8,7 +8,7 @@ import pandas as pd
 
 from .c2c_mbb import scrape_c2c_mbb_players
 from .conferences import Conference
-from .season import FILE_TAG, LEGACY_FILE_TAG, file_tag_from_label
+from .season import file_tag_from_label
 from .sidearm_generic import scrape_conference_players_sidearm
 
 SIDEARM_MBB_PATH = "mbball"
@@ -279,24 +279,21 @@ def scrape_conference_mbb_players(
             df.to_csv(csv_path, index=False)
             return df
 
-    # 4) Keep yesterday's conference file if a refresh found nothing
+    # 4) Keep yesterday's same-season conference file if a refresh found nothing.
     if csv_path.exists():
         print(f"  {conference.code}: using cached MBB CSV (live scrape empty/failed)", flush=True)
         return pd.read_csv(csv_path)
 
-    # 5) Fallback to global players file, filtered by conference_code
-    global_players_path = None
-    for candidate in (data_dir / f"d3_mbb_players_{tag}.csv", data_dir / f"d3_mbb_players_{FILE_TAG}.csv", data_dir / f"d3_mbb_players_{LEGACY_FILE_TAG}.csv"):
-        if candidate.exists():
-            global_players_path = candidate
-            break
-    if global_players_path is not None:
+    # 5) Same-season global file only — never copy last year's players into this
+    # season's outputs (empty 2026-27 Sidearm must not become a 2026_27 CSV).
+    global_players_path = data_dir / f"d3_mbb_players_{tag}.csv"
+    if global_players_path.exists():
         all_players = pd.read_csv(global_players_path)
         if "conference_code" in all_players.columns:
             conf_players = all_players[all_players["conference_code"] == conference.code].copy()
             if not conf_players.empty:
                 return conf_players
 
-    # 6) Nothing found
+    # 6) Nothing found for this season
     raise RuntimeError(f"No men’s basketball player data found for conference {conference.code!r}")
 

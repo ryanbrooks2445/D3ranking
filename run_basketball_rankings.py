@@ -13,7 +13,7 @@ import pandas as pd
 
 from ncaa_rankings.basketball import rank_mbb_players, scrape_conference_mbb_players
 from ncaa_rankings.conferences import load_conferences
-from ncaa_rankings.season import FILE_TAG, SEASON_LABEL, SIDEARM_YEAR
+from ncaa_rankings.season import FILE_TAG, SEASON_LABEL, SIDEARM_YEAR, season_value_matches
 
 
 def main() -> None:
@@ -42,6 +42,14 @@ def main() -> None:
             if players.empty:
                 print(f"  {conf.code}: skipping MBB (0 players)", flush=True)
                 continue
+            if "season" in players.columns:
+                seasons = sorted({str(s).strip() for s in players["season"].dropna().unique()})
+                if seasons and not any(season_value_matches(s, SEASON_LABEL) for s in seasons):
+                    print(
+                        f"  {conf.code}: skipping MBB (scraped season {seasons} is not {SEASON_LABEL})",
+                        flush=True,
+                    )
+                    continue
             rankings = rank_mbb_players(players, min_gp=10, min_mpg=10.0)
         except Exception as e:
             print(f"  {conf.code}: skipping MBB scrape/rank: {e}", flush=True)
