@@ -7,25 +7,25 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 6,146,2025-26,Devon Richardson,Aurora,C,Northern Athletics Collegiate Conference (NACC),nacc,28,29.928571428571427,14.29,11.64,0.86,0.29,1.75,1.9642857142857144,5.52034951694969,93
 7,199,2025-26,Juan Madrigal,Aurora,F,Northern Athletics Collegiate Conference (NACC),nacc,28,33.357142857142854,16.32,5.29,2.5,1.39,0.57,1.7142857142857142,5.074186076413058,93
 8,226,2025-26,Andrew Ayeni,Marian,F,Northern Athletics Collegiate Conference (NACC),nacc,28,32.642857142857146,15.39,6.64,3.68,2.07,0.25,2.9642857142857144,4.807263513036051,92
-9,250,2025-26,Peyton Mrotek,Lakeland,G,Northern Athletics Collegiate Conference (NACC),nacc,26,33.69230769230769,16.85,5.88,1.96,0.77,0.77,1.8076923076923077,4.6790106442102335,92
-10,264,2025-26,Braydon Murphy,Dominican,F,Northern Athletics Collegiate Conference (NACC),nacc,24,27.083333333333332,12.58,8.88,1.79,1.04,1.54,2.25,4.592005016422806,92
+9,250,2025-26,Peyton Mrotek,Lakeland,G,Northern Athletics Collegiate Conference (NACC),nacc,26,33.69230769230769,16.85,5.88,1.96,0.77,0.77,1.807692307692308,4.6790106442102335,92
+10,264,2025-26,Braydon Murphy,Dominican,F,Northern Athletics Collegiate Conference (NACC),nacc,24,27.08333333333333,12.58,8.88,1.79,1.04,1.54,2.25,4.592005016422806,92
 11,303,2025-26,Alex Vassilakis,Marian,G,Northern Athletics Collegiate Conference (NACC),nacc,28,32.892857142857146,12.32,8.93,1.54,1.29,0.25,1.0357142857142858,4.278790217213357,91
 12,334,2025-26,Jeffery Hillmer,Aurora,G,Northern Athletics Collegiate Conference (NACC),nacc,28,35.107142857142854,12.0,5.89,2.21,1.14,0.86,1.1428571428571428,4.03273817649674,91
-13,338,2025-26,Jonathan Burroughs,MSOE,F,Northern Athletics Collegiate Conference (NACC),nacc,21,30.333333333333332,15.1,4.52,1.95,1.14,1.19,2.142857142857143,3.9807691977046185,91
+13,338,2025-26,Jonathan Burroughs,MSOE,F,Northern Athletics Collegiate Conference (NACC),nacc,21,30.33333333333333,15.1,4.52,1.95,1.14,1.19,2.142857142857143,3.9807691977046185,91
 14,373,2025-26,Garrison Carter,Illinois Tech,F,Northern Athletics Collegiate Conference (NACC),nacc,25,31.0,16.68,5.64,1.36,1.04,0.4,1.92,3.7778594246232102,90
 15,385,2025-26,Will Stuckey,St. Norbert,G,Northern Athletics Collegiate Conference (NACC),nacc,27,31.185185185185187,13.44,3.81,3.96,1.07,0.15,1.4814814814814814,3.708292489334473,90
 16,420,2025-26,Jaden Bell,Rockford,G,Northern Athletics Collegiate Conference (NACC),nacc,26,31.5,12.42,6.5,2.35,1.31,0.27,1.4615384615384617,3.565642699213146,90
 17,456,2025-26,Frank Paszkowski,Dominican,F,Northern Athletics Collegiate Conference (NACC),nacc,25,28.36,15.04,3.68,1.04,1.2,0.52,1.16,3.342798230576015,89
 18,499,2025-26,Cullen Rauls,Aurora,G,Northern Athletics Collegiate Conference (NACC),nacc,26,31.692307692307693,14.85,2.58,2.19,1.54,0.46,1.8461538461538465,3.131976165775784,89
-19,557,2025-26,Ja'Quell Chisom,Wisconsin Lutheran,F,Northern Athletics Collegiate Conference (NACC),nacc,24,30.083333333333332,14.92,7.63,1.04,0.83,0.5,2.4166666666666665,2.8823248797083023,88
+19,557,2025-26,Ja'Quell Chisom,Wisconsin Lutheran,F,Northern Athletics Collegiate Conference (NACC),nacc,24,30.08333333333333,14.92,7.63,1.04,0.83,0.5,2.4166666666666665,2.8823248797083023,88
 20,567,2025-26,Mekhi Doby,Aurora,G,Northern Athletics Collegiate Conference (NACC),nacc,25,28.96,13.2,4.64,2.8,0.88,0.92,2.44,2.8443439574815903,88
 21,592,2025-26,Derek Lindert,Marian,G,Northern Athletics Collegiate Conference (NACC),nacc,28,28.107142857142858,14.93,2.43,1.36,1.18,0.14,0.9642857142857144,2.77418832313039,87
 22,646,2025-26,Connor Pytleski,St. Norbert,G,Northern Athletics Collegiate Conference (NACC),nacc,26,28.423076923076923,12.04,6.12,1.96,1.12,0.23,1.6538461538461535,2.545689891671038,87
-23,719,2025-26,Jaxson Dillon,Lakeland,G,Northern Athletics Collegiate Conference (NACC),nacc,22,30.681818181818183,15.91,3.59,1.27,1.5,0.14,2.363636363636364,2.2788515766509834,86
+23,719,2025-26,Jaxson Dillon,Lakeland,G,Northern Athletics Collegiate Conference (NACC),nacc,22,30.681818181818183,15.91,3.59,1.27,1.5,0.14,2.363636363636364,2.278851576650984,86
 24,738,2025-26,Chase Cummings,MSOE,G,Northern Athletics Collegiate Conference (NACC),nacc,26,33.03846153846154,11.08,5.0,2.04,0.85,0.19,1.0,2.2110885655828776,85
 25,754,2025-26,Vic Garrett,Concordia Chicago,F,Northern Athletics Collegiate Conference (NACC),nacc,11,19.0,9.27,6.82,0.36,1.09,1.0,1.0909090909090908,2.1467292494012344,85
 26,835,2025-26,Carson Cordelli,MSOE,F,Northern Athletics Collegiate Conference (NACC),nacc,27,27.74074074074074,10.19,5.15,3.04,0.67,0.15,1.3703703703703705,1.9113112152815912,84
-27,860,2025-26,Parker Braun,Lakeland,G,Northern Athletics Collegiate Conference (NACC),nacc,26,30.576923076923077,6.96,6.19,2.04,1.31,0.46,0.8846153846153846,1.828504092944907,84
+27,860,2025-26,Parker Braun,Lakeland,G,Northern Athletics Collegiate Conference (NACC),nacc,26,30.57692307692308,6.96,6.19,2.04,1.31,0.46,0.8846153846153846,1.828504092944907,84
 28,877,2025-26,Ryan Cox,St. Norbert,G,Northern Athletics Collegiate Conference (NACC),nacc,27,26.703703703703702,9.22,5.22,2.81,0.59,0.41,1.2592592592592593,1.752907463320306,83
 29,924,2025-26,Connor Glasgow,Benedictine,F,Northern Athletics Collegiate Conference (NACC),nacc,26,26.46153846153846,10.12,6.0,1.35,0.77,0.38,1.2307692307692308,1.5998771113403865,83
 30,987,2025-26,Nicolas Ortiz,Illinois Tech,G,Northern Athletics Collegiate Conference (NACC),nacc,24,28.875,11.38,4.29,1.96,1.04,0.08,1.625,1.3705779274629493,82
@@ -34,14 +34,14 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 33,1145,2025-26,Cooper Jackson,Rockford,F,Northern Athletics Collegiate Conference (NACC),nacc,26,24.923076923076923,9.88,5.81,1.58,0.46,0.58,1.7692307692307692,0.9260530322451412,80
 34,1147,2025-26,Luke Eggemeyer,Concordia Wisconsin,F,Northern Athletics Collegiate Conference (NACC),nacc,25,25.64,7.2,5.2,1.28,0.84,0.92,1.12,0.9251464842095912,80
 35,1153,2025-26,Darrian Williams,Concordia Chicago,G,Northern Athletics Collegiate Conference (NACC),nacc,28,24.857142857142858,10.57,3.21,2.11,1.36,0.32,2.0357142857142856,0.909805763093388,80
-36,1186,2025-26,John Davis III,Illinois Tech,G,Northern Athletics Collegiate Conference (NACC),nacc,24,29.958333333333332,11.38,3.0,2.33,1.33,0.29,2.4166666666666665,0.8270527441474289,79
+36,1186,2025-26,John Davis III,Illinois Tech,G,Northern Athletics Collegiate Conference (NACC),nacc,24,29.95833333333333,11.38,3.0,2.33,1.33,0.29,2.4166666666666665,0.8270527441474289,79
 37,1188,2025-26,Elijah Daugherty,Dominican,G,Northern Athletics Collegiate Conference (NACC),nacc,24,21.791666666666668,12.29,2.46,1.75,0.71,0.04,1.4166666666666667,0.8160490235515454,79
-38,1256,2025-26,DeVon Oregon,Rockford,G,Northern Athletics Collegiate Conference (NACC),nacc,17,24.235294117647054,10.06,3.65,1.82,1.24,0.18,1.7647058823529411,0.6592717002746555,78
+38,1256,2025-26,DeVon Oregon,Rockford,G,Northern Athletics Collegiate Conference (NACC),nacc,17,24.23529411764705,10.06,3.65,1.82,1.24,0.18,1.7647058823529411,0.6592717002746555,78
 39,1281,2025-26,Ethan Johnson,MSOE,C,Northern Athletics Collegiate Conference (NACC),nacc,24,19.875,7.04,5.63,1.71,0.5,0.79,1.2916666666666667,0.5979500039683434,78
 40,1328,2025-26,Kamren Hogan,Rockford,G,Northern Athletics Collegiate Conference (NACC),nacc,26,24.03846153846154,9.15,4.42,2.15,0.96,0.08,1.6538461538461535,0.4863097361990087,77
 41,1331,2025-26,Aaron Brown,Concordia Chicago,F,Northern Athletics Collegiate Conference (NACC),nacc,28,22.321428571428573,10.14,6.29,0.54,0.29,0.39,1.4285714285714286,0.4737159355926552,77
-42,1406,2025-26,Marvin Haslett,Marian,G,Northern Athletics Collegiate Conference (NACC),nacc,28,24.714285714285715,12.07,1.86,1.29,1.14,0.18,1.8571428571428572,0.3110737152075953,76
-43,1411,2025-26,Logan Steffensmeier,Edgewood,F,Northern Athletics Collegiate Conference (NACC),nacc,27,22.074074074074073,7.63,4.85,1.15,0.59,0.7,1.1851851851851851,0.2853179108866522,76
+42,1406,2025-26,Marvin Haslett,Marian,G,Northern Athletics Collegiate Conference (NACC),nacc,28,24.714285714285715,12.07,1.86,1.29,1.14,0.18,1.8571428571428568,0.3110737152075953,76
+43,1411,2025-26,Logan Steffensmeier,Edgewood,F,Northern Athletics Collegiate Conference (NACC),nacc,27,22.074074074074076,7.63,4.85,1.15,0.59,0.7,1.1851851851851851,0.2853179108866522,76
 44,1414,2025-26,Hunter Hardyman,Edgewood,G,Northern Athletics Collegiate Conference (NACC),nacc,27,23.62962962962963,9.19,2.3,1.07,0.74,0.52,0.8518518518518519,0.2771182517003249,76
 45,1422,2025-26,Trent Tousana,Edgewood,G,Northern Athletics Collegiate Conference (NACC),nacc,27,24.96296296296296,9.41,3.59,3.07,0.78,0.07,2.074074074074074,0.2534975571343503,76
 46,1443,2025-26,Ryan Tucker,Benedictine,F,Northern Athletics Collegiate Conference (NACC),nacc,23,27.0,8.09,3.87,1.13,1.04,0.26,1.0,0.2052099660876387,76
@@ -73,7 +73,7 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 72,2196,2025-26,Emmitt Konieczny,Lakeland,G,Northern Athletics Collegiate Conference (NACC),nacc,23,23.565217391304348,5.22,1.74,0.74,1.0,0.04,0.3478260869565217,-1.6236335398280786,66
 73,2202,2025-26,Nick Galati,Illinois Tech,G,Northern Athletics Collegiate Conference (NACC),nacc,20,21.05,7.6,1.5,0.55,0.5,0.15,0.75,-1.6398123047245838,66
 74,2206,2025-26,Sam Hans,Wisconsin Lutheran,G,Northern Athletics Collegiate Conference (NACC),nacc,24,22.0,6.58,3.92,1.25,0.54,0.0,1.4166666666666667,-1.6461519591831166,66
-75,2234,2025-26,Lucas Anamndu,Wisconsin Lutheran,G,Northern Athletics Collegiate Conference (NACC),nacc,24,24.333333333333332,7.63,2.17,1.75,0.75,0.04,1.8333333333333333,-1.696709515750552,65
+75,2234,2025-26,Lucas Anamndu,Wisconsin Lutheran,G,Northern Athletics Collegiate Conference (NACC),nacc,24,24.33333333333333,7.63,2.17,1.75,0.75,0.04,1.8333333333333333,-1.696709515750552,65
 76,2284,2025-26,AC Strok,Edgewood,G,Northern Athletics Collegiate Conference (NACC),nacc,27,20.0,5.0,3.22,0.89,0.78,0.07,0.8148148148148148,-1.7973553586422746,65
 77,2287,2025-26,Jazz Orozco,Marian,G,Northern Athletics Collegiate Conference (NACC),nacc,28,21.464285714285715,3.68,2.04,1.25,1.64,0.04,0.8928571428571429,-1.8027308019117505,65
 78,2294,2025-26,Jaeden Grade,St. Norbert,G,Northern Athletics Collegiate Conference (NACC),nacc,27,17.40740740740741,5.19,1.78,1.63,0.48,0.04,0.5925925925925926,-1.817758452632853,65
@@ -84,8 +84,8 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 83,2437,2025-26,Alex Greene,Concordia Wisconsin,F,Northern Athletics Collegiate Conference (NACC),nacc,26,16.423076923076923,4.42,3.35,0.54,0.54,0.27,0.6923076923076923,-2.074961334607937,63
 84,2439,2025-26,Austin Wagner,Wisconsin Lutheran,F,Northern Athletics Collegiate Conference (NACC),nacc,22,15.181818181818182,6.45,2.45,0.59,0.32,0.14,0.8636363636363636,-2.083558928787192,63
 85,2450,2025-26,Joey Jendusa,MSOE,G,Northern Athletics Collegiate Conference (NACC),nacc,26,19.615384615384617,5.92,2.12,1.58,0.54,0.19,1.4230769230769231,-2.1056951711813325,62
-86,2494,2025-26,Chase LeFevre,Dominican,F,Northern Athletics Collegiate Conference (NACC),nacc,14,21.785714285714285,3.29,3.64,1.43,0.71,0.14,1.0,-2.1970473491227276,62
-87,2532,2025-26,Jacob Robinson,Concordia Chicago,G,Northern Athletics Collegiate Conference (NACC),nacc,25,15.76,8.36,1.0,1.32,0.4,0.08,1.72,-2.2644231907460477,61
+86,2494,2025-26,Chase LeFevre,Dominican,F,Northern Athletics Collegiate Conference (NACC),nacc,14,21.785714285714285,3.29,3.64,1.43,0.71,0.14,1.0,-2.197047349122728,62
+87,2532,2025-26,Jacob Robinson,Concordia Chicago,G,Northern Athletics Collegiate Conference (NACC),nacc,25,15.76,8.36,1.0,1.32,0.4,0.08,1.72,-2.264423190746048,61
 88,2562,2025-26,Emmanuel Fuller,Dominican,F,Northern Athletics Collegiate Conference (NACC),nacc,18,13.166666666666666,4.56,2.39,0.17,0.94,0.17,0.6666666666666666,-2.3089756413868554,61
 89,2574,2025-26,Igor Filipovic,Illinois Tech,G,Northern Athletics Collegiate Conference (NACC),nacc,10,17.3,3.3,4.3,0.8,0.7,0.1,0.9,-2.3318058307365126,61
 90,2582,2025-26,Bryce Shoto,Illinois Tech,G,Northern Athletics Collegiate Conference (NACC),nacc,18,23.27777777777778,7.44,2.72,1.72,0.67,0.06,2.4444444444444446,-2.347224873332432,61
@@ -101,9 +101,9 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 100,2988,2025-26,Donovan Grunloh,Rockford,G,Northern Athletics Collegiate Conference (NACC),nacc,23,14.782608695652174,3.17,2.09,0.7,0.35,0.13,0.5652173913043478,-3.1748016477403675,55
 101,2992,2025-26,Adison Mittelstadt,Lakeland,G,Northern Athletics Collegiate Conference (NACC),nacc,19,10.947368421052632,4.05,1.68,0.84,0.47,0.21,1.0526315789473684,-3.180843389555166,55
 102,3008,2025-26,Ryan Brown,St. Norbert,G,Northern Athletics Collegiate Conference (NACC),nacc,26,13.923076923076923,2.65,1.58,0.73,0.31,0.15,0.2692307692307692,-3.236059526957037,55
-103,3036,2025-26,JD Davison,Concordia Wisconsin,F,Northern Athletics Collegiate Conference (NACC),nacc,25,10.6,1.12,2.72,0.16,0.32,0.64,0.36,-3.3198309185288957,55
+103,3036,2025-26,JD Davison,Concordia Wisconsin,F,Northern Athletics Collegiate Conference (NACC),nacc,25,10.6,1.12,2.72,0.16,0.32,0.64,0.36,-3.319830918528896,55
 104,3040,2025-26,Joseph Jones,Dominican,F,Northern Athletics Collegiate Conference (NACC),nacc,24,12.958333333333334,3.75,1.46,0.5,0.38,0.13,0.625,-3.3261925650572435,55
-105,3097,2025-26,Jaden Guyton,Concordia Wisconsin,G,Northern Athletics Collegiate Conference (NACC),nacc,25,10.92,3.48,1.4,0.52,0.56,0.0,0.64,-3.4546206391558396,54
+105,3097,2025-26,Jaden Guyton,Concordia Wisconsin,G,Northern Athletics Collegiate Conference (NACC),nacc,25,10.92,3.48,1.4,0.52,0.56,0.0,0.64,-3.45462063915584,54
 106,3122,2025-26,Pierce Arenz,Wisconsin Lutheran,G,Northern Athletics Collegiate Conference (NACC),nacc,22,11.818181818181818,2.27,1.09,1.36,0.77,0.05,0.9090909090909092,-3.540856650543229,53
 107,3129,2025-26,Micai Johnson,Marian,G,Northern Athletics Collegiate Conference (NACC),nacc,16,11.125,2.75,1.13,0.69,0.38,0.0,0.3125,-3.5550876332846943,53
 108,3133,2025-26,Ismael Ndiaye,Dominican,G,Northern Athletics Collegiate Conference (NACC),nacc,25,22.92,4.2,1.2,2.04,0.72,0.08,2.08,-3.55965710847317,53

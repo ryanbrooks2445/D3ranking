@@ -20,13 +20,12 @@ import pandas as pd
 
 from ncaa_rankings.baseball import rank_baseball_players
 from ncaa_rankings.conferences import load_conferences
+from ncaa_rankings.season import FILE_TAG, SEASON_LABEL, SIDEARM_YEAR
 from ncaa_rankings.sidearm_generic import scrape_conference_players_sidearm
 
-YEAR = "2026"
-SEASON_LABEL = "2026-27"
+YEAR = SIDEARM_YEAR
 SPORT_CODE = "baseball"
 SIDEARM_PATH = "baseball"
-FILE_TAG = "2026_27"
 
 
 def main() -> None:
@@ -52,6 +51,10 @@ def main() -> None:
             )
         except Exception as e:
             print(f"Skipping {conf.code} {SIDEARM_PATH}: {e}", flush=True)
+            continue
+
+        if players.empty:
+            print(f"Skipping {conf.code} {SIDEARM_PATH}: 0 players (keeping existing CSV)", flush=True)
             continue
 
         players_path = out_dir / f"{conf.code}_{SPORT_CODE}_players_{FILE_TAG}.csv"

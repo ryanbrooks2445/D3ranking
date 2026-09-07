@@ -16,7 +16,9 @@ git branch -M main
 git push -u origin main
 ```
 
-**Important:** Run your data export and commit the output so the site has rankings data:
+**Important:** Rankings on the live site come from committed `frontend/public/data` (GitHub raw), not from a scrape at request time. A daily Actions workflow now refreshes that data; see **[docs/DAILY_REFRESH.md](docs/DAILY_REFRESH.md)**.
+
+To export locally and commit:
 
 ```bash
 # From project root (with your Python env active)
@@ -162,6 +164,6 @@ Public profile pages (`/athletes/...`), search, trending, and ranking-table link
    DATABASE_URL="postgresql://..." npx prisma migrate deploy && npm run db:sync-rankings
    ```
 
-Re-run `npm run db:sync-rankings` after each `export_frontend_data.py` push for MBB and baseball.
+Re-run `npm run db:sync-rankings` after each `export_frontend_data.py` push for MBB and baseball. The daily Actions workflow does this automatically when the repo secret `DATABASE_URL` is set; otherwise it skips sync and the public rankings still update from GitHub JSON.
 
 If you see `tsx: command not found`, run `npm install` in `frontend/` first (the script uses `npx tsx`).

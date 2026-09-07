@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import sys
 from pathlib import Path
 
@@ -11,14 +12,15 @@ if str(_project_root) not in sys.path:
 # Non-MBB sports require ncaa_rankings.sports, composites, ranking, sidearm_generic.
 # MBB is handled by run_basketball_rankings.py + export_frontend_data.py.
 # When those modules exist, this script scrapes/ranks all sports and writes
-# data/d3_{code}_player_rankings_2025_26.csv; export can be extended to write
-# sports/{code}/rankings_2025-26.json with season, rating, composite_score.
+# data/d3_{code}_player_rankings_{FILE_TAG}.csv; export writes
+# sports/{code}/rankings_{SEASON_LABEL}.json with season, rating, composite_score.
 try:
     import pandas as pd
     from ncaa_rankings.baseball import rank_baseball_players
     from ncaa_rankings.composites import SIDEARM_COMPOSITES
     from ncaa_rankings.conferences import load_conferences
     from ncaa_rankings.ranking import rank_by_composite
+    from ncaa_rankings.season import FILE_TAG, SEASON_LABEL, SIDEARM_YEAR
     from ncaa_rankings.sidearm_generic import scrape_conference_players_sidearm
     from ncaa_rankings.sports import SPORTS
 except ImportError as e:
@@ -31,6 +33,15 @@ except ImportError as e:
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Scrape and rank non-MBB Sidearm sports.")
+    parser.add_argument(
+        "--skip-codes",
+        default="",
+        help="Comma-separated sport codes to skip (e.g. baseball when using run_baseball_2026_27.py).",
+    )
+    args = parser.parse_args()
+    skip_codes = {c.strip() for c in args.skip_codes.split(",") if c.strip()}
+
     out_dir = Path("data")
     out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -41,6 +52,9 @@ def main() -> None:
             continue
         # Golf uses Clippd leaderboard ingest (run_golf_rankings.py), not Sidearm.
         if sport.code in ("mgolf", "wgolf"):
+            continue
+        if sport.code in skip_codes:
+            print(f"Skipping {sport.code} (--skip-codes)", flush=True)
             continue
 
         sport_players_parts: list[pd.DataFrame] = []
@@ -56,15 +70,19 @@ def main() -> None:
                 players = scrape_conference_players_sidearm(
                     conference=conf,
                     sport_path=sport.sidearm_path,
-                    year="2025",
-                    season_label="2025-26",
+                    year=SIDEARM_YEAR,
+                    season_label=SEASON_LABEL,
                     conf_only=False,
                 )
             except Exception as e:
                 print(f"Skipping {conf.code} {sport.sidearm_path}: {e}", flush=True)
                 continue
 
-            players_path = out_dir / f"{conf.code}_{sport.code}_players_2025_26.csv"
+            if players.empty:
+                print(f"Skipping {conf.code} {sport.sidearm_path}: 0 players (keeping existing CSV)", flush=True)
+                continue
+
+            players_path = out_dir / f"{conf.code}_{sport.code}_players_{FILE_TAG}.csv"
             players.to_csv(players_path, index=False)
 
             print(f"{conf.code}: wrote {len(players)} players -> {players_path.name}", flush=True)
@@ -78,7 +96,7 @@ def main() -> None:
                         ranked = rank_baseball_players(players)
                     else:
                         ranked = rank_by_composite(players, weights=comp.weights)
-                    ranked_path = out_dir / f"{conf.code}_{sport.code}_player_rankings_2025_26.csv"
+                    ranked_path = out_dir / f"{conf.code}_{sport.code}_player_rankings_{FILE_TAG}.csv"
                     ranked.to_csv(ranked_path, index=False)
                     print(f"{conf.code}: wrote {len(ranked)} ranked -> {ranked_path.name}", flush=True)
                 except Exception as e:
@@ -100,7 +118,7 @@ def main() -> None:
             global_dedupe = [c for c in ["season", "sport", "team", "player_name"] if c in all_players.columns]
             if global_dedupe:
                 all_players = all_players.drop_duplicates(subset=global_dedupe, keep="first").copy()
-            all_players_path = out_dir / f"d3_{sport.code}_players_2025_26.csv"
+            all_players_path = out_dir / f"d3_{sport.code}_players_{FILE_TAG}.csv"
             all_players.to_csv(all_players_path, index=False)
             print(f"ALL-D3: wrote {len(all_players)} players -> {all_players_path.name}", flush=True)
 
@@ -111,7 +129,7 @@ def main() -> None:
                         all_ranked = rank_baseball_players(all_players)
                     else:
                         all_ranked = rank_by_composite(all_players, weights=comp.weights)
-                    all_ranked_path = out_dir / f"d3_{sport.code}_player_rankings_2025_26.csv"
+                    all_ranked_path = out_dir / f"d3_{sport.code}_player_rankings_{FILE_TAG}.csv"
                     all_ranked.to_csv(all_ranked_path, index=False)
                     print(f"ALL-D3: wrote {len(all_ranked)} ranked -> {all_ranked_path.name}", flush=True)
                 except Exception as e:

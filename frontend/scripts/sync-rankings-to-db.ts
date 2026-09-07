@@ -67,12 +67,12 @@ function rankingsPath(sportCode: string, seasonLabel: string): string {
 
 function metaSeason(sportCode: string): string {
   const metaPath = path.join(process.cwd(), "public", "data", "sports", sportCode, "meta.json");
-  if (!existsSync(metaPath)) return "2025-26";
+  if (!existsSync(metaPath)) return "2026-27";
   try {
     const meta = JSON.parse(readFileSync(metaPath, "utf-8")) as { season?: string };
-    return meta.season ?? "2025-26";
+    return meta.season ?? "2026-27";
   } catch {
-    return "2025-26";
+    return "2026-27";
   }
 }
 

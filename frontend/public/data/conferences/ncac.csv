@@ -4,8 +4,8 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 3,331,2025-26,Jackson Burke,Kenyon,F,North Coast Athletic Conference (NCAC),ncac,22,28.363636363636363,10.64,6.59,1.73,0.73,1.68,1.1363636363636365,4.044004835518136,91
 4,378,2025-26,Reph Stevenson,DePauw,F,North Coast Athletic Conference (NCAC),ncac,26,26.884615384615383,14.35,8.73,1.38,0.27,0.88,1.9230769230769231,3.755216081782484,90
 5,476,2025-26,Peyton Frey,Ohio Wesleyan,G,North Coast Athletic Conference (NCAC),ncac,18,26.944444444444443,14.78,5.94,1.56,1.11,0.44,2.0,3.2450738065347706,89
-6,496,2025-26,JJ Gray,Oberlin,G,North Coast Athletic Conference (NCAC),ncac,21,28.952380952380953,14.86,3.67,2.05,0.95,0.29,1.380952380952381,3.146270712068453,89
-7,501,2025-26,Luke Ellspermann,Wabash,G,North Coast Athletic Conference (NCAC),ncac,25,29.92,15.92,4.92,2.64,0.84,0.04,2.16,3.1238436672082717,88
+6,496,2025-26,JJ Gray,Oberlin,G,North Coast Athletic Conference (NCAC),ncac,21,28.952380952380956,14.86,3.67,2.05,0.95,0.29,1.380952380952381,3.146270712068453,89
+7,501,2025-26,Luke Ellspermann,Wabash,G,North Coast Athletic Conference (NCAC),ncac,25,29.92,15.92,4.92,2.64,0.84,0.04,2.16,3.123843667208272,88
 8,505,2025-26,Jessee Battle,Ohio Wesleyan,F,North Coast Athletic Conference (NCAC),ncac,25,25.08,14.4,4.48,1.52,1.0,0.64,1.64,3.093462165213916,88
 9,607,2025-26,Jake Lowman,Ohio Wesleyan,F,North Coast Athletic Conference (NCAC),ncac,25,27.56,8.8,5.24,3.24,1.72,0.36,1.44,2.7325063436867265,87
 10,640,2025-26,Gavin Schippert,Wabash,C,North Coast Athletic Conference (NCAC),ncac,26,29.5,10.69,8.54,1.35,0.58,0.12,0.9230769230769232,2.568284398681093,87
@@ -24,7 +24,7 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 23,1122,2025-26,Mike Lamirand,John Carroll,F,North Coast Athletic Conference (NCAC),ncac,28,19.392857142857142,7.79,3.43,0.71,1.57,0.54,0.6071428571428571,0.975666114177454,80
 24,1158,2025-26,Luke Salkowski,Denison,F,North Coast Athletic Conference (NCAC),ncac,25,23.08,6.56,6.56,2.2,0.64,1.0,1.8,0.8944536275139143,80
 25,1175,2025-26,Sean Collins,John Carroll,F,North Coast Athletic Conference (NCAC),ncac,28,23.964285714285715,6.54,4.18,1.68,1.14,0.57,0.7142857142857143,0.8558674786787988,79
-26,1196,2025-26,Milun Micanovic,Oberlin,C,North Coast Athletic Conference (NCAC),ncac,26,25.653846153846153,10.5,8.27,0.42,0.27,0.69,2.1538461538461537,0.8005005675615501,79
+26,1196,2025-26,Milun Micanovic,Oberlin,C,North Coast Athletic Conference (NCAC),ncac,26,25.653846153846157,10.5,8.27,0.42,0.27,0.69,2.1538461538461537,0.8005005675615501,79
 27,1219,2025-26,Brady Kunka,DePauw,G,North Coast Athletic Conference (NCAC),ncac,26,27.96153846153846,10.65,6.27,1.46,0.85,0.0,1.9615384615384617,0.7543304996063394,79
 28,1225,2025-26,Isaac Ward,Ohio Wesleyan,G,North Coast Athletic Conference (NCAC),ncac,25,29.96,12.76,2.4,1.56,0.68,0.04,1.52,0.7187634514683625,79
 29,1227,2025-26,Noah Frayer,Wittenberg,G,North Coast Athletic Conference (NCAC),ncac,27,27.666666666666668,12.52,2.33,0.85,0.74,0.07,1.0740740740740742,0.7160223509421186,79
@@ -47,7 +47,7 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 46,1830,2025-26,Sam Miller,Wittenberg,F,North Coast Athletic Conference (NCAC),ncac,27,16.62962962962963,7.37,3.04,0.48,0.37,0.74,0.925925925925926,-0.797808117308152,71
 47,1842,2025-26,Isaiah Johnson,Wooster,G,North Coast Athletic Conference (NCAC),ncac,22,21.363636363636363,5.36,3.23,1.41,0.77,0.45,0.8181818181818182,-0.8096722105925406,71
 48,1898,2025-26,Deric Cannady,Wabash,G,North Coast Athletic Conference (NCAC),ncac,26,20.23076923076923,5.58,2.58,1.58,0.96,0.0,0.5769230769230769,-0.9550122178477566,70
-49,1932,2025-26,Nick Nelson,Kenyon,G,North Coast Athletic Conference (NCAC),ncac,24,22.083333333333332,5.25,3.21,2.54,1.42,0.0,1.7083333333333333,-1.0426302148357178,69
+49,1932,2025-26,Nick Nelson,Kenyon,G,North Coast Athletic Conference (NCAC),ncac,24,22.08333333333333,5.25,3.21,2.54,1.42,0.0,1.7083333333333333,-1.0426302148357178,69
 50,2102,2025-26,Rob Magner,Oberlin,G,North Coast Athletic Conference (NCAC),ncac,26,22.53846153846154,8.42,3.38,1.38,0.58,0.27,2.1538461538461537,-1.4137355737470307,67
 51,2103,2025-26,Jack Steinbach,Denison,G,North Coast Athletic Conference (NCAC),ncac,27,17.0,4.19,2.37,2.11,1.07,0.07,0.8888888888888888,-1.4139395904959335,67
 52,2137,2025-26,Brandon Rose,John Carroll,G,North Coast Athletic Conference (NCAC),ncac,28,12.107142857142858,6.21,2.11,0.36,0.89,0.14,0.5,-1.4805511937706015,67
@@ -57,7 +57,7 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 56,2271,2025-26,Quinn Hart,Ohio Wesleyan,G,North Coast Athletic Conference (NCAC),ncac,24,22.0,4.96,1.88,1.08,0.67,0.04,0.3333333333333333,-1.7678426113308865,65
 57,2278,2025-26,Cal Bavineau,Wittenberg,G,North Coast Athletic Conference (NCAC),ncac,27,18.814814814814813,3.52,2.37,1.7,0.59,0.07,0.2962962962962963,-1.7843439229376992,65
 58,2282,2025-26,Phil Wallace,Ohio Wesleyan,C,North Coast Athletic Conference (NCAC),ncac,15,12.133333333333333,5.4,2.33,0.8,0.47,0.4,0.7333333333333333,-1.7947279838482566,65
-59,2296,2025-26,Keegan Manowitz,Wabash,G,North Coast Athletic Conference (NCAC),ncac,26,20.153846153846153,4.96,2.81,1.69,0.42,0.0,0.7692307692307693,-1.8193563015103793,65
+59,2296,2025-26,Keegan Manowitz,Wabash,G,North Coast Athletic Conference (NCAC),ncac,26,20.153846153846157,4.96,2.81,1.69,0.42,0.0,0.7692307692307693,-1.8193563015103795,65
 60,2301,2025-26,Bence Lendvay,Kenyon,F,North Coast Athletic Conference (NCAC),ncac,10,12.6,5.5,2.9,0.7,0.9,0.4,1.3,-1.828116692528129,64
 61,2338,2025-26,Matt Andreopoulos,Oberlin,G,North Coast Athletic Conference (NCAC),ncac,19,17.736842105263158,4.42,2.0,1.68,1.0,0.0,0.8947368421052632,-1.9064071672861087,64
 62,2551,2025-26,Jace Wardlow,Wittenberg,G,North Coast Athletic Conference (NCAC),ncac,25,12.96,5.64,2.04,0.64,0.28,0.24,0.72,-2.28721095960464,61
@@ -68,16 +68,16 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 67,2752,2025-26,Si Kielian,Wooster,G,North Coast Athletic Conference (NCAC),ncac,25,15.84,4.24,1.84,1.32,0.68,0.0,0.96,-2.676911834603624,58
 68,2783,2025-26,Samson Zack,Denison,,North Coast Athletic Conference (NCAC),ncac,25,16.28,4.56,2.44,0.56,0.28,0.08,0.64,-2.774272946019454,58
 69,2838,2025-26,Justin Chapman,John Carroll,C,North Coast Athletic Conference (NCAC),ncac,28,11.857142857142858,3.18,3.14,0.14,0.43,0.43,0.7142857142857143,-2.873291736814431,57
-70,2852,2025-26,Cal Klinzing,Ohio Wesleyan,C,North Coast Athletic Conference (NCAC),ncac,17,14.470588235294118,3.06,2.94,0.71,0.18,0.24,0.5294117647058824,-2.8980148033821393,57
+70,2852,2025-26,Cal Klinzing,Ohio Wesleyan,C,North Coast Athletic Conference (NCAC),ncac,17,14.470588235294118,3.06,2.94,0.71,0.18,0.24,0.5294117647058824,-2.89801480338214,57
 71,2881,2025-26,Augustus Donohue,Oberlin,G,North Coast Athletic Conference (NCAC),ncac,23,10.826086956521738,5.0,1.61,0.26,0.13,0.0,0.3043478260869565,-2.960254434246524,57
 72,2893,2025-26,Spence Davidson,Wittenberg,G,North Coast Athletic Conference (NCAC),ncac,25,14.76,3.64,1.64,1.6,0.24,0.04,0.76,-2.975220995004978,57
-73,2908,2025-26,Jack Corrigan Conaty,Kenyon,G,North Coast Athletic Conference (NCAC),ncac,22,15.363636363636363,5.09,1.36,0.73,0.68,0.14,1.2272727272727273,-3.0066627694132575,56
-74,2943,2025-26,James McCarthy,Ohio Wesleyan,G,North Coast Athletic Conference (NCAC),ncac,25,17.24,4.16,1.84,0.92,0.48,0.0,0.88,-3.0905118128391997,56
+73,2908,2025-26,Jack Corrigan Conaty,Kenyon,G,North Coast Athletic Conference (NCAC),ncac,22,15.363636363636363,5.09,1.36,0.73,0.68,0.14,1.2272727272727273,-3.006662769413257,56
+74,2943,2025-26,James McCarthy,Ohio Wesleyan,G,North Coast Athletic Conference (NCAC),ncac,25,17.24,4.16,1.84,0.92,0.48,0.0,0.88,-3.0905118128392,56
 75,2965,2025-26,Ashton Bjerke,Kenyon,F,North Coast Athletic Conference (NCAC),ncac,11,11.454545454545457,4.91,1.55,0.45,0.36,0.0,0.7272727272727273,-3.140298770909273,56
 76,2971,2025-26,Liam Gray,Oberlin,G,North Coast Athletic Conference (NCAC),ncac,22,15.727272727272728,4.27,1.5,1.45,0.64,0.0,1.318181818181818,-3.143096464113281,56
-77,3014,2025-26,Lucas Perusek,John Carroll,G,North Coast Athletic Conference (NCAC),ncac,18,10.055555555555555,1.22,1.61,1.11,0.94,0.22,0.6111111111111112,-3.2416725473058716,55
+77,3014,2025-26,Lucas Perusek,John Carroll,G,North Coast Athletic Conference (NCAC),ncac,18,10.055555555555555,1.22,1.61,1.11,0.94,0.22,0.6111111111111112,-3.241672547305872,55
 78,3114,2025-26,Adam Navarre,Oberlin,G,North Coast Athletic Conference (NCAC),ncac,14,12.0,4.0,1.5,0.21,0.64,0.0,0.7857142857142857,-3.4926915102218934,54
 79,3200,2025-26,Anthony Mordini,Ohio Wesleyan,F,North Coast Athletic Conference (NCAC),ncac,25,12.4,0.84,2.56,0.56,0.36,0.08,0.24,-3.777367811352723,52
 80,3240,2025-26,Lucas Friedman,Kenyon,G,North Coast Athletic Conference (NCAC),ncac,24,11.458333333333334,1.96,1.08,1.0,0.58,0.0,0.6666666666666666,-3.8997120888017256,52
 81,3326,2025-26,Eli Ellis,DePauw,G,North Coast Athletic Conference (NCAC),ncac,25,11.28,3.28,0.76,1.32,0.32,0.0,1.28,-4.191736390946797,51
-82,3344,2025-26,Zach Bronson,Oberlin,,North Coast Athletic Conference (NCAC),ncac,23,14.217391304347826,1.43,1.04,1.04,0.57,0.04,0.9130434782608696,-4.3488045363187675,51
+82,3344,2025-26,Zach Bronson,Oberlin,,North Coast Athletic Conference (NCAC),ncac,23,14.217391304347826,1.43,1.04,1.04,0.57,0.04,0.9130434782608696,-4.348804536318768,51

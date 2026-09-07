@@ -1,0 +1,39 @@
+name: Refresh pipeline check
+
+on:
+  pull_request:
+    paths:
+      - ".github/workflows/**"
+      - "scripts/run_daily_refresh.py"
+      - "scripts/sync_rankings_to_db.py"
+      - "scripts/instagram_daily_post.py"
+      - "run_*.py"
+      - "export_frontend_data.py"
+      - "requirements.txt"
+      - "ncaa_rankings/**"
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Validate refresh pipeline
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: python scripts/run_daily_refresh.py --check

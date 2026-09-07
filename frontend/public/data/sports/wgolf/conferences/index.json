@@ -14,8 +14,8 @@
   {
     "conference_code": "asc",
     "conference": "American Southwest Conference",
-    "player_count": 63,
-    "ranked_count": 52
+    "player_count": 57,
+    "ranked_count": 46
   },
   {
     "conference_code": "centennial_conference",
@@ -38,8 +38,8 @@
   {
     "conference_code": "ccc",
     "conference": "Conference of New England",
-    "player_count": 55,
-    "ranked_count": 45
+    "player_count": 47,
+    "ranked_count": 40
   },
   {
     "conference_code": "hcac",
@@ -68,8 +68,8 @@
   {
     "conference_code": "lec",
     "conference": "Little East Conference",
-    "player_count": 32,
-    "ranked_count": 19
+    "player_count": 40,
+    "ranked_count": 24
   },
   {
     "conference_code": "miaa",
@@ -99,7 +99,7 @@
     "conference_code": "nescac",
     "conference": "New England Small College Athletic Conference",
     "player_count": 73,
-    "ranked_count": 54
+    "ranked_count": 56
   },
   {
     "conference_code": "ncac",
@@ -111,7 +111,7 @@
     "conference_code": "northeast_women_s_golf_conference",
     "conference": "Northeast Women's Golf Conference",
     "player_count": 58,
-    "ranked_count": 37
+    "ranked_count": 38
   },
   {
     "conference_code": "nacc",
@@ -128,7 +128,7 @@
   {
     "conference_code": "oac",
     "conference": "Ohio Athletic Conference",
-    "player_count": 86,
+    "player_count": 85,
     "ranked_count": 69
   },
   {
@@ -140,8 +140,8 @@
   {
     "conference_code": "presidents_athletic_conference",
     "conference": "Presidents' Athletic Conference",
-    "player_count": 69,
-    "ranked_count": 49
+    "player_count": 79,
+    "ranked_count": 57
   },
   {
     "conference_code": "saa",
@@ -158,8 +158,8 @@
   {
     "conference_code": "southern_collegiate_athletic_conference",
     "conference": "Southern Collegiate Athletic Conference",
-    "player_count": 43,
-    "ranked_count": 38
+    "player_count": 49,
+    "ranked_count": 44
   },
   {
     "conference_code": "sliac",

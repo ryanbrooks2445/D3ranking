@@ -72,9 +72,11 @@ export default async function GlobalRankingsPage({
     rows = JSON.parse(raw) as Record<string, unknown>[];
   }
 
-  // Fallback: MBB used to be served from d3_mbb_player_rankings_2025_26.json (e.g. if data repo has old structure)
+  // Fallback: older MBB exports used a root d3_mbb_player_rankings_*.json file.
   if (rows.length === 0 && code === "mbb") {
-    const legacyRaw = await readDataFileSafe("d3_mbb_player_rankings_2025_26.json");
+    const legacyRaw =
+      (await readDataFileSafe("d3_mbb_player_rankings_2026_27.json")) ??
+      (await readDataFileSafe("d3_mbb_player_rankings_2025_26.json"));
     if (legacyRaw) {
       const d3Rows = JSON.parse(legacyRaw) as Record<string, unknown>[];
       rows = d3Rows.map((r) => ({
