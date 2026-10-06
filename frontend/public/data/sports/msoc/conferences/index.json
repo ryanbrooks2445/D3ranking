@@ -3,204 +3,204 @@
     "conference_code": "arc",
     "conference": "American Rivers Conference (ARC)",
     "player_count": 308,
-    "ranked_count": 307
+    "ranked_count": 151
   },
   {
     "conference_code": "asc",
     "conference": "American Southwest Conference (ASC)",
     "player_count": 222,
-    "ranked_count": 222
+    "ranked_count": 114
   },
   {
     "conference_code": "aec",
     "conference": "Atlantic East Conference (AEC)",
     "player_count": 181,
-    "ranked_count": 181
+    "ranked_count": 128
   },
   {
     "conference_code": "centennial_conference",
     "conference": "Centennial Conference",
     "player_count": 319,
-    "ranked_count": 319
+    "ranked_count": 190
   },
   {
     "conference_code": "cciw",
     "conference": "College Conference of Illinois and Wisconsin (CCIW)",
     "player_count": 350,
-    "ranked_count": 350
+    "ranked_count": 173
   },
   {
     "conference_code": "ccc",
     "conference": "Conference of New England (CCC)",
     "player_count": 347,
-    "ranked_count": 347
+    "ranked_count": 201
   },
   {
     "conference_code": "e8",
     "conference": "Empire 8 (E8)",
     "player_count": 387,
-    "ranked_count": 387
+    "ranked_count": 211
   },
   {
     "conference_code": "hcac",
     "conference": "Heartland Collegiate Athletic Conference (HCAC)",
     "player_count": 352,
-    "ranked_count": 352
+    "ranked_count": 200
   },
   {
     "conference_code": "landmark_conference",
     "conference": "Landmark Conference",
     "player_count": 331,
-    "ranked_count": 331
+    "ranked_count": 198
   },
   {
     "conference_code": "ll",
     "conference": "Liberty League (LL)",
     "player_count": 323,
-    "ranked_count": 323
+    "ranked_count": 180
   },
   {
     "conference_code": "lec",
     "conference": "Little East Conference (LEC)",
     "player_count": 284,
-    "ranked_count": 284
+    "ranked_count": 188
   },
   {
     "conference_code": "miaa",
     "conference": "Michigan Intercollegiate Athletic Association (MIAA)",
     "player_count": 272,
-    "ranked_count": 271
+    "ranked_count": 146
   },
   {
     "conference_code": "mac",
     "conference": "Middle Atlantic Conferences (MAC)",
     "player_count": 613,
-    "ranked_count": 612
+    "ranked_count": 359
   },
   {
     "conference_code": "mwc",
     "conference": "Midwest Conference (MWC)",
     "player_count": 345,
-    "ranked_count": 341
+    "ranked_count": 190
   },
   {
     "conference_code": "miac",
     "conference": "Minnesota Intercollegiate Athletic Conference (MIAC)",
     "player_count": 334,
-    "ranked_count": 333
+    "ranked_count": 207
   },
   {
     "conference_code": "nescac",
     "conference": "New England Small College Athletic Conference (NESCAC)",
     "player_count": 360,
-    "ranked_count": 360
+    "ranked_count": 188
   },
   {
     "conference_code": "newmac",
     "conference": "New England Women's and Men's Athletic Conference (NEWMAC)",
     "player_count": 290,
-    "ranked_count": 290
+    "ranked_count": 159
   },
   {
     "conference_code": "njac",
     "conference": "New Jersey Athletic Conference (NJAC)",
     "player_count": 334,
-    "ranked_count": 334
+    "ranked_count": 197
   },
   {
     "conference_code": "nac",
     "conference": "North Atlantic Conference (NAC)",
     "player_count": 244,
-    "ranked_count": 244
+    "ranked_count": 113
   },
   {
     "conference_code": "ncac",
     "conference": "North Coast Athletic Conference (NCAC)",
     "player_count": 354,
-    "ranked_count": 354
+    "ranked_count": 174
   },
   {
     "conference_code": "north_eastern_athletic_c",
     "conference": "North Eastern Athletic Conference",
     "player_count": 357,
-    "ranked_count": 357
+    "ranked_count": 227
   },
   {
     "conference_code": "nacc",
     "conference": "Northern Athletics Collegiate Conference (NACC)",
     "player_count": 478,
-    "ranked_count": 477
+    "ranked_count": 258
   },
   {
     "conference_code": "nwc",
     "conference": "Northwest Conference (NWC)",
     "player_count": 293,
-    "ranked_count": 293
+    "ranked_count": 159
   },
   {
     "conference_code": "oac",
     "conference": "Ohio Athletic Conference (OAC)",
     "player_count": 340,
-    "ranked_count": 340
+    "ranked_count": 164
   },
   {
     "conference_code": "odac",
     "conference": "Old Dominion Athletic Conference (ODAC)",
     "player_count": 383,
-    "ranked_count": 383
+    "ranked_count": 237
   },
   {
     "conference_code": "pac",
     "conference": "Presidents Athletic Conference (PAC)",
     "player_count": 473,
-    "ranked_count": 473
+    "ranked_count": 256
   },
   {
     "conference_code": "skyline_conference",
     "conference": "Skyline Conference",
     "player_count": 393,
-    "ranked_count": 391
+    "ranked_count": 204
   },
   {
     "conference_code": "saa",
     "conference": "Southern Athletic Association (SAA)",
     "player_count": 307,
-    "ranked_count": 306
+    "ranked_count": 188
   },
   {
     "conference_code": "sciac",
     "conference": "Southern California Intercollegiate Athletic Conference (SCIAC)",
     "player_count": 354,
-    "ranked_count": 354
+    "ranked_count": 190
   },
   {
     "conference_code": "sliac",
     "conference": "St. Louis Intercollegiate Athletic Conference (SLIAC)",
     "player_count": 428,
-    "ranked_count": 428
+    "ranked_count": 193
   },
   {
     "conference_code": "uaa",
     "conference": "University Athletic Association (UAA)",
     "player_count": 258,
-    "ranked_count": 258
+    "ranked_count": 158
   },
   {
     "conference_code": "umac",
     "conference": "Upper Midwest Athletic Conference (UMAC)",
     "player_count": 236,
-    "ranked_count": 236
+    "ranked_count": 137
   },
   {
     "conference_code": "usa_south_athletic_confe",
     "conference": "USA South Athletic Conference",
     "player_count": 296,
-    "ranked_count": 295
+    "ranked_count": 181
   },
   {
     "conference_code": "wiac",
     "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
     "player_count": 202,
-    "ranked_count": 202
+    "ranked_count": 129
   }
 ]

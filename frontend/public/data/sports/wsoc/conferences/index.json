@@ -3,138 +3,138 @@
     "conference_code": "arc",
     "conference": "American Rivers Conference (ARC)",
     "player_count": 253,
-    "ranked_count": 253
+    "ranked_count": 149
   },
   {
     "conference_code": "asc",
     "conference": "American Southwest Conference (ASC)",
     "player_count": 185,
-    "ranked_count": 184
+    "ranked_count": 121
   },
   {
     "conference_code": "aec",
     "conference": "Atlantic East Conference (AEC)",
     "player_count": 133,
-    "ranked_count": 133
+    "ranked_count": 78
   },
   {
     "conference_code": "centennial_conference",
     "conference": "Centennial Conference",
     "player_count": 336,
-    "ranked_count": 336
+    "ranked_count": 224
   },
   {
     "conference_code": "cciw",
     "conference": "College Conference of Illinois and Wisconsin (CCIW)",
     "player_count": 311,
-    "ranked_count": 311
+    "ranked_count": 191
   },
   {
     "conference_code": "ccc",
     "conference": "Conference of New England (CCC)",
     "player_count": 305,
-    "ranked_count": 304
+    "ranked_count": 182
   },
   {
     "conference_code": "e8",
     "conference": "Empire 8 (E8)",
     "player_count": 347,
-    "ranked_count": 346
+    "ranked_count": 214
   },
   {
     "conference_code": "hcac",
     "conference": "Heartland Collegiate Athletic Conference (HCAC)",
     "player_count": 296,
-    "ranked_count": 296
+    "ranked_count": 190
   },
   {
     "conference_code": "landmark_conference",
     "conference": "Landmark Conference",
     "player_count": 316,
-    "ranked_count": 316
+    "ranked_count": 183
   },
   {
     "conference_code": "ll",
     "conference": "Liberty League (LL)",
     "player_count": 274,
-    "ranked_count": 274
+    "ranked_count": 178
   },
   {
     "conference_code": "lec",
     "conference": "Little East Conference (LEC)",
     "player_count": 246,
-    "ranked_count": 246
+    "ranked_count": 170
   },
   {
     "conference_code": "miaa",
     "conference": "Michigan Intercollegiate Athletic Association (MIAA)",
     "player_count": 270,
-    "ranked_count": 267
+    "ranked_count": 170
   },
   {
     "conference_code": "mac",
     "conference": "Middle Atlantic Conferences (MAC)",
     "player_count": 555,
-    "ranked_count": 555
+    "ranked_count": 333
   },
   {
     "conference_code": "mwc",
     "conference": "Midwest Conference (MWC)",
     "player_count": 266,
-    "ranked_count": 266
+    "ranked_count": 192
   },
   {
     "conference_code": "miac",
     "conference": "Minnesota Intercollegiate Athletic Conference (MIAC)",
     "player_count": 379,
-    "ranked_count": 378
+    "ranked_count": 234
   },
   {
     "conference_code": "nescac",
     "conference": "New England Small College Athletic Conference (NESCAC)",
     "player_count": 339,
-    "ranked_count": 339
+    "ranked_count": 206
   },
   {
     "conference_code": "newmac",
     "conference": "New England Women's and Men's Athletic Conference (NEWMAC)",
     "player_count": 364,
-    "ranked_count": 364
+    "ranked_count": 232
   },
   {
     "conference_code": "njac",
     "conference": "New Jersey Athletic Conference (NJAC)",
     "player_count": 295,
-    "ranked_count": 295
+    "ranked_count": 170
   },
   {
     "conference_code": "nac",
     "conference": "North Atlantic Conference (NAC)",
     "player_count": 190,
-    "ranked_count": 190
+    "ranked_count": 129
   },
   {
     "conference_code": "ncac",
     "conference": "North Coast Athletic Conference (NCAC)",
     "player_count": 250,
-    "ranked_count": 250
+    "ranked_count": 166
   },
   {
     "conference_code": "north_eastern_athletic_c",
     "conference": "North Eastern Athletic Conference",
     "player_count": 269,
-    "ranked_count": 269
+    "ranked_count": 182
   },
   {
     "conference_code": "nacc",
     "conference": "Northern Athletics Collegiate Conference (NACC)",
     "player_count": 385,
-    "ranked_count": 385
+    "ranked_count": 254
   },
   {
     "conference_code": "nwc",
     "conference": "Northwest Conference (NWC)",
     "player_count": 278,
-    "ranked_count": 278
+    "ranked_count": 172
   }
 ]

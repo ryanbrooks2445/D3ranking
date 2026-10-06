@@ -32,6 +32,9 @@ function formatVal(val: unknown, pct?: boolean, colKey?: string): string {
   }
   if (pct && typeof val === "number") return `${(val * 100).toFixed(1)}%`;
   if (typeof val === "number") {
+    if (colKey?.includes("per_game")) {
+      return Math.abs(numVal) >= 10 ? numVal.toFixed(1) : numVal.toFixed(2);
+    }
     if (Number.isInteger(val)) return String(val);
     return val.toFixed(1);
   }

@@ -3,108 +3,108 @@
     "conference_code": "arc",
     "conference": "American Rivers Conference (ARC)",
     "player_count": 211,
-    "ranked_count": 211
+    "ranked_count": 107
   },
   {
     "conference_code": "asc",
     "conference": "American Southwest Conference (ASC)",
     "player_count": 119,
-    "ranked_count": 119
+    "ranked_count": 92
   },
   {
     "conference_code": "aec",
     "conference": "Atlantic East Conference (AEC)",
     "player_count": 95,
-    "ranked_count": 95
+    "ranked_count": 79
   },
   {
     "conference_code": "centennial_conference",
     "conference": "Centennial Conference",
     "player_count": 183,
-    "ranked_count": 183
+    "ranked_count": 157
   },
   {
     "conference_code": "cciw",
     "conference": "College Conference of Illinois and Wisconsin (CCIW)",
     "player_count": 202,
-    "ranked_count": 202
+    "ranked_count": 143
   },
   {
     "conference_code": "ccc",
     "conference": "Conference of New England (CCC)",
     "player_count": 191,
-    "ranked_count": 191
+    "ranked_count": 155
   },
   {
     "conference_code": "e8",
     "conference": "Empire 8 (E8)",
     "player_count": 217,
-    "ranked_count": 217
+    "ranked_count": 182
   },
   {
     "conference_code": "hcac",
     "conference": "Heartland Collegiate Athletic Conference (HCAC)",
     "player_count": 199,
-    "ranked_count": 199
+    "ranked_count": 158
   },
   {
     "conference_code": "landmark_conference",
     "conference": "Landmark Conference",
     "player_count": 202,
-    "ranked_count": 202
+    "ranked_count": 160
   },
   {
     "conference_code": "ll",
     "conference": "Liberty League (LL)",
     "player_count": 146,
-    "ranked_count": 146
+    "ranked_count": 122
   },
   {
     "conference_code": "lec",
     "conference": "Little East Conference (LEC)",
     "player_count": 156,
-    "ranked_count": 156
+    "ranked_count": 122
   },
   {
     "conference_code": "miaa",
     "conference": "Michigan Intercollegiate Athletic Association (MIAA)",
     "player_count": 204,
-    "ranked_count": 204
+    "ranked_count": 137
   },
   {
     "conference_code": "mac",
     "conference": "Middle Atlantic Conferences (MAC)",
     "player_count": 332,
-    "ranked_count": 332
+    "ranked_count": 268
   },
   {
     "conference_code": "mwc",
     "conference": "Midwest Conference (MWC)",
     "player_count": 205,
-    "ranked_count": 199
+    "ranked_count": 142
   },
   {
     "conference_code": "miac",
     "conference": "Minnesota Intercollegiate Athletic Conference (MIAC)",
     "player_count": 236,
-    "ranked_count": 235
+    "ranked_count": 164
   },
   {
     "conference_code": "nescac",
     "conference": "New England Small College Athletic Conference (NESCAC)",
     "player_count": 220,
-    "ranked_count": 220
+    "ranked_count": 170
   },
   {
     "conference_code": "newmac",
     "conference": "New England Women's and Men's Athletic Conference (NEWMAC)",
     "player_count": 213,
-    "ranked_count": 213
+    "ranked_count": 178
   },
   {
     "conference_code": "njac",
     "conference": "New Jersey Athletic Conference (NJAC)",
     "player_count": 168,
-    "ranked_count": 168
+    "ranked_count": 137
   }
 ]

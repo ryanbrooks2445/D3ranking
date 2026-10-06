@@ -10,7 +10,7 @@ from .conferences import load_conferences
 from .ranking import _rating_from_rank
 
 # Minimum stroke-play rounds to qualify for D3Rank OVR (filters tiny samples).
-DEFAULT_MIN_STROKE_PLAY_ROUNDS = 6
+DEFAULT_MIN_STROKE_PLAY_ROUNDS = 5
 
 
 def _strip_conf_paren(name: str) -> str:
@@ -130,7 +130,8 @@ def rank_golf_players(
     """
     D3Rank golf formula (D3 twist on Clippd inputs):
     - ACTIVE players with enough stroke-play rounds
-    - Sort: lower scoring average, higher Clippd average points, more wins, name
+    - Sort: lower scoring average, then higher Clippd average points, then name.
+      Scoring average is already per round, so more events or wins do not raise the rank.
     - OVR from global_rank via standard D3Rank curve
     """
     if players.empty:
@@ -140,7 +141,6 @@ def rank_golf_players(
     rounds = pd.to_numeric(df.get("scoring_stats_rounds"), errors="coerce")
     avg = pd.to_numeric(df.get("scoring_stats_scoring_average"), errors="coerce")
     pts = pd.to_numeric(df.get("average_points"), errors="coerce")
-    wins = pd.to_numeric(df.get("events_won"), errors="coerce").fillna(0)
 
     status = df.get("player_ranking_status")
     if status is not None:
@@ -158,10 +158,9 @@ def rank_golf_players(
         [
             "scoring_stats_scoring_average",
             "average_points",
-            "events_won",
             "player_name",
         ],
-        ascending=[True, False, False, True],
+        ascending=[True, False, True],
         na_position="last",
     ).reset_index(drop=True)
 

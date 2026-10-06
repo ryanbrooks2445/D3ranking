@@ -2,7 +2,19 @@ from __future__ import annotations
 
 import pandas as pd
 
-from .ranking import _rating_from_rank
+from .ranking import (
+    MIN_GAMES_PLAYED,
+    _rating_from_rank,
+    games_played_series,
+    materialize_per_game_columns,
+)
+
+_BATTING_COUNTING = (
+    "hitting_stats_runs_batted_in",
+    "hitting_stats_home_runs",
+    "hitting_stats_runs",
+    "hitting_stats_stolen_bases",
+)
 
 
 def _num(df: pd.DataFrame, col: str, default: float = 0.0) -> pd.Series:
@@ -38,34 +50,42 @@ def _finalize_ranked(df: pd.DataFrame) -> pd.DataFrame:
 def rank_baseball_players(players: pd.DataFrame) -> pd.DataFrame:
     """
     Build baseball rankings with separate segment formulas:
-    - Batting: AVG, OBP, SLG, HR, RBI
-    - Pitching: ERA, K/9, strike%, WHIP
-    Eligibility thresholds keep low-usage players from topping rankings.
+    - Batting: AVG, OBP, SLG, then per-game HR, RBI, runs, and SB
+    - Pitching: ERA, K/9, WHIP, opponent AVG
+    Counting stats are per game so more games does not raise a hitter.
+    Players need at least 5 games played.
     """
     if players.empty:
         return players.copy()
 
     base = players.copy()
 
+    games = games_played_series(base)
     batting_pool = base[
-        (_num(base, "games_played") >= 5) & (_num(base, "hitting_stats_at_bats") >= 15)
+        (games >= MIN_GAMES_PLAYED) & (_num(base, "hitting_stats_at_bats") >= 15)
     ].copy()
     pitching_pool = base[
-        (_num(base, "pitching_stats_games_started") >= 1)
+        (games >= MIN_GAMES_PLAYED)
+        & (_num(base, "pitching_stats_games_started") >= 1)
         & (_num(base, "pitching_stats_innings_pitched") >= 5)
     ].copy()
 
     parts: list[pd.DataFrame] = []
     if not batting_pool.empty:
         batting_pool["avg_tier"] = _avg_tier(_num(batting_pool, "hitting_stats_batting_average"))
+        batting_pool = materialize_per_game_columns(
+            batting_pool,
+            _BATTING_COUNTING,
+            games_played_series(batting_pool),
+        )
         batting_pool = batting_pool.sort_values(
             [
                 "avg_tier",
-                "hitting_stats_runs_batted_in",
+                "hitting_stats_runs_batted_in_per_game",
                 "hitting_stats_slugging_percentage",
-                "hitting_stats_home_runs",
-                "hitting_stats_runs",
-                "hitting_stats_stolen_bases",
+                "hitting_stats_home_runs_per_game",
+                "hitting_stats_runs_per_game",
+                "hitting_stats_stolen_bases_per_game",
                 "player_name",
             ],
             ascending=[True, False, False, False, False, False, True],

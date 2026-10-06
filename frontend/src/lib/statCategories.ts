@@ -34,6 +34,12 @@ const LOWER_IS_BETTER_KEYS = new Set([
   "overall_stats_singles_losses",
   "overall_stats_doubles_losses",
   "pitching_stats_losses",
+  "pitching_stats_losses_per_game",
+  "pitching_stats_walks_allowed_per_game",
+  "overall_stats_singles_losses_per_game",
+  "overall_stats_doubles_losses_per_game",
+  "pass_stats_interceptions_per_game",
+  "fumble_stats_number_lost_per_game",
 ]);
 
 /** Stat leader categories for a sport. Basketball is curated; others derive from table columns. */

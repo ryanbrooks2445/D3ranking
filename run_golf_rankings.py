@@ -8,12 +8,12 @@ _project_root = Path(__file__).resolve().parent
 if str(_project_root) not in sys.path:
     sys.path.insert(0, str(_project_root))
 
-from ncaa_rankings.golf import ingest_and_rank_clippd_golf
+from ncaa_rankings.golf import DEFAULT_MIN_STROKE_PLAY_ROUNDS, ingest_and_rank_clippd_golf
 
 SEASON_LABEL = "2025-26"
 CLIPPD_SEASON = "2026"
 FILE_TAG = "2025_26"
-MIN_ROUNDS = 6
+MIN_ROUNDS = DEFAULT_MIN_STROKE_PLAY_ROUNDS
 
 GOLF_SPORTS = (
     ("mgolf", "Men", "Men's Golf"),

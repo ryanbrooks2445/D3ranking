@@ -10,8 +10,8 @@ from ncaa_rankings.engines.mbb import MbbEngine
 ENGINES: dict[str, SportRankingEngine] = {
     "mbb": MbbEngine(min_gp=10, min_mpg=10),
     "baseball": BaseballEngine(),
-    "mgolf": ClippdGolfEngine(min_stroke_play_rounds=6),
-    "wgolf": ClippdGolfEngine(min_stroke_play_rounds=6),
+    "mgolf": ClippdGolfEngine(min_stroke_play_rounds=5),
+    "wgolf": ClippdGolfEngine(min_stroke_play_rounds=5),
     "default": CompositeEngine(SIDEARM_COMPOSITES),
 }
 

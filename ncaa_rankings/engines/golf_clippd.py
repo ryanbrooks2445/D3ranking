@@ -9,7 +9,7 @@ from ncaa_rankings.golf import rank_golf_players
 
 @dataclass(frozen=True)
 class ClippdGolfEngine:
-    min_stroke_play_rounds: int = 6
+    min_stroke_play_rounds: int = 5
 
     def rank(self, players: pd.DataFrame) -> pd.DataFrame:
         return rank_golf_players(

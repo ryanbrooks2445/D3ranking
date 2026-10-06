@@ -19,6 +19,9 @@ function formatCell(key: string, val: unknown, pct?: boolean): string {
   const n = typeof val === "number" ? val : Number(val);
   if (pct && Number.isFinite(n)) return `${(n * 100).toFixed(1)}%`;
   if (Number.isFinite(n)) {
+    if (key.includes("per_game")) {
+      return Math.abs(n) >= 10 ? n.toFixed(1) : n.toFixed(2);
+    }
     if (key.includes("average") || key.includes("pct") || key.includes("percentage")) {
       return n.toFixed(3).replace(/^0/, "");
     }

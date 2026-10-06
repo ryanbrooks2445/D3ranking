@@ -3,49 +3,49 @@
     "conference_code": "amcc",
     "conference": "Allegheny Mountain Collegiate Conference",
     "player_count": 17,
-    "ranked_count": 10
+    "ranked_count": 13
   },
   {
     "conference_code": "arc",
     "conference": "American Rivers Conference",
     "player_count": 77,
-    "ranked_count": 66
+    "ranked_count": 68
   },
   {
     "conference_code": "asc",
     "conference": "American Southwest Conference",
     "player_count": 63,
-    "ranked_count": 52
+    "ranked_count": 53
   },
   {
     "conference_code": "centennial_conference",
     "conference": "Centennial Conference",
     "player_count": 48,
-    "ranked_count": 35
+    "ranked_count": 38
   },
   {
     "conference_code": "college_conference_of_illinois_wisconsin",
     "conference": "College Conference of Illinois & Wisconsin",
     "player_count": 85,
-    "ranked_count": 68
+    "ranked_count": 73
   },
   {
     "conference_code": "colonial_women_s_golf_conference",
     "conference": "Colonial Women's Golf Conference",
     "player_count": 23,
-    "ranked_count": 17
+    "ranked_count": 19
   },
   {
     "conference_code": "ccc",
     "conference": "Conference of New England",
     "player_count": 55,
-    "ranked_count": 45
+    "ranked_count": 48
   },
   {
     "conference_code": "hcac",
     "conference": "Heartland Collegiate Athletic Conference",
     "player_count": 52,
-    "ranked_count": 46
+    "ranked_count": 47
   },
   {
     "conference_code": "independent",
@@ -57,7 +57,7 @@
     "conference_code": "landmark_conference",
     "conference": "Landmark Conference",
     "player_count": 69,
-    "ranked_count": 58
+    "ranked_count": 60
   },
   {
     "conference_code": "ll",
@@ -69,37 +69,37 @@
     "conference_code": "lec",
     "conference": "Little East Conference",
     "player_count": 32,
-    "ranked_count": 19
+    "ranked_count": 24
   },
   {
     "conference_code": "miaa",
     "conference": "Michigan Intercollegiate Athletic Association",
     "player_count": 104,
-    "ranked_count": 72
+    "ranked_count": 79
   },
   {
     "conference_code": "mac",
     "conference": "Middle Atlantic Conferences",
     "player_count": 78,
-    "ranked_count": 55
+    "ranked_count": 62
   },
   {
     "conference_code": "miac",
     "conference": "Minnesota Intercollegiate Athletic Conference",
     "player_count": 75,
-    "ranked_count": 68
+    "ranked_count": 69
   },
   {
     "conference_code": "unknown",
     "conference": "nan",
     "player_count": 14,
-    "ranked_count": 5
+    "ranked_count": 6
   },
   {
     "conference_code": "nescac",
     "conference": "New England Small College Athletic Conference",
     "player_count": 73,
-    "ranked_count": 54
+    "ranked_count": 57
   },
   {
     "conference_code": "ncac",
@@ -111,13 +111,13 @@
     "conference_code": "northeast_women_s_golf_conference",
     "conference": "Northeast Women's Golf Conference",
     "player_count": 58,
-    "ranked_count": 37
+    "ranked_count": 41
   },
   {
     "conference_code": "nacc",
     "conference": "Northern Athletics Collegiate Conference",
     "player_count": 85,
-    "ranked_count": 64
+    "ranked_count": 68
   },
   {
     "conference_code": "nwc",
@@ -129,19 +129,19 @@
     "conference_code": "oac",
     "conference": "Ohio Athletic Conference",
     "player_count": 86,
-    "ranked_count": 69
+    "ranked_count": 74
   },
   {
     "conference_code": "odac",
     "conference": "Old Dominion Athletic Conference",
     "player_count": 62,
-    "ranked_count": 55
+    "ranked_count": 56
   },
   {
     "conference_code": "presidents_athletic_conference",
     "conference": "Presidents' Athletic Conference",
     "player_count": 69,
-    "ranked_count": 49
+    "ranked_count": 57
   },
   {
     "conference_code": "saa",
@@ -153,7 +153,7 @@
     "conference_code": "sciac",
     "conference": "Southern California Inter. Athletic Conference",
     "player_count": 61,
-    "ranked_count": 54
+    "ranked_count": 55
   },
   {
     "conference_code": "southern_collegiate_athletic_conference",
@@ -165,7 +165,7 @@
     "conference_code": "sliac",
     "conference": "St. Louis Intercollegiate Athletic Conference",
     "player_count": 77,
-    "ranked_count": 53
+    "ranked_count": 57
   },
   {
     "conference_code": "uaa",
@@ -177,7 +177,7 @@
     "conference_code": "umac",
     "conference": "Upper Midwest Athletic Conference",
     "player_count": 59,
-    "ranked_count": 40
+    "ranked_count": 44
   },
   {
     "conference_code": "usa_south_athletic_confe",
@@ -189,6 +189,6 @@
     "conference_code": "wiac",
     "conference": "Wisconsin Intercollegiate Athletic Conference",
     "player_count": 80,
-    "ranked_count": 77
+    "ranked_count": 78
   }
 ]

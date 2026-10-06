@@ -74,7 +74,7 @@ SIDEARM_COMPOSITES: dict[str, CompositeDef] = {
             "shot_stats_goals": 1.1,
             "shot_stats_assists": 1.0,
             "shot_stats_points": 1.2,
-            "faceoff_stats_faceoff_pct": 0.5,
+            "misc_stats_faceoff_win_pct": 0.5,
             "goalie_stats_save_pct": 1.0,
             "goalie_stats_goals_against_avg": -0.8,
         }
@@ -84,7 +84,7 @@ SIDEARM_COMPOSITES: dict[str, CompositeDef] = {
             "shot_stats_goals": 1.1,
             "shot_stats_assists": 1.0,
             "shot_stats_points": 1.2,
-            "faceoff_stats_faceoff_pct": 0.5,
+            "misc_stats_faceoff_win_pct": 0.5,
             "goalie_stats_save_pct": 1.0,
             "goalie_stats_goals_against_avg": -0.8,
         }
@@ -161,18 +161,12 @@ SIDEARM_COMPOSITES: dict[str, CompositeDef] = {
         weights={
             "scoring_stats_scoring_average": -1.6,
             "scoring_stats_vs_par": -1.2,
-            "scoring_stats_rounds": 0.4,
-            "scoring_stats_strokes": -0.3,
-            "top10_finishes": 0.7,
         }
     ),
     "wgolf": CompositeDef(
         weights={
             "scoring_stats_scoring_average": -1.6,
             "scoring_stats_vs_par": -1.2,
-            "scoring_stats_rounds": 0.4,
-            "scoring_stats_strokes": -0.3,
-            "top10_finishes": 0.7,
         }
     ),
     "mten": CompositeDef(
