@@ -18,7 +18,11 @@ try:
     from ncaa_rankings.baseball import rank_baseball_players
     from ncaa_rankings.composites import SIDEARM_COMPOSITES
     from ncaa_rankings.conferences import load_conferences
-    from ncaa_rankings.ranking import rank_by_composite
+    from ncaa_rankings.ranking import (
+        BASKETBALL_MIN_GP,
+        BASKETBALL_MIN_MPG,
+        rank_by_composite,
+    )
     from ncaa_rankings.sidearm_generic import scrape_conference_players_sidearm
     from ncaa_rankings.sports import SPORTS
 except ImportError as e:
@@ -76,6 +80,13 @@ def main() -> None:
                 try:
                     if sport.code == "baseball":
                         ranked = rank_baseball_players(players)
+                    elif sport.code == "wbb":
+                        ranked = rank_by_composite(
+                            players,
+                            weights=comp.weights,
+                            min_gp=BASKETBALL_MIN_GP,
+                            min_mpg=BASKETBALL_MIN_MPG,
+                        )
                     else:
                         ranked = rank_by_composite(players, weights=comp.weights)
                     ranked_path = out_dir / f"{conf.code}_{sport.code}_player_rankings_2025_26.csv"
@@ -109,6 +120,13 @@ def main() -> None:
                 try:
                     if sport.code == "baseball":
                         all_ranked = rank_baseball_players(all_players)
+                    elif sport.code == "wbb":
+                        all_ranked = rank_by_composite(
+                            all_players,
+                            weights=comp.weights,
+                            min_gp=BASKETBALL_MIN_GP,
+                            min_mpg=BASKETBALL_MIN_MPG,
+                        )
                     else:
                         all_ranked = rank_by_composite(all_players, weights=comp.weights)
                     all_ranked_path = out_dir / f"d3_{sport.code}_player_rankings_2025_26.csv"

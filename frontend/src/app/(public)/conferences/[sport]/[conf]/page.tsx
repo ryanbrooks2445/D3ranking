@@ -1,97 +1,132 @@
+import type { Metadata } from "next";
 import Link from "next/link";
-import { readDataFileSafe, getSportRankingsJsonPath } from "@/lib/data";
-import { getSport, filterRowsBySegment, getSportSegmentColumns } from "@/lib/sports";
+import { notFound } from "next/navigation";
+import { getConferenceProfile } from "@/lib/conferenceSeasons";
+import { getRankedPlayerSeasons, getStatLeaders } from "@/lib/players";
+import { getLeaderCategories } from "@/lib/statCategories";
+import { isPro } from "@/lib/auth";
+import { FREE_CONFERENCE_LIMIT } from "@/lib/paywall";
+import { SITE_URL } from "@/lib/nav";
+import { parseSort, sortRows } from "@/lib/tableSort";
+import { CONFERENCE_RATING_METHODOLOGY } from "@/lib/ranking/methodology";
 import { formatConferenceDisplayName } from "@/lib/conferences";
-import { getProfileSlugMapForSport, slugMapToRecord } from "@/lib/athletes";
-import { SportPlayerRankingsTable } from "@/components/SportPlayerRankingsTable";
+import type { TeamRow } from "@/lib/teams";
+import { ConferenceHeader } from "@/components/conference/ConferenceHeader";
+import { ConferenceStandingsTable } from "@/components/conference/ConferenceStandingsTable";
+import { TopPlayersTable } from "@/components/player/TopPlayersTable";
+import { StatLeaderTable } from "@/components/player/StatLeaderTable";
+import { SectionHeading } from "@/components/ui/SectionHeading";
+import { ProGate } from "@/components/ProGate";
 
-const PROFILE_SPORTS = new Set(["mbb", "baseball"]);
+type Params = Promise<{ sport: string; conf: string }>;
+type Search = Promise<{ sort?: string; dir?: string }>;
 
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ sport: string; conf: string }>;
-}) {
+const STANDINGS_SORT = [
+  { key: "confRank", defaultDir: "asc" as const, accessor: (t: TeamRow) => t.seasonStat?.conferenceRank },
+  { key: "team", defaultDir: "asc" as const, accessor: (t: TeamRow) => t.name },
+  { key: "rating", defaultDir: "desc" as const, accessor: (t: TeamRow) => t.seasonStat?.rating },
+  { key: "nationalRank", defaultDir: "asc" as const, accessor: (t: TeamRow) => t.seasonStat?.nationalRank },
+  { key: "ppg", defaultDir: "desc" as const, accessor: (t: TeamRow) => t.seasonStat?.pointsPerGame },
+  { key: "fg", defaultDir: "desc" as const, accessor: (t: TeamRow) => t.seasonStat?.fieldGoalPct },
+  { key: "tp", defaultDir: "desc" as const, accessor: (t: TeamRow) => t.seasonStat?.threePointPct },
+  { key: "ranked", defaultDir: "desc" as const, accessor: (t: TeamRow) => t.seasonStat?.rankedPlayerCount },
+];
+
+const TOP_PLAYERS_PRO_LIMIT = 15;
+
+export async function generateMetadata({ params }: { params: Params }): Promise<Metadata> {
   const { sport, conf } = await params;
-  const def = getSport(sport);
+  const profile = await getConferenceProfile(sport, conf);
+  const name = profile?.conference.displayName ?? formatConferenceDisplayName("", conf);
+  const sportLabel = profile?.sport.label ?? "";
+  const sportNoun = sportLabel.replace(/^(Men's|Women's)\s+/, "");
   return {
-    title: `${formatConferenceDisplayName("", conf)} ${def?.label ?? sport} | D3Rank`,
+    title: `${name} ${sportNoun} Rankings`,
+    description: profile
+      ? `${name} ${sportLabel} standings by D3Rank rating, national conference rank, team statistics, top players, and stat leaders for ${profile.season.label}.`
+      : undefined,
+    alternates: { canonical: `${SITE_URL}/conferences/${sport.toLowerCase()}/${conf.toLowerCase()}` },
   };
 }
 
-export default async function PublicConferencePage({
-  params,
-  searchParams,
-}: {
-  params: Promise<{ sport: string; conf: string }>;
-  searchParams: Promise<{ segment?: string }>;
-}) {
+export default async function ConferencePage({ params, searchParams }: { params: Params; searchParams: Search }) {
   const { sport, conf } = await params;
-  const { segment } = await searchParams;
-  const code = sport.toLowerCase();
-  const confCode = conf.toLowerCase();
-  const def = getSport(code);
+  const sp = await searchParams;
+  const profile = await getConferenceProfile(sport, conf);
+  if (!profile) notFound();
 
-  const confPath = `sports/${code}/conferences/${confCode}.json`;
-  const raw = await readDataFileSafe(confPath);
-  let rows: Record<string, unknown>[] = raw ? (JSON.parse(raw) as Record<string, unknown>[]) : [];
+  const sportCode = profile.sport.code;
+  const confCode = profile.conference.code;
+  const [pro, players] = await Promise.all([isPro(), getRankedPlayerSeasons(sportCode, confCode)]);
 
-  const segmentId = segment ?? def?.segments?.[0]?.id;
-  if (segmentId) {
-    rows = filterRowsBySegment(code, segmentId, rows);
-  }
+  const sort = parseSort(sp, STANDINGS_SORT, { key: "confRank", dir: "asc" });
+  const sortDef = STANDINGS_SORT.find((s) => s.key === sort.key) ?? STANDINGS_SORT[0];
+  const standings = sortRows(profile.teams, sortDef.accessor, sort.dir);
 
-  const conferenceName = formatConferenceDisplayName(
-    (rows[0]?.conference as string) ?? "",
-    confCode,
-  );
-
-  let profileSlugLookup: Record<string, string> | undefined;
-  if (PROFILE_SPORTS.has(code)) {
-    try {
-      profileSlugLookup = slugMapToRecord(await getProfileSlugMapForSport(code));
-    } catch {
-      profileSlugLookup = undefined;
-    }
-  }
-
-  const columns = def
-    ? getSportSegmentColumns(def, segmentId ?? "").map((c) => ({
-        key: c.key,
-        label: c.label,
-        pct: c.pct,
-      }))
-    : [];
+  const rankedPlayers = [...players].sort((a, b) => (a.globalRank ?? 1e9) - (b.globalRank ?? 1e9));
+  const topPlayers = rankedPlayers.slice(0, pro ? TOP_PLAYERS_PRO_LIMIT : FREE_CONFERENCE_LIMIT);
+  const categories = getLeaderCategories(sportCode).slice(0, 3);
+  const basePath = `/conferences/${sportCode}/${confCode}`;
 
   return (
-    <div className="space-y-6">
-      <header>
-        <nav className="text-sm text-slate-500">
-          <Link href={`/dashboard/sports/${code}`} className="hover:text-slate-300">
-            {def?.label ?? code}
-          </Link>
-          <span className="mx-2">›</span>
-          <span className="text-slate-300">{conferenceName || confCode}</span>
-        </nav>
-        <h1 className="mt-4 text-3xl font-bold text-white">{conferenceName || confCode}</h1>
-        <p className="mt-1 text-slate-400">Conference player rankings · public view</p>
-        <Link
-          href={`/dashboard/sports/${code}/conferences/${confCode}`}
-          className="mt-3 inline-block text-sm text-blue-400 hover:text-blue-300"
-        >
-          Open in Pro rankings dashboard →
-        </Link>
-      </header>
+    <div className="space-y-10">
+      <ConferenceHeader profile={profile} />
 
-      <SportPlayerRankingsTable
-        rows={rows}
-        columns={columns}
-        isPro={true}
-        freeRowLimit={rows.length}
-        profileSlugLookup={profileSlugLookup}
-        sportCode={code}
-        segmentId={segmentId}
-      />
+      <section aria-labelledby="standings">
+        <SectionHeading
+          id="standings"
+          title="Standings"
+          subtitle="Ordered by D3Rank team rating. Win-loss records will appear when results data is available."
+        />
+        <ConferenceStandingsTable
+          teams={standings}
+          sportCode={sportCode}
+          sort={{ basePath, params: sp, current: sort }}
+        />
+      </section>
+
+      <div className="grid gap-10 lg:grid-cols-[minmax(0,3fr)_minmax(0,2fr)]">
+        <section aria-labelledby="top-players">
+          <SectionHeading
+            id="top-players"
+            title="Top players"
+            subtitle={`${players.length} ranked players in the conference`}
+            href={`/dashboard/sports/${sportCode}/conferences/${confCode}`}
+            hrefLabel="Full conference rankings"
+          />
+          <TopPlayersTable rows={topPlayers} sportCode={sportCode} showRatings={pro} />
+          {!pro && (
+            <div className="mt-3">
+              <ProGate shown={topPlayers.length} total={players.length} />
+            </div>
+          )}
+        </section>
+
+        {categories.length > 0 && (
+          <section aria-labelledby="leaders">
+            <SectionHeading id="leaders" title="Stat leaders" href={`/stats/${sportCode}?conference=${confCode}`} hrefLabel="All categories" />
+            <div className="space-y-6">
+              {categories.map((c) => (
+                <StatLeaderTable key={c.key} category={c} leaders={getStatLeaders(players, c, 5)} sportCode={sportCode} />
+              ))}
+            </div>
+          </section>
+        )}
+      </div>
+
+      <section aria-labelledby="methodology" className="max-w-3xl">
+        <SectionHeading id="methodology" title="How conferences are rated" />
+        {CONFERENCE_RATING_METHODOLOGY.map((p) => (
+          <p key={p} className="mt-2 text-sm leading-relaxed text-slate-400">
+            {p}
+          </p>
+        ))}
+        <p className="mt-3 text-sm">
+          <Link href={`/rankings/conferences/${sportCode}`} className="text-blue-400 hover:text-blue-300">
+            See all conference rankings →
+          </Link>
+        </p>
+      </section>
     </div>
   );
 }

@@ -150,22 +150,25 @@ export function SportPlayerRankingsTable({
     return sorted;
   }, [rows, rankKey]);
 
+  const previewRows = useMemo(() => {
+    if (isPro || sortedRows.length <= freeRowLimit) return sortedRows;
+    return sortedRows.slice(0, freeRowLimit);
+  }, [isPro, sortedRows, freeRowLimit]);
+
   const filtered = useMemo(() => {
     const q = search.toLowerCase().trim();
-    if (!q) return sortedRows;
-    return sortedRows.filter(
+    const source = isPro ? sortedRows : previewRows;
+    if (!q) return source;
+    return source.filter(
       (r) =>
         String(r.player_name ?? "").toLowerCase().includes(q) ||
         String(r.team ?? "").toLowerCase().includes(q),
     );
-  }, [sortedRows, search]);
+  }, [isPro, sortedRows, previewRows, search]);
 
-  const hasSearch = search.trim().length > 0;
-  const showPaywall = !isPro && !hasSearch && filtered.length > freeRowLimit;
-  const visibleRows =
-    !isPro && !hasSearch && showPaywall
-      ? filtered.slice(0, freeRowLimit)
-      : filtered;
+  const hasSearch = isPro && search.trim().length > 0;
+  const showPaywall = !isPro && sortedRows.length > freeRowLimit;
+  const visibleRows = filtered;
 
   return (
     <div className="w-full min-w-0 max-w-full space-y-5">
@@ -175,25 +178,32 @@ export function SportPlayerRankingsTable({
 
       <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div className="w-full sm:max-w-xs">
-          <input
-            type="search"
-            placeholder="Search player or team..."
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            className="w-full rounded-lg border border-slate-600 bg-slate-800/80 px-3 py-3 text-base text-white placeholder-slate-500 focus:border-blue-500/50 focus:outline-none focus:ring-2 focus:ring-blue-500/20 sm:py-2.5 sm:text-sm"
-          />
+          {isPro ? (
+            <input
+              type="search"
+              placeholder="Search player or team..."
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+              className="w-full rounded-lg border border-slate-600 bg-slate-800/80 px-3 py-3 text-base text-white placeholder-slate-500 focus:border-blue-500/50 focus:outline-none focus:ring-2 focus:ring-blue-500/20 sm:py-2.5 sm:text-sm"
+            />
+          ) : (
+            <div className="flex flex-col gap-2">
+              <input
+                type="search"
+                disabled
+                placeholder="Search is Pro"
+                aria-label="Search is a Pro feature"
+                className="w-full cursor-not-allowed rounded-lg border border-slate-700 bg-slate-900/80 px-3 py-3 text-base text-slate-500 placeholder-slate-500 sm:py-2.5 sm:text-sm"
+              />
+              <Link
+                href="/#pricing"
+                className="text-sm font-semibold text-blue-400 underline hover:text-blue-300"
+              >
+                Unlock search with Pro
+              </Link>
+            </div>
+          )}
         </div>
-        {!isPro && (
-          <p className="hidden text-xs text-slate-500 sm:inline">
-            OVR, Rank, and Score in search results are Pro-only.{" "}
-            <Link
-              href="/#pricing"
-              className="font-semibold text-blue-400 hover:text-blue-300 underline"
-            >
-              Try Pro Free to unlock.
-            </Link>
-          </p>
-        )}
       </div>
 
       <div className="overflow-hidden rounded-2xl border-2 border-slate-700 bg-slate-900/60 shadow-xl shadow-black/20">

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import argparse
 import sys
 from pathlib import Path
 
@@ -21,21 +22,31 @@ GOLF_SPORTS = (
 
 
 def main() -> None:
+    parser = argparse.ArgumentParser(description="Ingest D3 golf rankings from Clippd.")
+    parser.add_argument("--season-label", default=SEASON_LABEL)
+    parser.add_argument("--clippd-season", default=CLIPPD_SEASON)
+    parser.add_argument("--file-tag", default=FILE_TAG)
+    args = parser.parse_args()
+
     out_dir = Path("data")
     out_dir.mkdir(parents=True, exist_ok=True)
 
     for sport_code, gender, label in GOLF_SPORTS:
-        print(f"\n=== {label} ({sport_code}) via Clippd ===", flush=True)
+        print(
+            f"\n=== {label} ({sport_code}) via Clippd "
+            f"season={args.clippd_season} label={args.season_label} ===",
+            flush=True,
+        )
         players, rankings = ingest_and_rank_clippd_golf(
             sport_code=sport_code,
             gender=gender,
-            season_label=SEASON_LABEL,
-            clippd_season=CLIPPD_SEASON,
+            season_label=args.season_label,
+            clippd_season=args.clippd_season,
             min_stroke_play_rounds=MIN_ROUNDS,
         )
 
-        players_path = out_dir / f"d3_{sport_code}_players_{FILE_TAG}.csv"
-        rankings_path = out_dir / f"d3_{sport_code}_player_rankings_{FILE_TAG}.csv"
+        players_path = out_dir / f"d3_{sport_code}_players_{args.file_tag}.csv"
+        rankings_path = out_dir / f"d3_{sport_code}_player_rankings_{args.file_tag}.csv"
         players.to_csv(players_path, index=False)
         rankings.to_csv(rankings_path, index=False)
         print(f"Wrote {len(players)} players -> {players_path.name}", flush=True)
@@ -47,11 +58,11 @@ def main() -> None:
                 conf_players = players[players["conference_code"] == conf_code].copy()
                 conf_rankings = conf_df.copy()
                 conf_players.to_csv(
-                    out_dir / f"{conf_code}_{sport_code}_players_{FILE_TAG}.csv",
+                    out_dir / f"{conf_code}_{sport_code}_players_{args.file_tag}.csv",
                     index=False,
                 )
                 conf_rankings.to_csv(
-                    out_dir / f"{conf_code}_{sport_code}_player_rankings_{FILE_TAG}.csv",
+                    out_dir / f"{conf_code}_{sport_code}_player_rankings_{args.file_tag}.csv",
                     index=False,
                 )
             print(f"Wrote per-conference {sport_code} CSVs", flush=True)

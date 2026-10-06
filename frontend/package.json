@@ -9,7 +9,8 @@
     "lint": "eslint",
     "db:generate": "prisma generate",
     "db:migrate": "prisma migrate deploy",
-    "db:sync-rankings": "npx tsx scripts/sync-rankings-to-db.ts"
+    "db:sync-rankings": "npx tsx scripts/sync-rankings-to-db.ts",
+    "db:compute-rankings": "npx tsx scripts/compute-rankings.ts"
   },
   "dependencies": {
     "@prisma/client": "^5.22.0",

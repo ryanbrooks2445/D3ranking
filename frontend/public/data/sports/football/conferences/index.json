@@ -2,145 +2,139 @@
   {
     "conference_code": "arc",
     "conference": "American Rivers Conference (ARC)",
-    "player_count": 764,
-    "ranked_count": 764
+    "player_count": 533,
+    "ranked_count": 533
   },
   {
     "conference_code": "asc",
     "conference": "American Southwest Conference (ASC)",
-    "player_count": 370,
-    "ranked_count": 370
+    "player_count": 446,
+    "ranked_count": 445
   },
   {
     "conference_code": "centennial_conference",
     "conference": "Centennial Conference",
-    "player_count": 825,
-    "ranked_count": 824
+    "player_count": 537,
+    "ranked_count": 537
   },
   {
     "conference_code": "cciw",
     "conference": "College Conference of Illinois and Wisconsin (CCIW)",
-    "player_count": 834,
-    "ranked_count": 834
+    "player_count": 560,
+    "ranked_count": 560
   },
   {
     "conference_code": "ccc",
     "conference": "Conference of New England (CCC)",
-    "player_count": 685,
-    "ranked_count": 685
+    "player_count": 547,
+    "ranked_count": 547
   },
   {
     "conference_code": "e8",
     "conference": "Empire 8 (E8)",
-    "player_count": 644,
-    "ranked_count": 644
+    "player_count": 578,
+    "ranked_count": 578
   },
   {
     "conference_code": "hcac",
     "conference": "Heartland Collegiate Athletic Conference (HCAC)",
-    "player_count": 574,
-    "ranked_count": 574
+    "player_count": 395,
+    "ranked_count": 395
   },
   {
     "conference_code": "landmark_conference",
     "conference": "Landmark Conference",
-    "player_count": 644,
-    "ranked_count": 644
+    "player_count": 480,
+    "ranked_count": 480
   },
   {
     "conference_code": "ll",
     "conference": "Liberty League (LL)",
-    "player_count": 656,
-    "ranked_count": 656
+    "player_count": 560,
+    "ranked_count": 560
   },
   {
     "conference_code": "miaa",
     "conference": "Michigan Intercollegiate Athletic Association (MIAA)",
-    "player_count": 792,
-    "ranked_count": 792
+    "player_count": 656,
+    "ranked_count": 656
   },
   {
     "conference_code": "mac",
     "conference": "Middle Atlantic Conferences (MAC)",
-    "player_count": 825,
-    "ranked_count": 825
+    "player_count": 692,
+    "ranked_count": 692
   },
   {
     "conference_code": "mwc",
     "conference": "Midwest Conference (MWC)",
-    "player_count": 772,
-    "ranked_count": 772
-  },
-  {
-    "conference_code": "miac",
-    "conference": "Minnesota Intercollegiate Athletic Conference (MIAC)",
-    "player_count": 745,
-    "ranked_count": 745
-  },
-  {
-    "conference_code": "newmac",
-    "conference": "New England Women's and Men's Athletic Conference (NEWMAC)",
-    "player_count": 662,
-    "ranked_count": 662
+    "player_count": 777,
+    "ranked_count": 777
   },
   {
     "conference_code": "ncac",
     "conference": "North Coast Athletic Conference (NCAC)",
-    "player_count": 803,
-    "ranked_count": 803
+    "player_count": 815,
+    "ranked_count": 815
   },
   {
     "conference_code": "nacc",
     "conference": "Northern Athletics Collegiate Conference (NACC)",
-    "player_count": 750,
-    "ranked_count": 750
+    "player_count": 588,
+    "ranked_count": 588
   },
   {
     "conference_code": "nwc",
     "conference": "Northwest Conference (NWC)",
-    "player_count": 713,
-    "ranked_count": 713
+    "player_count": 519,
+    "ranked_count": 516
   },
   {
     "conference_code": "oac",
     "conference": "Ohio Athletic Conference (OAC)",
-    "player_count": 742,
-    "ranked_count": 742
+    "player_count": 670,
+    "ranked_count": 670
   },
   {
     "conference_code": "odac",
     "conference": "Old Dominion Athletic Conference (ODAC)",
-    "player_count": 766,
-    "ranked_count": 766
+    "player_count": 517,
+    "ranked_count": 517
   },
   {
     "conference_code": "pac",
     "conference": "Presidents Athletic Conference (PAC)",
-    "player_count": 921,
-    "ranked_count": 921
+    "player_count": 777,
+    "ranked_count": 777
+  },
+  {
+    "conference_code": "saa",
+    "conference": "Southern Athletic Association (SAA)",
+    "player_count": 569,
+    "ranked_count": 569
   },
   {
     "conference_code": "sciac",
     "conference": "Southern California Intercollegiate Athletic Conference (SCIAC)",
-    "player_count": 471,
-    "ranked_count": 471
+    "player_count": 511,
+    "ranked_count": 511
   },
   {
     "conference_code": "umac",
     "conference": "Upper Midwest Athletic Conference (UMAC)",
-    "player_count": 360,
-    "ranked_count": 360
+    "player_count": 319,
+    "ranked_count": 319
   },
   {
     "conference_code": "usa_south_athletic_confe",
     "conference": "USA South Athletic Conference",
-    "player_count": 693,
-    "ranked_count": 693
+    "player_count": 587,
+    "ranked_count": 587
   },
   {
     "conference_code": "wiac",
     "conference": "Wisconsin Intercollegiate Athletic Conference (WIAC)",
-    "player_count": 710,
-    "ranked_count": 710
+    "player_count": 629,
+    "ranked_count": 629
   }
 ]

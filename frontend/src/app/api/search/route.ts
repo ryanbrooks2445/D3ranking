@@ -1,7 +1,12 @@
 import { NextResponse } from "next/server";
 import { searchAthletes } from "@/lib/athletes";
+import { isPro } from "@/lib/auth";
 
 export async function GET(request: Request) {
+  if (!(await isPro())) {
+    return NextResponse.json({ error: "Pro required" }, { status: 403 });
+  }
+
   const url = new URL(request.url);
   const q = url.searchParams.get("q") ?? "";
   const sport = url.searchParams.get("sport") ?? undefined;

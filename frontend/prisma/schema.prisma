@@ -65,8 +65,10 @@ model Sport {
   isActive      Boolean       @default(true)
   createdAt     DateTime      @default(now())
 
-  seasons Season[]
-  teams   Team[]
+  seasons           Season[]
+  teams             Team[]
+  conferenceSeasons ConferenceSeason[]
+  rankingSnapshots  RankingSnapshot[]
 }
 
 model Conference {
@@ -75,8 +77,9 @@ model Conference {
   name   String
   region String?
 
-  teams          Team[]
-  athleteSeasons AthleteSeason[]
+  teams             Team[]
+  athleteSeasons    AthleteSeason[]
+  conferenceSeasons ConferenceSeason[]
 }
 
 model Season {
@@ -88,15 +91,17 @@ model Season {
   endYear   Int?
   isCurrent Boolean @default(false)
 
-  athleteSeasons AthleteSeason[]
-  teams          Team[]
+  athleteSeasons    AthleteSeason[]
+  teams             Team[]
+  conferenceSeasons ConferenceSeason[]
+  rankingSnapshots  RankingSnapshot[]
 
   @@unique([sportId, label])
   @@index([sportId, isCurrent])
 }
 
 model Team {
-  id               String  @id @default(cuid())
+  id               String      @id @default(cuid())
   slug             String
   name             String
   sportId          String
@@ -106,12 +111,111 @@ model Team {
   seasonId         String?
   season           Season?     @relation(fields: [seasonId], references: [id], onDelete: SetNull)
   externalSchoolId String?
+  shortName        String?
+  logoUrl          String?
 
   athleteSeasons AthleteSeason[]
+  seasonStat     TeamSeasonStat?
 
   @@unique([sportId, seasonId, slug])
   @@index([conferenceId])
   @@index([sportId, name])
+}
+
+/// Aggregated team statistics plus persisted rating/rank output for one Team row
+/// (Team is already scoped to sport + season). Record and efficiency fields are
+/// nullable because the current pipeline has no game results; they are reserved
+/// for when a results source is added.
+model TeamSeasonStat {
+  id     String @id @default(cuid())
+  teamId String @unique
+  team   Team   @relation(fields: [teamId], references: [id], onDelete: Cascade)
+
+  gamesPlayed       Int?
+  rosterCount       Int?
+  rankedPlayerCount Int?
+
+  pointsPerGame    Float?
+  reboundsPerGame  Float?
+  assistsPerGame   Float?
+  turnoversPerGame Float?
+  stealsPerGame    Float?
+  blocksPerGame    Float?
+  fieldGoalPct     Float?
+  threePointPct    Float?
+  freeThrowPct     Float?
+
+  wins                 Int?
+  losses               Int?
+  conferenceWins       Int?
+  conferenceLosses     Int?
+  pointsAllowedPerGame Float?
+  offensiveRating      Float?
+  defensiveRating      Float?
+  strengthOfSchedule   Float?
+
+  rating               Float?
+  rawStrength          Float?
+  nationalRank         Int?
+  conferenceRank       Int?
+  previousNationalRank Int?
+  ratingVersion        String?
+  extra                Json?
+  computedAt           DateTime @default(now())
+  updatedAt            DateTime @updatedAt
+
+  @@index([rating(sort: Desc)])
+  @@index([nationalRank])
+}
+
+/// Conference strength for one sport + season, derived from its teams' ratings.
+model ConferenceSeason {
+  id           String     @id @default(cuid())
+  conferenceId String
+  conference   Conference @relation(fields: [conferenceId], references: [id], onDelete: Cascade)
+  sportId      String
+  sport        Sport      @relation(fields: [sportId], references: [id], onDelete: Cascade)
+  seasonId     String
+  season       Season     @relation(fields: [seasonId], references: [id], onDelete: Cascade)
+
+  teamCount            Int
+  rankedTeamCount      Int?
+  avgTeamRating        Float?
+  medianTeamRating     Float?
+  topTeamRating        Float?
+  top3AvgRating        Float?
+  teamsInTop25         Int?
+  rating               Float?
+  nationalRank         Int?
+  previousNationalRank Int?
+  ratingVersion        String?
+  computedAt           DateTime @default(now())
+  updatedAt            DateTime @updatedAt
+
+  @@unique([conferenceId, seasonId])
+  @@index([seasonId, nationalRank])
+}
+
+enum RankingEntityType {
+  team
+  conference
+  player
+}
+
+/// Immutable ordered output of one ranking run. Enables rank movement and audits
+/// once more than one snapshot exists per season.
+model RankingSnapshot {
+  id         String            @id @default(cuid())
+  sportId    String
+  sport      Sport             @relation(fields: [sportId], references: [id], onDelete: Cascade)
+  seasonId   String
+  season     Season            @relation(fields: [seasonId], references: [id], onDelete: Cascade)
+  entityType RankingEntityType
+  version    String
+  entries    Json
+  computedAt DateTime          @default(now())
+
+  @@index([seasonId, entityType, computedAt(sort: Desc)])
 }
 
 model Athlete {
@@ -135,7 +239,7 @@ model Athlete {
 }
 
 model AthleteExternalId {
-  id         String @id @default(cuid())
+  id         String  @id @default(cuid())
   athleteId  String
   athlete    Athlete @relation(fields: [athleteId], references: [id], onDelete: Cascade)
   source     String
@@ -146,27 +250,27 @@ model AthleteExternalId {
 }
 
 model AthleteSeason {
-  id             String  @id @default(cuid())
-  athleteId      String
-  athlete        Athlete @relation(fields: [athleteId], references: [id], onDelete: Cascade)
-  seasonId       String
-  season         Season  @relation(fields: [seasonId], references: [id], onDelete: Cascade)
-  teamId         String?
-  team           Team?   @relation(fields: [teamId], references: [id], onDelete: SetNull)
-  conferenceId   String?
-  conference     Conference? @relation(fields: [conferenceId], references: [id], onDelete: SetNull)
-  position       String?
-  classYear      String?
-  segment        String  @default("")
-  globalRank     Int?
-  rating         Int?
-  compositeScore Float?
-  stats          Json
+  id              String      @id @default(cuid())
+  athleteId       String
+  athlete         Athlete     @relation(fields: [athleteId], references: [id], onDelete: Cascade)
+  seasonId        String
+  season          Season      @relation(fields: [seasonId], references: [id], onDelete: Cascade)
+  teamId          String?
+  team            Team?       @relation(fields: [teamId], references: [id], onDelete: SetNull)
+  conferenceId    String?
+  conference      Conference? @relation(fields: [conferenceId], references: [id], onDelete: SetNull)
+  position        String?
+  classYear       String?
+  segment         String      @default("")
+  globalRank      Int?
+  rating          Int?
+  compositeScore  Float?
+  stats           Json
   eligibilityMeta Json?
-  sourceRank     Int?
-  dataSource     String?
-  createdAt      DateTime @default(now())
-  updatedAt      DateTime @updatedAt
+  sourceRank      Int?
+  dataSource      String?
+  createdAt       DateTime    @default(now())
+  updatedAt       DateTime    @updatedAt
 
   aiSummary AiPlayerSummary?
 

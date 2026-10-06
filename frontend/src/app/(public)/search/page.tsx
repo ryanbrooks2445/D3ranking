@@ -1,6 +1,9 @@
 import { searchAthletes } from "@/lib/athletes";
 import Link from "next/link";
 import { OvrBadge } from "@/components/athlete/OvrBadge";
+import { CheckoutButton } from "@/components/CheckoutButton";
+import { isPro } from "@/lib/auth";
+import { PRO_TRIAL_LABEL } from "@/lib/billing";
 
 export const metadata = {
   title: "Search athletes | D3Rank",
@@ -13,6 +16,28 @@ export default async function SearchPage({
   searchParams: Promise<{ q?: string; sport?: string }>;
 }) {
   const { q = "", sport } = await searchParams;
+  const pro = await isPro();
+
+  if (!pro) {
+    return (
+      <div className="space-y-6">
+        <header>
+          <h1 className="text-3xl font-bold text-white">Search athletes</h1>
+          <p className="mt-2 text-slate-400">NCAA Division III player discovery</p>
+        </header>
+        <div className="rounded-2xl border-2 border-slate-600 bg-slate-900/70 p-10 text-center">
+          <p className="font-medium text-slate-300">Search is a Pro feature.</p>
+          <p className="mt-2 text-slate-400">
+            Unlock player search, full lists, OVR, and rank after a {PRO_TRIAL_LABEL}.
+          </p>
+          <CheckoutButton className="mt-6 inline-block rounded-xl bg-blue-600 px-6 py-3 text-base font-semibold text-white transition hover:bg-blue-500">
+            Try Pro Free
+          </CheckoutButton>
+        </div>
+      </div>
+    );
+  }
+
   const results = q.trim().length >= 2 ? await searchAthletes(q, sport) : [];
 
   return (

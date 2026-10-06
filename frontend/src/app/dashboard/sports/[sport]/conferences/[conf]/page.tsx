@@ -1,7 +1,8 @@
 import { readDataFileSafe, getSeasonDisplay, getDataQualityNote } from "@/lib/data";
 import Link from "next/link";
-import { getSport, getSportSegmentColumns, filterRowsBySegment, isSportUnderConstruction } from "@/lib/sports";
+import { getSport, getSportSegmentColumns, filterRowsBySegment, isSportUnderConstruction, sortRowsByRank } from "@/lib/sports";
 import { isPro } from "@/lib/auth";
+import { FREE_CONFERENCE_LIMIT } from "@/lib/paywall";
 import { formatConferenceDisplayName } from "@/lib/conferences";
 import { SportPlayerRankingsTable } from "@/components/SportPlayerRankingsTable";
 import { getProfileSlugMapForSport, slugMapToRecord } from "@/lib/athletes";
@@ -89,18 +90,7 @@ export default async function ConferenceRankingsPage({
     rows = [];
   }
 
-  // Sort by rank so conference rankings display in correct order (e.g. hockey)
-  if (rows.length > 0) {
-    const first = rows[0] as Record<string, unknown>;
-    const rankKey = first.global_rank != null ? "global_rank" : first.rank != null ? "rank" : null;
-    if (rankKey) {
-      rows = [...rows].sort(
-        (a, b) =>
-          Number((a as Record<string, unknown>)[rankKey]) -
-          Number((b as Record<string, unknown>)[rankKey]),
-      );
-    }
-  }
+  rows = sortRowsByRank(rows);
 
   const segmentId =
     segmentParam && def?.segments?.some((s) => s.id === segmentParam)
@@ -174,7 +164,7 @@ export default async function ConferenceRankingsPage({
           {conferenceName}
         </h1>
         <p className="mt-2 text-slate-400">
-          {sportLabel} · {seasonLabel} · Top 5 free; full list with Pro
+          {sportLabel} · {seasonLabel} · Top {FREE_CONFERENCE_LIMIT} free; full list with Pro
         </p>
         {seasonNote && (
           <p className="mt-1 text-sm text-amber-400/90">{seasonNote}</p>
@@ -199,7 +189,7 @@ export default async function ConferenceRankingsPage({
         rows={segmentRows}
         columns={columns}
         isPro={pro}
-        freeRowLimit={5}
+        freeRowLimit={FREE_CONFERENCE_LIMIT}
         title={`${sportLabel} · ${conferenceName}`}
         profileSlugLookup={profileSlugLookup}
         sportCode={code}

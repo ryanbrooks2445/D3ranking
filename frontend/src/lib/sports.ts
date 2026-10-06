@@ -840,3 +840,24 @@ export function filterRowsBySegment(
 export function getAllSports(): SportDef[] {
   return SPORTS;
 }
+
+/** Number of sports shown in the browse grid (includes under-construction). */
+export function getListedSportCount(): number {
+  return SPORTS.length;
+}
+
+/** Sort ranking rows by global_rank, then conference rank. Missing ranks go last. */
+export function sortRowsByRank(rows: Record<string, unknown>[]): Record<string, unknown>[] {
+  if (rows.length === 0) return rows;
+  const first = rows[0];
+  const rankKey =
+    first.global_rank != null ? "global_rank" : first.rank != null ? "rank" : null;
+  if (!rankKey) return rows;
+  return [...rows].sort((a, b) => {
+    const aRank = Number(a[rankKey]);
+    const bRank = Number(b[rankKey]);
+    const aSafe = Number.isFinite(aRank) ? aRank : 999_999;
+    const bSafe = Number.isFinite(bRank) ? bRank : 999_999;
+    return aSafe - bSafe;
+  });
+}

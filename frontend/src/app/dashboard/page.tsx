@@ -1,11 +1,13 @@
 import Link from "next/link";
-import { getAllSports } from "@/lib/sports";
+import { getAllSports, getListedSportCount } from "@/lib/sports";
 import { getSeason } from "@/lib/data";
 import { PRO_TRIAL_LABEL } from "@/lib/billing";
+import { FREE_CONFERENCE_LIMIT, FREE_GLOBAL_LIMIT } from "@/lib/paywall";
 import { TrendingAthletes } from "@/components/athlete/TrendingAthletes";
 
 export default async function DashboardPage() {
   const sports = getAllSports();
+  const sportCount = getListedSportCount();
   const season = await getSeason("mbb");
 
   return (
@@ -22,7 +24,7 @@ export default async function DashboardPage() {
         </p>
         <div className="mt-8 flex flex-wrap items-center justify-center gap-4">
           <span className="rounded-full bg-slate-800 px-4 py-2 text-sm font-medium text-slate-300 ring-1 ring-slate-700">
-            12 sports
+            {sportCount} sports
           </span>
           <span className="rounded-full bg-slate-800 px-4 py-2 text-sm font-medium text-slate-300 ring-1 ring-slate-700">
             30+ conferences
@@ -67,7 +69,7 @@ export default async function DashboardPage() {
 
       <section className="rounded-2xl border border-slate-700 bg-slate-900/50 px-6 py-5 text-center">
         <p className="text-slate-400">
-          <span className="font-semibold text-slate-300">Free:</span> Top 25 global + top 5 per conference.{" "}
+          <span className="font-semibold text-slate-300">Free:</span> Top {FREE_GLOBAL_LIMIT} global + top {FREE_CONFERENCE_LIMIT} per conference.{" "}
           <span className="font-semibold text-slate-300">Pro:</span> Full lists, OVR, rank, score, and search after a {PRO_TRIAL_LABEL}.{" "}
           <Link href="/#pricing" className="font-semibold text-blue-400 hover:text-blue-300 underline">
             Try Pro Free

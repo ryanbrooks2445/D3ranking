@@ -5,7 +5,7 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 4,139,2025-26,Michael Notias,Farmingdale State,G,Skyline Conference,skyline_conference,28,29.0,14.89,3.86,4.64,1.75,0.32,1.5714285714285714,5.5998666769081415,93
 5,165,2025-26,AJ Esposito,St. Joseph's-Long Island,F,Skyline Conference,skyline_conference,26,34.03846153846154,13.5,11.88,1.65,0.62,0.77,1.5769230769230769,5.299366184486712,93
 6,198,2025-26,Chris Robinson,Manhattanville,G,Skyline Conference,skyline_conference,26,31.384615384615383,14.08,5.31,3.62,2.12,0.77,2.423076923076923,5.074784196445052,93
-7,200,2025-26,Tim Barton,Merchant Marine,*,Skyline Conference,skyline_conference,23,32.391304347826086,11.96,7.65,2.83,1.43,1.43,2.0434782608695654,5.0735719152401035,93
+7,200,2025-26,Tim Barton nan,Merchant Marine,*,Skyline Conference,skyline_conference,23,32.391304347826086,11.96,7.65,2.83,1.43,1.43,2.0434782608695654,5.0735719152401035,93
 8,206,2025-26,Yoav Oselka,Yeshiva,G,Skyline Conference,skyline_conference,28,27.535714285714285,14.46,8.07,3.11,1.61,0.39,2.3214285714285716,4.987331409254263,92
 9,216,2025-26,Eric Woodberry,Mount Saint Vincent,,Skyline Conference,skyline_conference,25,32.8,18.16,6.12,2.48,1.16,0.52,2.52,4.9305642216961845,92
 10,230,2025-26,Joel Ofori,Old Westbury,F,Skyline Conference,skyline_conference,27,31.11111111111111,12.52,9.74,1.7,1.0,1.52,2.2222222222222223,4.777961922285948,92
@@ -16,7 +16,7 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 15,426,2025-26,Jermaine King Jr.,Old Westbury,G,Skyline Conference,skyline_conference,27,35.51851851851852,14.41,2.52,4.44,1.37,0.0,1.962962962962963,3.544053826566812,89
 16,510,2025-26,Isiah Middleton,Manhattanville,G,Skyline Conference,skyline_conference,26,29.923076923076923,13.38,7.08,0.58,0.62,0.81,1.3846153846153846,3.083022479166708,88
 17,525,2025-26,Chris Dougherty,Sarah Lawrence,C,Skyline Conference,skyline_conference,27,28.074074074074073,8.3,9.56,2.56,0.44,1.74,2.407407407407407,3.0202838073828953,88
-18,540,2025-26,Jack Flannery,Merchant Marine,*,Skyline Conference,skyline_conference,25,33.04,15.84,4.44,1.6,1.28,0.24,2.12,2.961107100721436,88
+18,540,2025-26,Jack Flannery nan,Merchant Marine,*,Skyline Conference,skyline_conference,25,33.04,15.84,4.44,1.6,1.28,0.24,2.12,2.961107100721436,88
 19,556,2025-26,Yair Dovrat,Yeshiva,G,Skyline Conference,skyline_conference,28,31.75,8.82,4.82,5.04,1.14,0.68,2.107142857142857,2.8880559265754955,88
 20,572,2025-26,Trey Skeete,Purchase,G,Skyline Conference,skyline_conference,27,35.81481481481482,11.7,5.59,2.7,2.0,0.07,2.1481481481481484,2.824640073779617,88
 21,573,2025-26,Andrew Saint-Louis,Manhattanville,G,Skyline Conference,skyline_conference,24,34.833333333333336,13.96,4.67,3.04,1.17,0.17,2.2916666666666665,2.8229498971422764,88
@@ -30,7 +30,7 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 29,824,2025-26,Liam Buckley,Farmingdale State,F,Skyline Conference,skyline_conference,26,24.384615384615383,10.62,6.42,1.35,0.69,0.46,1.2692307692307692,1.942320671705895,84
 30,841,2025-26,Christian Thomas,Old Westbury,F,Skyline Conference,skyline_conference,18,28.22222222222222,9.44,5.11,1.22,1.06,0.72,1.0,1.8990171220485528,84
 31,884,2025-26,Evan Block,Maritime,F,Skyline Conference,skyline_conference,22,25.863636363636363,6.73,6.91,2.36,1.36,0.36,1.2272727272727273,1.7360588824279015,83
-32,889,2025-26,Aaron Zalescik,Merchant Marine,*,Skyline Conference,skyline_conference,25,30.76,8.84,7.96,1.52,1.76,0.32,2.16,1.730550973622972,83
+32,889,2025-26,Aaron Zalescik nan,Merchant Marine,*,Skyline Conference,skyline_conference,25,30.76,8.84,7.96,1.52,1.76,0.32,2.16,1.730550973622972,83
 33,897,2025-26,J.P. Egan,Mount Saint Mary,F,Skyline Conference,skyline_conference,25,25.92,8.92,4.72,2.16,1.16,0.48,1.24,1.6907274412047104,83
 34,971,2025-26,Jacob Idowu,St. Joseph's-Brooklyn,G,Skyline Conference,skyline_conference,25,27.04,11.84,8.04,1.04,0.72,0.28,2.32,1.4350361313103444,82
 35,1012,2025-26,Matthew Walsh,Mount Saint Mary,G,Skyline Conference,skyline_conference,25,26.96,8.96,3.52,2.12,1.92,0.24,1.6,1.2930554060162358,82
@@ -41,7 +41,7 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 40,1235,2025-26,Blake Salice-Mitchell,Mount Saint Vincent,,Skyline Conference,skyline_conference,19,22.05263157894737,9.95,5.05,1.32,0.53,0.42,1.4736842105263157,0.7056360227806108,79
 41,1280,2025-26,Maurice Western,Purchase,G,Skyline Conference,skyline_conference,25,27.88,9.6,2.44,2.28,0.8,0.4,1.4,0.6020900639813933,78
 42,1303,2025-26,Sean Holzman,Purchase,F,Skyline Conference,skyline_conference,27,24.0,7.15,5.7,1.04,0.78,0.44,0.8518518518518519,0.5399256644107149,78
-43,1322,2025-26,Mason Lavergne,Merchant Marine,*,Skyline Conference,skyline_conference,25,30.04,10.84,2.48,2.52,1.68,0.36,2.84,0.502432543945809,78
+43,1322,2025-26,Mason Lavergne nan,Merchant Marine,*,Skyline Conference,skyline_conference,25,30.04,10.84,2.48,2.52,1.68,0.36,2.84,0.502432543945809,78
 44,1418,2025-26,Jordan Tucker,Farmingdale State,G,Skyline Conference,skyline_conference,28,18.607142857142858,9.43,3.64,1.11,0.89,0.25,1.2142857142857142,0.2727823743406039,76
 45,1468,2025-26,TayShaun Hawkins,St. Joseph's-Long Island,G,Skyline Conference,skyline_conference,25,32.12,12.64,4.12,2.12,0.56,0.16,2.92,0.1108224716869645,76
 46,1542,2025-26,Colin Mills,St. Joseph's-Brooklyn,G,Skyline Conference,skyline_conference,25,26.24,10.4,1.8,1.68,1.12,0.08,1.68,-0.1049613865629791,75
@@ -59,7 +59,7 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 58,2055,2025-26,Rob Geremino,Mount Saint Mary,G,Skyline Conference,skyline_conference,19,19.157894736842103,6.0,2.53,1.0,0.74,0.53,1.105263157894737,-1.3157921125506389,68
 59,2061,2025-26,Brenden Graham,Mount Saint Mary,G,Skyline Conference,skyline_conference,25,25.04,7.52,2.8,1.72,0.92,0.08,1.84,-1.3245403573383612,68
 60,2087,2025-26,Dylon Stanley,Farmingdale State,F,Skyline Conference,skyline_conference,28,14.928571428571429,5.25,3.11,0.61,0.64,0.64,0.8571428571428571,-1.3668385365333968,67
-61,2151,2025-26,Sykes jr Richard,Merchant Marine,0,Skyline Conference,skyline_conference,23,21.652173913043477,7.22,1.96,1.22,1.0,0.26,1.608695652173913,-1.5135591122895116,66
+61,2151,2025-26,Sykes jr Richard nan,Merchant Marine,0,Skyline Conference,skyline_conference,23,21.652173913043477,7.22,1.96,1.22,1.0,0.26,1.608695652173913,-1.5135591122895116,66
 62,2173,2025-26,Matthew Maxwell,St. Joseph's-Long Island,G,Skyline Conference,skyline_conference,24,22.916666666666668,4.96,2.71,2.13,0.83,0.21,1.375,-1.5606922548674826,66
 63,2197,2025-26,Louis Vidal,Mount Saint Vincent,G,Skyline Conference,skyline_conference,23,22.782608695652176,6.74,3.87,1.52,0.78,0.35,2.217391304347826,-1.625340815736671,66
 64,2228,2025-26,Carlos Urena,Manhattanville,G,Skyline Conference,skyline_conference,25,23.04,6.48,2.44,1.68,0.84,0.08,1.56,-1.6843458830653792,65
@@ -86,23 +86,23 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 85,2921,2025-26,Conor Gemmill,Mount Saint Mary,F,Skyline Conference,skyline_conference,18,17.833333333333332,4.61,3.11,0.56,0.33,0.44,1.5555555555555556,-3.0326998911036043,56
 86,2923,2025-26,Dean Furlong,Sarah Lawrence,F,Skyline Conference,skyline_conference,14,20.357142857142858,1.93,4.57,1.86,0.43,0.36,1.7857142857142858,-3.0354636800754085,56
 87,2932,2025-26,Gerard Novello,Mount Saint Vincent,G,Skyline Conference,skyline_conference,18,23.333333333333332,5.78,1.56,2.06,0.22,0.06,1.8888888888888888,-3.0567473323366476,56
-88,2945,2025-26,Colin Hart,Merchant Marine,*,Skyline Conference,skyline_conference,23,20.60869565217391,4.09,2.87,0.78,0.57,0.26,1.4782608695652173,-3.0968087819588175,56
+88,2945,2025-26,Colin Hart nan,Merchant Marine,*,Skyline Conference,skyline_conference,23,20.60869565217391,4.09,2.87,0.78,0.57,0.26,1.4782608695652173,-3.0968087819588175,56
 89,2951,2025-26,Nate Maldonado,Purchase,G,Skyline Conference,skyline_conference,27,14.555555555555555,6.0,1.33,0.78,0.33,0.11,1.3333333333333333,-3.106372387833744,56
 90,2962,2025-26,Sean Kivlan,Maritime,F,Skyline Conference,skyline_conference,23,11.91304347826087,4.39,2.22,0.65,0.35,0.13,1.0,-3.1366606172827423,56
 91,3009,2025-26,Maxwell Wignall,St. Joseph's-Brooklyn,G,Skyline Conference,skyline_conference,11,11.0,3.27,1.55,0.73,0.55,0.09,0.6363636363636364,-3.2372765737807474,55
 92,3044,2025-26,Brendan Baldi,Mount Saint Vincent,,Skyline Conference,skyline_conference,23,15.217391304347826,1.96,1.83,0.96,0.35,0.3,0.5217391304347826,-3.3352432244396915,55
 93,3053,2025-26,Chris Zaveckas,Maritime,G,Skyline Conference,skyline_conference,25,11.24,3.32,1.36,0.32,0.36,0.12,0.32,-3.3536783427988746,54
-94,3112,2025-26,Latimer Taylor,Old Westbury,0,Skyline Conference,skyline_conference,20,14.5,4.4,0.95,0.55,0.1,0.1,0.6,-3.4891061373228087,54
+94,3112,2025-26,Latimer Taylor nan,Old Westbury,0,Skyline Conference,skyline_conference,20,14.5,4.4,0.95,0.55,0.1,0.1,0.6,-3.4891061373228087,54
 95,3185,2025-26,Nazareth Warren,St. Joseph's-Brooklyn,G,Skyline Conference,skyline_conference,21,11.095238095238097,3.67,2.43,0.95,0.1,0.14,1.2857142857142858,-3.725011861644364,53
 96,3207,2025-26,Daniel Herzner,Mount Saint Mary,G,Skyline Conference,skyline_conference,23,10.26086956521739,2.48,1.22,0.35,0.57,0.17,0.6086956521739131,-3.791713424203667,52
 97,3246,2025-26,Anthony Lang,Maritime,F,Skyline Conference,skyline_conference,23,11.695652173913045,2.65,2.09,0.35,0.26,0.17,0.782608695652174,-3.9160511025304054,52
 98,3276,2025-26,James O'Connell,Maritime,G,Skyline Conference,skyline_conference,10,13.0,3.3,1.1,1.1,0.9,0.0,1.6,-3.992986520778032,51
 99,3277,2025-26,Timothy Richardson,St. Joseph's-Brooklyn,G,Skyline Conference,skyline_conference,22,10.0,2.95,2.0,0.27,0.45,0.0,0.8636363636363636,-3.997575414953901,51
-100,3300,2025-26,Noah Brown,Merchant Marine,0,Skyline Conference,skyline_conference,25,16.44,3.4,1.24,1.08,0.16,0.0,1.08,-4.065303870435929,51
+100,3300,2025-26,Noah Brown nan,Merchant Marine,0,Skyline Conference,skyline_conference,25,16.44,3.4,1.24,1.08,0.16,0.0,1.08,-4.065303870435929,51
 101,3310,2025-26,Guillermo Zabala,Purchase,G,Skyline Conference,skyline_conference,13,10.538461538461538,3.31,1.85,0.46,0.31,0.15,1.2307692307692308,-4.130586903313689,51
 102,3323,2025-26,Ahmad Sackor,Old Westbury,F,Skyline Conference,skyline_conference,23,11.608695652173912,1.17,2.0,0.7,0.43,0.35,1.0,-4.181986147883021,51
 103,3327,2025-26,Michael Spisto,Farmingdale State,G,Skyline Conference,skyline_conference,25,13.24,1.28,1.4,1.52,0.44,0.0,0.96,-4.194853911191934,51
-104,3336,2025-26,Talan Dawkins,Merchant Marine,0,Skyline Conference,skyline_conference,23,10.91304347826087,2.09,1.04,0.43,0.52,0.22,0.8695652173913043,-4.2477080830474865,51
+104,3336,2025-26,Talan Dawkins nan,Merchant Marine,0,Skyline Conference,skyline_conference,23,10.91304347826087,2.09,1.04,0.43,0.52,0.22,0.8695652173913043,-4.2477080830474865,51
 105,3342,2025-26,Elijah Benbow,Mount Saint Vincent,G,Skyline Conference,skyline_conference,13,10.0,2.85,0.92,0.62,0.15,0.0,0.6923076923076923,-4.294763625158674,51
 106,3353,2025-26,Anthony Marzziotti,Mount Saint Mary,G,Skyline Conference,skyline_conference,22,10.045454545454543,1.82,0.55,0.95,0.59,0.05,0.9545454545454546,-4.432877904236243,50
 107,3356,2025-26,Liam Brennan,Mount Saint Vincent,,Skyline Conference,skyline_conference,13,13.846153846153848,2.0,2.69,0.23,0.15,0.15,1.0,-4.441019526160119,50

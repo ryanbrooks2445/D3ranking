@@ -8,8 +8,8 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 7,149,2025-26,Chase McWhite,Albright,G,Middle Atlantic Conferences (MAC),mac,22,29.454545454545453,12.5,8.73,2.77,1.18,1.68,2.272727272727273,5.462848676935506,93
 8,168,2025-26,Elijah Hamilton,Alvernia,F,Middle Atlantic Conferences (MAC),mac,24,33.375,17.75,7.38,1.21,0.92,1.0,2.0416666666666665,5.273266765723965,93
 9,177,2025-26,Tommy Scholl,Stevens,G,Middle Atlantic Conferences (MAC),mac,27,33.7037037037037,18.11,6.56,2.07,1.52,0.07,1.9259259259259256,5.236944373068707,93
-10,203,2025-26,Jake Karnish,King's,*,Middle Atlantic Conferences (MAC),mac,10,32.3,11.0,10.3,4.0,1.3,0.1,1.6,5.045627184282642,92
-11,224,2025-26,Ben Rodner-Tims,King's,*,Middle Atlantic Conferences (MAC),mac,25,33.92,18.08,5.24,4.16,1.08,0.24,2.92,4.82111974006195,92
+10,203,2025-26,Jake Karnish nan,King's,*,Middle Atlantic Conferences (MAC),mac,10,32.3,11.0,10.3,4.0,1.3,0.1,1.6,5.045627184282642,92
+11,224,2025-26,Ben Rodner-Tims nan,King's,*,Middle Atlantic Conferences (MAC),mac,25,33.92,18.08,5.24,4.16,1.08,0.24,2.92,4.82111974006195,92
 12,235,2025-26,Robert Cottrell,Alvernia,G,Middle Atlantic Conferences (MAC),mac,21,35.19047619047619,16.95,3.71,3.48,1.67,0.33,2.2857142857142856,4.761255918507951,92
 13,252,2025-26,Jack Gallagher,Misericordia,G,Middle Atlantic Conferences (MAC),mac,27,28.0,13.07,8.26,1.7,1.7,0.96,2.037037037037037,4.6652159848479275,92
 14,296,2025-26,Nas Johnson,Arcadia,G,Middle Atlantic Conferences (MAC),mac,21,32.333333333333336,17.76,4.19,3.81,1.1,0.19,2.619047619047619,4.370019908227439,91
@@ -39,7 +39,7 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 38,774,2025-26,DaRon Sherman,Eastern,G,Middle Atlantic Conferences (MAC),mac,24,31.291666666666668,9.33,4.17,3.13,2.25,0.17,2.0416666666666665,2.1033039293366795,85
 39,820,2025-26,Ben Wert,Messiah,G,Middle Atlantic Conferences (MAC),mac,19,26.63157894736842,13.21,4.26,0.68,0.95,0.58,1.5263157894736843,1.943173076253955,84
 40,829,2025-26,Jeremiah Stanton,Albright,G,Middle Atlantic Conferences (MAC),mac,25,30.64,12.68,3.12,5.12,0.64,0.16,2.88,1.923273203440176,84
-41,851,2025-26,Devin Kimmick,King's,*,Middle Atlantic Conferences (MAC),mac,25,28.72,8.68,6.92,2.96,0.44,0.4,1.44,1.8639086697058032,84
+41,851,2025-26,Devin Kimmick nan,King's,*,Middle Atlantic Conferences (MAC),mac,25,28.72,8.68,6.92,2.96,0.44,0.4,1.44,1.8639086697058032,84
 42,855,2025-26,Karron Mallory,Hood,G,Middle Atlantic Conferences (MAC),mac,27,30.444444444444443,10.93,3.89,2.19,1.11,0.15,1.1851851851851851,1.851164667728996,84
 43,866,2025-26,Jay-Nelly Reyes,Widener,G,Middle Atlantic Conferences (MAC),mac,21,24.80952380952381,9.71,4.05,3.1,2.67,0.38,3.0,1.8094283008172751,84
 44,911,2025-26,Mac Creek,FDU - Florham,G,Middle Atlantic Conferences (MAC),mac,25,28.32,10.52,4.92,4.64,1.4,0.16,3.28,1.6313875966960878,83
@@ -59,10 +59,10 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 58,1287,2025-26,Jordan Edwards-Saliu,Messiah,0,Middle Atlantic Conferences (MAC),mac,20,26.0,7.85,8.3,0.4,0.6,0.4,1.3,0.592741577306277,78
 59,1289,2025-26,Arvel Chandler,Misericordia,G,Middle Atlantic Conferences (MAC),mac,27,27.88888888888889,7.93,3.48,2.59,0.81,0.26,1.148148148148148,0.586962957528891,78
 60,1299,2025-26,Reed Melvin,Lebanon Valley,F,Middle Atlantic Conferences (MAC),mac,17,23.529411764705884,11.59,2.94,0.71,0.82,0.18,1.1764705882352942,0.5513583984991671,78
-61,1382,2025-26,Sean Forrest,King's,0,Middle Atlantic Conferences (MAC),mac,16,23.5,8.38,4.5,1.56,0.31,0.5,1.0625,0.3548104802405199,77
+61,1382,2025-26,Sean Forrest nan,King's,0,Middle Atlantic Conferences (MAC),mac,16,23.5,8.38,4.5,1.56,0.31,0.5,1.0625,0.3548104802405199,77
 62,1421,2025-26,Kendall Seguignol,Stevenson,G,Middle Atlantic Conferences (MAC),mac,25,20.28,9.44,5.56,0.4,0.84,0.24,1.36,0.2542507255432502,76
 63,1441,2025-26,Noah Ihezue,Stevenson,G,Middle Atlantic Conferences (MAC),mac,25,22.8,8.52,3.32,2.2,1.4,0.28,1.96,0.2135901816522394,76
-64,1456,2025-26,Jaden Hall,King's,*,Middle Atlantic Conferences (MAC),mac,23,20.91304347826087,11.3,3.39,0.83,0.57,0.35,1.608695652173913,0.1515508346784002,76
+64,1456,2025-26,Jaden Hall nan,King's,*,Middle Atlantic Conferences (MAC),mac,23,20.91304347826087,11.3,3.39,0.83,0.57,0.35,1.608695652173913,0.1515508346784002,76
 65,1589,2025-26,Jeremiah Lee,Delaware Valley,G,Middle Atlantic Conferences (MAC),mac,19,20.68421052631579,8.32,4.26,0.58,0.95,0.32,1.263157894736842,-0.2395863434740173,74
 66,1596,2025-26,Jason Penn,Lebanon Valley,G,Middle Atlantic Conferences (MAC),mac,25,27.56,10.28,2.96,1.12,0.64,0.2,1.52,-0.2633003538503078,74
 67,1615,2025-26,Mason Lewis,Eastern,G,Middle Atlantic Conferences (MAC),mac,23,23.695652173913043,5.74,4.22,1.3,0.96,0.48,0.9565217391304348,-0.2972539149633689,74
@@ -78,8 +78,8 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 77,1807,2025-26,Cole Walker,King's,F,Middle Atlantic Conferences (MAC),mac,15,18.533333333333335,5.33,5.27,0.93,0.53,0.53,1.0,-0.7608534363265209,71
 78,1824,2025-26,Evan Gutowski,Stevens,C,Middle Atlantic Conferences (MAC),mac,27,19.03703703703704,6.22,4.52,1.19,0.22,0.59,1.0740740740740742,-0.7908335589405502,71
 79,1825,2025-26,TJ Bryson,Widener,G,Middle Atlantic Conferences (MAC),mac,25,22.92,6.04,2.44,1.16,1.28,0.04,0.64,-0.7929944992496049,71
-80,1849,2025-26,Ray Gooley,King's,0,Middle Atlantic Conferences (MAC),mac,25,25.0,5.88,3.68,0.84,0.6,0.52,0.76,-0.8267247810735023,70
-81,1856,2025-26,Ben Malley,King's,0,Middle Atlantic Conferences (MAC),mac,25,22.2,9.68,2.64,1.12,0.24,0.0,1.12,-0.8390753091587251,70
+80,1849,2025-26,Ray Gooley nan,King's,0,Middle Atlantic Conferences (MAC),mac,25,25.0,5.88,3.68,0.84,0.6,0.52,0.76,-0.8267247810735023,70
+81,1856,2025-26,Ben Malley nan,King's,0,Middle Atlantic Conferences (MAC),mac,25,22.2,9.68,2.64,1.12,0.24,0.0,1.12,-0.8390753091587251,70
 82,1892,2025-26,Kareem Diaz,Alvernia,G,Middle Atlantic Conferences (MAC),mac,25,25.16,5.4,4.36,1.6,0.48,0.2,0.88,-0.946052947959446,70
 83,1897,2025-26,Brian Mordi,Delaware Valley,F,Middle Atlantic Conferences (MAC),mac,24,17.583333333333332,4.13,4.96,0.38,0.58,0.96,0.8333333333333334,-0.9548332508021689,70
 84,1900,2025-26,Brendon Bradford,Delaware Valley,G,Middle Atlantic Conferences (MAC),mac,19,15.63157894736842,7.47,2.37,0.37,0.74,0.05,0.3684210526315789,-0.9643027065906872,70
@@ -87,7 +87,7 @@ rank,global_rank,season,player_name,team,position,conference,conference_code,gp,
 86,1962,2025-26,Christian Jackson,Stevenson,G,Middle Atlantic Conferences (MAC),mac,19,24.42105263157895,6.53,3.05,3.11,1.21,0.11,2.473684210526316,-1.1048027285624773,69
 87,2001,2025-26,Jake McGinty,Delaware Valley,G,Middle Atlantic Conferences (MAC),mac,25,28.68,2.84,3.92,2.04,1.68,0.24,1.36,-1.1837916834530844,68
 88,2146,2025-26,Dylan Schlatter,Widener,G,Middle Atlantic Conferences (MAC),mac,21,16.571428571428573,4.14,2.95,1.1,0.95,0.33,0.7142857142857143,-1.4951067409065373,67
-89,2147,2025-26,Matt Christian,King's,0,Middle Atlantic Conferences (MAC),mac,25,16.0,7.2,1.52,0.96,0.32,0.04,0.44,-1.4973945495814462,67
+89,2147,2025-26,Matt Christian nan,King's,0,Middle Atlantic Conferences (MAC),mac,25,16.0,7.2,1.52,0.96,0.32,0.04,0.44,-1.4973945495814462,67
 90,2175,2025-26,Amyr Walker,Arcadia,G,Middle Atlantic Conferences (MAC),mac,26,16.423076923076923,4.5,3.54,1.81,0.58,0.23,1.0769230769230769,-1.5625698872995502,66
 91,2227,2025-26,Miles Smith,Albright,G,Middle Atlantic Conferences (MAC),mac,26,20.03846153846154,4.15,2.12,2.46,1.0,0.08,1.1923076923076923,-1.6840918516731966,65
 92,2229,2025-26,Avery Kopcha,Messiah,G,Middle Atlantic Conferences (MAC),mac,25,20.52,6.88,1.8,0.84,0.8,0.0,0.88,-1.684578449083962,65

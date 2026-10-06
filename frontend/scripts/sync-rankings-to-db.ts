@@ -1,5 +1,5 @@
 /**
- * Sync MBB + baseball rankings JSON into PostgreSQL (Athlete, AthleteSeason, etc.).
+ * Sync rankings JSON into PostgreSQL (Athlete, AthleteSeason, etc.).
  * Run from frontend/: npm run db:sync-rankings
  */
 import { config } from "dotenv";
@@ -21,6 +21,12 @@ const PILOT_SPORTS: {
 }[] = [
   { code: "mbb", label: "Men's Basketball", engine: "mbb", sidearmPath: "mbball" },
   { code: "baseball", label: "Baseball", engine: "baseball_tiered", sidearmPath: "baseball" },
+  { code: "football", label: "Football", engine: "composite" },
+  { code: "msoc", label: "Men's Soccer", engine: "composite" },
+  { code: "wsoc", label: "Women's Soccer", engine: "composite" },
+  { code: "wvb", label: "Women's Volleyball", engine: "composite" },
+  { code: "mgolf", label: "Men's Golf", engine: "clippd_golf" },
+  { code: "wgolf", label: "Women's Golf", engine: "clippd_golf" },
 ];
 
 type Row = Record<string, unknown>;
@@ -35,13 +41,19 @@ function loadJson(filePath: string): Row[] {
   return Array.isArray(data) ? (data as Row[]) : [];
 }
 
+/** pandas exports missing strings as "nan"/"None"; treat those as empty. */
+function cleanNamePart(value: unknown): string {
+  const s = value == null ? "" : String(value).trim();
+  return /^(nan|none|null)$/i.test(s) ? "" : s;
+}
+
 function parseName(row: Row): { displayName: string; firstName: string | null; lastName: string | null } {
-  const first = row.first_name != null ? String(row.first_name).trim() : "";
-  const last = row.last_name != null ? String(row.last_name).trim() : "";
+  const first = cleanNamePart(row.first_name);
+  const last = cleanNamePart(row.last_name);
   if (first && last) {
     return { displayName: `${first} ${last}`, firstName: first, lastName: last };
   }
-  let raw = String(row.player_name ?? "").trim();
+  const raw = cleanNamePart(row.player_name).replace(/\s+(nan|none)$/i, "");
   if (!raw) return { displayName: "Unknown", firstName: null, lastName: null };
   const comma = raw.indexOf(",");
   if (comma > 0) {

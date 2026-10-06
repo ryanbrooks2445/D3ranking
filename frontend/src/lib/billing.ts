@@ -1,3 +1,4 @@
+/** Site and Checkout trial length. Keep the Stripe Price trial at 3 days too. */
 export const PRO_TRIAL_DAYS = 3;
 export const PRO_TRIAL_LABEL = `${PRO_TRIAL_DAYS}-day free trial`;
 

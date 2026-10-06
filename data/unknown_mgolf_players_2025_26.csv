@@ -1,0 +1,14 @@
+season,sport,gender,conference,conference_code,team,school_name,player_name,position,class_year,clippd_player_id,clippd_rank,player_ranking_status,scoring_stats_scoring_average,scoring_stats_vs_par,scoring_stats_rounds,scoring_stats_adjusted_score,scoring_stats_stroke_play_events,top10_finishes,events_won,average_points,strength_of_schedule,region,data_source
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,Brandon Autry,,Second Year,24135,487,ACTIVE,76.9,4.9,21,75.8168507008682,10,1,1,17.431645918569,-12.3346548306231,,clippd_scoreboard
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,DJ Waller,,First Year,39162,806,ACTIVE,79.71,7.71,17,78.7290656615854,8,0,0,10.9786388531414,-12.4131877422308,,clippd_scoreboard
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,Dakota Holt,,First Year,26437,999,ACTIVE,80.29,8.29,17,79.3879183062043,8,1,0,7.92712724187326,-12.3744668444755,,clippd_scoreboard
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,James Eli DeVaughn,,First Year,36891,1034,ACTIVE,79.93,7.93,15,79.1309017749352,7,0,0,7.54250291750046,-12.6513426226787,,clippd_scoreboard
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,Peter Bincheng Zhong,,Second Year,11803,100000,ACTIVE,82.0,10.0,2,81.6063174285234,1,0,0,3.53126204664017,-13.7102864822156,,clippd_scoreboard
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,Connor Hairgrove,,First Year,14786,100000,ACTIVE,82.5,10.5,10,81.4161356591014,5,0,0,4.62748504832922,-13.9618992184354,,clippd_scoreboard
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,Grant Camfield,,Second Year,25205,100000,ACTIVE,85.8,13.8,10,84.0958459605125,5,0,0,2.78755281841068,-13.0288052519013,,clippd_scoreboard
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,Luke Jett,,First Year,36892,100000,ACTIVE,87.83,15.83,6,87.0544329263051,3,0,0,0.978069959966178,-13.6421977870312,,clippd_scoreboard
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,Brayden Joyner,,First Year,36893,100000,ACTIVE,85.1,13.1,10,84.5088748056478,5,0,0,2.12933165384296,-14.0169981986828,,clippd_scoreboard
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,Conner Ingle,,First Year,39163,100000,ACTIVE,83.64,11.64,11,82.9330803653209,5,0,0,3.67640182266362,-11.8421801516204,,clippd_scoreboard
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,Lee Earl Jackson,,,39164,100000,ACTIVE,82.83,10.83,6,81.3425369444199,3,0,0,4.23382435446306,-11.8024085745724,,clippd_scoreboard
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,Bryce Coursen,,Fourth Year,4280,100000,ACTIVE,85.75,13.75,4,83.5466428088297,2,0,0,2.17578232844111,-13.4258343249007,,clippd_scoreboard
+2025-26,mgolf,Men,,unknown,Bob Jones,Bob Jones University,Will Goodwin,,First Year,4281,100000,ACTIVE,96.0,24.0,2,95.6063174285234,1,0,0,0.106634873987074,-13.7102864822156,,clippd_scoreboard

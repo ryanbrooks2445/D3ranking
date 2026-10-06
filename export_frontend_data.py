@@ -9,6 +9,10 @@ and meta.json so the site shows season, OVR, composite score, and stats for all 
 When data/d3_baseball_player_rankings_2026_27.csv exists, also writes
 sports/baseball/rankings_2026-27.json, updates meta to 2026-27, and refreshes
 sports/baseball/conferences/*.json.
+When data/d3_{code}_player_rankings_2026_27.csv exists for fall sports
+(football, msoc, wsoc, wvb, mgolf, wgolf), writes rankings_2026-27.json,
+mirrors it to rankings_2025-26.json, sets meta season to 2026-27, and refreshes
+sports/{code}/conferences/*.json.
 """
 import json
 import sys
@@ -31,6 +35,11 @@ OTHER_SPORT_CODES = [
     "football", "mten", "wten",
 ]
 GOLF_SPORT_CODES = ("mgolf", "wgolf")
+FALL_2026_27_CODES = ("football", "msoc", "wsoc", "wvb", "mgolf", "wgolf")
+CLIPPD_META = {
+    "data_source": "clippd_scoreboard",
+    "data_source_url": "https://scoreboard.clippd.com/players/search?division=NCAA+Division+III",
+}
 # Optional column renames so frontend column keys match (e.g. sports.ts expects earned_run_avg).
 COLUMN_RENAMES = {
     "pitching_stats_earned_run_average": "pitching_stats_earned_run_avg",
@@ -423,6 +432,8 @@ def main() -> None:
             json.dumps(records, allow_nan=False),
             encoding="utf-8",
         )
+        csv_name = rankings_filename.replace(".json", ".csv")
+        _json_safe(df).to_csv(sport_dir / csv_name, index=False)
         season_val = str(df["season"].iloc[0]) if "season" in df.columns and len(df) else default_season
         (sport_dir / "meta.json").write_text(
             json.dumps(
@@ -447,8 +458,8 @@ def main() -> None:
             rankings_filename="rankings_2025-26.json",
             default_season="2025-26",
         )
-        if code == "football":
-            _export_sidearm_conference_jsons(data_dir, out_dir, sport_code="football", file_tag="2025_26")
+        if code in ("football", "wbb"):
+            _export_sidearm_conference_jsons(data_dir, out_dir, sport_code=code, file_tag="2025_26")
 
     for code in GOLF_SPORT_CODES:
         csv_path = data_dir / f"d3_{code}_player_rankings_2025_26.csv"
@@ -462,13 +473,7 @@ def main() -> None:
             default_season="2025-26",
         )
         _export_sidearm_conference_jsons(data_dir, out_dir, sport_code=code, file_tag="2025_26")
-        sport_dir = out_dir / "sports" / code
-        meta_path = sport_dir / "meta.json"
-        if meta_path.exists():
-            meta = json.loads(meta_path.read_text(encoding="utf-8"))
-            meta["data_source"] = "clippd_scoreboard"
-            meta["data_source_url"] = "https://scoreboard.clippd.com/players/search?division=NCAA+Division+III"
-            meta_path.write_text(json.dumps(meta, indent=2), encoding="utf-8")
+        _write_golf_meta(out_dir, code)
 
     # Prefer 2026–27 baseball when scraped; overwrites sports/baseball/* from the loop above.
     baseball_2627 = data_dir / "d3_baseball_player_rankings_2026_27.csv"
@@ -487,6 +492,37 @@ def main() -> None:
             default_season="2026-27",
         )
         _export_baseball_conference_jsons(data_dir, out_dir, file_tag="2026_27")
+
+    # Prefer 2026–27 fall sports when scraped; overwrites the 2025–26 export above.
+    for code in FALL_2026_27_CODES:
+        csv_path = data_dir / f"d3_{code}_player_rankings_2026_27.csv"
+        if not csv_path.exists():
+            continue
+        export_sidearm_global_and_meta(
+            code,
+            csv_path,
+            rankings_filename="rankings_2026-27.json",
+            default_season="2026-27",
+        )
+        # Backward compatibility for older frontend builds that still read rankings_2025-26.json.
+        export_sidearm_global_and_meta(
+            code,
+            csv_path,
+            rankings_filename="rankings_2025-26.json",
+            default_season="2026-27",
+        )
+        _export_sidearm_conference_jsons(data_dir, out_dir, sport_code=code, file_tag="2026_27")
+        if code in GOLF_SPORT_CODES:
+            _write_golf_meta(out_dir, code)
+
+
+def _write_golf_meta(out_dir: Path, code: str) -> None:
+    meta_path = out_dir / "sports" / code / "meta.json"
+    if not meta_path.exists():
+        return
+    meta = json.loads(meta_path.read_text(encoding="utf-8"))
+    meta.update(CLIPPD_META)
+    meta_path.write_text(json.dumps(meta, indent=2), encoding="utf-8")
 
 
 def _export_baseball_conference_jsons(data_dir: Path, out_dir: Path, *, file_tag: str) -> None:
@@ -581,11 +617,13 @@ def _export_sidearm_conference_jsons(
     for conf_code, df in global_df.groupby("conference_code", dropna=True):
         conf_code = str(conf_code)
         df = df.sort_values("global_rank", ascending=True).reset_index(drop=True)
-        records = _json_safe(df).to_dict(orient="records")
+        safe_df = _json_safe(df)
+        records = safe_df.to_dict(orient="records")
         (conf_dir / f"{conf_code}.json").write_text(
             json.dumps(records, allow_nan=False),
             encoding="utf-8",
         )
+        safe_df.to_csv(conf_dir / f"{conf_code}.csv", index=False)
         players_path = data_dir / f"{conf_code}_{sport_code}_players_{file_tag}.csv"
         player_count = len(pd.read_csv(players_path, low_memory=False)) if players_path.exists() else len(df)
         conf_name = str(df["conference"].iloc[0]) if "conference" in df.columns and len(df) else conf_code

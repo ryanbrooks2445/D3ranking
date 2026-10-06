@@ -1,198 +1,38 @@
-import {
-  readDataFileSafe,
-  getSeasonDisplay,
-  getDataQualityNote,
-  getSportRankingsJsonPath,
-} from "@/lib/data";
-import Link from "next/link";
-import { getSport, getSportSegmentColumns, filterRowsBySegment, isSportUnderConstruction } from "@/lib/sports";
-import { isPro } from "@/lib/auth";
-import { SportPlayerRankingsTable } from "@/components/SportPlayerRankingsTable";
-import { getProfileSlugMapForSport, slugMapToRecord } from "@/lib/athletes";
-import { SegmentTabs } from "@/components/SegmentTabs";
-import { CompositeScoreExplainer } from "@/components/CompositeScoreExplainer";
-import { UnderConstructionBanner } from "@/components/UnderConstructionBanner";
 import type { Metadata } from "next";
+import { getSport } from "@/lib/sports";
+import { SITE_URL } from "@/lib/nav";
+import { PlayerRankingsView } from "@/components/rankings/PlayerRankingsView";
 
-export async function generateMetadata({
-  params,
-}: {
-  params: Promise<{ sport: string }>;
-}): Promise<Metadata> {
+type Params = Promise<{ sport: string }>;
+type Search = Promise<{ segment?: string }>;
+
+export async function generateMetadata({ params }: { params: Params }): Promise<Metadata> {
   const { sport } = await params;
-  const def = getSport(sport.toLowerCase());
-  const label = def?.label ?? sport.toUpperCase();
+  const code = sport.toLowerCase();
+  const label = getSport(code)?.label ?? code.toUpperCase();
   return {
-    title: `Global rankings — ${label} | D3 Rankings`,
+    title: `Division III ${label} Player Rankings`,
+    alternates: { canonical: `${SITE_URL}/rankings/players/${code}` },
   };
 }
 
-export default async function GlobalRankingsPage({
-  params,
-  searchParams,
-}: {
-  params: Promise<{ sport: string }>;
-  searchParams: Promise<{ segment?: string }>;
-}) {
+/** Legacy route; renders the same national player rankings as /rankings/players/[sport]. */
+export default async function GlobalRankingsPage({ params, searchParams }: { params: Params; searchParams: Search }) {
   const { sport } = await params;
-  const { segment: segmentParam } = await searchParams;
+  const { segment } = await searchParams;
   const code = sport.toLowerCase();
-  const def = getSport(code);
-  const pro = await isPro();
-
-  if (isSportUnderConstruction(code)) {
-    const sportLabel = def?.label ?? code.toUpperCase();
-    return (
-      <div className="space-y-8">
-        <header>
-          <nav className="flex items-center gap-2 text-sm text-slate-500" aria-label="Breadcrumb">
-            <Link href="/dashboard" className="hover:text-slate-300 transition">
-              Player Rankings
-            </Link>
-            <span className="text-slate-600" aria-hidden>›</span>
-            <Link href={`/dashboard/sports/${code}`} className="hover:text-slate-300 transition">
-              {sportLabel}
-            </Link>
-            <span className="text-slate-600" aria-hidden>›</span>
-            <span className="font-semibold text-slate-300">Global</span>
-          </nav>
-          <h1 className="mt-5 text-3xl font-bold tracking-tight text-white sm:text-4xl">
-            Global rankings — {sportLabel}
-          </h1>
-        </header>
-        <UnderConstructionBanner sportLabel={sportLabel} />
-      </div>
-    );
-  }
-
-  let rows: Record<string, unknown>[] = [];
-  const rankingsPath = await getSportRankingsJsonPath(code);
-  const raw = await readDataFileSafe(rankingsPath);
-  if (raw) {
-    rows = JSON.parse(raw) as Record<string, unknown>[];
-  }
-
-  // Fallback: MBB used to be served from d3_mbb_player_rankings_2025_26.json (e.g. if data repo has old structure)
-  if (rows.length === 0 && code === "mbb") {
-    const legacyRaw = await readDataFileSafe("d3_mbb_player_rankings_2025_26.json");
-    if (legacyRaw) {
-      const d3Rows = JSON.parse(legacyRaw) as Record<string, unknown>[];
-      rows = d3Rows.map((r) => ({
-        ...r,
-        points_per_game: r.ppg,
-        rebounds_per_game: r.rpg,
-        assists_per_game: r.apg,
-        turnovers_per_game: r.tov_pg,
-        steals_per_game: r.spg,
-        blocked_shots_per_game: r.bpg,
-        rating: r.rating ?? null,
-      }));
-    }
-  }
-
-  rows.sort(
-    (a, b) => (Number(a.global_rank) ?? 0) - (Number(b.global_rank) ?? 0),
-  );
-
-  const segmentId =
-    segmentParam && def?.segments?.some((s) => s.id === segmentParam)
-      ? segmentParam
-      : code === "baseball"
-        ? "batting"
-        : code === "football"
-          ? "qb"
-        : "";
-  const filteredRows = segmentId
-    ? filterRowsBySegment(code, segmentId, rows)
-    : rows;
-  const segmentRows = filteredRows.map((r, i) => ({
-    ...r,
-    global_rank: i + 1,
-    rank: i + 1,
-  }));
-
-  const sportLabel = def?.label ?? code.toUpperCase();
-  const columns = getSportSegmentColumns(def ?? undefined, segmentId).map((c) => ({
-    key: c.key,
-    label: c.label,
-    pct: c.pct,
-  }));
-  if (columns.length === 0) {
-    columns.push(
-      { key: "global_rank", label: "Rank", pct: false },
-      { key: "player_name", label: "Player", pct: false },
-      { key: "team", label: "Team", pct: false },
-      { key: "rating", label: "OVR", pct: false },
-    );
-  }
-
-  const segments = def?.segments ?? [];
-  const { seasonLabel, note: seasonNote } = await getSeasonDisplay(code);
-  const dataQualityNote = getDataQualityNote(code);
-
-  let profileSlugLookup: Record<string, string> | undefined;
-  if (code === "mbb" || code === "baseball") {
-    try {
-      profileSlugLookup = slugMapToRecord(await getProfileSlugMapForSport(code));
-    } catch {
-      profileSlugLookup = undefined;
-    }
-  }
+  const label = getSport(code)?.label ?? code.toUpperCase();
 
   return (
-    <div className="space-y-8">
-      <header>
-        <nav className="flex items-center gap-2 text-sm text-slate-500" aria-label="Breadcrumb">
-          <Link href="/dashboard" className="hover:text-slate-300 transition">
-            Player Rankings
-          </Link>
-          <span className="text-slate-600" aria-hidden>›</span>
-          <Link
-            href={`/dashboard/sports/${code}`}
-            className="hover:text-slate-300 transition"
-          >
-            {sportLabel}
-          </Link>
-          <span className="text-slate-600" aria-hidden>›</span>
-          <span className="font-semibold text-slate-300">Global</span>
-        </nav>
-        <h1 className="mt-5 text-3xl font-bold tracking-tight text-white sm:text-4xl">
-          Global rankings — {sportLabel}
-        </h1>
-        <p className="mt-2 text-slate-400">
-          All D3 players · {seasonLabel} · Top 25 free; full list with Pro
-        </p>
-        {seasonNote && (
-          <p className="mt-1 text-sm text-amber-400/90">
-            {seasonNote}
-          </p>
-        )}
-        {dataQualityNote && (
-          <p className="mt-1 text-sm text-slate-500 max-w-xl">
-            {dataQualityNote}
-          </p>
-        )}
-      </header>
-
-      {segments.length > 0 && (
-        <SegmentTabs
-          sportCode={code}
-          segments={segments}
-          currentSegmentId={segmentId}
-        />
-      )}
-
-      <CompositeScoreExplainer sportCode={code} />
-
-      <SportPlayerRankingsTable
-        rows={segmentRows}
-        columns={columns}
-        isPro={pro}
-        freeRowLimit={25}
-        profileSlugLookup={profileSlugLookup}
-        sportCode={code}
-        segmentId={segmentId || undefined}
-      />
-    </div>
+    <PlayerRankingsView
+      sportCode={code}
+      segmentParam={segment}
+      basePath={`/dashboard/sports/${code}/global`}
+      crumbs={[
+        { label: "Player Rankings", href: "/dashboard" },
+        { label: label, href: `/dashboard/sports/${code}` },
+        { label: "Global" },
+      ]}
+    />
   );
 }

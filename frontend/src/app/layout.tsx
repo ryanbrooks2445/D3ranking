@@ -1,6 +1,9 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import { Analytics } from "@vercel/analytics/next";
+import { SITE_URL } from "@/lib/nav";
+import { SiteHeader } from "@/components/layout/SiteHeader";
+import { SiteFooter } from "@/components/layout/SiteFooter";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -14,9 +17,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "D3 Rankings | NCAA Division III Player Rankings",
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: "D3Rank | NCAA Division III Rankings, Ratings & Stats",
+    template: "%s | D3Rank",
+  },
   description:
-    "Composite player rankings for NCAA Division III. Data from official conference sites. Compare players across 12 sports and 30+ conferences.",
+    "Player ratings, national team rankings, conference strength, and statistics for NCAA Division III, built from official conference data.",
+  openGraph: { siteName: "D3Rank", type: "website" },
 };
 
 export const viewport = {
@@ -33,8 +41,8 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <head>
-        <script data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js"></script>
-        <script data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js"></script>
+        <script data-cfasync="false" src="https://cmp.gatekeeperconsent.com/min.js" suppressHydrationWarning></script>
+        <script data-cfasync="false" src="https://the.gatekeeperconsent.com/cmp.min.js" suppressHydrationWarning></script>
         <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
         <script
           dangerouslySetInnerHTML={{
@@ -44,10 +52,10 @@ export default function RootLayout({
         />
         <script src="//ezoicanalytics.com/analytics.js"></script>
       </head>
-      <body
-        className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}
-      >
-        {children}
+      <body className={`${geistSans.variable} ${geistMono.variable} flex min-h-screen flex-col font-sans antialiased`}>
+        <SiteHeader />
+        <div className="flex-1">{children}</div>
+        <SiteFooter />
         <Analytics />
       </body>
     </html>
