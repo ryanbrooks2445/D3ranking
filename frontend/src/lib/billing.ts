@@ -1,7 +1,13 @@
-/** Site and Checkout trial length. Keep the Stripe Price trial at 3 days too. */
-export const PRO_TRIAL_DAYS = 3;
-export const PRO_TRIAL_LABEL = `${PRO_TRIAL_DAYS}-day free trial`;
+export type ProPlan = "monthly" | "yearly";
 
-export function getStripeTrialEnd(now: Date = new Date()): number {
-  return Math.floor((now.getTime() + PRO_TRIAL_DAYS * 24 * 60 * 60 * 1000) / 1000);
+/** Display copy only; amounts are charged from the Stripe Prices in STRIPE_PRICE_ID_MONTHLY / _YEARLY. */
+export const PRO_PLANS: Record<ProPlan, { label: string; price: string; interval: string }> = {
+  monthly: { label: "Monthly", price: "$5.99", interval: "month" },
+  yearly: { label: "Yearly", price: "$19.99", interval: "year" },
+};
+
+export const PRO_PRICE_SUMMARY = `${PRO_PLANS.monthly.price}/${PRO_PLANS.monthly.interval} or ${PRO_PLANS.yearly.price}/${PRO_PLANS.yearly.interval}`;
+
+export function isProPlan(value: unknown): value is ProPlan {
+  return value === "monthly" || value === "yearly";
 }

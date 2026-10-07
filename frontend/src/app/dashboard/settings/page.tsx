@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { isPro } from "@/lib/auth";
-import { CheckoutButton } from "@/components/CheckoutButton";
-import { PRO_TRIAL_LABEL } from "@/lib/billing";
+import { PricingPlans } from "@/components/PricingPlans";
 
 export const metadata = {
   title: "Settings · D3 Rankings",
@@ -42,20 +41,9 @@ export default async function SettingsPage() {
         ) : (
           <div className="mt-6 space-y-4">
             <p className="text-sm text-slate-300">
-              You’re on the free tier. Upgrade for full rankings, search, and more after a{" "}
-              {PRO_TRIAL_LABEL}.
+              You’re on the free tier. Upgrade for full rankings, search, and more.
             </p>
-            <div className="flex flex-wrap items-center gap-3">
-              <CheckoutButton className="min-h-[44px] rounded-lg bg-blue-600 px-5 py-2.5 text-sm font-semibold text-white transition hover:bg-blue-500">
-                Try Pro Free
-              </CheckoutButton>
-              <Link
-                href="/#pricing"
-                className="text-sm font-semibold text-slate-400 underline decoration-slate-600 underline-offset-2 hover:text-white"
-              >
-                View pricing
-              </Link>
-            </div>
+            <PricingPlans />
           </div>
         )}
       </section>

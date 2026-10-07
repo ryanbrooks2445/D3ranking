@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useState, useMemo } from "react";
-import { PRO_TRIAL_LABEL } from "@/lib/billing";
+import { PRO_PRICE_SUMMARY } from "@/lib/billing";
 import { lookupSlugFromMap } from "@/lib/athletes";
 
 type ColDef = { key: string; label: string; pct?: boolean };
@@ -327,13 +327,13 @@ export function SportPlayerRankingsTable({
             Showing top {freeRowLimit} of {filtered.length.toLocaleString()} players.
           </p>
           <p className="mt-2 text-slate-400">
-            Unlock full list, OVR, rank, score, and search with Pro after a {PRO_TRIAL_LABEL}.
+            Unlock full list, OVR, rank, score, and search with Pro for {PRO_PRICE_SUMMARY}.
           </p>
           <Link
             href="/#pricing"
             className="mt-6 inline-block rounded-xl bg-blue-600 px-6 py-3 text-base font-semibold text-white transition hover:bg-blue-500"
           >
-            Try Pro Free
+            Get Pro
           </Link>
         </div>
       )}

@@ -1,17 +1,36 @@
 import { NextResponse } from "next/server";
 import Stripe from "stripe";
 import { auth } from "@/auth";
-import { PRO_TRIAL_DAYS, getStripeTrialEnd } from "@/lib/billing";
+import { isProPlan, type ProPlan } from "@/lib/billing";
 
-/** Create a Stripe Checkout Session for Pro subscription. */
-export async function POST() {
+function getPriceId(plan: ProPlan): { envVar: string; priceId: string | undefined } {
+  switch (plan) {
+    case "monthly":
+      return { envVar: "STRIPE_PRICE_ID_MONTHLY", priceId: process.env.STRIPE_PRICE_ID_MONTHLY };
+    case "yearly":
+      return { envVar: "STRIPE_PRICE_ID_YEARLY", priceId: process.env.STRIPE_PRICE_ID_YEARLY };
+    default: {
+      const unreachable: never = plan;
+      throw new Error(`Unknown plan: ${String(unreachable)}`);
+    }
+  }
+}
+
+/** Create a Stripe Checkout Session for a Pro subscription. Body: { plan: "monthly" | "yearly" }. */
+export async function POST(request: Request) {
+  const body = await request.json().catch(() => ({}));
+  const plan = (body as { plan?: unknown }).plan;
+  if (!isProPlan(plan)) {
+    return NextResponse.json({ error: 'Choose a plan: "monthly" or "yearly".' }, { status: 400 });
+  }
+
   const secretKey = process.env.STRIPE_SECRET_KEY;
-  const priceId = process.env.STRIPE_PRICE_ID;
+  const { envVar, priceId } = getPriceId(plan);
 
   if (!secretKey || !priceId) {
     const missing = [];
     if (!secretKey) missing.push("STRIPE_SECRET_KEY");
-    if (!priceId) missing.push("STRIPE_PRICE_ID");
+    if (!priceId) missing.push(envVar);
     return NextResponse.json(
       {
         error: `Checkout not configured: add ${missing.join(" and ")} to frontend/.env or .env.local (no quotes), then restart the dev server.`,
@@ -35,7 +54,7 @@ export async function POST() {
       billing_address_collection: "required",
       phone_number_collection: { enabled: true },
       // Ensure Checkout always collects and stores a reusable payment method
-      // for off-session trial-to-paid renewals.
+      // for off-session renewals.
       payment_method_collection: "always",
       line_items: [
         {
@@ -48,19 +67,7 @@ export async function POST() {
       client_reference_id: session?.user?.id ?? undefined,
       metadata: {
         product: "d3_pro",
-        trial_days: String(PRO_TRIAL_DAYS),
-      },
-      // Use an explicit trial end so hosted Checkout reflects the app's trial copy
-      // even if the Stripe Price has older/default trial settings attached.
-      subscription_data: {
-        trial_end: getStripeTrialEnd(),
-        trial_settings: {
-          end_behavior: {
-            // With payment_method_collection="always", this should be rare, but it
-            // avoids creating unpaid zombie subscriptions when no method is available.
-            missing_payment_method: "cancel",
-          },
-        },
+        plan,
       },
     });
 

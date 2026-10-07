@@ -1,11 +1,14 @@
 "use client";
 
 import { useState } from "react";
+import type { ProPlan } from "@/lib/billing";
 
 export function CheckoutButton({
+  plan,
   className = "",
-  children = "Try Pro Free",
+  children = "Get Pro",
 }: {
+  plan: ProPlan;
   className?: string;
   children?: React.ReactNode;
 }) {
@@ -14,7 +17,11 @@ export function CheckoutButton({
   async function handleClick() {
     setLoading(true);
     try {
-      const res = await fetch("/api/checkout", { method: "POST" });
+      const res = await fetch("/api/checkout", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ plan }),
+      });
       const data = await res.json().catch(() => ({}));
       if (data.url) {
         window.location.href = data.url;

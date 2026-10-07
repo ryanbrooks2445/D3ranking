@@ -43,7 +43,7 @@ export function SiteFooter() {
           <ul className="mt-2 space-y-1.5 text-slate-400">
             <li><Link className="hover:text-white" href="/search">Search</Link></li>
             <li><Link className="hover:text-white" href="/rankings#methodology">Methodology</Link></li>
-            <li><Link className="hover:text-white" href="/#pro">D3Rank Pro</Link></li>
+            <li><Link className="hover:text-white" href="/#pricing">D3Rank Pro</Link></li>
             <li><Link className="hover:text-white" href="/dashboard/settings">Account</Link></li>
           </ul>
         </div>

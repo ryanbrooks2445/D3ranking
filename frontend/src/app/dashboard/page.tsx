@@ -1,7 +1,7 @@
 import Link from "next/link";
 import { getAllSports, getListedSportCount } from "@/lib/sports";
 import { getSeason } from "@/lib/data";
-import { PRO_TRIAL_LABEL } from "@/lib/billing";
+import { PRO_PRICE_SUMMARY } from "@/lib/billing";
 import { FREE_CONFERENCE_LIMIT, FREE_GLOBAL_LIMIT } from "@/lib/paywall";
 import { TrendingAthletes } from "@/components/athlete/TrendingAthletes";
 
@@ -70,9 +70,9 @@ export default async function DashboardPage() {
       <section className="rounded-2xl border border-slate-700 bg-slate-900/50 px-6 py-5 text-center">
         <p className="text-slate-400">
           <span className="font-semibold text-slate-300">Free:</span> Top {FREE_GLOBAL_LIMIT} global + top {FREE_CONFERENCE_LIMIT} per conference.{" "}
-          <span className="font-semibold text-slate-300">Pro:</span> Full lists, OVR, rank, score, and search after a {PRO_TRIAL_LABEL}.{" "}
+          <span className="font-semibold text-slate-300">Pro:</span> Full lists, OVR, rank, score, and search for {PRO_PRICE_SUMMARY}.{" "}
           <Link href="/#pricing" className="font-semibold text-blue-400 hover:text-blue-300 underline">
-            Try Pro Free
+            Get Pro
           </Link>
         </p>
       </section>

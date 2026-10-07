@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { isPro } from "@/lib/auth";
 import { PRIMARY_NAV } from "@/lib/nav";
-import { CheckoutButton } from "@/components/CheckoutButton";
 import { NavLinks } from "@/components/layout/NavLinks";
 import { MobileNav } from "@/components/layout/MobileNav";
 import { SearchInput } from "@/components/ui/SearchInput";
@@ -30,9 +29,12 @@ export async function SiteHeader() {
               Pro
             </Link>
           ) : (
-            <CheckoutButton className="hidden h-9 items-center rounded bg-blue-600 px-3 text-sm font-semibold text-white hover:bg-blue-500 md:flex">
-              Try Pro
-            </CheckoutButton>
+            <Link
+              href="/#pricing"
+              className="hidden h-9 items-center rounded bg-blue-600 px-3 text-sm font-semibold text-white hover:bg-blue-500 md:flex"
+            >
+              Get Pro
+            </Link>
           )}
           <MobileNav items={PRIMARY_NAV} isPro={pro} />
         </div>

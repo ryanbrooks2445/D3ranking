@@ -1,8 +1,8 @@
 import Link from "next/link";
 import { getAllSports, getListedSportCount } from "@/lib/sports";
-import { CheckoutButton } from "@/components/CheckoutButton";
+import { PricingPlans } from "@/components/PricingPlans";
 import { getSeason } from "@/lib/data";
-import { PRO_TRIAL_DAYS, PRO_TRIAL_LABEL } from "@/lib/billing";
+import { PRO_PRICE_SUMMARY } from "@/lib/billing";
 import { FREE_CONFERENCE_LIMIT, FREE_GLOBAL_LIMIT } from "@/lib/paywall";
 import { TrendingAthletes } from "@/components/athlete/TrendingAthletes";
 
@@ -41,8 +41,8 @@ export default async function Home() {
           </h1>
           <p className="mt-5 max-w-2xl mx-auto text-lg text-slate-400 leading-relaxed">
             Data pulled from official conference sites. One place to compare
-            players across {sportCount} sports and 30+ D3 conferences. Free preview; then Try Pro Free for{" "}
-            {PRO_TRIAL_DAYS} days to unlock full lists, OVR, rank, and search.
+            players across {sportCount} sports and 30+ D3 conferences. Free preview; Pro is{" "}
+            {PRO_PRICE_SUMMARY} to unlock full lists, OVR, rank, and search.
           </p>
           <div className="mt-10 flex flex-wrap items-center justify-center gap-4">
             <Link
@@ -51,9 +51,12 @@ export default async function Home() {
             >
               Browse rankings
             </Link>
-            <CheckoutButton className="min-h-[48px] rounded-lg border border-slate-600 bg-slate-800/50 px-6 py-3 text-base font-medium text-slate-200 transition hover:border-slate-500 hover:bg-slate-800">
-              Try Pro Free
-            </CheckoutButton>
+            <Link
+              href="#pricing"
+              className="min-h-[48px] rounded-lg border border-slate-600 bg-slate-800/50 px-6 py-3 text-base font-medium text-slate-200 transition hover:border-slate-500 hover:bg-slate-800"
+            >
+              See Pro plans
+            </Link>
           </div>
         </section>
 
@@ -105,11 +108,9 @@ export default async function Home() {
         >
           <h2 className="text-lg font-semibold text-white">Pricing</h2>
           <p className="mt-2 text-slate-400">
-            Free: Top {FREE_GLOBAL_LIMIT} global + top {FREE_CONFERENCE_LIMIT} per conference. Pro: Full lists, OVR, rank, score, and search after a {PRO_TRIAL_LABEL}.
+            Free: Top {FREE_GLOBAL_LIMIT} global + top {FREE_CONFERENCE_LIMIT} per conference. Pro: Full lists, OVR, rank, score, and search.
           </p>
-          <CheckoutButton className="mt-5 inline-block rounded-lg bg-blue-600 px-5 py-2.5 text-sm font-medium text-white transition hover:bg-blue-500">
-            Try Pro Free
-          </CheckoutButton>
+          <PricingPlans className="mt-6 max-w-2xl" />
         </section>
       </main>
     </div>

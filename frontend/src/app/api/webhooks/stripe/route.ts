@@ -34,7 +34,7 @@ export async function POST(req: Request) {
         const subId = session.subscription as string | null;
         if (!customerId) break;
 
-        const status = session.payment_status === "paid" ? "active" : "trialing";
+        const status = session.payment_status === "paid" ? "active" : "incomplete";
         await prisma.proSubscription.upsert({
           where: { stripeCustomerId: customerId },
           create: {

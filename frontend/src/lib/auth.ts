@@ -20,7 +20,8 @@ export async function isPro(): Promise<boolean> {
         where: { stripeCustomerId: customerId },
         select: { status: true },
       });
-      if (sub && ACTIVE_STATUSES.has(sub.status)) return true;
+      // A DB record is authoritative so canceled/unpaid subscribers don't keep Pro via the long-lived cookie.
+      if (sub) return ACTIVE_STATUSES.has(sub.status);
     } catch {
       // DB not available (e.g. local SQLite URL with Postgres schema) — fall back to cookie only
     }

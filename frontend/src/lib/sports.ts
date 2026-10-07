@@ -836,8 +836,39 @@ export function filterRowsBySegment(
   return normalizedRows;
 }
 
+/** Order sports appear in every list and grid; in-season sports go first. */
+const SPORT_DISPLAY_ORDER = [
+  // Fall
+  "msoc",
+  "wsoc",
+  "wvb",
+  "football",
+  // Winter
+  "mbb",
+  "wbb",
+  "mhky",
+  "whky",
+  // Spring
+  "baseball",
+  "softball",
+  "mvb",
+  "mlax",
+  "wlax",
+  "mgolf",
+  "wgolf",
+  "mten",
+  "wten",
+];
+
+function displayRank(code: string): number {
+  const index = SPORT_DISPLAY_ORDER.indexOf(code);
+  return index === -1 ? SPORT_DISPLAY_ORDER.length : index;
+}
+
+const SPORTS_IN_DISPLAY_ORDER = [...SPORTS].sort((a, b) => displayRank(a.code) - displayRank(b.code));
+
 export function getAllSports(): SportDef[] {
-  return SPORTS;
+  return SPORTS_IN_DISPLAY_ORDER;
 }
 
 /** Number of sports shown in the browse grid (includes under-construction). */
